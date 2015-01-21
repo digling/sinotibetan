@@ -1,0 +1,2708 @@
+# Wordlist
+
+# META
+@modified:2015-01-20 10:39
+
+# DATA
+ID	IPA	SOURCE	GLOSS_IN_SOURCE	ENTRY_IN_SOURCE	POS	DOCULECT	CONCEPT	OMEGAWIKI	CHINESE_GLOSS
+#
+5353	gɯ₁₂	Wang2006a, 1502	(water flow)	gɯ12	?	Gongxing	(water flow)	961244	?
+5357	kɯ₂₁	Wang2006a, 1502	(water flow)	kɯ21	?	Jinxing	(water flow)	961244	?
+5354	kɯ₂₁	Wang2006a, 1502	(water flow)	kɯ21	?	Enqi	(water flow)	961244	?
+5358	kɯ₂₁	Wang2006a, 1502	(water flow)	kɯ21	?	Dashi	(water flow)	961244	?
+5356	kɯ₂₁	Wang2006a, 1502	(water flow)	kɯ21	?	Jinman	(water flow)	961244	?
+5355	kɯ₂₁	Wang2006a, 1502	(water flow)	kɯ21	?	Ega	(water flow)	961244	?
+5352	gɯ₃₅	Wang2006a, 1502	(water flow)	gɯ35	?	Tuoluo	(water flow)	961244	?
+5359	kɯ₂₁	Wang2006a, 1502	(water flow)	kɯ21	?	Zhoucheng	(water flow)	961244	?
+5360	kɯ₂₁	Wang2006a, 1502	(water flow)	kɯ21	?	Mazhelong	(water flow)	961244	?
+#
+4460	guo₄₂	Wang2006a, 511	(wood)	guo42	?	Tuoluo	(wood)	741520	?
+4461	ɢua₂₁	Wang2006a, 511	(wood)	ɢua21	?	Gongxing	(wood)	741520	?
+4462	qua₂₁	Wang2006a, 511	(wood)	qua21	?	Enqi	(wood)	741520	?
+4463	kuɑ₄₂	Wang2006a, 511	(wood)	kuɑ42	?	Jinxing	(wood)	741520	?
+4464	kua₄₂	Wang2006a, 511	(wood)	kua42	?	Dashi	(wood)	741520	?
+#
+7867	t͡sa₃₅ɕɯ₅₅	Allen2007, 499	all / 都	tsa35ɕɯ55	?	Heqi	all	1173416	都
+7868	t͡ɕʰɛ̃₅₅tɯ₃₁ku₃₃	Allen2007, 499	all / 都	tɕʰɛ̃55(tɯ31ku33)	?	Lanping	all	1173416	都
+7871	t͡ɕʰuɛ₅₅	Allen2007, 499	all / 都	tɕʰuɛ55	?	Xiangyun	all	1173416	都
+7870	t͡sa₅₅t͡ɕʰi₃₁	Allen2007, 499	all / 都	tsa55tɕʰi31	?	Yunlong	all	1173416	都
+7872	da₅₅t͡ɕã₃₁	Allen2007, 499	all / 都	da55tɕã31	?	Luobenzhuo	all	1173416	都
+7865	t͡sa₃₅	Allen2007, 499	all / 都	tsa35	?	Jianchuan	all	1173416	都
+7869	ji₃₅so₃₁	Allen2007, 499	all / 都	ji35so31	?	Qiliqiao	all	1173416	都
+7866	t͡ɕʰɔ₅₅ku₅₅	Allen2007, 499	all / 都	tɕʰɔ55ku55	?	Eryuan	all	1173416	都
+#
+4671	pɛ₃₃	Wang2006a, 752	at night; in the evening	pɛ33	?	Tuoluo	at night; in the evening	5486	?
+4675	ɕia₅₅xɯ̃₄₂	Wang2006a, 752	at night; in the evening	(ɕia55xɯ̃42)	?	Jinman	at night; in the evening	5486	?
+4672	ja₅₅xɯ₄₂	Wang2006a, 752	at night; in the evening	(ja55xɯ42)	?	Gongxing	at night; in the evening	5486	?
+4674	ɲi₄₄u₂₂	Wang2006a, 752	at night; in the evening	(ɲi44u22)	?	Ega	at night; in the evening	5486	?
+4673	ɕia₂₄xɯ₂₂	Wang2006a, 752	at night; in the evening	(ɕia24xɯ22)	?	Enqi	at night; in the evening	5486	?
+4676	pẽ₅₅	Wang2006a, 752	at night; in the evening	pẽ55	?	Jinxing	at night; in the evening	5486	?
+4677	pe₃₃	Wang2006a, 752	at night; in the evening	pe33	?	Dashi	at night; in the evening	5486	?
+4678	pe₃₃	Wang2006a, 752	at night; in the evening	pe33	?	Zhoucheng	at night; in the evening	5486	?
+4679	ɕɚ₅₅pʰo₅₅	Wang2006a, 752	at night; in the evening	(ɕɚ55pʰo55)	?	Mazhelong	at night; in the evening	5486	?
+#
+52	quɛ₂₁	Wang2006a, 1053	bad (things)	quɛ21	?	Tuoluo	bad	5650	?
+53	quɛ₄₂	Wang2006a, 1053	bad (things)	quɛ42	?	Gongxing	bad	5650	?
+54	quɛ₄₃	Wang2006a, 1053	bad (things)	quE43	?	Enqi	bad	5650	?
+55	quɛ₄₂	Wang2006a, 1053	bad (things)	quɛ42	?	Ega	bad	5650	?
+56	que₄₂	Wang2006a, 1053	bad (things)	que42	?	Jinman	bad	5650	?
+57	kua₄₄	Wang2006a, 1053	bad (things)	kua44	?	Jinxing	bad	5650	?
+58	kue₄₂	Wang2006a, 1053	bad (things)	kue42	?	Dashi	bad	5650	?
+59	kuɛ₄₄	Wang2006a, 1053	bad (things)	kuɛ44	?	Mazhelong	bad	5650	?
+60	xe₄₄	Allen2007, 417	bad / 坏	xe44	?	Jianchuan	bad	5650	坏
+61	xe₄₄	Allen2007, 417	bad / 坏	xe44	?	Eryuan	bad	5650	坏
+62	xe₃₃	Allen2007, 417	bad / 坏	xe33	?	Heqi	bad	5650	坏
+63	xe₄₄	Allen2007, 417	bad / 坏	xe44	?	Lanping	bad	5650	坏
+64	xe₄₄	Allen2007, 417	bad / 坏	xe44	?	Qiliqiao	bad	5650	坏
+65	xɛ₃₃	Allen2007, 417	bad / 坏	xɛ33	?	Yunlong	bad	5650	坏
+66	xɛ₄₄	Allen2007, 417	bad / 坏	xɛ44	?	Xiangyun	bad	5650	坏
+67	ʈʰɯ₃₃	Allen2007, 417	bad / 坏	ʈʰɯ33	?	Luobenzhuo	bad	5650	坏
+#
+85	ʐo₄₂	Wang2006a, 1438	to bark	ʐo42	verb	Tuoluo	bark	5439	?
+86	d͡ʑua₂₁	Wang2006a, 1438	to bark	dʑua21	verb	Gongxing	bark	5439	?
+87	pia₂₁	Wang2006a, 1438	to bark	pia21	verb	Enqi	bark	5439	?
+88	t͡ɕya₂₁	Wang2006a, 1438	to bark	tɕya21	verb	Ega	bark	5439	?
+89	t͡ɕua₅₃	Wang2006a, 1438	to bark	tɕua53	verb	Jinman	bark	5439	?
+90	pio₄₂	Wang2006a, 1438	to bark	pio42	verb	Jinxing	bark	5439	?
+91	pia₄₂	Wang2006a, 1438	to bark	pia42	verb	Dashi	bark	5439	?
+92	pia₄₂	Wang2006a, 1438	to bark	pia42	verb	Zhoucheng	bark	5439	?
+93	pʰia₄₂	Wang2006a, 1438	to bark	pʰia42	verb	Mazhelong	bark	5439	?
+94	pia₄₂	Allen2007, 382	bark(of dog) / 吠	pia42	verb	Jianchuan	bark	5439	吠
+95	pia₄₂	Allen2007, 382	bark(of dog) / 吠	pia42	verb	Eryuan	bark	5439	吠
+96	pia₄₂	Allen2007, 382	bark(of dog) / 吠	pia42	verb	Heqi	bark	5439	吠
+97	pia₄₂	Allen2007, 382	bark(of dog) / 吠	pia42	verb	Lanping	bark	5439	吠
+98	pia₄₂	Allen2007, 382	bark(of dog) / 吠	pia42	verb	Qiliqiao	bark	5439	吠
+99	pia₄₂	Allen2007, 382	bark(of dog) / 吠	pia42	verb	Yunlong	bark	5439	吠
+100	pia₄₂	Allen2007, 382	bark(of dog) / 吠	pia42	verb	Xiangyun	bark	5439	吠
+101	ʧua₄₄	Allen2007, 382	bark(of dog) / 吠	ʧua44	verb	Luobenzhuo	bark	5439	吠
+#
+187	dɔ₂₁	Wang2006a, 964	big	dɔ21	?	Tuoluo	big	5437	?
+188	da₄₂	Wang2006a, 964	big	da42	?	Gongxing	big	5437	?
+189	da₄₃	Wang2006a, 964	big	da43	?	Enqi	big	5437	?
+190	do₄₂	Wang2006a, 964	big	do42	?	Ega	big	5437	?
+191	do₄₂	Wang2006a, 964	big	do42	?	Jinman	big	5437	?
+192	tou₄₂	Wang2006a, 964	big	tou42	?	Jinxing	big	5437	?
+193	tou₄₂	Wang2006a, 964	big	tou42	?	Dashi	big	5437	?
+194	to₄₂	Wang2006a, 964	big	to42	?	Zhoucheng	big	5437	?
+195	do₄₂	Wang2006a, 964	big	do42	?	Mazhelong	big	5437	?
+196	tou₄₂	Allen2007, 386	big / 大	tou42	?	Jianchuan	big	5437	大
+197	tɔ₃₁	Allen2007, 386	big / 大	tɔ31	?	Eryuan	big	5437	大
+198	tɔu₄₂	Allen2007, 386	big / 大	tɔu42	?	Heqi	big	5437	大
+199	to₃₁	Allen2007, 386	big / 大	to31	?	Lanping	big	5437	大
+200	tɔ₃₁	Allen2007, 386	big / 大	tɔ31	?	Qiliqiao	big	5437	大
+201	dao₃₁	Allen2007, 386	big / 大	dao31	?	Yunlong	big	5437	大
+202	tɔu₂₁	Allen2007, 386	big / 大	tɔu21	?	Xiangyun	big	5437	大
+203	ʈao₄₄	Allen2007, 386	big / 大	ʈao44	?	Luobenzhuo	big	5437	大
+#
+4978	vɚ₄₂	Wang2006a, 1141	bind; tie up	vɚ42	?	Tuoluo	bind; tie up	844574	?
+4979	bɤu₂₁	Wang2006a, 1141	bind; tie up	bvu21	?	Gongxing	bind; tie up	844574	?
+4980	fo₂₁	Wang2006a, 1141	bind; tie up	fo21	?	Enqi	bind; tie up	844574	?
+4981	u₄₂	Wang2006a, 1141	bind; tie up	u42	?	Ega	bind; tie up	844574	?
+4982	u₂₁	Wang2006a, 1141	bind; tie up	u21	?	Jinman	bind; tie up	844574	?
+4983	fɤ₄₂	Wang2006a, 1141	bind; tie up	fv42	?	Jinxing	bind; tie up	844574	?
+4984	fɤ₄₂	Wang2006a, 1141	bind; tie up	fv42	?	Dashi	bind; tie up	844574	?
+4985	v₄₂	Wang2006a, 1141	bind; tie up	v42	?	Zhoucheng	bind; tie up	844574	?
+4986	pʰǝɯ₄₂	Wang2006a, 1141	bind; tie up	pʰǝɯ42	?	Mazhelong	bind; tie up	844574	?
+#
+204	t͡su₄₂	Wang2006a, 326	bird	tsu42	?	Tuoluo	bird	400	?
+205	t͡su₂₄	Wang2006a, 326	bird	tsu24	?	Gongxing	bird	400	?
+206	t͡su₅₅	Wang2006a, 326	bird	tsu55	?	Enqi	bird	400	?
+207	t͡su₄₄	Wang2006a, 326	bird	tsu44	?	Ega	bird	400	?
+208	t͡so₅₅	Wang2006a, 326	bird	tso55	?	Jinman	bird	400	?
+209	t͡sou₄₄	Wang2006a, 326	bird	tsou44	?	Jinxing	bird	400	?
+210	t͡sou₃₃	Wang2006a, 326	bird	tsou33	?	Dashi	bird	400	?
+211	t͡sou₄₄	Wang2006a, 326	bird	tsou44	?	Zhoucheng	bird	400	?
+212	t͡so₄₄	Wang2006a, 326	bird	tso44	?	Mazhelong	bird	400	?
+213	t͡sou₄₄t͡sɿ₃₃	Allen2007, 61	bird / 鸟	tsou44tsɿ33	?	Jianchuan	bird	400	鸟
+214	t͡sɔ₅₅	Allen2007, 61	bird / 鸟	tsɔ55	?	Eryuan	bird	400	鸟
+215	t͡sou₄₄t͡sɿ₃₃	Allen2007, 61	bird / 鸟	tsou44tsɿ33	?	Heqi	bird	400	鸟
+216	t͡su₅₅t͡sɿ₅₅	Allen2007, 61	bird / 鸟	tsu55tsɿ55	?	Lanping	bird	400	鸟
+217	t͡so₄₄	Allen2007, 61	bird / 鸟	tso44	?	Qiliqiao	bird	400	鸟
+218	t͡su₄₄	Allen2007, 61	bird / 鸟	tsu44	?	Yunlong	bird	400	鸟
+219	t͡sɔ₄₄	Allen2007, 61	bird / 鸟	tsɔ44	?	Xiangyun	bird	400	鸟
+220	t͡suɔ₅₅	Allen2007, 61	bird / 鸟	tsuɔ55	?	Luobenzhuo	bird	400	鸟
+#
+6779	ŋa₄₄	Allen2007, 262	bite / 咬	ŋa44	verb	Jianchuan	bite	5993	咬
+6780	ŋa₄₄	Allen2007, 262	bite / 咬	ŋa44	verb	Eryuan	bite	5993	咬
+6781	ŋa₄₄	Allen2007, 262	bite / 咬	ŋa44	verb	Heqi	bite	5993	咬
+6782	ŋa₄₄	Allen2007, 262	bite / 咬	ŋa44	verb	Lanping	bite	5993	咬
+6784	ŋa₄₄	Allen2007, 262	bite / 咬	ŋa44	verb	Yunlong	bite	5993	咬
+6785	ŋa₄₄	Allen2007, 262	bite / 咬	ŋa44	verb	Xiangyun	bite	5993	咬
+6786	ɴã₅₅	Allen2007, 262	bite / 咬	ɴã55	verb	Luobenzhuo	bite	5993	咬
+6783	ŋa₄₄	Allen2007, 262	bite / 咬	ŋa44	verb	Qiliqiao	bite	5993	咬
+#
+238	xɚ₄₂	Wang2006a, 1005	black	[xɚ42]	?	Tuoluo	black	1341728	?
+239	χe₂₄	Wang2006a, 1005	black	χe24	?	Gongxing	black	1341728	?
+240	χɯ₅₅	Wang2006a, 1005	black	χɯ55	?	Enqi	black	1341728	?
+241	xɯ₄₄	Wang2006a, 1005	black	xɯ44	?	Ega	black	1341728	?
+242	xɯ₅₅	Wang2006a, 1005	black	xɯ55	?	Jinman	black	1341728	?
+243	xɯ₄₄	Wang2006a, 1005	black	xɯ44	?	Jinxing	black	1341728	?
+244	xɯ₄₄	Wang2006a, 1005	black	xɯ44	?	Dashi	black	1341728	?
+245	xɯ₄₄	Wang2006a, 1005	black	xɯ44	?	Zhoucheng	black	1341728	?
+246	xɯ₄₄	Wang2006a, 1005	black	xɯ44	?	Mazhelong	black	1341728	?
+247	xɯ₄₄	Allen2007, 410	black / 黑	xɯ44	?	Jianchuan	black	1341728	黑
+248	xɯ₄₄	Allen2007, 410	black / 黑	xɯ44	?	Eryuan	black	1341728	黑
+249	xɯ₄₄	Allen2007, 410	black / 黑	xɯ44	?	Heqi	black	1341728	黑
+250	xɯ₄₄	Allen2007, 410	black / 黑	xɯ44	?	Lanping	black	1341728	黑
+251	xɯ₄₄	Allen2007, 410	black / 黑	xɯ44	?	Qiliqiao	black	1341728	黑
+252	xɯ₄₄	Allen2007, 410	black / 黑	xɯ44	?	Yunlong	black	1341728	黑
+253	xou₄₄	Allen2007, 410	black / 黑	xou44	?	Xiangyun	black	1341728	黑
+254	xɯ₅₅	Allen2007, 410	black / 黑	xɯ55	?	Luobenzhuo	black	1341728	黑
+#
+255	suɔ₄₂	Wang2006a, 129	blood	suɔ42	?	Tuoluo	blood	411	?
+256	sua₂₄	Wang2006a, 129	blood	sua24	?	Gongxing	blood	411	?
+257	sua₅₅	Wang2006a, 129	blood	sua55	?	Enqi	blood	411	?
+258	sua₄₄	Wang2006a, 129	blood	sua44	?	Ega	blood	411	?
+259	sua₅₅	Wang2006a, 129	blood	sua55	?	Jinman	blood	411	?
+260	suɑ₄₄	Wang2006a, 129	blood	suɑ44	?	Jinxing	blood	411	?
+261	sʰua₄₄	Wang2006a, 129	blood	sʰua44	?	Dashi	blood	411	?
+262	sua₄₄	Wang2006a, 129	blood	sua44	?	Zhoucheng	blood	411	?
+263	sua₄₄	Wang2006a, 129	blood	sua44	?	Mazhelong	blood	411	?
+264	sua₄₄	Allen2007, 145	blood / 血	sua44	?	Jianchuan	blood	411	血
+265	sua₄₄	Allen2007, 145	blood / 血	sua44	?	Eryuan	blood	411	血
+266	sʰua₄₄	Allen2007, 145	blood / 血	sʰua44	?	Heqi	blood	411	血
+267	sua₄₄	Allen2007, 145	blood / 血	sua44	?	Lanping	blood	411	血
+268	ʃua₄₄	Allen2007, 145	blood / 血	ʃua44	?	Qiliqiao	blood	411	血
+269	sua₄₄	Allen2007, 145	blood / 血	sua44	?	Yunlong	blood	411	血
+270	sua₄₄	Allen2007, 145	blood / 血	sua44	?	Xiangyun	blood	411	血
+271	sua₅₅	Allen2007, 145	blood / 血	sua55	?	Luobenzhuo	blood	411	血
+#
+272	pʰɯ₅₅	Wang2006a, 1218	blow (the trumpet)	pʰɯ55	verb	Tuoluo	blow	1375415	?
+273	pu₅₅	Wang2006a, 1218	blow (the trumpet)	pu55	verb	Gongxing	blow	1375415	?
+274	pʰɯ₂₄	Wang2006a, 1218	blow (the trumpet)	pʰɯ24	verb	Enqi	blow	1375415	?
+275	pʰɯ₅₅	Wang2006a, 1218	blow (the trumpet)	pʰɯ55	verb	Ega	blow	1375415	?
+276	pʰɯ₅₅	Wang2006a, 1218	blow (the trumpet)	pʰɯ55	verb	Jinman	blow	1375415	?
+277	pʰɯ₅₅	Wang2006a, 1218	blow (the trumpet)	pʰɯ55	verb	Jinxing	blow	1375415	?
+278	pʰu₅₅	Wang2006a, 1218	blow (the trumpet)	pʰu55	verb	Dashi	blow	1375415	?
+279	pʰǝɯ₅₅	Wang2006a, 1218	blow (the trumpet)	pʰǝɯ55	verb	Zhoucheng	blow	1375415	?
+280	pʰǝɯ₅₅	Wang2006a, 1218	blow (the trumpet)	pʰǝɯ55	verb	Mazhelong	blow	1375415	?
+281	pʰɯ₅₅	Allen2007, 266	blow / 吹	pʰɯ55	verb	Jianchuan	blow	1375415	吹
+282	pʰɯ₅₅	Allen2007, 266	blow / 吹	pʰɯ55	verb	Eryuan	blow	1375415	吹
+283	pʰɯ₅₅	Allen2007, 266	blow / 吹	pʰɯ55	verb	Heqi	blow	1375415	吹
+284	pʰu₅₅	Allen2007, 266	blow / 吹	pʰu55	verb	Lanping	blow	1375415	吹
+285	pʰɯ₅₅	Allen2007, 266	blow / 吹	pʰɯ55	verb	Qiliqiao	blow	1375415	吹
+286	pʰɯ₅₅	Allen2007, 266	blow / 吹	pʰɯ55	verb	Yunlong	blow	1375415	吹
+287	pʰou₅₅	Allen2007, 266	blow / 吹	pʰou55	verb	Xiangyun	blow	1375415	吹
+288	pʰɯ₄₄	Allen2007, 266	blow / 吹	pʰɯ44	verb	Luobenzhuo	blow	1375415	吹
+#
+7531	tua₃₁	Allen2007, 426	blunt(knife) / 钝(刀)	tua31	?	Jianchuan	blunt	1511061	钝(刀)
+7533	tua₃₁	Allen2007, 426	blunt(knife) / 钝(刀)	tua31	?	Heqi	blunt	1511061	钝(刀)
+7537	tue₃₃	Allen2007, 426	blunt(knife) / 钝(刀)	tue33	?	Xiangyun	blunt	1511061	钝(刀)
+7532	tua₃₁	Allen2007, 426	blunt(knife) / 钝(刀)	tua31	?	Eryuan	blunt	1511061	钝(刀)
+7534	tɯ₂₁	Allen2007, 426	blunt(knife) / 钝(刀)	tɯ21	?	Lanping	blunt	1511061	钝(刀)
+7535	ji₃₁mu₃₃	Allen2007, 426	blunt(knife) / 钝(刀)	ji31mu33	?	Qiliqiao	blunt	1511061	钝(刀)
+7536	tua₃₁	Allen2007, 426	blunt(knife) / 钝(刀)	tua31	?	Yunlong	blunt	1511061	钝(刀)
+7538	ʈɛ₅₅	Allen2007, 426	blunt(knife) / 钝(刀)	ʈɛ55	?	Luobenzhuo	blunt	1511061	钝(刀)
+#
+305	ku₄₂	Wang2006a, 133	bone	ku42	?	Tuoluo	bone	5983	?
+306	qua₂₄	Wang2006a, 133	bone	qua24	?	Gongxing	bone	5983	?
+307	qua₅₅	Wang2006a, 133	bone	qua55	?	Enqi	bone	5983	?
+308	qua₄₄	Wang2006a, 133	bone	qua44	?	Ega	bone	5983	?
+309	qua₅₅	Wang2006a, 133	bone	qua55	?	Jinman	bone	5983	?
+310	kuɑ₄₄	Wang2006a, 133	bone	kuɑ44	?	Jinxing	bone	5983	?
+311	kua₄₄	Wang2006a, 133	bone	kua44	?	Dashi	bone	5983	?
+312	kua₄₄	Wang2006a, 133	bone	kua44	?	Zhoucheng	bone	5983	?
+313	kua₄₄	Wang2006a, 133	bone	kua44	?	Mazhelong	bone	5983	?
+314	kua₄₄tɯ₂₁	Allen2007, 144	bone / 骨头	kua44tɯ21	?	Jianchuan	bone	5983	骨头
+315	kua₄₄tɯ₂₁	Allen2007, 144	bone / 骨头	kua44tɯ21	?	Eryuan	bone	5983	骨头
+316	kua₄₄tɯ₂₁	Allen2007, 144	bone / 骨头	kua44tɯ21	?	Heqi	bone	5983	骨头
+317	kua₄₄t͡se₄₄	Allen2007, 144	bone / 骨头	kua44tse44	?	Lanping	bone	5983	骨头
+318	kua₄₄tɯ₂₁	Allen2007, 144	bone / 骨头	kua44tɯ21	?	Qiliqiao	bone	5983	骨头
+319	kua₄₄tɯ₂₁	Allen2007, 144	bone / 骨头	kua44tɯ21	?	Yunlong	bone	5983	骨头
+320	kua₄₄tou₂₁	Allen2007, 144	bone / 骨头	kua44tou21	?	Xiangyun	bone	5983	骨头
+321	qua₅₅t͡sɛ₄₄	Allen2007, 144	bone / 骨头	qua55tsɛ44	?	Luobenzhuo	bone	5983	骨头
+#
+322	bo₄₂	Wang2006a, 94	breasts	bo42	?	Tuoluo	breast	5992	?
+323	ba₂₁	Wang2006a, 94	breasts	ba21	?	Gongxing	breast	5992	?
+324	pa₂₁	Wang2006a, 94	breasts	pa21	?	Enqi	breast	5992	?
+325	pa₄₂	Wang2006a, 94	breasts	pa42	?	Ega	breast	5992	?
+326	pa₄₂	Wang2006a, 94	breasts	pa42	?	Jinman	breast	5992	?
+327	pɑ₄₂	Wang2006a, 94	breasts	pɑ42	?	Jinxing	breast	5992	?
+328	pa₄₂	Wang2006a, 94	breasts	pa42	?	Dashi	breast	5992	?
+329	pa₄₂	Wang2006a, 94	breasts	pa42	?	Zhoucheng	breast	5992	?
+330	ŋɔŋ₃₃	Wang2006a, 94	breasts	[ŋɔŋ33]	?	Mazhelong	breast	5992	?
+331	pa₄₂	Allen2007, 138	breast / 乳房	pa42	?	Jianchuan	breast	5992	乳房
+332	pa₄₂	Allen2007, 138	breast / 乳房	pa42	?	Eryuan	breast	5992	乳房
+333	pa₄₂tu₃₅	Allen2007, 138	breast / 乳房	pa42tu35	?	Heqi	breast	5992	乳房
+334	pa₄₂pe₅₅	Allen2007, 138	breast / 乳房	pa42pe55	?	Lanping	breast	5992	乳房
+335	pa₄₂ku₂₁	Allen2007, 138	breast / 乳房	pa42ku21	?	Qiliqiao	breast	5992	乳房
+336	pa₄₂	Allen2007, 138	breast / 乳房	pa42	?	Yunlong	breast	5992	乳房
+337	pa₄₂	Allen2007, 138	breast / 乳房	pa42	?	Xiangyun	breast	5992	乳房
+338	pa₄₄	Allen2007, 138	breast / 乳房	pa44	?	Luobenzhuo	breast	5992	乳房
+#
+373	ma₂₁	Wang2006a, 1516	buy	ma21	verb	Tuoluo	buy	8061	?
+374	mæ₄₂	Wang2006a, 1516	buy	mæ42	verb	Gongxing	buy	8061	?
+375	mæ₄₃	Wang2006a, 1516	buy	mæ43	verb	Enqi	buy	8061	?
+376	ma₄₂	Wang2006a, 1516	buy	ma42	verb	Ega	buy	8061	?
+377	ma₄₂	Wang2006a, 1516	buy	ma42	verb	Jinman	buy	8061	?
+378	ma₄₂	Wang2006a, 1516	buy	ma42	verb	Jinxing	buy	8061	?
+379	mɚ₄₂	Wang2006a, 1516	buy	mɚ42	verb	Dashi	buy	8061	?
+380	mɛ₄₂	Wang2006a, 1516	buy	mɛ42	verb	Zhoucheng	buy	8061	?
+381	mɚ₂₁	Wang2006a, 1516	buy	mɚ21	verb	Mazhelong	buy	8061	?
+382	mɛ₄₂	Allen2007, 301	buy / 买	mɛ42	verb	Jianchuan	buy	8061	买
+383	mɛ₄₂	Allen2007, 301	buy / 买	mɛ42	verb	Eryuan	buy	8061	买
+384	mɛ₄₂	Allen2007, 301	buy / 买	mɛ42	verb	Heqi	buy	8061	买
+385	mæ₄₂	Allen2007, 301	buy / 买	mæ42	verb	Lanping	buy	8061	买
+386	mɛ₃₂	Allen2007, 301	buy / 买	mɛ32	verb	Qiliqiao	buy	8061	买
+387	mɛ₄₂	Allen2007, 301	buy / 买	mɛ42	verb	Yunlong	buy	8061	买
+388	mɛ₄₂	Allen2007, 301	buy / 买	mɛ42	verb	Xiangyun	buy	8061	买
+389	ma₃₁	Allen2007, 301	buy / 买	ma31	verb	Luobenzhuo	buy	8061	买
+#
+6787	t͡sou₄₂	Allen2007, 263	chew / 嚼	tsou42	?	Jianchuan	chew	1510493	嚼
+6788	t͡sɔ₄₂	Allen2007, 263	chew / 嚼	tsɔ42	?	Eryuan	chew	1510493	嚼
+6789	t͡sɔu₄₂	Allen2007, 263	chew / 嚼	tsɔu42	?	Heqi	chew	1510493	嚼
+6790	t͡sa₄₂	Allen2007, 263	chew / 嚼	tsa42	?	Lanping	chew	1510493	嚼
+6791	t͡so₄₂	Allen2007, 263	chew / 嚼	tso42	?	Qiliqiao	chew	1510493	嚼
+6792	t͡so₄₂	Allen2007, 263	chew / 嚼	tso42	?	Yunlong	chew	1510493	嚼
+6793	za₃₁	Allen2007, 263	chew / 嚼	za31	?	Xiangyun	chew	1510493	嚼
+6794	ɴã₅₅ʐa₄₂	Allen2007, 263	chew / 嚼	ɴã55ʐa42	?	Luobenzhuo	chew	1510493	嚼
+#
+6851	mɛ₄₄	Allen2007, 286	climb / 爬	mɛ44	?	Jianchuan	climb	479387	爬
+6852	mɛ₄₄	Allen2007, 286	climb / 爬	mɛ44	?	Eryuan	climb	479387	爬
+6853	mɛ₄₄	Allen2007, 286	climb / 爬	mɛ44	?	Heqi	climb	479387	爬
+6854	mæ₄₄	Allen2007, 286	climb / 爬	mæ44	?	Lanping	climb	479387	爬
+6856	mɛ₄₄	Allen2007, 286	climb / 爬	mɛ44	?	Yunlong	climb	479387	爬
+6857	mɛ₄₄	Allen2007, 286	climb / 爬	mɛ44	?	Xiangyun	climb	479387	爬
+6855	mɛ₄₄	Allen2007, 286	climb / 爬	mɛ44	?	Qiliqiao	climb	479387	爬
+6858	ma₅₅	Allen2007, 286	climb / 爬	ma55	?	Luobenzhuo	climb	479387	爬
+#
+5754	mɯ̃₃₁kao₄₂	Allen2007, 5	cloud / 云	mɯ̃31kao42	?	Luobenzhuo	cloud	623	云
+5747	vɤ̃₂₁	Allen2007, 5	cloud / 云	vɤ̃21	?	Jianchuan	cloud	623	云
+5748	vɤ₂₁	Allen2007, 5	cloud / 云	vɤ21	?	Eryuan	cloud	623	云
+5749	vɤ₂₁	Allen2007, 5	cloud / 云	vɤ21	?	Heqi	cloud	623	云
+5750	vã₂₁	Allen2007, 5	cloud / 云	vã21	?	Lanping	cloud	623	云
+5751	vɤ₂₁	Allen2007, 5	cloud / 云	vɤ21	?	Qiliqiao	cloud	623	云
+5753	jɛ̃₂₁	Allen2007, 5	cloud / 云	jɛ̃21	?	Xiangyun	cloud	623	云
+5752	ɥɛ₄₄	Allen2007, 5	cloud / 云	ɥɛ44	?	Yunlong	cloud	623	云
+#
+575	kɯ₅₅	Wang2006a, 1063	cold	kɯ55	?	Tuoluo	cold	5639	?
+576	ga₁₂	Wang2006a, 1063	cold	ga12	?	Gongxing	cold	5639	?
+577	kɯ₂₄	Wang2006a, 1063	cold	kɯ24	?	Enqi	cold	5639	?
+578	kɯ₅₅	Wang2006a, 1063	cold	kɯ55	?	Ega	cold	5639	?
+579	kɯ₅₅	Wang2006a, 1063	cold	kɯ55	?	Jinman	cold	5639	?
+580	kɯka₂₁	Wang2006a, 1063	cold	kɯka21	?	Dashi	cold	5639	?
+581	kɯ₃₅	Wang2006a, 1063	cold	kɯ35	?	Zhoucheng	cold	5639	?
+582	kɯ₅₅	Wang2006a, 1063	cold	kɯ55	?	Mazhelong	cold	5639	?
+583	kɯ₅₅	Allen2007, 434	cold / 冷	kɯ55	?	Jianchuan	cold	5639	冷
+584	kɯ₃₅	Allen2007, 434	cold / 冷	kɯ35	?	Eryuan	cold	5639	冷
+585	kɯ₅₅	Allen2007, 434	cold / 冷	kɯ55	?	Heqi	cold	5639	冷
+586	kɯ₄₄	Allen2007, 434	cold / 冷	kɯ44	?	Lanping	cold	5639	冷
+587	kɯ₃₅	Allen2007, 434	cold / 冷	kɯ35	?	Qiliqiao	cold	5639	冷
+588	kɯ₃₅	Allen2007, 434	cold / 冷	kɯ35	?	Yunlong	cold	5639	冷
+589	kɯ₃₅	Allen2007, 434	cold / 冷	kɯ35	?	Xiangyun	cold	5639	冷
+590	kɯ₅₅	Allen2007, 434	cold / 冷	kɯ55	?	Luobenzhuo	cold	5639	冷
+#
+7267	ɣɯ₃₅	Allen2007, 363	come / 来	ɣɯ35	?	Jianchuan	come	6056	来
+7268	pe₄₄jɯ₃₅	Allen2007, 363	come / 来	pe44jɯ35	?	Eryuan	come	6056	来
+7269	ɣɯ₃₅	Allen2007, 363	come / 来	ɣɯ35	?	Heqi	come	6056	来
+7270	ɣɯ₃₅	Allen2007, 363	come / 来	ɣɯ35	?	Lanping	come	6056	来
+7271	pe₄₄t͡sɯ₃₅	Allen2007, 363	come / 来	pe44tsɯ35	?	Qiliqiao	come	6056	来
+7273	ɣɯ₃₅	Allen2007, 363	come / 来	ɣɯ35	?	Xiangyun	come	6056	来
+7274	ʧʰua₅₅	Allen2007, 363	come / 来	ʧʰua55	?	Luobenzhuo	come	6056	来
+7272	pe₄₄jɯ₃₅	Allen2007, 363	come / 来	pe44jɯ35	?	Yunlong	come	6056	来
+#
+4890	hɔ₅₅	Wang2006a, 1045	correct; right	hɔ55	?	Tuoluo	correct; right	7026	?
+4891	ho₁₂	Wang2006a, 1045	correct; right	ho12	?	Gongxing	correct; right	7026	?
+4892	χo₂₄	Wang2006a, 1045	correct; right	χo24	?	Enqi	correct; right	7026	?
+4893	xo₅₅	Wang2006a, 1045	correct; right	xo55	?	Ega	correct; right	7026	?
+4894	kɤ₄₂	Wang2006a, 1045	correct; right	(kv42)	?	Jinman	correct; right	7026	?
+4895	xou₅₅	Wang2006a, 1045	correct; right	xou55	?	Jinxing	correct; right	7026	?
+4896	xou₃₅	Wang2006a, 1045	correct; right	xou35	?	Dashi	correct; right	7026	?
+4897	xo₃₅	Wang2006a, 1045	correct; right	xo35	?	Zhoucheng	correct; right	7026	?
+4898	xo₅₅	Wang2006a, 1045	correct; right	xo55	?	Mazhelong	correct; right	7026	?
+#
+616	qʰo₄₂	Wang2006a, 1485	cry (verb or noun?, should be made clear later on)	qʰo42	verb	Tuoluo	cry	7709	?
+617	qʰu₂₂₄	Wang2006a, 1485	cry (verb or noun?, should be made clear later on)	qʰu224	verb	Gongxing	cry	7709	?
+618	qʰu₅₅	Wang2006a, 1485	cry (verb or noun?, should be made clear later on)	qʰu55	verb	Enqi	cry	7709	?
+619	qʰu₄₄	Wang2006a, 1485	cry (verb or noun?, should be made clear later on)	qʰu44	verb	Ega	cry	7709	?
+620	qʰo₅₅	Wang2006a, 1485	cry (verb or noun?, should be made clear later on)	qʰo55	verb	Jinman	cry	7709	?
+621	kʰou₄₄	Wang2006a, 1485	cry (verb or noun?, should be made clear later on)	kʰou44	verb	Jinxing	cry	7709	?
+622	mɚ₃₁	Wang2006a, 1485	cry (verb or noun?, should be made clear later on)	mɚ31	verb	Dashi	cry	7709	?
+623	kʰɑ₄₄	Wang2006a, 1485	cry (verb or noun?, should be made clear later on)	kʰɑ44	verb	Zhoucheng	cry	7709	?
+624	kʰo₄₄	Wang2006a, 1485	cry (verb or noun?, should be made clear later on)	kʰo44	verb	Mazhelong	cry	7709	?
+625	kʰou₄₄	Allen2007, 349	cry / 哭	kʰou44	verb	Jianchuan	cry	7709	哭
+626	kʰɔ₄₄	Allen2007, 349	cry / 哭	kʰɔ44	verb	Eryuan	cry	7709	哭
+627	xʰɛ₅₅kuɔ₅₅	Allen2007, 349	cry / 哭	xʰɛ55kuɔ55	verb	Heqi	cry	7709	哭
+628	kʰu₃₃	Allen2007, 349	cry / 哭	kʰu33	verb	Lanping	cry	7709	哭
+629	kʰo₄₄	Allen2007, 349	cry / 哭	kʰo44	verb	Qiliqiao	cry	7709	哭
+630	kʰu₄₄	Allen2007, 349	cry / 哭	kʰu44	verb	Yunlong	cry	7709	哭
+631	kʰɔu₄₄	Allen2007, 349	cry / 哭	kʰɔu44	verb	Xiangyun	cry	7709	哭
+632	qʰo₅₅	Allen2007, 349	cry / 哭	qʰo55	verb	Luobenzhuo	cry	7709	哭
+#
+633	ɕa₄₂	Wang2006a, 1339	cut (meat)	ɕa42	verb	Tuoluo	cut	6043	?
+634	sæ₂₄	Wang2006a, 1339	cut (meat)	sæ24	verb	Gongxing	cut	6043	?
+635	ɕiæ₅₅	Wang2006a, 1339	cut (meat)	ɕiæ55	verb	Enqi	cut	6043	?
+636	ɕa₄₄	Wang2006a, 1339	cut (meat)	ɕa44	verb	Ega	cut	6043	?
+637	ɕa₅₅qa₂₁	Wang2006a, 1339	cut (meat)	ɕa55qa21	verb	Jinman	cut	6043	?
+638	sa₄₄	Wang2006a, 1339	cut (meat)	sa44	verb	Jinxing	cut	6043	?
+639	ʂʰɚ₄₄	Wang2006a, 1339	cut (meat)	ʂʰɚ44	verb	Dashi	cut	6043	?
+640	sɛ₄₄	Wang2006a, 1339	cut (meat)	sɛ44	verb	Zhoucheng	cut	6043	?
+641	sɚ₄₄	Wang2006a, 1339	cut (meat)	sɚ44	verb	Mazhelong	cut	6043	?
+642	sɛ₄₄	Allen2007, 294	cut,reap / 割	sɛ44	verb	Jianchuan	cut	6043	割
+643	ʂɛ₄₄	Allen2007, 294	cut,reap / 割	ʂɛ44	verb	Eryuan	cut	6043	割
+644	sʰɛ₄₄	Allen2007, 294	cut,reap / 割	sʰɛ44	verb	Heqi	cut	6043	割
+645	sɛ₄₄	Allen2007, 294	cut,reap / 割	sɛ44	verb	Lanping	cut	6043	割
+646	sɛ₄₄	Allen2007, 294	cut,reap / 割	sɛ44	verb	Qiliqiao	cut	6043	割
+647	sɛ₄₄	Allen2007, 294	cut,reap / 割	sɛ44	verb	Yunlong	cut	6043	割
+648	sɛ₄₄	Allen2007, 294	cut,reap / 割	sɛ44	verb	Xiangyun	cut	6043	割
+649	ɕa₅₅	Allen2007, 294	cut,reap / 割	ɕa55	verb	Luobenzhuo	cut	6043	割
+#
+713	ɕi₃₃	Wang2006a, 1651	die	ɕi33	verb	Tuoluo	die	6245	?
+714	ɕi₂₂	Wang2006a, 1651	die	ɕi22	verb	Gongxing	die	6245	?
+715	si₂₂	Wang2006a, 1651	die	si22	verb	Enqi	die	6245	?
+716	si₂₂	Wang2006a, 1651	die	si22	verb	Ega	die	6245	?
+717	ɕi₂₂	Wang2006a, 1651	die	ɕi22	verb	Jinman	die	6245	?
+718	ɕi₃₃	Wang2006a, 1651	die	ɕi33	verb	Jinxing	die	6245	?
+719	ɕi₃₃	Wang2006a, 1651	die	ɕi33	verb	Dashi	die	6245	?
+720	ɕi₃₃	Wang2006a, 1651	die	ɕi33	verb	Zhoucheng	die	6245	?
+721	ɕi₃₃	Wang2006a, 1651	die	ɕi33	verb	Mazhelong	die	6245	?
+722	ɕi₃₃	Allen2007, 381	die / 死	ɕi33	verb	Jianchuan	die	6245	死
+723	ɕi₃₃	Allen2007, 381	die / 死	ɕi33	verb	Eryuan	die	6245	死
+724	ɕi₃₃	Allen2007, 381	die / 死	ɕi33	verb	Heqi	die	6245	死
+725	ɕi₄₄	Allen2007, 381	die / 死	ɕi44	verb	Lanping	die	6245	死
+726	ɕi₃₃	Allen2007, 381	die / 死	ɕi33	verb	Qiliqiao	die	6245	死
+727	ɕi₃₃	Allen2007, 381	die / 死	ɕi33	verb	Yunlong	die	6245	死
+728	ɕi₃₃	Allen2007, 381	die / 死	ɕi33	verb	Xiangyun	die	6245	死
+729	si₄₄	Allen2007, 381	die / 死	si44	verb	Luobenzhuo	die	6245	死
+#
+730	qʰuaŋ₃₃	Wang2006a, 289	dog	qʰuaŋ33	?	Tuoluo	dog	966	?
+731	qʰuaŋ₂₂	Wang2006a, 289	dog	qʰuaŋ22	?	Gongxing	dog	966	?
+732	qʰua₂₂	Wang2006a, 289	dog	qʰua22	?	Enqi	dog	966	?
+733	qʰua₂₂	Wang2006a, 289	dog	qʰua22	?	Ega	dog	966	?
+734	qʰõ₂₂	Wang2006a, 289	dog	qʰõ22	?	Jinman	dog	966	?
+735	kʰuaŋ₃₃	Wang2006a, 289	dog	kʰuaŋ33	?	Dashi	dog	966	?
+736	kʰua₃₃	Wang2006a, 289	dog	kʰua33	?	Zhoucheng	dog	966	?
+737	kʰuaŋ₃₃	Wang2006a, 289	dog	kʰuaŋ33	?	Mazhelong	dog	966	?
+738	kʰũã₃₃	Allen2007, 50	dog / 狗	kʰũã33	?	Jianchuan	dog	966	狗
+739	kʰɔ₃₃	Allen2007, 50	dog / 狗	kʰɔ33	?	Eryuan	dog	966	狗
+740	kʰũã₃₃	Allen2007, 50	dog / 狗	kʰũã33	?	Heqi	dog	966	狗
+741	kʰũã₄₄	Allen2007, 50	dog / 狗	kʰũã44	?	Lanping	dog	966	狗
+742	kʰua₃₃	Allen2007, 50	dog / 狗	kʰua33	?	Qiliqiao	dog	966	狗
+743	kʰua₃₃	Allen2007, 50	dog / 狗	kʰua33	?	Yunlong	dog	966	狗
+744	kʰũã₃₃	Allen2007, 50	dog / 狗	kʰũã33	?	Xiangyun	dog	966	狗
+745	qʰõ₃₃	Allen2007, 50	dog / 狗	qʰõ33	?	Luobenzhuo	dog	966	狗
+#
+4653	mo₂₁	Wang2006a, 699	dream	mo21	?	Tuoluo	dream	8448	?
+4654	moŋ₂₄	Wang2006a, 699	dream	moŋ24	?	Gongxing	dream	8448	?
+4655	mɯ₄₃	Wang2006a, 699	dream	mɯ43	?	Enqi	dream	8448	?
+4656	mɯ̃₅₅	Wang2006a, 699	dream	mɯ̃55	?	Ega	dream	8448	?
+4657	mɯ₄₂	Wang2006a, 699	dream	mɯ42	?	Jinman	dream	8448	?
+4658	mǝ̃₃₁	Wang2006a, 699	dream	mǝ̃31	?	Jinxing	dream	8448	?
+4659	mǝ̃₄₂	Wang2006a, 699	dream	mǝ̃42	?	Dashi	dream	8448	?
+4660	mɯ₅₃	Wang2006a, 699	dream	mɯ53	?	Zhoucheng	dream	8448	?
+4661	mǝɯ₂₁	Wang2006a, 699	dream	mǝɯ21	?	Mazhelong	dream	8448	?
+#
+780	ɯ̃₃₃	Wang2006a, 1370	drink	ɯ̃33	verb	Tuoluo	drink	5991	?
+781	oŋ₂₂	Wang2006a, 1370	drink	(oŋ22)	verb	Gongxing	drink	5991	?
+782	ɯ₂₂	Wang2006a, 1370	drink	ɯ22	verb	Enqi	drink	5991	?
+783	ɯ̃₂₂	Wang2006a, 1370	drink	ɯ̃22	verb	Ega	drink	5991	?
+784	ɯ̃₂₂	Wang2006a, 1370	drink	ɯ̃22	verb	Jinman	drink	5991	?
+785	ǝ̃₃₃	Wang2006a, 1370	drink	ǝ̃33	verb	Jinxing	drink	5991	?
+786	ǝ̃₃₃	Wang2006a, 1370	drink	ǝ̃33	verb	Dashi	drink	5991	?
+787	ɯ₃₃	Wang2006a, 1370	drink	ɯ33	verb	Zhoucheng	drink	5991	?
+788	oŋ₃₃	Wang2006a, 1370	drink	oŋ33	verb	Mazhelong	drink	5991	?
+789	ɯ̃₃₃	Allen2007, 261	drink / 喝	ɯ̃33	verb	Jianchuan	drink	5991	喝
+790	ɯ₃₃	Allen2007, 261	drink / 喝	ɯ33	verb	Eryuan	drink	5991	喝
+791	ɯ₃₃	Allen2007, 261	drink / 喝	ɯ33	verb	Heqi	drink	5991	喝
+792	ɯ̃₄₄	Allen2007, 261	drink / 喝	ɯ̃44	verb	Lanping	drink	5991	喝
+793	ɯ₃₃	Allen2007, 261	drink / 喝	ɯ33	verb	Qiliqiao	drink	5991	喝
+794	ʔɯ₃₃	Allen2007, 261	drink / 喝	ʔɯ33	verb	Yunlong	drink	5991	喝
+795	ẽ₃₃	Allen2007, 261	drink / 喝	ẽ33	verb	Xiangyun	drink	5991	喝
+796	ɯ̃₃₃	Allen2007, 261	drink / 喝	ɯ̃33	verb	Luobenzhuo	drink	5991	喝
+#
+6253	ɲi₄₄tõ₄₂	Allen2007, 129	ear / 耳朵	ɲi44tõ42	?	Heqi	ear	5510	耳朵
+6254	jɛ̃₃₃tiɯ₃₁kũã₅₅	Allen2007, 129	ear / 耳朵	jɛ̃33tiɯ31kũã55	?	Lanping	ear	5510	耳朵
+6255	nɤ₃₃tɔ₄₄	Allen2007, 129	ear / 耳朵	nɤ33tɔ44	?	Qiliqiao	ear	5510	耳朵
+6256	ɲɤ₃₃tɯ₃₁	Allen2007, 129	ear / 耳朵	ɲɤ33tɯ31	?	Yunlong	ear	5510	耳朵
+6251	jĩ₃₃tɯ₂₁kũã₅₅	Allen2007, 129	ear / 耳朵	jĩ33tɯ21kũã55	?	Jianchuan	ear	5510	耳朵
+6257	jɔ₃₃pi₃₁t͡sɿ₃₃	Allen2007, 129	ear / 耳朵	jɔ33pi31tsɿ33	?	Xiangyun	ear	5510	耳朵
+6258	ʔẽ₄₄t͡ɕỹ₃₁	Allen2007, 129	ear / 耳朵	ʔẽ44tɕỹ31	?	Luobenzhuo	ear	5510	耳朵
+6252	ɲɤ₃₃pi₂₁	Allen2007, 129	ear / 耳朵	ɲɤ33pi21	?	Eryuan	ear	5510	耳朵
+#
+848	ʑi₂₁	Wang2006a, 22	earth	ʑi21	?	Tuoluo	earth	5481	?
+849	d͡ʑi₄₂	Wang2006a, 22	earth	dʑi42	?	Gongxing	earth	5481	?
+850	t͡ɕi₄₂	Wang2006a, 22	earth	tɕi42	?	Ega	earth	5481	?
+851	d͡ʑi₄₂	Wang2006a, 22	earth	dʑi42	?	Jinman	earth	5481	?
+852	t͡ɕi₃₁	Wang2006a, 22	earth	tɕi31	?	Jinxing	earth	5481	?
+853	t͡ɕi₃₁	Wang2006a, 22	earth	tɕi31	?	Dashi	earth	5481	?
+854	t͡ɕi₃₁	Wang2006a, 22	earth	tɕi31	?	Zhoucheng	earth	5481	?
+855	ti₂₁	Wang2006a, 22	earth	ti21	?	Mazhelong	earth	5481	?
+856	t͡ɕi₃₁pɛ₂₁	Allen2007, 20	earth / 地	tɕi31pɛ21	?	Jianchuan	earth	5481	地
+857	t͡ɕi₃₁	Allen2007, 20	earth / 地	tɕi31	?	Eryuan	earth	5481	地
+858	t͡ɕi₃₁pɛ₂₁	Allen2007, 20	earth / 地	tɕi31pɛ21	?	Heqi	earth	5481	地
+859	t͡ɕi₃₁	Allen2007, 20	earth / 地	tɕi31	?	Lanping	earth	5481	地
+860	t͡ɕi₃₁pɛ₂₁	Allen2007, 20	earth / 地	tɕi31pɛ21	?	Qiliqiao	earth	5481	地
+861	t͡ɕi₃₁	Allen2007, 20	earth / 地	tɕi31	?	Yunlong	earth	5481	地
+862	ji₃₁pɛ₂₁	Allen2007, 20	earth / 地	ji31pɛ21	?	Xiangyun	earth	5481	地
+863	t͡ɕĩ₄₄pa₄₂	Allen2007, 20	earth / 地	tɕĩ44pa42	?	Luobenzhuo	earth	5481	地
+3917	tʰoŋ₃₃	Wang2006a, 40	soil; earth	tʰoŋ33	?	Tuoluo	earth	5481	?
+3918	tʰy₂₂	Wang2006a, 40	soil; earth	tʰy22	?	Gongxing	earth	5481	?
+3919	nɛ₂₁	Wang2006a, 40	soil; earth	nE21	?	Enqi	earth	5481	?
+3920	nɛ₂₁₅	Wang2006a, 40	soil; earth	nɛ215	?	Ega	earth	5481	?
+3921	ne₂₁	Wang2006a, 40	soil; earth	ne21	?	Jinman	earth	5481	?
+3922	tʰu₃₃	Wang2006a, 40	soil; earth	tʰu33	?	Jinxing	earth	5481	?
+3923	pʰɚ₅₅le₂₁	Wang2006a, 40	soil; earth	(pʰɚ55le21)	?	Dashi	earth	5481	?
+3924	tʰu₃₃	Wang2006a, 40	soil; earth	tʰu33	?	Zhoucheng	earth	5481	?
+3925	ne₄₂	Wang2006a, 40	soil; earth	ne42	?	Mazhelong	earth	5481	?
+#
+864	ʐɤ₃₅	Wang2006a, 353	worm	ʐv35	?	Tuoluo	earthworm;worm	5466	?
+865	d͡zao₁₂	Wang2006a, 353	worm	dzao12	?	Gongxing	earthworm;worm	5466	?
+866	t͡ɕio₂₁	Wang2006a, 353	worm	tɕio21	?	Enqi	earthworm;worm	5466	?
+867	t͡ɕiu₂₁	Wang2006a, 353	worm	tɕiu21	?	Ega	earthworm;worm	5466	?
+868	t͡ɕiu₂₁	Wang2006a, 353	worm	tɕiu21	?	Jinman	earthworm;worm	5466	?
+869	t͡sɤ̃₂₁	Wang2006a, 353	worm	tsṽ21	?	Jinxing	earthworm;worm	5466	?
+870	t͡ʂo₂₁	Wang2006a, 353	worm	tʂo21	?	Dashi	earthworm;worm	5466	?
+871	t͡sɤ₂₁	Wang2006a, 353	worm	tsv21	?	Zhoucheng	earthworm;worm	5466	?
+872	d͡zõ₂₁	Wang2006a, 353	worm	dzõ21	?	Mazhelong	earthworm;worm	5466	?
+873	t͡ɕi₂₁t͡ɕɛ₅₅t͡sɤ₂₁	Allen2007, 81	earthworm / 蚯蚓	tɕi21tɕɛ55tsɤ21	?	Jianchuan	earthworm;worm	5466	蚯蚓
+874	kʲi₃₁kɛ₃₅t͡ʂɤ₂₁	Allen2007, 81	earthworm / 蚯蚓	kʲi31kɛ35tʂɤ21	?	Eryuan	earthworm;worm	5466	蚯蚓
+875	xua₅₅tʰu₃₃t͡sũɔ̃₂₁	Allen2007, 81	earthworm / 蚯蚓	xua55tʰu33tsũɔ̃21	?	Heqi	earthworm;worm	5466	蚯蚓
+876	ku₅₅lu₅₅t͡su₂₁	Allen2007, 81	earthworm / 蚯蚓	ku55lu55tsu21	?	Lanping	earthworm;worm	5466	蚯蚓
+877	pi₂₁t͡ɕa₃₅t͡sɤ₂₁	Allen2007, 81	earthworm / 蚯蚓	pi21tɕa35tsɤ21	?	Qiliqiao	earthworm;worm	5466	蚯蚓
+878	t͡ɕi₃₁kɛ₃₅t͡ɕao₂₁	Allen2007, 81	earthworm / 蚯蚓	tɕi31kɛ35tɕao21	?	Yunlong	earthworm;worm	5466	蚯蚓
+879	ɕi₃₃li₃₃kʲɛ₃₅t͡ɕɛ̃₂₁	Allen2007, 81	earthworm / 蚯蚓	ɕi33li33kʲɛ35tɕɛ̃21	?	Xiangyun	earthworm;worm	5466	蚯蚓
+880	qɔ₅₅t͡ɕɤ₃₁	Allen2007, 81	earthworm / 蚯蚓	qɔ55tɕɤ31	?	Luobenzhuo	earthworm;worm	5466	蚯蚓
+#
+897	ju₄₂	Wang2006a, 1198	eat	ju42	verb	Tuoluo	eat	5827	?
+898	ju₄₂	Wang2006a, 1198	eat	ju42	verb	Gongxing	eat	5827	?
+899	jɯ₅₅	Wang2006a, 1198	eat	jɯ55	verb	Enqi	eat	5827	?
+900	ji₄₄	Wang2006a, 1198	eat	ji44	verb	Ega	eat	5827	?
+901	ji₅₅	Wang2006a, 1198	eat	ji55	verb	Jinman	eat	5827	?
+902	jɯ₄₄	Wang2006a, 1198	eat	jɯ44	verb	Jinxing	eat	5827	?
+903	jɯ₄₄	Wang2006a, 1198	eat	jɯ44	verb	Dashi	eat	5827	?
+904	jɯ₄₄	Wang2006a, 1198	eat	jɯ44	verb	Zhoucheng	eat	5827	?
+905	ji₄₄	Wang2006a, 1198	eat	ji44	verb	Mazhelong	eat	5827	?
+906	jɯ₄₄	Allen2007, 260	eat / 吃	jɯ44	verb	Jianchuan	eat	5827	吃
+907	jɯ₄₄	Allen2007, 260	eat / 吃	jɯ44	verb	Eryuan	eat	5827	吃
+908	jɯ₄₄	Allen2007, 260	eat / 吃	jɯ44	verb	Heqi	eat	5827	吃
+909	jɯ₄₄	Allen2007, 260	eat / 吃	jɯ44	verb	Lanping	eat	5827	吃
+910	ɣɯ₃₃	Allen2007, 260	eat / 吃	ɣɯ33	verb	Qiliqiao	eat	5827	吃
+911	jɯ₄₄	Allen2007, 260	eat / 吃	jɯ44	verb	Yunlong	eat	5827	吃
+912	jou₄₄	Allen2007, 260	eat / 吃	jou44	verb	Xiangyun	eat	5827	吃
+913	ji₄₄	Allen2007, 260	eat / 吃	ji44	verb	Luobenzhuo	eat	5827	吃
+#
+914	sen₄₂	Wang2006a, 450	egg	sen42	?	Gongxing	egg	340828	?
+915	sɛ₄₃	Wang2006a, 450	egg	sE43	?	Enqi	egg	340828	?
+916	sɛ₄₂	Wang2006a, 450	egg	sɛ42	?	Ega	egg	340828	?
+917	sẽ₄₂	Wang2006a, 450	egg	sẽ42	?	Jinman	egg	340828	?
+918	sen₄₂	Wang2006a, 450	egg	sen42	?	Jinxing	egg	340828	?
+919	sen₄₂	Wang2006a, 450	egg	sen42	?	Dashi	egg	340828	?
+920	se₄₂	Wang2006a, 450	egg	se42	?	Zhoucheng	egg	340828	?
+921	sɛ₄₂	Wang2006a, 450	egg	sɛ42	?	Mazhelong	egg	340828	?
+922	se₄₂	Allen2007, 84	egg / 蛋	se42	?	Jianchuan	egg	340828	蛋
+923	se₄₂	Allen2007, 84	egg / 蛋	se42	?	Eryuan	egg	340828	蛋
+924	sẽ₄₂	Allen2007, 84	egg / 蛋	sẽ42	?	Heqi	egg	340828	蛋
+925	sɛ̃₄₂	Allen2007, 84	egg / 蛋	sɛ̃42	?	Lanping	egg	340828	蛋
+926	se₃₂	Allen2007, 84	egg / 蛋	se32	?	Qiliqiao	egg	340828	蛋
+927	sɛ₄₂	Allen2007, 84	egg / 蛋	sɛ42	?	Yunlong	egg	340828	蛋
+928	sẽ₄₂	Allen2007, 84	egg / 蛋	sẽ42	?	Xiangyun	egg	340828	蛋
+929	sæ̃₄₂	Allen2007, 84	egg / 蛋	sæ̃42	?	Luobenzhuo	egg	340828	蛋
+#
+930	t͡ɕo₄₂	Wang2006a, 804	eight	tɕo42	?	Tuoluo	eight	7005	?
+931	t͡ɕua₂₄	Wang2006a, 804	eight	tɕua24	?	Gongxing	eight	7005	?
+932	pia₅₅	Wang2006a, 804	eight	pia55	?	Enqi	eight	7005	?
+933	t͡ɕya₄₄	Wang2006a, 804	eight	tɕya44	?	Ega	eight	7005	?
+934	t͡ɕua₅₅	Wang2006a, 804	eight	tɕua55	?	Jinman	eight	7005	?
+935	pio₄₄?	Wang2006a, 804	eight	pio44?	?	Jinxing	eight	7005	?
+936	pia₄₄	Wang2006a, 804	eight	pia44	?	Dashi	eight	7005	?
+937	pia₄₄	Wang2006a, 804	eight	pia44	?	Zhoucheng	eight	7005	?
+938	pia₄₄	Wang2006a, 804	eight	pia44	?	Mazhelong	eight	7005	?
+939	pia₄₄	Allen2007, 457	eight / 八	pia44	?	Jianchuan	eight	7005	八
+940	pia₄₄	Allen2007, 457	eight / 八	pia44	?	Eryuan	eight	7005	八
+941	pia₄₄	Allen2007, 457	eight / 八	pia44	?	Heqi	eight	7005	八
+942	pia₄₄	Allen2007, 457	eight / 八	pia44	?	Lanping	eight	7005	八
+943	pia₄₄	Allen2007, 457	eight / 八	pia44	?	Qiliqiao	eight	7005	八
+944	pia₄₄	Allen2007, 457	eight / 八	pia44	?	Yunlong	eight	7005	八
+945	pia₄₄	Allen2007, 457	eight / 八	pia44	?	Xiangyun	eight	7005	八
+946	ʧua₄₄	Allen2007, 457	eight / 八	ʧua44	?	Luobenzhuo	eight	7005	八
+#
+947	uen₃₃	Wang2006a, 79	eye	uen33	?	Tuoluo	eye	5511	?
+948	uen₂₂	Wang2006a, 79	eye	uen22	?	Gongxing	eye	5511	?
+949	ŋui₂₂	Wang2006a, 79	eye	ŋui22	?	Enqi	eye	5511	?
+950	ŋui₂₂	Wang2006a, 79	eye	ŋui22	?	Ega	eye	5511	?
+951	mi₂₂	Wang2006a, 79	eye	mi22	?	Jinman	eye	5511	?
+952	uẽ₃₃	Wang2006a, 79	eye	uẽ33	?	Jinxing	eye	5511	?
+953	uẽ₃₃	Wang2006a, 79	eye	uẽ33	?	Dashi	eye	5511	?
+954	ue₃₃	Wang2006a, 79	eye	ue33	?	Zhoucheng	eye	5511	?
+955	ŋuɛ₃₃	Wang2006a, 79	eye	ŋuɛ33	?	Mazhelong	eye	5511	?
+956	wẽ₃₃	Allen2007, 127	eye / 眼	wẽ33	?	Jianchuan	eye	5511	眼
+957	ŋue₃₃	Allen2007, 127	eye / 眼	ŋue33	?	Eryuan	eye	5511	眼
+958	wẽ₃₃	Allen2007, 127	eye / 眼	wẽ33	?	Heqi	eye	5511	眼
+959	wẽ₄₄	Allen2007, 127	eye / 眼	wẽ44	?	Lanping	eye	5511	眼
+960	we₃₃	Allen2007, 127	eye / 眼	we33	?	Qiliqiao	eye	5511	眼
+961	ŋue₃₃	Allen2007, 127	eye / 眼	ŋue33	?	Yunlong	eye	5511	眼
+962	wẽ₃₃	Allen2007, 127	eye / 眼	wẽ33	?	Xiangyun	eye	5511	眼
+963	mi₃₃	Allen2007, 127	eye / 眼	mi33	?	Luobenzhuo	eye	5511	眼
+#
+964	u₄₂?	Wang2006a, 1274	to drop	(u42?)	verb	Tuoluo	fall down;drop	5622	?
+965	t͡ɕɛ₂₄	Wang2006a, 1274	to drop	tɕɛ24	verb	Gongxing	fall down;drop	5622	?
+966	dua₂₁	Wang2006a, 1274	to drop	dua21	verb	Enqi	fall down;drop	5622	?
+967	tua₄₂	Wang2006a, 1274	to drop	tua42	verb	Ega	fall down;drop	5622	?
+968	tua₄₂	Wang2006a, 1274	to drop	tua42	verb	Jinman	fall down;drop	5622	?
+969	tuɑ₄₂	Wang2006a, 1274	to drop	tuɑ42	verb	Jinxing	fall down;drop	5622	?
+970	nɚ₃₁	Wang2006a, 1274	to drop	(nɚ31)	verb	Dashi	fall down;drop	5622	?
+971	tua₄₂	Wang2006a, 1274	to drop	tua42	verb	Zhoucheng	fall down;drop	5622	?
+972	d͡ʑiaŋ₂₁	Wang2006a, 1274	to drop	(dʑiaŋ21)	verb	Mazhelong	fall down;drop	5622	?
+973	tuɛ₄₄fɛ̃₃₃	Allen2007, 285	fall down / 跌倒	tuɛ44fɛ̃33	verb	Jianchuan	fall down;drop	5622	跌倒
+974	to₄₄pa₄₄	Allen2007, 285	fall down / 跌倒	to44pa44	verb	Eryuan	fall down;drop	5622	跌倒
+975	tou₄₄	Allen2007, 285	fall down / 跌倒	tou44	verb	Heqi	fall down;drop	5622	跌倒
+976	tuɛ₄₄fɛ̃₃₃	Allen2007, 285	fall down / 跌倒	tuɛ44fɛ̃33	verb	Lanping	fall down;drop	5622	跌倒
+977	to₄₄xɯ₅₅	Allen2007, 285	fall down / 跌倒	to44xɯ55	verb	Qiliqiao	fall down;drop	5622	跌倒
+978	to₄₄fɛ₄₄	Allen2007, 285	fall down / 跌倒	to44fɛ44	verb	Yunlong	fall down;drop	5622	跌倒
+979	kũã₃₃t͡sʰɛ̃₃₃	Allen2007, 285	fall down / 跌倒	kũã33tsʰɛ̃33	verb	Xiangyun	fall down;drop	5622	跌倒
+980	tu₅₅xa₄₄	Allen2007, 285	fall down / 跌倒	tu55xa44	verb	Luobenzhuo	fall down;drop	5622	跌倒
+#
+981	tue₃₃	Wang2006a, 974	far	tue33	?	Tuoluo	far	5997	?
+982	tiuen₂₂	Wang2006a, 974	far	tiuen22	?	Gongxing	far	5997	?
+983	tyɛ₂₂	Wang2006a, 974	far	tyE22	?	Enqi	far	5997	?
+984	ti₂₂	Wang2006a, 974	far	ti22	?	Ega	far	5997	?
+985	tyi₂₂	Wang2006a, 974	far	tyi22	?	Jinman	far	5997	?
+986	tuen₃₃	Wang2006a, 974	far	tuen33	?	Jinxing	far	5997	?
+987	tuen₃₃	Wang2006a, 974	far	tuen33	?	Dashi	far	5997	?
+988	tue₃₃	Wang2006a, 974	far	tue33	?	Zhoucheng	far	5997	?
+989	t͡suen₃₃	Wang2006a, 974	far	tsuen33	?	Mazhelong	far	5997	?
+990	tũẽ₃₃	Allen2007, 396	far / 远	tũẽ33	?	Jianchuan	far	5997	远
+991	tue₃₃	Allen2007, 396	far / 远	tue33	?	Eryuan	far	5997	远
+992	tuẽ₃₃	Allen2007, 396	far / 远	tuẽ33	?	Heqi	far	5997	远
+993	tũẽ₄₄	Allen2007, 396	far / 远	tũẽ44	?	Lanping	far	5997	远
+994	tue₃₃	Allen2007, 396	far / 远	tue33	?	Qiliqiao	far	5997	远
+995	tue₃₃	Allen2007, 396	far / 远	tue33	?	Yunlong	far	5997	远
+996	tũẽ₃₃	Allen2007, 396	far / 远	tũẽ33	?	Xiangyun	far	5997	远
+997	dy₃₃	Allen2007, 396	far / 远	dy33	?	Luobenzhuo	far	5997	远
+#
+1261	t͡ʂi₅₅	Wang2006a, 445	grease, fat	tʂi55	?	Tuoluo	fat	5624	?
+1262	t͡ʂi₅₅	Wang2006a, 445	grease, fat	tʂi55	?	Gongxing	fat	5624	?
+1263	t͡sɿ₂₄	Wang2006a, 445	grease, fat	tsɿ24	?	Enqi	fat	5624	?
+1264	t͡sɛ₅₅	Wang2006a, 445	grease, fat	tsɛ55	?	Ega	fat	5624	?
+1265	t͡ʂi₅₅	Wang2006a, 445	grease, fat	tʂi55	?	Jinman	fat	5624	?
+1266	t͡si₅₅	Wang2006a, 445	grease, fat	tsi55	?	Jinxing	fat	5624	?
+1267	t͡ʂi₅₅	Wang2006a, 445	grease, fat	tʂi55	?	Dashi	fat	5624	?
+1268	t͡si₃₅	Wang2006a, 445	grease, fat	tsi35	?	Zhoucheng	fat	5624	?
+1269	t͡si₅₅	Wang2006a, 445	grease, fat	tsi55	?	Mazhelong	fat	5624	?
+1270	t͡sɿ₅₅	Allen2007, 198	animal oil / 动物油(脂肪)	tsɿ55	?	Jianchuan	fat	5624	动物油(脂肪)
+1271	t͡sɿ₃₅	Allen2007, 198	animal oil / 动物油(脂肪)	tsɿ35	?	Eryuan	fat	5624	动物油(脂肪)
+1272	t͡sɿ₅₅	Allen2007, 198	animal oil / 动物油(脂肪)	tsɿ55	?	Heqi	fat	5624	动物油(脂肪)
+1273	t͡sɿ₅₅	Allen2007, 198	animal oil / 动物油(脂肪)	tsɿ55	?	Lanping	fat	5624	动物油(脂肪)
+1274	t͡sɿ₃₅	Allen2007, 198	animal oil / 动物油(脂肪)	tsɿ35	?	Qiliqiao	fat	5624	动物油(脂肪)
+1275	t͡sɿ₃₅	Allen2007, 198	animal oil / 动物油(脂肪)	tsɿ35	?	Yunlong	fat	5624	动物油(脂肪)
+1276	t͡sɿ₃₅	Allen2007, 198	animal oil / 动物油(脂肪)	tsɿ35	?	Xiangyun	fat	5624	动物油(脂肪)
+1277	t͡ʂʅ₅₅	Allen2007, 198	animal oil / 动物油(脂肪)	tʂʅ55	?	Luobenzhuo	fat	5624	动物油(脂肪)
+#
+998	bo₃₃	Wang2006a, 218	father	bo33	?	Tuoluo	father	5464	?
+999	a₃₁ti₃₃	Allen2007, 162	father / 父亲	a31ti33	?	Jianchuan	father	5464	父亲
+1000	a₅₅ji₂₁	Allen2007, 162	father / 父亲	a55ji21	?	Eryuan	father	5464	父亲
+1001	ti₃₃	Allen2007, 162	father / 父亲	ti33	?	Heqi	father	5464	父亲
+1002	a₄₄ti₄₄	Allen2007, 162	father / 父亲	a44ti44	?	Lanping	father	5464	父亲
+1003	a₃₁ti₃₃	Allen2007, 162	father / 父亲	a31ti33	?	Qiliqiao	father	5464	父亲
+1004	a₅₅ti₃₃	Allen2007, 162	father / 父亲	a55ti33	?	Yunlong	father	5464	父亲
+1005	a₃₁ti₃₃	Allen2007, 162	father / 父亲	a31ti33	?	Xiangyun	father	5464	父亲
+1006	a₅₅bɔ₃₃	Allen2007, 162	father / 父亲	a55bɔ33	?	Luobenzhuo	father	5464	父亲
+#
+7182	kɛ̃₅₅	Allen2007, 347	fear / 怕	kɛ̃55	verb	Lanping	fear	6025	怕
+7179	kɛ̃₅₅	Allen2007, 347	fear / 怕	kɛ̃55	verb	Jianchuan	fear	6025	怕
+7180	kʲɛ₃₅	Allen2007, 347	fear / 怕	kʲɛ35	verb	Eryuan	fear	6025	怕
+7181	kɛ̃₅₅	Allen2007, 347	fear / 怕	kɛ̃55	verb	Heqi	fear	6025	怕
+7183	kɛ₃₅	Allen2007, 347	fear / 怕	kɛ35	verb	Qiliqiao	fear	6025	怕
+7184	kɛ₃₅	Allen2007, 347	fear / 怕	kɛ35	verb	Yunlong	fear	6025	怕
+7185	kʲɛ̃₃₅	Allen2007, 347	fear / 怕	kʲɛ̃35	verb	Xiangyun	fear	6025	怕
+7186	ci₅₅	Allen2007, 347	fear / 怕	ci55	verb	Luobenzhuo	fear	6025	怕
+#
+6075	ma₂₁	Allen2007, 86	feather,hair / 毛	ma21	?	Jianchuan	feather	5436	毛
+6076	ma₂₁	Allen2007, 86	feather,hair / 毛	ma21	?	Eryuan	feather	5436	毛
+6077	ma₂₁	Allen2007, 86	feather,hair / 毛	ma21	?	Heqi	feather	5436	毛
+6078	ma₂₁	Allen2007, 86	feather,hair / 毛	ma21	?	Lanping	feather	5436	毛
+6079	ma₂₁	Allen2007, 86	feather,hair / 毛	ma21	?	Qiliqiao	feather	5436	毛
+6080	ma₂₁	Allen2007, 86	feather,hair / 毛	ma21	?	Yunlong	feather	5436	毛
+6081	ma₂₁	Allen2007, 86	feather,hair / 毛	ma21	?	Xiangyun	feather	5436	毛
+6082	miɛ₂₁	Allen2007, 86	feather,hair / 毛	miɛ21	?	Luobenzhuo	feather	5436	毛
+#
+7438	ɕɔ₄₄	Allen2007, 399	few / 少	ɕɔ44	?	Lanping	few	5500	少
+7435	ɕo₃₃	Allen2007, 399	few / 少	ɕo33	?	Jianchuan	few	5500	少
+7436	ɕu₃₃	Allen2007, 399	few / 少	ɕu33	?	Eryuan	few	5500	少
+7437	ɕu₃₃	Allen2007, 399	few / 少	ɕu33	?	Heqi	few	5500	少
+7439	ɕo₃₃	Allen2007, 399	few / 少	ɕo33	?	Qiliqiao	few	5500	少
+7440	ɕu₃₃	Allen2007, 399	few / 少	ɕu33	?	Yunlong	few	5500	少
+7441	ɕu₃₃	Allen2007, 399	few / 少	ɕu33	?	Xiangyun	few	5500	少
+7442	ɕo₃₃	Allen2007, 399	few / 少	ɕo33	?	Luobenzhuo	few	5500	少
+#
+5103	tɔ₄₂	Wang2006a, 1234	fight	tɔ42	?	Tuoluo	fight	6030	?
+5104	taŋ₂₄	Wang2006a, 1234	fight	taŋ24	?	Gongxing	fight	6030	?
+5105	sa₂₄t͡sa₅₅	Wang2006a, 1234	fight	(sa24tsa55)	?	Enqi	fight	6030	?
+5106	so₅₅qa₂₁	Wang2006a, 1234	fight	(so55qa21)	?	Ega	fight	6030	?
+5107	so₅₅qã₄₂	Wang2006a, 1234	fight	(so55qã42)	?	Jinman	fight	6030	?
+5108	tan₄₄	Wang2006a, 1234	fight	tan44	?	Jinxing	fight	6030	?
+5109	tɚ̃₄₄	Wang2006a, 1234	fight	tɚ̃44	?	Dashi	fight	6030	?
+5110	tɛ₄₄	Wang2006a, 1234	fight	tɛ44	?	Zhoucheng	fight	6030	?
+5111	tɚ̃₄₄	Wang2006a, 1234	fight	tɚ̃44	?	Mazhelong	fight	6030	?
+#
+1041	xue₃₃	Wang2006a, 18	fire	xue33	?	Tuoluo	fire	1446	?
+1042	xuɛ₂₂	Wang2006a, 18	fire	xuɛ22	?	Gongxing	fire	1446	?
+1043	xui₂₂	Wang2006a, 18	fire	xui22	?	Enqi	fire	1446	?
+1044	fi₂₂	Wang2006a, 18	fire	fi22	?	Ega	fire	1446	?
+1045	fi₂₂	Wang2006a, 18	fire	fi22	?	Jinman	fire	1446	?
+1046	xui₃₃	Wang2006a, 18	fire	xui33	?	Jinxing	fire	1446	?
+1047	xui₃₃	Wang2006a, 18	fire	xui33	?	Dashi	fire	1446	?
+1048	xui₃₃	Wang2006a, 18	fire	xui33	?	Zhoucheng	fire	1446	?
+1049	fi₃₃	Wang2006a, 18	fire	fi33	?	Mazhelong	fire	1446	?
+1050	xue₃₃	Allen2007, 24	fire / 火	xue33	?	Jianchuan	fire	1446	火
+1051	xue₃₃	Allen2007, 24	fire / 火	xue33	?	Eryuan	fire	1446	火
+1052	xʰue₃₃	Allen2007, 24	fire / 火	xʰue33	?	Heqi	fire	1446	火
+1053	xue₄₄	Allen2007, 24	fire / 火	xue44	?	Lanping	fire	1446	火
+1054	xue₃₃	Allen2007, 24	fire / 火	xue33	?	Qiliqiao	fire	1446	火
+1055	xue₃₃	Allen2007, 24	fire / 火	xue33	?	Yunlong	fire	1446	火
+1056	xue₃₃	Allen2007, 24	fire / 火	xue33	?	Xiangyun	fire	1446	火
+1057	fi₃₃	Allen2007, 24	fire / 火	fi33	?	Luobenzhuo	fire	1446	火
+#
+1075	ŋɤ₅₅	Wang2006a, 351	fish	ŋv55	?	Tuoluo	fish	1460	?
+1076	ŋo₅₅	Wang2006a, 351	fish	ŋo55	?	Gongxing	fish	1460	?
+1077	ŋo₂₄	Wang2006a, 351	fish	ŋo24	?	Enqi	fish	1460	?
+1078	ŋu₅₅	Wang2006a, 351	fish	ŋu55	?	Ega	fish	1460	?
+1079	ŋu₅₅	Wang2006a, 351	fish	ŋu55	?	Jinman	fish	1460	?
+1080	ṃ₅₅	Wang2006a, 351	fish	ṃ55	?	Jinxing	fish	1460	?
+1081	võ₃₅	Wang2006a, 351	fish	võ35	?	Dashi	fish	1460	?
+1082	ŋo₃₅	Wang2006a, 351	fish	ŋo35	?	Zhoucheng	fish	1460	?
+1083	oŋ₅₅	Wang2006a, 351	fish	oŋ55	?	Mazhelong	fish	1460	?
+1084	ɤ̃₅₅	Allen2007, 69	fish / 鱼	ɤ̃55	?	Jianchuan	fish	1460	鱼
+1085	ɤ₃₅	Allen2007, 69	fish / 鱼	ɤ35	?	Eryuan	fish	1460	鱼
+1086	ũ₅₅	Allen2007, 69	fish / 鱼	ũ55	?	Heqi	fish	1460	鱼
+1087	ũ₅₅	Allen2007, 69	fish / 鱼	ũ55	?	Lanping	fish	1460	鱼
+1088	ŋɤ₃₅	Allen2007, 69	fish / 鱼	ŋɤ35	?	Qiliqiao	fish	1460	鱼
+1089	ŋɯ₃₅	Allen2007, 69	fish / 鱼	ŋɯ35	?	Yunlong	fish	1460	鱼
+1090	ŋɯ₃₅	Allen2007, 69	fish / 鱼	ŋɯ35	?	Xiangyun	fish	1460	鱼
+1091	ɴ̣₃₅	Allen2007, 69	fish / 鱼	ɴ̣35	?	Luobenzhuo	fish	1460	鱼
+#
+5425	pɯ₂₁	Wang2006a, 1553	float	pɯ21	?	Ega	float	6457	?
+5426	pɯ₂₁	Wang2006a, 1553	float	pɯ21	?	Jinman	float	6457	?
+5427	pɯ₂₁	Wang2006a, 1553	float	pɯ21	?	Jinxing	float	6457	?
+5428	pu₂₁	Wang2006a, 1553	float	pu21	?	Dashi	float	6457	?
+5429	pɯ₂₁	Wang2006a, 1553	float	pɯ21	?	Zhoucheng	float	6457	?
+5430	pǝɯ₂₁	Wang2006a, 1553	float	pǝɯ21	?	Mazhelong	float	6457	?
+5422	bɯ₃₅	Wang2006a, 1553	float	bɯ35	?	Tuoluo	float	6457	?
+5423	bu₁₂	Wang2006a, 1553	float	bu12	?	Gongxing	float	6457	?
+5424	bɯ₂₁	Wang2006a, 1553	float	bɯ21	?	Enqi	float	6457	?
+#
+6201	xo₃₅	Allen2007, 118	flower / 花	xo35	?	Xiangyun	flower	1487	花
+6195	xou₅₅	Allen2007, 118	flower / 花	xou55	?	Jianchuan	flower	1487	花
+6196	xɔ₃₅	Allen2007, 118	flower / 花	xɔ35	?	Eryuan	flower	1487	花
+6197	xuɔ₃₅	Allen2007, 118	flower / 花	xuɔ35	?	Heqi	flower	1487	花
+6198	xu₅₅	Allen2007, 118	flower / 花	xu55	?	Lanping	flower	1487	花
+6199	xuɔ₃₅	Allen2007, 118	flower / 花	xuɔ35	?	Qiliqiao	flower	1487	花
+6200	xao₃₃	Allen2007, 118	flower / 花	xao33	?	Yunlong	flower	1487	花
+6202	χu₅₅	Allen2007, 118	flower / 花	χu55	?	Luobenzhuo	flower	1487	花
+#
+1108	fɚ₅₅	Wang2006a, 1318	fly	fɚ55	verb	Tuoluo	fly	6052	?
+1109	pfu₅₅	Wang2006a, 1318	fly	pfu55	verb	Gongxing	fly	6052	?
+1110	fɛ₂₄	Wang2006a, 1318	fly	fE24	verb	Enqi	fly	6052	?
+1111	xuɛ₅₅	Wang2006a, 1318	fly	xuɛ55	verb	Ega	fly	6052	?
+1112	fi₅₅	Wang2006a, 1318	fly	fi55	verb	Jinman	fly	6052	?
+1113	fɤ₅₅	Wang2006a, 1318	fly	fv55	verb	Jinxing	fly	6052	?
+1114	fɤ₃₅	Wang2006a, 1318	fly	fv35	verb	Dashi	fly	6052	?
+1115	fɤ₃₅	Wang2006a, 1318	fly	fv35	verb	Zhoucheng	fly	6052	?
+1116	pi₅₅	Wang2006a, 1318	fly	pi55	verb	Mazhelong	fly	6052	?
+#
+5779	mɯ₂₁kõ₄₂	Allen2007, 13	fog / 雾	mɯ21kõ42	?	Jianchuan	fog	1502	雾
+5780	pɯ₃₁kɔ₂₁	Allen2007, 13	fog / 雾	pɯ31kɔ21	?	Eryuan	fog	1502	雾
+5781	mɯ₃₁kɔ̃₄₂	Allen2007, 13	fog / 雾	mɯ31kɔ̃42	?	Heqi	fog	1502	雾
+5783	u₅₅lu₅₅	Allen2007, 13	fog / 雾	u55lu55	?	Qiliqiao	fog	1502	雾
+5784	mɯ₃₁kao₄₂	Allen2007, 13	fog / 雾	mɯ31kao42	?	Yunlong	fog	1502	雾
+5785	mu₃₁kã₄₂	Allen2007, 13	fog / 雾	mu31kã42	?	Xiangyun	fog	1502	雾
+5786	mɯ̃₃₁kao₄₂	Allen2007, 13	fog / 雾	mɯ̃31kao42	?	Luobenzhuo	fog	1502	雾
+5782	nɔ̃₂₁kɔ̃₂₁wɛ̃₄₂	Allen2007, 13	fog / 雾	nɔ̃21kɔ̃21wɛ̃42	?	Lanping	fog	1502	雾
+#
+1117	ko₄₂	Wang2006a, 103	foot	ko42	?	Tuoluo	foot	5672	?
+1118	ku₂₄	Wang2006a, 103	foot	ku24	?	Gongxing	foot	5672	?
+1119	ku₅₅	Wang2006a, 103	foot	ku55	?	Enqi	foot	5672	?
+1120	ku₄₄	Wang2006a, 103	foot	ku44	?	Ega	foot	5672	?
+1121	ko₅₅	Wang2006a, 103	foot	ko55	?	Jinman	foot	5672	?
+1122	kou₄₄	Wang2006a, 103	foot	kou44	?	Jinxing	foot	5672	?
+1123	kou₄₄	Wang2006a, 103	foot	kou44	?	Dashi	foot	5672	?
+1124	ko₄₄	Wang2006a, 103	foot	ko44	?	Zhoucheng	foot	5672	?
+1125	ko₄₄	Wang2006a, 103	foot	ko44	?	Mazhelong	foot	5672	?
+1126	kou₄₄	Allen2007, 142	foot / 脚	kou44	?	Jianchuan	foot	5672	脚
+1127	ko₄₄	Allen2007, 142	foot / 脚	ko44	?	Eryuan	foot	5672	脚
+1128	kou₄₄	Allen2007, 142	foot / 脚	kou44	?	Heqi	foot	5672	脚
+1129	kɔ₅₅	Allen2007, 142	foot / 脚	kɔ55	?	Lanping	foot	5672	脚
+1130	ko₄₄	Allen2007, 142	foot / 脚	ko44	?	Qiliqiao	foot	5672	脚
+1131	ku₃₃	Allen2007, 142	foot / 脚	ku33	?	Yunlong	foot	5672	脚
+1132	kɔ₄₄	Allen2007, 142	foot / 脚	kɔ44	?	Xiangyun	foot	5672	脚
+1133	qu₅₅	Allen2007, 142	foot / 脚	qu55	?	Luobenzhuo	foot	5672	脚
+#
+3943	diɯ₂₁koŋ̯̥	Wang2006a, 50	forest	diɯ21koŋ̯̥	?	Tuoluo	forest	1533	?
+3944	dʐi₁₂goŋ₅₅	Wang2006a, 50	forest	dʐi12goŋ55	?	Gongxing	forest	1533	?
+3945	diɯ₄₃kɯ₄₃	Wang2006a, 50	forest	diɯ43kɯ43	?	Enqi	forest	1533	?
+3946	d͡ʑi₄₂kɯ₄₂	Wang2006a, 50	forest	dʑi42kɯ42	?	Ega	forest	1533	?
+3947	ɖɯ₄₂kɯ̃₄₂	Wang2006a, 50	forest	ɖɯ42kɯ̃42	?	Jinman	forest	1533	?
+3948	t͡sɯ₃₁suɑ̃₅₅	Wang2006a, 50	forest	tsɯ31suɑ̃55	?	Jinxing	forest	1533	?
+3949	t͡ʂɯ₂₁jɚ₅₅	Wang2006a, 50	forest	tʂɯ21jɚ55	?	Dashi	forest	1533	?
+3950	t͡sɯ₃₁sua₃₅	Wang2006a, 50	forest	tsɯ31sua35	?	Zhoucheng	forest	1533	?
+3951	ɕen₅₅koŋ₃₃	Wang2006a, 50	forest	ɕen55koŋ33	?	Mazhelong	forest	1533	?
+#
+1185	ɕioŋ₅₅	Wang2006a, 14	frost	ɕioŋ55	?	Tuoluo	frost	6042	?
+1186	soŋ₅₅	Wang2006a, 14	frost	soŋ55	?	Gongxing	frost	6042	?
+1187	ɕio₂₄	Wang2006a, 14	frost	ɕio24	?	Enqi	frost	6042	?
+1188	ɕuoŋ₅₅	Wang2006a, 14	frost	ɕuoŋ55	?	Ega	frost	6042	?
+1189	ɕiõ₅₅	Wang2006a, 14	frost	ɕiõ55	?	Jinman	frost	6042	?
+1190	sõ₅₅	Wang2006a, 14	frost	sõ55	?	Jinxing	frost	6042	?
+1191	ʂou₄₄	Wang2006a, 14	frost	ʂou44	?	Dashi	frost	6042	?
+1192	sou₅₅	Wang2006a, 14	frost	sou55	?	Zhoucheng	frost	6042	?
+1193	soŋ₅₅	Wang2006a, 14	frost	soŋ55	?	Mazhelong	frost	6042	?
+1194	sõ₅₅	Allen2007, 12	frost / 霜	sõ55	?	Jianchuan	frost	6042	霜
+1195	ʂɔ₅₅	Allen2007, 12	frost / 霜	ʂɔ55	?	Eryuan	frost	6042	霜
+1196	sʰɔu₅₅	Allen2007, 12	frost / 霜	sʰɔu55	?	Heqi	frost	6042	霜
+1197	sõ₅₅	Allen2007, 12	frost / 霜	sõ55	?	Lanping	frost	6042	霜
+1198	so₅₅	Allen2007, 12	frost / 霜	so55	?	Qiliqiao	frost	6042	霜
+1199	so₃₃	Allen2007, 12	frost / 霜	so33	?	Yunlong	frost	6042	霜
+1200	sou₅₅	Allen2007, 12	frost / 霜	sou55	?	Xiangyun	frost	6042	霜
+1201	ɕõ₃₃	Allen2007, 12	frost / 霜	ɕõ33	?	Luobenzhuo	frost	6042	霜
+#
+6209	kʰo₃₃	Allen2007, 119	fruit / 果	kʰo33	?	Xiangyun	fruit	6280	果
+6210	bo₅₅qʰao₃₃	Allen2007, 119	fruit / 果	bo55qʰao33	?	Luobenzhuo	fruit	6280	果
+6203	kou₃₃	Allen2007, 119	fruit / 果	kou33	?	Jianchuan	fruit	6280	果
+6204	kʰɔ₃₃	Allen2007, 119	fruit / 果	kʰɔ33	?	Eryuan	fruit	6280	果
+6205	kʰuɔ₃₃	Allen2007, 119	fruit / 果	kʰuɔ33	?	Heqi	fruit	6280	果
+6206	kʰu₃₃	Allen2007, 119	fruit / 果	kʰu33	?	Lanping	fruit	6280	果
+6207	kʰuɔ₃₃	Allen2007, 119	fruit / 果	kʰuɔ33	?	Qiliqiao	fruit	6280	果
+6208	kʰao₃₃	Allen2007, 119	fruit / 果	kʰao33	?	Yunlong	fruit	6280	果
+#
+7475	ma₃₃	Allen2007, 412	full / 满	ma33	?	Jianchuan	full	6040	满
+7476	ma₃₃	Allen2007, 412	full / 满	ma33	?	Eryuan	full	6040	满
+7478	ma₃₃	Allen2007, 412	full / 满	ma33	?	Lanping	full	6040	满
+7479	ma₂₁	Allen2007, 412	full / 满	ma21	?	Qiliqiao	full	6040	满
+7480	ma₃₃	Allen2007, 412	full / 满	ma33	?	Yunlong	full	6040	满
+7481	ma₃₃	Allen2007, 412	full / 满	ma33	?	Xiangyun	full	6040	满
+7482	mĩɛ̃₃₃	Allen2007, 412	full / 满	mĩɛ̃33	?	Luobenzhuo	full	6040	满
+7477	ma₃₃	Allen2007, 412	full / 满	ma33	?	Heqi	full	6040	满
+#
+1218	zi₂₁	Wang2006a, 1345	give	zi21	verb	Tuoluo	give	6059	?
+1219	zi₄₂	Wang2006a, 1345	give	zi42	verb	Gongxing	give	6059	?
+1220	t͡sɿ₄₃	Wang2006a, 1345	give	tsɿ43	verb	Enqi	give	6059	?
+1221	zi₄₂	Wang2006a, 1345	give	zi42	verb	Ega	give	6059	?
+1222	zi₄₂	Wang2006a, 1345	give	zi42	verb	Jinman	give	6059	?
+1223	si₃₁	Wang2006a, 1345	give	si31	verb	Jinxing	give	6059	?
+1224	zi₂₁	Wang2006a, 1345	give	zi21	verb	Dashi	give	6059	?
+1225	zɯ₄₂	Wang2006a, 1345	give	zɯ42	verb	Zhoucheng	give	6059	?
+1226	zǝɯ₂₁	Wang2006a, 1345	give	zǝɯ21	verb	Mazhelong	give	6059	?
+#
+1244	diaŋ₃₅	Wang2006a, 1052	good	diaŋ35	?	Tuoluo	good	443659	?
+1245	d͡zan₁₂	Wang2006a, 1052	good	dzan12	?	Gongxing	good	443659	?
+1246	diæ₂₁	Wang2006a, 1052	good	diæ21	?	Enqi	good	443659	?
+1247	xo₅₅	Wang2006a, 1052	good	xo55	?	Ega	good	443659	?
+1248	xo₂₂	Wang2006a, 1052	good	xo22	?	Jinman	good	443659	?
+1249	xu₃₃	Wang2006a, 1052	good	xu33	?	Jinxing	good	443659	?
+1250	xu₃₃	Wang2006a, 1052	good	xu33	?	Dashi	good	443659	?
+1251	xu₃₃	Wang2006a, 1052	good	xu33	?	Zhoucheng	good	443659	?
+1252	xǝ₃₃	Wang2006a, 1052	good	xǝ33	?	Mazhelong	good	443659	?
+1253	t͡ɕʰõ₅₅	Allen2007, 416	good / 好	tɕʰõ55/ɕo31/xu33	?	Jianchuan	good	443659	好
+1254	fe₃₅	Allen2007, 416	good / 好	fe35	?	Eryuan	good	443659	好
+1255	xu₃₃	Allen2007, 416	good / 好	xu33	?	Heqi	good	443659	好
+1256	ɕo₄₂	Allen2007, 416	good / 好	ɕo42/xu33	?	Lanping	good	443659	好
+1257	xu₃₃	Allen2007, 416	good / 好	xu33	?	Qiliqiao	good	443659	好
+1258	xu₃₃	Allen2007, 416	good / 好	xu33	?	Yunlong	good	443659	好
+1259	xu₃₃	Allen2007, 416	good / 好	xu33	?	Xiangyun	good	443659	好
+1260	xɯ̃₃₃	Allen2007, 416	good / 好	xɯ̃33/ɴ̣33	?	Luobenzhuo	good	443659	好
+#
+6179	t͡sʰu₃₃	Allen2007, 112	grass / 草	tsʰu33	?	Jianchuan	grass	1675	草
+6180	t͡sʰɔ₃₃	Allen2007, 112	grass / 草	tsʰɔ33	?	Eryuan	grass	1675	草
+6181	t͡sʰu₃₃	Allen2007, 112	grass / 草	tsʰu33	?	Heqi	grass	1675	草
+6182	t͡sʰu₃₃	Allen2007, 112	grass / 草	tsʰu33	?	Lanping	grass	1675	草
+6183	ʧʰu₃₃	Allen2007, 112	grass / 草	ʧʰu33	?	Qiliqiao	grass	1675	草
+6184	t͡sʰu₃₃	Allen2007, 112	grass / 草	tsʰu33	?	Yunlong	grass	1675	草
+6185	t͡sʰu₃₃	Allen2007, 112	grass / 草	tsʰu33	?	Xiangyun	grass	1675	草
+6186	ʧʰʊ₄₄	Allen2007, 112	grass / 草	ʧʰʊ44	?	Luobenzhuo	grass	1675	草
+#
+7469	luɔ₄₄	Allen2007, 411	green / 绿	luɔ44	?	Heqi	green	6032	绿
+7473	lɯ₄₄	Allen2007, 411	green / 绿	lɯ44	?	Xiangyun	green	6032	绿
+7472	lɤ₃₃	Allen2007, 411	green / 绿	lɤ33	?	Yunlong	green	6032	绿
+7467	lu₄₄	Allen2007, 411	green / 绿	lu44	?	Jianchuan	green	6032	绿
+7468	lɤ₄₄	Allen2007, 411	green / 绿	lɤ44	?	Eryuan	green	6032	绿
+7470	lao₄₄	Allen2007, 411	green / 绿	lao44	?	Lanping	green	6032	绿
+7471	nɤ₃₃	Allen2007, 411	green / 绿	nɤ33	?	Qiliqiao	green	6032	绿
+7474	pa₄₄t͡ɕʰã₃₁	Allen2007, 411	green / 绿	pa44tɕʰã31	?	Luobenzhuo	green	6032	绿
+#
+7365	tɔu₄₂	Allen2007, 377	grow(of people) / 长（长大）	tɔu42	?	Heqi	grow(of people)	154737	长（长大）
+7366	to₃₁kʰɯ₅₅	Allen2007, 377	grow(of people) / 长（长大）	to31kʰɯ55	?	Lanping	grow(of people)	154737	长（长大）
+7369	kuɔ₃₅	Allen2007, 377	grow(of people) / 长（长大）	kuɔ35	?	Xiangyun	grow(of people)	154737	长（长大）
+7370	dao₄₂	Allen2007, 377	grow(of people) / 长（长大）	dao42	?	Luobenzhuo	grow(of people)	154737	长（长大）
+7368	kɔ₃₅dao₃₁	Allen2007, 377	grow(of people) / 长（长大）	kɔ35dao31	?	Yunlong	grow(of people)	154737	长（长大）
+7367	kuɔ₃₅	Allen2007, 377	grow(of people) / 长（长大）	kuɔ35	?	Qiliqiao	grow(of people)	154737	长（长大）
+7363	kou₅₅	Allen2007, 377	grow(of people) / 长（长大）	kou55/tou42	?	Jianchuan	grow(of people)	154737	长（长大）
+7364	kɔ₃₅	Allen2007, 377	grow(of people) / 长（长大）	kɔ35	?	Eryuan	grow(of people)	154737	长（长大）
+#
+1295	diɯ₃₅me₅₅	Wang2006a, 75	hair	[diɯ35me55]	?	Tuoluo	hair	446278	?
+1296	di₂₄miɛ₁₂	Wang2006a, 75	hair	[di24miɛ12]	?	Gongxing	hair	446278	?
+1297	tiɯ₂₁miɛ₂₄	Wang2006a, 75	hair	[tiɯ21miE24]	?	Enqi	hair	446278	?
+1298	ti₂₁mi₅₅	Wang2006a, 75	hair	[ti21mi55]	?	Ega	hair	446278	?
+1299	ʈe₂₁me₅₅	Wang2006a, 75	hair	[ʈe21me55]	?	Jinman	hair	446278	?
+1300	ɕɔ₄₄	Wang2006a, 75	hair	ɕɔ44	?	Jinxing	hair	446278	?
+1301	ɕa₄₄	Wang2006a, 75	hair	ɕa44	?	Dashi	hair	446278	?
+1302	tɯ₂₁ma₃₅	Wang2006a, 75	hair	[tɯ21ma35]	?	Zhoucheng	hair	446278	?
+1303	tɛ₂₁mɛ	Wang2006a, 75	hair	[tɛ21mɛ]	?	Mazhelong	hair	446278	?
+1304	tɯ₂₁ma₅₅	Allen2007, 125	hair / 头发	tɯ21ma55	?	Jianchuan	hair	446278	头发
+1305	tɯ₂₁ma₃₅	Allen2007, 125	hair / 头发	tɯ21ma35	?	Eryuan	hair	446278	头发
+1306	ɕa₄₄	Allen2007, 125	hair / 头发	ɕa44	?	Heqi	hair	446278	头发
+1307	tiɯ₃₃ma₅₅	Allen2007, 125	hair / 头发	tiɯ33ma55	?	Lanping	hair	446278	头发
+1308	tɯ₂₁ma₃₅	Allen2007, 125	hair / 头发	tɯ21ma35	?	Qiliqiao	hair	446278	头发
+1309	dɯ₂₁ma₃₅	Allen2007, 125	hair / 头发	dɯ21ma35	?	Yunlong	hair	446278	头发
+1310	tou₂₁ma₃₅	Allen2007, 125	hair / 头发	tou21ma35	?	Xiangyun	hair	446278	头发
+1311	te₃₁me₅₅	Allen2007, 125	hair / 头发	te31me55	?	Luobenzhuo	hair	446278	头发
+#
+1312	ɕiɯ₃₃	Wang2006a, 107	hand	ɕiɯ33	?	Tuoluo	hand	5616	?
+1313	ʂi₂₂	Wang2006a, 107	hand	ʂi22	?	Gongxing	hand	5616	?
+1314	ɕiɯ₂₂	Wang2006a, 107	hand	ɕiɯ22	?	Enqi	hand	5616	?
+1315	ɕi₂₂	Wang2006a, 107	hand	ɕi22	?	Ega	hand	5616	?
+1316	ɕi₂₂	Wang2006a, 107	hand	ɕi22	?	Jinman	hand	5616	?
+1317	sɯ₃₃	Wang2006a, 107	hand	sɯ33	?	Jinxing	hand	5616	?
+1318	ʂʰɯ₃₃	Wang2006a, 107	hand	ʂʰɯ33	?	Dashi	hand	5616	?
+1319	sɯ₃₃	Wang2006a, 107	hand	sɯ33	?	Zhoucheng	hand	5616	?
+1320	sǝɯ₃₃	Wang2006a, 107	hand	sǝɯ33	?	Mazhelong	hand	5616	?
+1321	sɯ₃₃	Allen2007, 135	hand / 手	sɯ33	?	Jianchuan	hand	5616	手
+1322	ʂɯ₃₃	Allen2007, 135	hand / 手	ʂɯ33	?	Eryuan	hand	5616	手
+1323	sʰɯ₃₃	Allen2007, 135	hand / 手	sʰɯ33	?	Heqi	hand	5616	手
+1324	sɯ₃₃pʰao₃₃	Allen2007, 135	hand / 手	sɯ33pʰao33	?	Lanping	hand	5616	手
+1325	sɯ₃₃	Allen2007, 135	hand / 手	sɯ33	?	Qiliqiao	hand	5616	手
+1326	ʃɤ₃₃	Allen2007, 135	hand / 手	ʃɤ33	?	Yunlong	hand	5616	手
+1327	sou₃₃	Allen2007, 135	hand / 手	sou33	?	Xiangyun	hand	5616	手
+1328	ɕi₃₃	Allen2007, 135	hand / 手	ɕi33	?	Luobenzhuo	hand	5616	手
+#
+1346	diɯ₃₅	Wang2006a, 74	head	diɯ35	?	Tuoluo	head	5527	?
+1347	di₂₁	Wang2006a, 74	head	di21	?	Gongxing	head	5527	?
+1348	tiu₂₁	Wang2006a, 74	head	tiu21	?	Enqi	head	5527	?
+1349	t͡ɕu₂₂	Wang2006a, 74	head	tɕu22	?	Ega	head	5527	?
+1350	ʈo₂₂	Wang2006a, 74	head	ʈo22	?	Jinman	head	5527	?
+1351	tǝ₃₁	Wang2006a, 74	head	tǝ31	?	Jinxing	head	5527	?
+1352	ti₄₂	Wang2006a, 74	head	ti42	?	Dashi	head	5527	?
+1353	tɯ₃₁	Wang2006a, 74	head	tɯ31	?	Zhoucheng	head	5527	?
+1354	ta₄₂	Wang2006a, 74	head	ta42	?	Mazhelong	head	5527	?
+1355	tɯ₂₁po₂₁	Allen2007, 124	head / 头	tɯ21po21	?	Jianchuan	head	5527	头
+1356	tɯ₂₁pɔ₂₁	Allen2007, 124	head / 头	tɯ21pɔ21	?	Eryuan	head	5527	头
+1357	tɯ₂₁pɔ₂₁	Allen2007, 124	head / 头	tɯ21pɔ21	?	Heqi	head	5527	头
+1358	tiɯ₃₃pao₃₁	Allen2007, 124	head / 头	tiɯ33pao31	?	Lanping	head	5527	头
+1359	tɯ₂₁pɔ₂₁	Allen2007, 124	head / 头	tɯ21pɔ21	?	Qiliqiao	head	5527	头
+1360	dɯ₂₁pao₂₁	Allen2007, 124	head / 头	dɯ21pao21	?	Yunlong	head	5527	头
+1361	tou₂₁po₂₁	Allen2007, 124	head / 头	tou21po21	?	Xiangyun	head	5527	头
+1362	ʈʊ₃₃pao₃₁	Allen2007, 124	head / 头	ʈʊ33pao31	?	Luobenzhuo	head	5527	头
+#
+1363	ɕien₅₅	Wang2006a, 144	heart	ɕien55	?	Tuoluo	heart	5475	?
+1364	ɕin₅₅	Wang2006a, 144	heart	ɕin55	?	Gongxing	heart	5475	?
+1365	si₂₄	Wang2006a, 144	heart	si24	?	Enqi	heart	5475	?
+1366	sɛ₅₅	Wang2006a, 144	heart	sɛ55	?	Ega	heart	5475	?
+1367	sẽ₅₅	Wang2006a, 144	heart	sẽ55	?	Jinman	heart	5475	?
+1368	ɕien₅₅	Wang2006a, 144	heart	ɕien55	?	Jinxing	heart	5475	?
+1369	ɕien₅₅	Wang2006a, 144	heart	ɕien55	?	Dashi	heart	5475	?
+1370	ɕi₃₅	Wang2006a, 144	heart	ɕi35	?	Zhoucheng	heart	5475	?
+1371	ɕen₅₅	Wang2006a, 144	heart	ɕen55	?	Mazhelong	heart	5475	?
+1372	ɕĩ₅₅	Allen2007, 149	heart / 心	ɕĩ55	?	Jianchuan	heart	5475	心
+1373	ɕi₅₅	Allen2007, 149	heart / 心	ɕi55	?	Eryuan	heart	5475	心
+1374	ɕʰĩ₅₅	Allen2007, 149	heart / 心	ɕʰĩ55	?	Heqi	heart	5475	心
+1375	ɕĩ₅₅	Allen2007, 149	heart / 心	ɕĩ55	?	Lanping	heart	5475	心
+1376	ɕi₃₅	Allen2007, 149	heart / 心	ɕi35	?	Qiliqiao	heart	5475	心
+1377	se₅₅	Allen2007, 149	heart / 心	se55	?	Yunlong	heart	5475	心
+1378	ɕĩ₅₅	Allen2007, 149	heart / 心	ɕĩ55	?	Xiangyun	heart	5475	心
+1379	sẽ₅₅	Allen2007, 149	heart / 心	sẽ55	?	Luobenzhuo	heart	5475	心
+#
+1380	ʐɤŋ₃₃	Wang2006a, 1014	heavy	ʐvŋ33	?	Tuoluo	heavy	5451	?
+1381	d͡zoŋ₂₂	Wang2006a, 1014	heavy	dzoŋ22	?	Gongxing	heavy	5451	?
+1382	dʐo₂₂	Wang2006a, 1014	heavy	dʐo22	?	Enqi	heavy	5451	?
+1383	d͡ʑo₂₂	Wang2006a, 1014	heavy	dʑo22	?	Ega	heavy	5451	?
+1384	d͡ʑõ₂₂	Wang2006a, 1014	heavy	dʑõ22	?	Jinman	heavy	5451	?
+1385	t͡sɤ̃₃₃	Wang2006a, 1014	heavy	tsṽ33	?	Jinxing	heavy	5451	?
+1386	t͡ʂo|n₃₃	Wang2006a, 1014	heavy	tʂo|n33	?	Dashi	heavy	5451	?
+1387	t͡sɤ₃₃	Wang2006a, 1014	heavy	tsv33	?	Zhoucheng	heavy	5451	?
+1388	t͡sõ₂₁	Wang2006a, 1014	heavy	tsõ21	?	Mazhelong	heavy	5451	?
+1389	t͡sɤ̃₃₃	Allen2007, 402	heavy / 重	tsɤ̃33	?	Jianchuan	heavy	5451	重
+1390	t͡ʂɤ₃₃	Allen2007, 402	heavy / 重	tʂɤ33	?	Eryuan	heavy	5451	重
+1391	t͡sũɔ̃₃₃	Allen2007, 402	heavy / 重	tsũɔ̃33	?	Heqi	heavy	5451	重
+1392	t͡sõ₃₃	Allen2007, 402	heavy / 重	tsõ33	?	Lanping	heavy	5451	重
+1393	t͡sɤ₃₃	Allen2007, 402	heavy / 重	tsɤ33	?	Qiliqiao	heavy	5451	重
+1394	d͡zɤ₃₃	Allen2007, 402	heavy / 重	dzɤ33	?	Yunlong	heavy	5451	重
+1395	jɛ̃₃₃	Allen2007, 402	heavy / 重	jɛ̃33	?	Xiangyun	heavy	5451	重
+1396	ʥɔ̃₃₃	Allen2007, 402	heavy / 重	ʥɔ̃33	?	Luobenzhuo	heavy	5451	重
+#
+7756	a₅₅ta₄₄	Allen2007, 485	here / 这里	a55ta44	?	Eryuan	here	1287831	这里
+7757	ta₄₄lɯ₃₃	Allen2007, 485	here / 这里	ta44lɯ33	?	Heqi	here	1287831	这里
+7758	a₅₅la₅₅	Allen2007, 485	here / 这里	a55la55	?	Lanping	here	1287831	这里
+7759	a₅₅ta₄₄	Allen2007, 485	here / 这里	a55ta44	?	Qiliqiao	here	1287831	这里
+7760	a₅₅ta₄₄	Allen2007, 485	here / 这里	a55ta44	?	Yunlong	here	1287831	这里
+7761	a₅₅ta₄₄	Allen2007, 485	here / 这里	a55ta44	?	Xiangyun	here	1287831	这里
+7755	a₅₅ta₄₄	Allen2007, 485	here / 这里	a55ta44	?	Jianchuan	here	1287831	这里
+7762	nɔ₄₄pæ̃₅₅xɯ̃₃₃	Allen2007, 485	here / 这里	nɔ44pæ̃55xɯ̃33	?	Luobenzhuo	here	1287831	这里
+#
+1411	zoŋ₃₅	Wang2006a, 1169	hide	zoŋ35	verb	Tuoluo	hide	161806	?
+1412	d͡zoŋ₁₂	Wang2006a, 1169	hide	dzoŋ12	verb	Gongxing	hide	161806	?
+1413	t͡so₂₁	Wang2006a, 1169	hide	tso21	verb	Enqi	hide	161806	?
+1414	t͡su₂₁	Wang2006a, 1169	hide	tsu21	verb	Ega	hide	161806	?
+1415	t͡sõ₄₂	Wang2006a, 1169	hide	tsõ42	verb	Jinman	hide	161806	?
+1416	t͡sõ₂₁	Wang2006a, 1169	hide	tsõ21	verb	Jinxing	hide	161806	?
+1417	t͡soŋ₂₁	Wang2006a, 1169	hide	tsoŋ21	verb	Dashi	hide	161806	?
+1418	t͡sou₂₁	Wang2006a, 1169	hide	tsou21	verb	Zhoucheng	hide	161806	?
+1419	t͡soŋ₂₁	Wang2006a, 1169	hide	tsoŋ21	verb	Mazhelong	hide	161806	?
+1420	t͡sõ₂₁	Allen2007, 326	hide / 藏	tsõ21	verb	Jianchuan	hide	161806	藏
+1421	t͡sɔ₂₁	Allen2007, 326	hide / 藏	tsɔ21	verb	Eryuan	hide	161806	藏
+1422	t͡sɔ̃u₂₁	Allen2007, 326	hide / 藏	tsɔ̃u21	verb	Heqi	hide	161806	藏
+1423	t͡sɔ̃₂₁	Allen2007, 326	hide / 藏	tsɔ̃21	verb	Lanping	hide	161806	藏
+1424	t͡so₂₁	Allen2007, 326	hide / 藏	tso21	verb	Qiliqiao	hide	161806	藏
+1425	t͡sɔ₂₁	Allen2007, 326	hide / 藏	tsɔ21	verb	Yunlong	hide	161806	藏
+1426	t͡sã₂₁	Allen2007, 326	hide / 藏	tsã21	verb	Xiangyun	hide	161806	藏
+1427	t͡sɔ̃₃₁	Allen2007, 326	hide / 藏	tsɔ̃31	verb	Luobenzhuo	hide	161806	藏
+#
+6811	po₄₄	Allen2007, 270	hit(table) / 拍（桌子）	po44	?	Jianchuan	hit(table)	6044	拍（桌子）
+6812	po₄₄	Allen2007, 270	hit(table) / 拍（桌子）	po44	?	Eryuan	hit(table)	6044	拍（桌子）
+6813	pɔu₄₄	Allen2007, 270	hit(table) / 拍（桌子）	pɔu44	?	Heqi	hit(table)	6044	拍（桌子）
+6814	pao₄₄	Allen2007, 270	hit(table) / 拍（桌子）	pao44	?	Lanping	hit(table)	6044	拍（桌子）
+6815	po₄₄	Allen2007, 270	hit(table) / 拍（桌子）	po44	?	Qiliqiao	hit(table)	6044	拍（桌子）
+6816	po₄₄	Allen2007, 270	hit(table) / 拍（桌子）	po44	?	Yunlong	hit(table)	6044	拍（桌子）
+6817	pɔu₄₄	Allen2007, 270	hit(table) / 拍（桌子）	pɔu44	?	Xiangyun	hit(table)	6044	拍（桌子）
+6818	po₃₃	Allen2007, 270	hit(table) / 拍（桌子）	po33	?	Luobenzhuo	hit(table)	6044	拍（桌子）
+#
+6803	ne₄₄	Allen2007, 269	hold / 拿	ne44	verb	Jianchuan	hold;take	6060	拿
+6804	na₃₅	Allen2007, 269	hold / 拿	na35	verb	Eryuan	hold;take	6060	拿
+6806	tã₅₅	Allen2007, 269	hold / 拿	tã55/nẽ55	verb	Lanping	hold;take	6060	拿
+6807	ne₄₄	Allen2007, 269	hold / 拿	ne44	verb	Qiliqiao	hold;take	6060	拿
+6808	la₅₅	Allen2007, 269	hold / 拿	la55	verb	Yunlong	hold;take	6060	拿
+6809	kã₃₃	Allen2007, 269	hold / 拿	kã33	verb	Xiangyun	hold;take	6060	拿
+6810	qʰæ₅₅	Allen2007, 269	hold / 拿	qʰæ55	verb	Luobenzhuo	hold;take	6060	拿
+6805	kʰe₄₄	Allen2007, 269	hold / 拿	kʰe44	verb	Heqi	hold;take	6060	拿
+#
+1462	qo₄₂	Wang2006a, 263	horn	qo42	?	Tuoluo	horn	5981	?
+1463	qao₂₄	Wang2006a, 263	horn	qao24	?	Gongxing	horn	5981	?
+1464	qo₅₅	Wang2006a, 263	horn	qo55	?	Enqi	horn	5981	?
+1465	qo₄₄	Wang2006a, 263	horn	qo44	?	Ega	horn	5981	?
+1466	qo₅₅	Wang2006a, 263	horn	qo55	?	Jinman	horn	5981	?
+1467	kɤ₄₄	Wang2006a, 263	horn	kv44	?	Jinxing	horn	5981	?
+1468	ko₄₄	Wang2006a, 263	horn	ko44	?	Dashi	horn	5981	?
+1469	kɤ₄₄	Wang2006a, 263	horn	kv44	?	Zhoucheng	horn	5981	?
+1470	koŋ₄₄	Wang2006a, 263	horn	koŋ44	?	Mazhelong	horn	5981	?
+1471	kɤ₄₄	Allen2007, 87	horn / 角	kɤ44	?	Jianchuan	horn	5981	角
+1472	kɤ₄₄	Allen2007, 87	horn / 角	kɤ44	?	Eryuan	horn	5981	角
+1473	kuɔ₄₄	Allen2007, 87	horn / 角	kuɔ44	?	Heqi	horn	5981	角
+1474	ko₅₅	Allen2007, 87	horn / 角	ko55	?	Lanping	horn	5981	角
+1475	kɤ₄₄	Allen2007, 87	horn / 角	kɤ44	?	Qiliqiao	horn	5981	角
+1476	kɤ₄₄	Allen2007, 87	horn / 角	kɤ44	?	Yunlong	horn	5981	角
+1477	kɯ₃₃	Allen2007, 87	horn / 角	kɯ33	?	Xiangyun	horn	5981	角
+1478	qõ₅₅	Allen2007, 87	horn / 角	qõ55	?	Luobenzhuo	horn	5981	角
+#
+1513	hɔ₂₁	Wang2006a, 494	house	hɔ21	?	Tuoluo	house	5517	?
+1514	ha₄₂	Wang2006a, 494	house	ha42	?	Gongxing	house	5517	?
+1515	xo₄₃	Wang2006a, 494	house	xo43	?	Enqi	house	5517	?
+1516	xo₄₂	Wang2006a, 494	house	xo42	?	Ega	house	5517	?
+1517	xo₄₂	Wang2006a, 494	house	xo42	?	Jinman	house	5517	?
+1518	xou₃₁	Wang2006a, 494	house	xou31	?	Jinxing	house	5517	?
+1519	xou₃₁	Wang2006a, 494	house	xou31	?	Dashi	house	5517	?
+1520	ho₃₁	Wang2006a, 494	house	ho31	?	Zhoucheng	house	5517	?
+1521	xo₂₁	Wang2006a, 494	house	xo21	?	Mazhelong	house	5517	?
+1522	xou₂₁	Allen2007, 168	house / 房	xou21	?	Jianchuan	house	5517	房
+1523	xɔ₂₁	Allen2007, 168	house / 房	xɔ21	?	Eryuan	house	5517	房
+1524	xʰɔu₃₁	Allen2007, 168	house / 房	xʰɔu31	?	Heqi	house	5517	房
+1525	xo₃₁kjɛ̃₅₅	Allen2007, 168	house / 房	xo31kjɛ̃55	?	Lanping	house	5517	房
+1526	xɔ₂₁	Allen2007, 168	house / 房	xɔ21	?	Qiliqiao	house	5517	房
+1527	xao₂₁	Allen2007, 168	house / 房	xao21	?	Yunlong	house	5517	房
+1528	xɔ₂₁	Allen2007, 168	house / 房	xɔ21	?	Xiangyun	house	5517	房
+1529	xɔ₄₂	Allen2007, 168	house / 房	xɔ42	?	Luobenzhuo	house	5517	房
+#
+7807	i₄₄mɯ₄₄	Allen2007, 491	how / 怎样	i44mɯ44	?	Yunlong	how	5494	怎样
+7804	t͡sɿ₅₅kɛ₂₁	Allen2007, 491	how / 怎样	tsɿ55kɛ21	?	Heqi	how	5494	怎样
+7805	i₅₅kɛ₃₁	Allen2007, 491	how / 怎样	i55kɛ31	?	Lanping	how	5494	怎样
+7808	t͡ʂɛ̃₅₅me₃₃xe₃₃	Allen2007, 491	how / 怎样	tʂɛ̃55me33xe33	?	Luobenzhuo	how	5494	怎样
+7803	t͡sɿ₅₅kɛ₂₁	Allen2007, 491	how / 怎样	tsɿ55kɛ21	?	Jianchuan	how	5494	怎样
+7806	t͡sɿ₅₅mɯ₅₅ne₃₁	Allen2007, 491	how / 怎样	tsɿ55mɯ55ne31	?	Qiliqiao	how	5494	怎样
+#
+1530	pa₄₂	Wang2006a, 824	hundred	pa42	?	Tuoluo	hundred	6685	?
+1531	pæ₂₄	Wang2006a, 824	hundred	pæ24	?	Gongxing	hundred	6685	?
+1532	pæ₅₅	Wang2006a, 824	hundred	pæ55	?	Enqi	hundred	6685	?
+1533	pa₄₄	Wang2006a, 824	hundred	pa44	?	Ega	hundred	6685	?
+1534	pa₅₅	Wang2006a, 824	hundred	pa55	?	Jinman	hundred	6685	?
+1535	pa₄₄	Wang2006a, 824	hundred	pa44	?	Jinxing	hundred	6685	?
+1536	pɚ₄₄	Wang2006a, 824	hundred	pɚ44	?	Dashi	hundred	6685	?
+1537	pǝ₄₄	Wang2006a, 824	hundred	pǝ44	?	Zhoucheng	hundred	6685	?
+1538	pɚ₄₄	Wang2006a, 824	hundred	pɚ44	?	Mazhelong	hundred	6685	?
+1539	a₃₁pɛ₄₄	Allen2007, 460	one hundred / 一百	a31pɛ44	?	Jianchuan	hundred	6685	一百
+1540	a₃₁pɛ₄₄	Allen2007, 460	one hundred / 一百	a31pɛ44	?	Eryuan	hundred	6685	一百
+1541	a₃₁pɛ₄₄	Allen2007, 460	one hundred / 一百	a31pɛ44	?	Heqi	hundred	6685	一百
+1542	a₃₁pæ₄₄	Allen2007, 460	one hundred / 一百	a31pæ44	?	Lanping	hundred	6685	一百
+1543	a₃₁pɛ₄₄	Allen2007, 460	one hundred / 一百	a31pɛ44	?	Qiliqiao	hundred	6685	一百
+1544	a₃₁pɛ₄₄	Allen2007, 460	one hundred / 一百	a31pɛ44	?	Yunlong	hundred	6685	一百
+1545	a₃₁pɛ₄₄	Allen2007, 460	one hundred / 一百	a31pɛ44	?	Xiangyun	hundred	6685	一百
+1546	ʔa₄₄pao₅₅	Allen2007, 460	one hundred / 一百	ʔa44pao55	?	Luobenzhuo	hundred	6685	一百
+#
+1547	ŋɔ₂₁	Wang2006a, 928	I	ŋɔ21	?	Tuoluo	i	5450	?
+1548	ŋa₄₂	Wang2006a, 928	I	ŋa42	?	Gongxing	i	5450	?
+1549	ɴo₄₃	Wang2006a, 928	I	ɴo43	?	Enqi	i	5450	?
+1550	ŋo₄₂	Wang2006a, 928	I	ŋo42	?	Ega	i	5450	?
+1551	õ₄₂	Wang2006a, 928	I	õ42	?	Jinman	i	5450	?
+1552	uõ₃₁	Wang2006a, 928	I	uõ31	?	Jinxing	i	5450	?
+1553	ŋõ₃₁	Wang2006a, 928	I	ŋõ31	?	Dashi	i	5450	?
+1554	ŋo₃₁	Wang2006a, 928	I	ŋo31	?	Zhoucheng	i	5450	?
+1555	nen₄₂	Wang2006a, 928	I	nen42	?	Mazhelong	i	5450	?
+1556	ŋo₃₁	Allen2007, 474	I(1 p.s.) / 我	ŋo31	?	Jianchuan	i	5450	我
+1557	ŋɔ₃₁	Allen2007, 474	I(1 p.s.) / 我	ŋɔ31	?	Eryuan	i	5450	我
+1558	ŋɔ₃₁	Allen2007, 474	I(1 p.s.) / 我	ŋɔ31	?	Heqi	i	5450	我
+1559	ŋɔ̃₃₁	Allen2007, 474	I(1 p.s.) / 我	ŋɔ̃31	?	Lanping	i	5450	我
+1560	ŋɔ₃₁	Allen2007, 474	I(1 p.s.) / 我	ŋɔ31	?	Qiliqiao	i	5450	我
+1561	ŋɔ₃₁	Allen2007, 474	I(1 p.s.) / 我	ŋɔ31	?	Yunlong	i	5450	我
+1562	ŋɔ₃₁	Allen2007, 474	I(1 p.s.) / 我	ŋɔ31	?	Xiangyun	i	5450	我
+1563	ɴɔ₄₂	Allen2007, 474	I(1 p.s.) / 我	ɴɔ42	?	Luobenzhuo	i	5450	我
+#
+3875	ɕioŋ₅₅qa₄₂	Wang2006a, 17	ice	ɕioŋ55qa42	?	Tuoluo	ice	1837	?
+3876	soŋ₅₅ŋɛ₂₄	Wang2006a, 17	ice	soŋ55ŋɛ24	?	Gongxing	ice	1837	?
+3877	ɕio₂₄pæ₂₂	Wang2006a, 17	ice	ɕio24pæ22	?	Enqi	ice	1837	?
+3878	ɕioŋ₅₅	Wang2006a, 17	ice	ɕioŋ55	?	Ega	ice	1837	?
+3879	ɕiõ₅₅	Wang2006a, 17	ice	ɕiõ55	?	Jinman	ice	1837	?
+3880	sou₅₅lou₄₄pʰiɛ₅₅	Wang2006a, 17	ice	sou55lou44pʰiɛ55	?	Jinxing	ice	1837	?
+3881	ʂou₅₅lou₄₄pʰiɚ₅₅	Wang2006a, 17	ice	ʂou55lou44pʰiɚ55	?	Dashi	ice	1837	?
+3882	tɤ₂₁jɯ₂₁	Wang2006a, 17	ice	(tv21jɯ21)	?	Zhoucheng	ice	1837	?
+3883	ɕyɛ₄₄pʰien₃₃	Wang2006a, 17	ice	ɕyɛ44pʰien33	?	Mazhelong	ice	1837	?
+#
+1564	baŋ₂₁	Wang2006a, 1160	to be ill	baŋ21	?	Tuoluo	ill;sick	7800	?
+1565	ban₄₂	Wang2006a, 1160	to be ill	ban42	?	Gongxing	ill;sick	7800	?
+1566	bæ₄₃	Wang2006a, 1160	to be ill	bæ43	?	Enqi	ill;sick	7800	?
+1567	su₄₂	Wang2006a, 1160	to be ill	(su42)	?	Ega	ill;sick	7800	?
+1568	sõ₄₂	Wang2006a, 1160	to be ill	(sõ42)	?	Jinman	ill;sick	7800	?
+1569	pan₃₁	Wang2006a, 1160	to be ill	pan31	?	Jinxing	ill;sick	7800	?
+1570	pɚ̃₃₁	Wang2006a, 1160	to be ill	pɚ̃31	?	Dashi	ill;sick	7800	?
+1571	pɛ₂₁	Wang2006a, 1160	to be ill	pɛ21	?	Zhoucheng	ill;sick	7800	?
+1572	pɚ̃₂₁	Wang2006a, 1160	to be ill	pɚ̃21	?	Mazhelong	ill;sick	7800	?
+1573	pɛ̃₃₁	Allen2007, 378	be sick,ill / 病	pɛ̃31/sɤ̃31	?	Jianchuan	ill;sick	7800	病
+1574	pɛ₃₁	Allen2007, 378	be sick,ill / 病	pɛ31	?	Eryuan	ill;sick	7800	病
+1575	pɛ̃₃₁	Allen2007, 378	be sick,ill / 病	pɛ̃31	?	Heqi	ill;sick	7800	病
+1576	sɔ̃₄₂	Allen2007, 378	be sick,ill / 病	sɔ̃42/pæ̃42	?	Lanping	ill;sick	7800	病
+1577	pɛ₃₁	Allen2007, 378	be sick,ill / 病	pɛ31	?	Qiliqiao	ill;sick	7800	病
+1578	pɛ₃₁	Allen2007, 378	be sick,ill / 病	pɛ31	?	Yunlong	ill;sick	7800	病
+1579	pɛ̃₃₁	Allen2007, 378	be sick,ill / 病	pɛ̃31	?	Xiangyun	ill;sick	7800	病
+1580	sõ₃₁	Allen2007, 378	be sick,ill / 病	sõ31	?	Luobenzhuo	ill;sick	7800	病
+#
+1598	dɤ₃₅	Wang2006a, 149	intestine; guts	dv35	?	Tuoluo	intestine;gut	950344	?
+1599	ʣu₁₂	Wang2006a, 149	intestine; guts	dzu12	?	Gongxing	intestine;gut	950344	?
+1600	tio₂₁	Wang2006a, 149	intestine; guts	tio21	?	Enqi	intestine;gut	950344	?
+1601	tʣɨɯ₂₁	Wang2006a, 149	intestine; guts	tʣɨɯ21	?	Ega	intestine;gut	950344	?
+1602	ʈõ₂₁	Wang2006a, 149	intestine; guts	ʈõ21	?	Jinman	intestine;gut	950344	?
+1603	t͡sõ₂₁	Wang2006a, 149	intestine; guts	tsõ21	?	Jinxing	intestine;gut	950344	?
+1604	t͡ʂoŋ₂₁	Wang2006a, 149	intestine; guts	tʂoŋ21	?	Dashi	intestine;gut	950344	?
+1605	t͡sou₂₁	Wang2006a, 149	intestine; guts	tsou21	?	Zhoucheng	intestine;gut	950344	?
+1606	t͡soŋ₂₁	Wang2006a, 149	intestine; guts	tsoŋ21	?	Mazhelong	intestine;gut	950344	?
+1607	t͡sõ₂₁	Allen2007, 147	intestine,gut / 肠子	tsõ21	?	Jianchuan	intestine;gut	950344	肠子
+1608	t͡ʂɔ₂₁	Allen2007, 147	intestine,gut / 肠子	tʂɔ21	?	Eryuan	intestine;gut	950344	肠子
+1609	t͡sɔ̃u₂₁	Allen2007, 147	intestine,gut / 肠子	tsɔ̃u21	?	Heqi	intestine;gut	950344	肠子
+1610	t͡sõ₂₁	Allen2007, 147	intestine,gut / 肠子	tsõ21	?	Lanping	intestine;gut	950344	肠子
+1611	t͡so₂₁	Allen2007, 147	intestine,gut / 肠子	tso21	?	Qiliqiao	intestine;gut	950344	肠子
+1612	t͡sao₂₁	Allen2007, 147	intestine,gut / 肠子	tsao21	?	Yunlong	intestine;gut	950344	肠子
+1613	t͡sɤ̃₂₁	Allen2007, 147	intestine,gut / 肠子	tsɤ̃21	?	Xiangyun	intestine;gut	950344	肠子
+1614	tõ₂₁	Allen2007, 147	intestine,gut / 肠子	tõ21	?	Luobenzhuo	intestine;gut	950344	肠子
+#
+6307	kʰuɛ₃₁t͡sɿ₃₁te₄₄	Allen2007, 143	knee / 膝盖	kʰuɛ31tsɿ31te44	?	Jianchuan	knee	5918	膝盖
+6314	qu₅₅t͡sɛ₄₄	Allen2007, 143	knee / 膝盖	qu55tsɛ44	?	Luobenzhuo	knee	5918	膝盖
+6308	kʰuɛ₃₁tɯ₂₁t͡se₄₄	Allen2007, 143	knee / 膝盖	kʰuɛ31tɯ21tse44	?	Eryuan	knee	5918	膝盖
+6312	ku₃₃t͡sɛ₃₃ŋɛ₃₃	Allen2007, 143	knee / 膝盖	ku33tsɛ33ŋɛ33	?	Yunlong	knee	5918	膝盖
+6313	kʰuɛ₃₁tɛ₂₁te₄₄	Allen2007, 143	knee / 膝盖	kʰuɛ31tɛ21te44	?	Xiangyun	knee	5918	膝盖
+6311	kʰuɛ₃₁t͡sɿ₂₁te₄₄	Allen2007, 143	knee / 膝盖	kʰuɛ31tsɿ21te44	?	Qiliqiao	knee	5918	膝盖
+6309	kʰuɛ₃₁tɯ₂₁t͡se₄₄	Allen2007, 143	knee / 膝盖	kʰuɛ31tɯ21tse44	?	Heqi	knee	5918	膝盖
+6310	kʰuɛ₃₁tiɯ₂₁ka₄₄	Allen2007, 143	knee / 膝盖	kʰuɛ31tiɯ21ka44	?	Lanping	knee	5918	膝盖
+#
+7207	zɯ₄₄tɯ₄₄	Allen2007, 353	know / 知道	zɯ44tɯ44	?	Qiliqiao	know	6004	知道
+7208	zɿ₃₃tɯ₃₃	Allen2007, 353	know / 知道	zɿ33tɯ33	?	Yunlong	know	6004	知道
+7210	ʈa₅₅tɯ₅₅	Allen2007, 353	know / 知道	ʈa55tɯ55	?	Luobenzhuo	know	6004	知道
+7203	sẽ₃₃	Allen2007, 353	know / 知道	sẽ33	?	Jianchuan	know	6004	知道
+7204	se₃₃	Allen2007, 353	know / 知道	se33	?	Eryuan	know	6004	知道
+7205	se₃₃	Allen2007, 353	know / 知道	se33	?	Heqi	know	6004	知道
+7206	sũɛ̃₅₅	Allen2007, 353	know / 知道	sũɛ̃55	?	Lanping	know	6004	知道
+7209	zɛ̃₂₁tou₄₄	Allen2007, 353	know / 知道	zɛ̃21tou44	?	Xiangyun	know	6004	知道
+#
+6892	t͡sɯ₅₅t͡sɔ₄₂ʂɯ₃₃	Allen2007, 291	labour / 劳动	tsɯ55tsɔ42ʂɯ33	?	Eryuan	labour	471303	劳动
+6894	t͡su₅₅t͡su₃₁sɯ₄₄	Allen2007, 291	labour / 劳动	tsu55tsu31sɯ44	?	Lanping	labour	471303	劳动
+6895	t͡sɿ₅₅t͡sɔ₃₂sɯ₃₃	Allen2007, 291	labour / 劳动	tsɿ55tsɔ32sɯ33	?	Qiliqiao	labour	471303	劳动
+6898	t͡sɤ₃₃t͡sɤ₃₃ɕi₅₅	Allen2007, 291	labour / 劳动	tsɤ33tsɤ33ɕi55	?	Luobenzhuo	labour	471303	劳动
+6891	t͡su₅₅t͡sou₄₂sɯ₃₃	Allen2007, 291	labour / 劳动	tsu55tsou42sɯ33	?	Jianchuan	labour	471303	劳动
+6897	kã₅₅t͡sɔ₄₂sou₃₃	Allen2007, 291	labour / 劳动	kã55tsɔ42sou33	?	Xiangyun	labour	471303	劳动
+6893	t͡sɿ₅₅t͡sɔu₄₂sʰɯ₃₃	Allen2007, 291	labour / 劳动	tsɿ55tsɔu42sʰɯ33	?	Heqi	labour	471303	劳动
+6896	t͡sɿ₅₅t͡sɔ₄₂sɯ₃₃	Allen2007, 291	labour / 劳动	tsɿ55tsɔ42sɯ33	?	Yunlong	labour	471303	劳动
+#
+1658	ʁɔ₃₅	Wang2006a, 31	lake	ʁɔ35	?	Tuoluo	lake	2061	?
+1659	qao₁₂	Wang2006a, 31	lake	qao12	?	Gongxing	lake	2061	?
+1660	qo₂₁	Wang2006a, 31	lake	qo21	?	Enqi	lake	2061	?
+1661	li₂₁bɯ₂₂	Wang2006a, 31	lake	(li21bɯ22)	?	Ega	lake	2061	?
+1662	lu₂₁bɯ̃₂₂	Wang2006a, 31	lake	(lu21bɯ̃22)	?	Jinman	lake	2061	?
+1663	kou₂₁	Wang2006a, 31	lake	kou21	?	Jinxing	lake	2061	?
+1664	xu₄₂	Wang2006a, 31	lake	(xu42)	?	Dashi	lake	2061	?
+1665	pɛ₂₁	Wang2006a, 31	lake	(pɛ21)	?	Zhoucheng	lake	2061	?
+1666	ɕu₃₃tu₃₃	Wang2006a, 31	lake	(ɕu33tu33/pen33)	?	Mazhelong	lake	2061	?
+1667	ko₂₁	Allen2007, 16	lake / 湖	ko21	?	Jianchuan	lake	2061	湖
+1668	kɔ₂₁	Allen2007, 16	lake / 湖	kɔ21	?	Eryuan	lake	2061	湖
+1669	kɔ₂₁	Allen2007, 16	lake / 湖	kɔ21	?	Heqi	lake	2061	湖
+1670	kɔ₂₁	Allen2007, 16	lake / 湖	kɔ21	?	Lanping	lake	2061	湖
+1671	kɔ₂₁	Allen2007, 16	lake / 湖	kɔ21	?	Qiliqiao	lake	2061	湖
+1672	kao₂₁kao₂₁	Allen2007, 16	lake / 湖	kao21kao21	?	Yunlong	lake	2061	湖
+1673	pɯ₃₃	Allen2007, 16	lake / 湖	pɯ33	?	Xiangyun	lake	2061	湖
+1674	lu₃₁bɯ₃₃	Allen2007, 16	lake / 湖	lu31bɯ33	?	Luobenzhuo	lake	2061	湖
+#
+1692	sɔ₂₁	Wang2006a, 1735	laugh	sɔ21	?	Tuoluo	laugh	5876	?
+1693	su₄₂	Wang2006a, 1735	laugh	su42	?	Gongxing	laugh	5876	?
+1694	su₄₃	Wang2006a, 1735	laugh	su43	?	Enqi	laugh	5876	?
+1695	sy₄₂	Wang2006a, 1735	laugh	sy42	?	Ega	laugh	5876	?
+1696	su₄₂	Wang2006a, 1735	laugh	su42	?	Jinman	laugh	5876	?
+1697	sou₃₁	Wang2006a, 1735	laugh	sou31	?	Jinxing	laugh	5876	?
+1698	ɕʰi₃₁	Wang2006a, 1735	laugh	(ɕʰi31)	?	Dashi	laugh	5876	?
+1699	so₃₁	Wang2006a, 1735	laugh	so31	?	Zhoucheng	laugh	5876	?
+1700	sǝɯ₂₁	Wang2006a, 1735	laugh	sǝɯ21	?	Mazhelong	laugh	5876	?
+1701	sou₃₁	Allen2007, 348	laugh / 笑	sou31	?	Jianchuan	laugh	5876	笑
+1702	sɔ₃₃	Allen2007, 348	laugh / 笑	sɔ33	?	Eryuan	laugh	5876	笑
+1703	ɕʰi₃₁	Allen2007, 348	laugh / 笑	ɕʰi31	?	Heqi	laugh	5876	笑
+1704	su₃₁	Allen2007, 348	laugh / 笑	su31	?	Lanping	laugh	5876	笑
+1705	sɔ₃₁	Allen2007, 348	laugh / 笑	sɔ31	?	Qiliqiao	laugh	5876	笑
+1706	sao₃₁	Allen2007, 348	laugh / 笑	sao31	?	Yunlong	laugh	5876	笑
+1707	sɔu₂₁	Allen2007, 348	laugh / 笑	sɔu21	?	Xiangyun	laugh	5876	笑
+1708	su₄₄	Allen2007, 348	laugh / 笑	su44	?	Luobenzhuo	laugh	5876	笑
+#
+1726	qʰɔ₃₃	Wang2006a, 376	leaf	qʰɔ33	?	Tuoluo	leaf	2124	?
+1727	qʰo₅₅	Wang2006a, 376	leaf	qʰo55	?	Enqi	leaf	2124	?
+1728	d͡ʑi₄₂lɛ₂₁	Wang2006a, 376	leaf	(dʑi42lɛ21)	?	Ega	leaf	2124	?
+1729	kʰou₃₃	Wang2006a, 376	leaf	kʰou33	?	Jinxing	leaf	2124	?
+1730	ɕui₃₃kuo₃₃	Wang2006a, 376	leaf	[ɕui33kuo33]	?	Dashi	leaf	2124	?
+1731	ɕyi₃₃li₅₅ta₂₁ko₃₃	Wang2006a, 376	leaf	(ɕyi33li55ta21ko33)	?	Zhoucheng	leaf	2124	?
+1732	kʰo₃₃	Wang2006a, 376	leaf	kʰo33	?	Mazhelong	leaf	2124	?
+1733	se₄₄	Allen2007, 116	leaf / 叶	se44	?	Jianchuan	leaf	2124	叶
+1734	ʂe₄₄	Allen2007, 116	leaf / 叶	ʂe44	?	Eryuan	leaf	2124	叶
+1735	sʰe₄₄	Allen2007, 116	leaf / 叶	sʰe44	?	Heqi	leaf	2124	叶
+1736	se₄₄	Allen2007, 116	leaf / 叶	se44	?	Lanping	leaf	2124	叶
+1737	se₄₄	Allen2007, 116	leaf / 叶	se44	?	Qiliqiao	leaf	2124	叶
+1738	sɛ₄₄	Allen2007, 116	leaf / 叶	sɛ44	?	Yunlong	leaf	2124	叶
+1739	se₄₄	Allen2007, 116	leaf / 叶	se44	?	Xiangyun	leaf	2124	叶
+1740	ʂɛ₄₄	Allen2007, 116	leaf / 叶	ʂɛ44	?	Luobenzhuo	leaf	2124	叶
+#
+1758	t͡ɕy₅₅	Wang2006a, 710	left	tɕy55	?	Tuoluo	left side	1499731	?
+1759	tjen₅₅	Wang2006a, 710	left	tjen55	?	Gongxing	left side	1499731	?
+1760	t͡suɛ₂₄	Wang2006a, 710	left	tsuE24	?	Enqi	left side	1499731	?
+1761	la₅₅t͡ɕo₄₄t͡ɕo₄₄pʰo₅₅	Wang2006a, 710	left	(la55tɕo44tɕo44pʰo55)	?	Ega	left side	1499731	?
+1762	lo₅₅t͡ɕyẽ₅₅	Wang2006a, 710	left	(lo55tɕyẽ55)	?	Jinman	left side	1499731	?
+1763	pi₅₅	Wang2006a, 710	left	pi55	?	Jinxing	left side	1499731	?
+1764	piǝ₃₅	Wang2006a, 710	left	piǝ35	?	Dashi	left side	1499731	?
+1765	pi₃₅	Wang2006a, 710	left	pi35	?	Zhoucheng	left side	1499731	?
+1766	pi₅₅	Wang2006a, 710	left	pi55	?	Mazhelong	left side	1499731	?
+1767	pi₅₅fɤ₃₃	Allen2007, 27	left(side) / 左边	pi55fɤ33	?	Jianchuan	left side	1499731	左边
+1768	pi₃₅pɔ₃₁	Allen2007, 27	left(side) / 左边	pi35pɔ31	?	Eryuan	left side	1499731	左边
+1769	pi₅₅fɤ₃₃	Allen2007, 27	left(side) / 左边	pi55fɤ33	?	Heqi	left side	1499731	左边
+1770	fɯ̃₄₄pĩɛ̃₅₅pʰao₄₄	Allen2007, 27	left(side) / 左边	fɯ̃44pĩɛ̃55pʰao44	?	Lanping	left side	1499731	左边
+1771	pi₃₅pɔ₂₁	Allen2007, 27	left(side) / 左边	pi35pɔ21	?	Qiliqiao	left side	1499731	左边
+1772	pi₃₅pɔ₃₁	Allen2007, 27	left(side) / 左边	pi35pɔ31	?	Yunlong	left side	1499731	左边
+1773	pi₃₅sɛ̃₂₁	Allen2007, 27	left(side) / 左边	pi35sɛ̃21	?	Xiangyun	left side	1499731	左边
+1774	la₄₄t͡ɕỹ₅₅	Allen2007, 27	left(side) / 左边	la44tɕỹ55	?	Luobenzhuo	left side	1499731	左边
+#
+5675	qʰuæ₄₃	Wang2006a, 1829	leg	qʰuæ43	?	Enqi	leg	5665	?
+5676	qʰua₄₂	Wang2006a, 1829	leg	qʰua42	?	Ega	leg	5665	?
+5677	ko₄₄'foot'	Wang2006a, 1829	leg	ko44['foot']	?	Jinman	leg	5665	?
+5678	kou₄₄	Wang2006a, 1829	leg	kou44	?	Jinxing	leg	5665	?
+5679	kou₄₄	Wang2006a, 1829	leg	kou44	?	Dashi	leg	5665	?
+5680	ko₄₄	Wang2006a, 1829	leg	ko44	?	Zhoucheng	leg	5665	?
+5681	kʰuɚ₂₁	Wang2006a, 1829	leg	kʰuɚ21/ko44	?	Mazhelong	leg	5665	?
+5673	qʰua₂₁	Wang2006a, 1829	leg	qʰua21	?	Tuoluo	leg	5665	?
+5674	qʰuæ₄₂	Wang2006a, 1829	leg	qʰuæ42	?	Gongxing	leg	5665	?
+#
+5764	kʲi₃₁ŋue₃₃zɛ₃₃	Allen2007, 8	lightning(vb) / 闪电	kʲi31ŋue33zɛ33	?	Eryuan	lightning(vb)	6811	闪电
+5765	t͡ɕi₃₁kɔu₅₅la₄₄	Allen2007, 8	lightning(vb) / 闪电	tɕi31kɔu55la44	?	Heqi	lightning(vb)	6811	闪电
+5766	ʐɯ₃₃t͡sɿ₃₃pʰiɯ₄₄	Allen2007, 8	lightning(vb) / 闪电	ʐɯ33tsɿ33pʰiɯ44	?	Lanping	lightning(vb)	6811	闪电
+5767	t͡ɕi₃₁kɤ₃₅la₄₄	Allen2007, 8	lightning(vb) / 闪电	tɕi31kɤ35la44	?	Qiliqiao	lightning(vb)	6811	闪电
+5768	ʥi₃₃mi₃₃jɛ₃₃	Allen2007, 8	lightning(vb) / 闪电	ʥi33mi33jɛ33	?	Yunlong	lightning(vb)	6811	闪电
+5770	xẽ₅₅t͡ɕæ₅₅mi₃₁	Allen2007, 8	lightning(vb) / 闪电	xẽ55tɕæ55mi31	?	Luobenzhuo	lightning(vb)	6811	闪电
+5769	jĩ₂₁lũẽ₃₃jɛ̃₃₃	Allen2007, 8	lightning(vb) / 闪电	jĩ21lũẽ33jɛ̃33	?	Xiangyun	lightning(vb)	6811	闪电
+5763	sɛ̃₂₁t͡sɿ₃₃pʰiɯ₄₄	Allen2007, 8	lightning(vb) / 闪电	sɛ̃21tsɿ33pʰiɯ44	?	Jianchuan	lightning(vb)	6811	闪电
+#
+5320	ko₄₂	Wang2006a, 1452	live; reside	ko42	?	Dashi	live; reside	478515	?
+5321	kɤ₄₂	Wang2006a, 1452	live; reside	kv42	?	Zhoucheng	live; reside	478515	?
+5322	kɤ₄₂	Wang2006a, 1452	live; reside	kv42	?	Mazhelong	live; reside	478515	?
+5317	kɤ₄₂	Wang2006a, 1452	live; reside	kv42	?	Ega	live; reside	478515	?
+5318	kɤ₄₂	Wang2006a, 1452	live; reside	kv42	?	Jinman	live; reside	478515	?
+5319	kɤ₄₂	Wang2006a, 1452	live; reside	kv42	?	Jinxing	live; reside	478515	?
+5314	ky₂₁	Wang2006a, 1452	live; reside	ky21	?	Tuoluo	live; reside	478515	?
+5315	kao₄₂	Wang2006a, 1452	live; reside	kao42	?	Gongxing	live; reside	478515	?
+5316	ku₄₃	Wang2006a, 1452	live; reside	ku43	?	Enqi	live; reside	478515	?
+#
+1809	qɔŋ₅₅	Wang2006a, 145	liver	qɔŋ55	?	Tuoluo	liver	5476	?
+1810	qaŋ₅₅	Wang2006a, 145	liver	qaŋ55	?	Gongxing	liver	5476	?
+1811	qa₂₄	Wang2006a, 145	liver	qa24	?	Enqi	liver	5476	?
+1812	qo₅₅	Wang2006a, 145	liver	qo55	?	Ega	liver	5476	?
+1813	qã₅₅	Wang2006a, 145	liver	qã55	?	Jinman	liver	5476	?
+1814	kɑ₅₅	Wang2006a, 145	liver	kɑ55	?	Jinxing	liver	5476	?
+1815	kã₃₅	Wang2006a, 145	liver	kã35	?	Dashi	liver	5476	?
+1816	ka₃₅	Wang2006a, 145	liver	ka35	?	Zhoucheng	liver	5476	?
+1817	kaŋ₅₅	Wang2006a, 145	liver	kaŋ55	?	Mazhelong	liver	5476	?
+1818	kã₅₅	Allen2007, 150	liver / 肝	kã55	?	Jianchuan	liver	5476	肝
+1819	ka₃₅	Allen2007, 150	liver / 肝	ka35	?	Eryuan	liver	5476	肝
+1820	kã₅₅	Allen2007, 150	liver / 肝	kã55	?	Heqi	liver	5476	肝
+1821	kã₅₅	Allen2007, 150	liver / 肝	kã55	?	Lanping	liver	5476	肝
+1822	ka₃₅	Allen2007, 150	liver / 肝	ka35	?	Qiliqiao	liver	5476	肝
+1823	ka₃₅	Allen2007, 150	liver / 肝	ka35	?	Yunlong	liver	5476	肝
+1824	kã₅₅	Allen2007, 150	liver / 肝	kã55	?	Xiangyun	liver	5476	肝
+1825	qɔ̃₅₅	Allen2007, 150	liver / 肝	qɔ̃55	?	Luobenzhuo	liver	5476	肝
+#
+1843	dɤ₃₅	Wang2006a, 972	long	dv35	?	Tuoluo	long	5438	?
+1844	d͡ʑou₁₂	Wang2006a, 972	long	dʑou12	?	Gongxing	long	5438	?
+1845	tjo₂₁	Wang2006a, 972	long	tjo21	?	Enqi	long	5438	?
+1846	t͡ɕu₂₁	Wang2006a, 972	long	tɕu21	?	Ega	long	5438	?
+1847	ʈõ₂₁	Wang2006a, 972	long	ʈõ21	?	Jinman	long	5438	?
+1848	t͡sõ₂₁	Wang2006a, 972	long	tsõ21	?	Jinxing	long	5438	?
+1849	t͡ʂõ₂₁	Wang2006a, 972	long	tʂõ21	?	Dashi	long	5438	?
+1850	t͡sou₂₁	Wang2006a, 972	long	tsou21	?	Zhoucheng	long	5438	?
+1851	t͡soŋ₂₁	Wang2006a, 972	long	tsoŋ21	?	Mazhelong	long	5438	?
+1852	t͡sou₂₁	Allen2007, 390	long / 长	tsou21	?	Jianchuan	long	5438	长
+1853	t͡ʂɔ₂₁	Allen2007, 390	long / 长	tʂɔ21	?	Eryuan	long	5438	长
+1854	t͡sɔu₂₁	Allen2007, 390	long / 长	tsɔu21	?	Heqi	long	5438	长
+1855	t͡sɔ̃₂₁	Allen2007, 390	long / 长	tsɔ̃21	?	Lanping	long	5438	长
+1856	t͡so₂₁	Allen2007, 390	long / 长	tso21	?	Qiliqiao	long	5438	长
+1857	t͡sɔ₂₁	Allen2007, 390	long / 长	tsɔ21	?	Yunlong	long	5438	长
+1858	t͡sã₂₁	Allen2007, 390	long / 长	tsã21	?	Xiangyun	long	5438	长
+1859	ʈõ₃₁	Allen2007, 390	long / 长	ʈõ31	?	Luobenzhuo	long	5438	长
+#
+1860	ɕi₄₂	Wang2006a, 356	louse	ɕi42	?	Tuoluo	louse	5980	?
+1861	ɕi₂₄	Wang2006a, 356	louse	ɕi24	?	Gongxing	louse	5980	?
+1862	ɕi₅₅	Wang2006a, 356	louse	ɕi55	?	Enqi	louse	5980	?
+1863	ɕi₄₄	Wang2006a, 356	louse	ɕi44	?	Ega	louse	5980	?
+1864	ɕi₅₅	Wang2006a, 356	louse	ɕi55	?	Jinman	louse	5980	?
+1865	ɕi₄₄	Wang2006a, 356	louse	ɕi44	?	Jinxing	louse	5980	?
+1866	ɕi₃₃	Wang2006a, 356	louse	ɕi33	?	Dashi	louse	5980	?
+1867	ɕie₄₄	Wang2006a, 356	louse	ɕie44	?	Zhoucheng	louse	5980	?
+1868	ɕi₄₄	Wang2006a, 356	louse	ɕi44	?	Mazhelong	louse	5980	?
+1869	ɕi₄₄	Allen2007, 78	louse / 虱子	ɕi44	?	Jianchuan	louse	5980	虱子
+1870	ɕi₄₄	Allen2007, 78	louse / 虱子	ɕi44	?	Eryuan	louse	5980	虱子
+1871	ɕi₄₄	Allen2007, 78	louse / 虱子	ɕi44	?	Heqi	louse	5980	虱子
+1872	ɕi₄₄	Allen2007, 78	louse / 虱子	ɕi44	?	Lanping	louse	5980	虱子
+1873	ɕi₄₄	Allen2007, 78	louse / 虱子	ɕi44	?	Qiliqiao	louse	5980	虱子
+1874	ɕi₄₄	Allen2007, 78	louse / 虱子	ɕi44	?	Yunlong	louse	5980	虱子
+1875	ɕi₄₄	Allen2007, 78	louse / 虱子	ɕi44	?	Xiangyun	louse	5980	虱子
+1876	ɕi₄₄	Allen2007, 78	louse / 虱子	ɕi44	?	Luobenzhuo	louse	5980	虱子
+#
+4080	ɕia₅₅tjʰo₂₁po₅₅	Wang2006a, 173	man	(ɕia55tjʰo21po55)	?	Tuoluo	man	6397	?
+4081	t͡si₂₂	Wang2006a, 173	man	tsi22	?	Gongxing	man	6397	?
+4082	da₄₃xo₂₄	Wang2006a, 173	man	(da43xo24)	?	Enqi	man	6397	?
+4083	t͡si₂₂	Wang2006a, 173	man	tsi22	?	Ega	man	6397	?
+4084	t͡si₂	Wang2006a, 173	man	tsi2	?	Jinman	man	6397	?
+4085	t͡si₃₃	Wang2006a, 173	man	tsi33	?	Jinxing	man	6397	?
+4086	t͡si₃₃	Wang2006a, 173	man	tsi33	?	Dashi	man	6397	?
+4087	t͡si₄₄	Wang2006a, 173	man	tsi44	?	Zhoucheng	man	6397	?
+4088	t͡si₃₃	Wang2006a, 173	man	tsi33	?	Mazhelong	man	6397	?
+#
+1928	t͡ɕiɯ₅₅	Wang2006a, 987	many	tɕiɯ55	?	Tuoluo	many	5423	?
+1929	ti₅₅	Wang2006a, 987	many	ti55	?	Gongxing	many	5423	?
+1930	ti₂₄	Wang2006a, 987	many	ti24	?	Enqi	many	5423	?
+1931	ti₅₅	Wang2006a, 987	many	ti55	?	Ega	many	5423	?
+1932	ti₅₅	Wang2006a, 987	many	ti55	?	Jinman	many	5423	?
+1933	t͡ɕi₅₅	Wang2006a, 987	many	tɕi55	?	Jinxing	many	5423	?
+1934	t͡ɕi₃₅	Wang2006a, 987	many	tɕi35	?	Dashi	many	5423	?
+1935	t͡ɕi₃₅	Wang2006a, 987	many	tɕi35	?	Zhoucheng	many	5423	?
+1936	ti₅₅	Wang2006a, 987	many	ti55	?	Mazhelong	many	5423	?
+1937	t͡ɕi₅₅	Allen2007, 398	much,many / 多	tɕi55	?	Jianchuan	many	5423	多
+1938	t͡ɕi₃₅	Allen2007, 398	much,many / 多	tɕi35	?	Eryuan	many	5423	多
+1939	t͡ɕi₅₅	Allen2007, 398	much,many / 多	tɕi55	?	Heqi	many	5423	多
+1940	t͡ɕi₅₅	Allen2007, 398	much,many / 多	tɕi55	?	Lanping	many	5423	多
+1941	t͡ɕi₃₅	Allen2007, 398	much,many / 多	tɕi35	?	Qiliqiao	many	5423	多
+1942	t͡ɕi₃₅	Allen2007, 398	much,many / 多	tɕi35	?	Yunlong	many	5423	多
+1943	t͡ɕi₃₅	Allen2007, 398	much,many / 多	tɕi35	?	Xiangyun	many	5423	多
+1944	ti₅₅	Allen2007, 398	much,many / 多	ti55	?	Luobenzhuo	many	5423	多
+#
+1945	ʁa₃₅	Wang2006a, 443	meat	ʁa35	?	Tuoluo	meat	2300	?
+1946	ɢæ₁₂	Wang2006a, 443	meat	ɢæ12	?	Gongxing	meat	2300	?
+1947	qæ₂₁	Wang2006a, 443	meat	qæ21	?	Enqi	meat	2300	?
+1948	qa₂₁	Wang2006a, 443	meat	qa21	?	Ega	meat	2300	?
+1949	qa₂₁	Wang2006a, 443	meat	qa21	?	Jinman	meat	2300	?
+1950	ka₂₁	Wang2006a, 443	meat	ka21	?	Jinxing	meat	2300	?
+1951	kɚ₂₁	Wang2006a, 443	meat	kɚ21	?	Dashi	meat	2300	?
+1952	kɛ₂₁	Wang2006a, 443	meat	kɛ21	?	Zhoucheng	meat	2300	?
+1953	kɚ₂₁	Wang2006a, 443	meat	kɚ21	?	Mazhelong	meat	2300	?
+1954	kɛ₂₁	Allen2007, 201	meat / 肉	kɛ21	?	Jianchuan	meat	2300	肉
+1955	kʲɛ₂₁	Allen2007, 201	meat / 肉	kʲɛ21	?	Eryuan	meat	2300	肉
+1956	kɛ₂₁	Allen2007, 201	meat / 肉	kɛ21	?	Heqi	meat	2300	肉
+1957	kɛ₂₁	Allen2007, 201	meat / 肉	kɛ21	?	Lanping	meat	2300	肉
+1958	kiɛ₂₁	Allen2007, 201	meat / 肉	kiɛ21	?	Qiliqiao	meat	2300	肉
+1959	kɛ₂₁	Allen2007, 201	meat / 肉	kɛ21	?	Yunlong	meat	2300	肉
+1960	kʲɛ₂₁	Allen2007, 201	meat / 肉	kʲɛ21	?	Xiangyun	meat	2300	肉
+1961	qa₂₁	Allen2007, 201	meat / 肉	qa21	?	Luobenzhuo	meat	2300	肉
+#
+2012	jien₅₅uo₄₂	Wang2006a, 4	moon	jien55uo42	?	Tuoluo	moon	5729	?
+2013	ɲi₂₄uaŋ₅₅	Wang2006a, 4	moon	ɲi24uaŋ55	?	Gongxing	moon	5729	?
+2014	miɛ₂₄ua₅₅	Wang2006a, 4	moon	miE24ua55	?	Enqi	moon	5729	?
+2015	ɲia₅₅ŋua₄₄	Wang2006a, 4	moon	ɲia55ŋua44	?	Ega	moon	5729	?
+2016	ɲio₅₅ŋõ₅₅	Wang2006a, 4	moon	ɲio55ŋõ55	?	Jinman	moon	5729	?
+2017	mi₅̄̄₅uɑ̃₅₅	Wang2006a, 4	moon	mi5̄̄5uɑ̃55	?	Jinxing	moon	5729	?
+2018	mi₅₅uã₅₅	Wang2006a, 4	moon	mi55uã55	?	Dashi	moon	5729	?
+2019	mi₃₅ua₄₄	Wang2006a, 4	moon	mi35ua44	?	Zhoucheng	moon	5729	?
+2020	mien₅₅ŋua₄₄	Wang2006a, 4	moon	mien55ŋua44	?	Mazhelong	moon	5729	?
+2021	mi₅₅wã₄₄	Allen2007, 3	moon / 月亮	mi55wã44	?	Jianchuan	moon	5729	月亮
+2022	mi₅₅ŋua₄₄	Allen2007, 3	moon / 月亮	mi55ŋua44	?	Eryuan	moon	5729	月亮
+2023	mi₃₅wã₄₄	Allen2007, 3	moon / 月亮	mi35wã44	?	Heqi	moon	5729	月亮
+2024	mĩ₅₅wã₄₄pʰĩ₃₁	Allen2007, 3	moon / 月亮	mĩ55wã44pʰĩ31	?	Lanping	moon	5729	月亮
+2025	mi₅₅wa₄₄	Allen2007, 3	moon / 月亮	mi55wa44	?	Qiliqiao	moon	5729	月亮
+2026	mi₅₅ŋua₄₄	Allen2007, 3	moon / 月亮	mi55ŋua44	?	Yunlong	moon	5729	月亮
+2027	mi₃₅wã₄₄	Allen2007, 3	moon / 月亮	mi35wã44	?	Xiangyun	moon	5729	月亮
+2028	ɲo₃₃ɴɔ₃₁	Allen2007, 3	moon / 月亮	ɲo33ɴɔ31	?	Luobenzhuo	moon	5729	月亮
+#
+2029	mɯ₄₂	Wang2006a, 360	mosquito	mɯ42	?	Tuoluo	mosquito	630453	?
+2030	moŋ₂₄	Wang2006a, 360	mosquito	moŋ24	?	Gongxing	mosquito	630453	?
+2031	mɯ₅₅	Wang2006a, 360	mosquito	mɯ55	?	Enqi	mosquito	630453	?
+2032	mo₅₅	Wang2006a, 360	mosquito	mo55	?	Jinman	mosquito	630453	?
+2033	mǝ̃₄₄	Wang2006a, 360	mosquito	mǝ̃44	?	Jinxing	mosquito	630453	?
+2034	mõ₄₄	Wang2006a, 360	mosquito	mõ44	?	Dashi	mosquito	630453	?
+2035	mɯ₄₄	Wang2006a, 360	mosquito	mɯ44	?	Zhoucheng	mosquito	630453	?
+2036	mo₄₄	Wang2006a, 360	mosquito	mo44	?	Mazhelong	mosquito	630453	?
+2037	mo₄₄t͡sɿ₃₃	Allen2007, 80	mosquito / 蚊子	mo44tsɿ33	?	Jianchuan	mosquito	630453	蚊子
+2038	mɔ₄₄t͡sɿ₃₃	Allen2007, 80	mosquito / 蚊子	mɔ44tsɿ33	?	Eryuan	mosquito	630453	蚊子
+2039	mɔu₄₄t͡sɿ₃₃	Allen2007, 80	mosquito / 蚊子	mɔu44tsɿ33	?	Heqi	mosquito	630453	蚊子
+2040	mɯ̃₅₅t͡sɿ₄₄	Allen2007, 80	mosquito / 蚊子	mɯ̃55tsɿ44	?	Lanping	mosquito	630453	蚊子
+2041	mɯ₄₄t͡sɿ₃₃	Allen2007, 80	mosquito / 蚊子	mɯ44tsɿ33	?	Qiliqiao	mosquito	630453	蚊子
+2042	mɯ₄₄t͡sɿ₃₃	Allen2007, 80	mosquito / 蚊子	mɯ44tsɿ33	?	Yunlong	mosquito	630453	蚊子
+2043	mɔ₄₄t͡sɿ₃₃	Allen2007, 80	mosquito / 蚊子	mɔ44tsɿ33	?	Xiangyun	mosquito	630453	蚊子
+2044	mo₅₅t͡ɕi₄₄	Allen2007, 80	mosquito / 蚊子	mo55tɕi44	?	Luobenzhuo	mosquito	630453	蚊子
+#
+2045	mo₃₃	Wang2006a, 219	mother	mo33	?	Tuoluo	mother	5463	?
+2046	mu₂₂	Wang2006a, 219	mother	mu22	?	Gongxing	mother	5463	?
+2047	mo₂₂	Wang2006a, 219	mother	mo22	?	Enqi	mother	5463	?
+2048	mo₂₂	Wang2006a, 219	mother	mo22	?	Ega	mother	5463	?
+2049	mo₂₂	Wang2006a, 219	mother	mo22	?	Jinman	mother	5463	?
+2050	mõ₃₃	Wang2006a, 219	mother	mõ33	?	Jinxing	mother	5463	?
+2051	mouu₃₃	Wang2006a, 219	mother	mouu33	?	Dashi	mother	5463	?
+2052	mo₃₃	Wang2006a, 219	mother	mo33	?	Zhoucheng	mother	5463	?
+2053	moŋ₃₃	Wang2006a, 219	mother	moŋ33	?	Mazhelong	mother	5463	?
+2054	a₃₁mo₃₃	Allen2007, 163	mother / 母亲	a31mo33	?	Jianchuan	mother	5463	母亲
+2055	a₅₅mɔ₃₃	Allen2007, 163	mother / 母亲	a55mɔ33	?	Eryuan	mother	5463	母亲
+2056	mɔu₃₃	Allen2007, 163	mother / 母亲	mɔu33	?	Heqi	mother	5463	母亲
+2057	a₄₄mɔ̃₃₃	Allen2007, 163	mother / 母亲	a44mɔ̃33	?	Lanping	mother	5463	母亲
+2058	a₃₁mɔ₃₃	Allen2007, 163	mother / 母亲	a31mɔ33	?	Qiliqiao	mother	5463	母亲
+2059	a₅₅mɔ₃₃	Allen2007, 163	mother / 母亲	a55mɔ33	?	Yunlong	mother	5463	母亲
+2060	a₃₁mɔ₃₃	Allen2007, 163	mother / 母亲	a31mɔ33	?	Xiangyun	mother	5463	母亲
+2061	a₅₅mɔ₃₃	Allen2007, 163	mother / 母亲	a55mɔ33	?	Luobenzhuo	mother	5463	母亲
+#
+2062	ɕien₅₅	Wang2006a, 23	mountain	ɕien55	?	Tuoluo	mountain	2421	?
+2063	sao₄₂	Wang2006a, 23	mountain	sao42	?	Gongxing	mountain	2421	?
+2064	sɛ₅₅	Wang2006a, 23	mountain	sɛ55	?	Ega	mountain	2421	?
+2065	ʂɚ̃₅₅	Wang2006a, 23	mountain	ʂɚ̃55	?	Jinman	mountain	2421	?
+2066	sɤ̃₄₂	Wang2006a, 23	mountain	sṽ42	?	Jinxing	mountain	2421	?
+2067	ʂo₄₂	Wang2006a, 23	mountain	ʂo42	?	Dashi	mountain	2421	?
+2068	sɤ₅₃	Wang2006a, 23	mountain	sv53	?	Zhoucheng	mountain	2421	?
+2069	sen₅₅	Wang2006a, 23	mountain	sen55	?	Mazhelong	mountain	2421	?
+2070	sɤ₄₂	Allen2007, 22	mountain / 山	sɤ42	?	Jianchuan	mountain	2421	山
+2071	ʂɤ₄₂	Allen2007, 22	mountain / 山	ʂɤ42	?	Eryuan	mountain	2421	山
+2072	suɔ₄₂	Allen2007, 22	mountain / 山	suɔ42	?	Heqi	mountain	2421	山
+2073	su₃₁	Allen2007, 22	mountain / 山	su31	?	Lanping	mountain	2421	山
+2074	sɤ₃₂	Allen2007, 22	mountain / 山	sɤ32	?	Qiliqiao	mountain	2421	山
+2075	ʃɤ₄₂	Allen2007, 22	mountain / 山	ʃɤ42	?	Yunlong	mountain	2421	山
+2076	ɕɛ̃₄₂	Allen2007, 22	mountain / 山	ɕɛ̃42	?	Xiangyun	mountain	2421	山
+2077	ʂɛ̃₅₅	Allen2007, 22	mountain / 山	ʂɛ̃55	?	Luobenzhuo	mountain	2421	山
+#
+6263	t͡ɕy₃₃	Allen2007, 130	mouth / 嘴	tɕy33	?	Qiliqiao	mouth	332000	嘴
+6264	ʥy₃₃kɛ₃₃	Allen2007, 130	mouth / 嘴	ʥy33kɛ33	?	Yunlong	mouth	332000	嘴
+6261	t͡sʰue₃₃kʰɔ̃₄₄	Allen2007, 130	mouth / 嘴	tsʰue33kʰɔ̃44	?	Heqi	mouth	332000	嘴
+6265	y₃₃	Allen2007, 130	mouth / 嘴	y33	?	Xiangyun	mouth	332000	嘴
+6266	t͡ɕo₄₄qo₄₄	Allen2007, 130	mouth / 嘴	tɕo44qo44	?	Luobenzhuo	mouth	332000	嘴
+6259	t͡ɕy₃₃kɛ₅₅	Allen2007, 130	mouth / 嘴	tɕy33kɛ55	?	Jianchuan	mouth	332000	嘴
+6260	t͡ɕy₃₃ka₃₅tɯ₂₁	Allen2007, 130	mouth / 嘴	tɕy33ka35tɯ21	?	Eryuan	mouth	332000	嘴
+6262	t͡ɕy₃₃kuɛ₅₅kʰu₃₁	Allen2007, 130	mouth / 嘴	tɕy33kuɛ55kʰu31	?	Lanping	mouth	332000	嘴
+#
+2112	ɲua₅₅	Wang2006a, 687	name	ɲua55	?	Tuoluo	name	5995	?
+2113	ɲuɛ₅₅	Wang2006a, 687	name	ɲuɛ55	?	Gongxing	name	5995	?
+2114	miæ₂₄	Wang2006a, 687	name	miæ24	?	Enqi	name	5995	?
+2115	ɲya₅₅	Wang2006a, 687	name	ɲya55	?	Ega	name	5995	?
+2116	ɲo₅₅	Wang2006a, 687	name	ɲo55	?	Jinman	name	5995	?
+2117	mian₅₅	Wang2006a, 687	name	mian55	?	Jinxing	name	5995	?
+2118	miɚ₃₅	Wang2006a, 687	name	miɚ35	?	Dashi	name	5995	?
+2119	miɛ₃₅	Wang2006a, 687	name	miɛ35	?	Zhoucheng	name	5995	?
+2120	miɚ₅₅	Wang2006a, 687	name	miɚ55	?	Mazhelong	name	5995	?
+2121	miɛ₅₅	Allen2007, 242	name / 名字	miɛ55	?	Jianchuan	name	5995	名字
+2122	miɛ₃₅	Allen2007, 242	name / 名字	miɛ35	?	Eryuan	name	5995	名字
+2123	miɛ₃₅	Allen2007, 242	name / 名字	miɛ35	?	Heqi	name	5995	名字
+2124	miɛ₅₅	Allen2007, 242	name / 名字	miɛ55	?	Lanping	name	5995	名字
+2125	miɛ₃₅	Allen2007, 242	name / 名字	miɛ35	?	Qiliqiao	name	5995	名字
+2126	miɛ₃₅	Allen2007, 242	name / 名字	miɛ35	?	Yunlong	name	5995	名字
+2127	miɛ₃₅	Allen2007, 242	name / 名字	miɛ35	?	Xiangyun	name	5995	名字
+2128	ɲõ₅₅	Allen2007, 242	name / 名字	ɲõ55	?	Luobenzhuo	name	5995	名字
+#
+4809	t͡ʂɚ₃₃	Wang2006a, 977	narrow	tʂɚ33	?	Dashi	narrow	5566	?
+4803	tia₄₂	Wang2006a, 977	narrow	tia42	?	Tuoluo	narrow	5566	?
+4804	t͡sæ₂₄	Wang2006a, 977	narrow	tsæ24	?	Gongxing	narrow	5566	?
+4805	tia₅₅	Wang2006a, 977	narrow	tia55	?	Enqi	narrow	5566	?
+4806	so₅₅tɛ₄₄	Wang2006a, 977	narrow	(so55)tɛ44	?	Ega	narrow	5566	?
+4807	t͡ʂɚ₅₅	Wang2006a, 977	narrow	tʂɚ55	?	Jinman	narrow	5566	?
+4808	t͡sa₄₄	Wang2006a, 977	narrow	tsa44	?	Jinxing	narrow	5566	?
+4810	t͡sɛ₄₄	Wang2006a, 977	narrow	tsɛ44	?	Zhoucheng	narrow	5566	?
+4811	t͡sɚ₄₄	Wang2006a, 977	narrow	tsɚ44	?	Mazhelong	narrow	5566	?
+#
+2129	jen₃₃	Wang2006a, 975	near	jen33	?	Tuoluo	near	869106	?
+2130	d͡ʑien₂₂	Wang2006a, 975	near	dʑien22	?	Gongxing	near	869106	?
+2131	t͡ɕi₂₂	Wang2006a, 975	near	tɕi22	?	Enqi	near	869106	?
+2132	t͡sʰo₅₅	Wang2006a, 975	near	(tsʰo55)	?	Ega	near	869106	?
+2133	t͡sʰo₅₅	Wang2006a, 975	near	tsʰo55)	?	Jinman	near	869106	?
+2134	t͡ɕien₃₃	Wang2006a, 975	near	(tɕien33	?	Jinxing	near	869106	?
+2135	t͡ɕien₃₃	Wang2006a, 975	near	tɕien33	?	Dashi	near	869106	?
+2136	t͡ɕie₃₃	Wang2006a, 975	near	tɕie33	?	Zhoucheng	near	869106	?
+2137	t͡ɕen₃₃	Wang2006a, 975	near	tɕen33	?	Mazhelong	near	869106	?
+2138	t͡ɕĩ₃₃	Allen2007, 397	near / 近	tɕĩ33	?	Jianchuan	near	869106	近
+2139	t͡ɕi₃₃	Allen2007, 397	near / 近	tɕi33	?	Eryuan	near	869106	近
+2140	t͡ɕĩ₃₃	Allen2007, 397	near / 近	tɕĩ33	?	Heqi	near	869106	近
+2141	t͡ɕĩ₄₄	Allen2007, 397	near / 近	tɕĩ44	?	Lanping	near	869106	近
+2142	t͡ɕiɛ₃₃	Allen2007, 397	near / 近	tɕiɛ33	?	Qiliqiao	near	869106	近
+2143	t͡ɕi₃₃	Allen2007, 397	near / 近	tɕi33	?	Yunlong	near	869106	近
+2144	jĩ₃₃	Allen2007, 397	near / 近	jĩ33	?	Xiangyun	near	869106	近
+2145	t͡sʰuɔ₅₅	Allen2007, 397	near / 近	tsʰuɔ55	?	Luobenzhuo	near	869106	近
+#
+6287	pɔ₃₅t͡sɿ₃₃ku₄₄	Allen2007, 134	neck / 脖子	pɔ35tsɿ33ku44	?	Qiliqiao	neck	5823	脖子
+6288	kao₄₂te₃₃	Allen2007, 134	neck / 脖子	kao42te33	?	Yunlong	neck	5823	脖子
+6289	ku₂₁lu₅₅mi₄₂t͡ɕɿ₃₃	Allen2007, 134	neck / 脖子	ku21lu55mi42tɕɿ33	?	Xiangyun	neck	5823	脖子
+6283	kɤ₄₂mi₄₂t͡sɤ₄₄	Allen2007, 134	neck / 脖子	kɤ42mi42tsɤ44	?	Jianchuan	neck	5823	脖子
+6284	ɕɛ₃₃kʲɛ₃₅	Allen2007, 134	neck / 脖子	ɕɛ33kʲɛ35	?	Eryuan	neck	5823	脖子
+6285	miɛ₄₂tʰɔ̃₅₅t͡suɔ₄₄	Allen2007, 134	neck / 脖子	miɛ42tʰɔ̃55tsuɔ44	?	Heqi	neck	5823	脖子
+6286	kɔ₃₃mi₃₃t͡sa₄₄	Allen2007, 134	neck / 脖子	kɔ33mi33tsa44	?	Lanping	neck	5823	脖子
+6290	qo₄₄ʈɛ₅₅	Allen2007, 134	neck / 脖子	qo44ʈɛ55	?	Luobenzhuo	neck	5823	脖子
+#
+4513	t͡ʂɚ̃₅₅	Wang2006a, 578	needle	tʂɚ̃55	?	Tuoluo	needle	5951	?
+4514	t͡ʂɚ₅₅	Wang2006a, 578	needle	tʂɚ55	?	Gongxing	needle	5951	?
+4515	t͡sɿ₂₄	Wang2006a, 578	needle	tsɿ24	?	Enqi	needle	5951	?
+4516	t͡sẽ₅₅	Wang2006a, 578	needle	tsẽ55	?	Ega	needle	5951	?
+4517	t͡ʂɚ̃₅₅	Wang2006a, 578	needle	tʂɚ̃55	?	Jinman	needle	5951	?
+4518	t͡san₅₅	Wang2006a, 578	needle	tsan55	?	Jinxing	needle	5951	?
+4519	t|srmɚ̃₃₅	Wang2006a, 578	needle	t|srmɚ̃35	?	Dashi	needle	5951	?
+4520	t͡si₃₅	Wang2006a, 578	needle	tsi35	?	Zhoucheng	needle	5951	?
+4521	t͡sen₅₅	Wang2006a, 578	needle	tsen55	?	Mazhelong	needle	5951	?
+#
+2146	ɕien₅₅	Wang2006a, 1050	new	ɕien55	?	Tuoluo	new	5484	?
+2147	ɕien₅₅	Wang2006a, 1050	new	ɕien55	?	Gongxing	new	5484	?
+2148	si₂₄	Wang2006a, 1050	new	si24	?	Enqi	new	5484	?
+2149	sɛ₅₅	Wang2006a, 1050	new	sɛ55	?	Ega	new	5484	?
+2150	sẽ₅₅	Wang2006a, 1050	new	sẽ55	?	Jinman	new	5484	?
+2151	ɕien₅₅	Wang2006a, 1050	new	ɕien55	?	Jinxing	new	5484	?
+2152	ɕʰien₅₅	Wang2006a, 1050	new	ɕʰien55	?	Dashi	new	5484	?
+2153	ɕi₃₅	Wang2006a, 1050	new	ɕi35	?	Zhoucheng	new	5484	?
+2154	ɕen₅₅	Wang2006a, 1050	new	ɕen55	?	Mazhelong	new	5484	?
+2155	ɕĩ₅₅	Allen2007, 421	new / 新	ɕĩ55	?	Jianchuan	new	5484	新
+2156	ɕi₅₅	Allen2007, 421	new / 新	ɕi55	?	Eryuan	new	5484	新
+2157	ɕʰĩ₅₅	Allen2007, 421	new / 新	ɕʰĩ55	?	Heqi	new	5484	新
+2158	ɕĩ₅₅	Allen2007, 421	new / 新	ɕĩ55	?	Lanping	new	5484	新
+2159	ɕi₃₅	Allen2007, 421	new / 新	ɕi35	?	Qiliqiao	new	5484	新
+2160	se₅₅	Allen2007, 421	new / 新	se55	?	Yunlong	new	5484	新
+2161	ɕĩ₅₅	Allen2007, 421	new / 新	ɕĩ55	?	Xiangyun	new	5484	新
+2162	sẽ₅₅	Allen2007, 421	new / 新	sẽ55	?	Luobenzhuo	new	5484	新
+#
+2163	t͡ɕi₃₃	Wang2006a, 805	nine	tɕi33	?	Tuoluo	nine	6193	?
+2164	t͡ɕi₂₂	Wang2006a, 805	nine	tɕi22	?	Gongxing	nine	6193	?
+2165	t͡ɕiɯ₂₂	Wang2006a, 805	nine	tɕiɯ22	?	Enqi	nine	6193	?
+2166	t͡ɕi₂₂	Wang2006a, 805	nine	tɕi22	?	Ega	nine	6193	?
+2167	t͡ɕi₂₂	Wang2006a, 805	nine	tɕi22	?	Jinman	nine	6193	?
+2168	t͡ɕiɯ₃₃	Wang2006a, 805	nine	tɕiɯ33	?	Jinxing	nine	6193	?
+2169	t͡ɕiɯ₃₃	Wang2006a, 805	nine	tɕiɯ33	?	Dashi	nine	6193	?
+2170	t͡ɕiɯ₃₃	Wang2006a, 805	nine	tɕiɯ33	?	Zhoucheng	nine	6193	?
+2171	t͡ɕǝɯ₃₃	Wang2006a, 805	nine	tɕǝɯ33	?	Mazhelong	nine	6193	?
+2172	t͡ɕɯ₃₃	Allen2007, 458	nine / 九	tɕɯ33	?	Jianchuan	nine	6193	九
+2173	t͡ɕɯ₃₃	Allen2007, 458	nine / 九	tɕɯ33	?	Eryuan	nine	6193	九
+2174	t͡ɕɯ₃₃	Allen2007, 458	nine / 九	tɕɯ33	?	Heqi	nine	6193	九
+2175	t͡ɕɯ₄₄	Allen2007, 458	nine / 九	tɕɯ44	?	Lanping	nine	6193	九
+2176	t͡ɕɯ₃₃	Allen2007, 458	nine / 九	tɕɯ33	?	Qiliqiao	nine	6193	九
+2177	t͡ɕɯ₃₃	Allen2007, 458	nine / 九	tɕɯ33	?	Yunlong	nine	6193	九
+2178	t͡ɕou₃₃	Allen2007, 458	nine / 九	tɕou33	?	Xiangyun	nine	6193	九
+2179	t͡ɕi₃₃	Allen2007, 458	nine / 九	tɕi33	?	Luobenzhuo	nine	6193	九
+#
+6243	ɤ̃₃₁kʰɤ₄₄tɯ₄₂	Allen2007, 128	nose / 鼻子	ɤ̃31kʰɤ44tɯ42	?	Jianchuan	nose	5471	鼻子
+6244	pi₂₁t͡se₄₄	Allen2007, 128	nose / 鼻子	pi21tse44	?	Eryuan	nose	5471	鼻子
+6245	vɤ₃₁tɯ₂₁	Allen2007, 128	nose / 鼻子	vɤ31tɯ21	?	Heqi	nose	5471	鼻子
+6246	ɤ₃₃tiɯ₃₁	Allen2007, 128	nose / 鼻子	ɤ33tiɯ31	?	Lanping	nose	5471	鼻子
+6249	pi₃₃tou₃₁	Allen2007, 128	nose / 鼻子	pi33tou31	?	Xiangyun	nose	5471	鼻子
+6247	pi₂₁fɤ₄₄tɯ₂₁	Allen2007, 128	nose / 鼻子	pi21fɤ44tɯ21	?	Qiliqiao	nose	5471	鼻子
+6248	pi₂₁kʰao₃₃	Allen2007, 128	nose / 鼻子	pi21kʰao33	?	Yunlong	nose	5471	鼻子
+6250	qʰuɛ₅₅ʈɯ₂₁	Allen2007, 128	nose / 鼻子	qʰuɛ55ʈɯ21	?	Luobenzhuo	nose	5471	鼻子
+#
+2180	kɤ₃₃	Wang2006a, 1493	old	kv33	?	Tuoluo	old;aged	5482	?
+2181	ku₂₂	Wang2006a, 1493	old	ku22	?	Gongxing	old;aged	5482	?
+2182	ku₂₂	Wang2006a, 1493	old	ku22	?	Enqi	old;aged	5482	?
+2183	kɤ₂₂	Wang2006a, 1493	old	kv22	?	Ega	old;aged	5482	?
+2184	kɤ₂₂	Wang2006a, 1493	old	kv22	?	Jinman	old;aged	5482	?
+2185	ku₃₃	Wang2006a, 1493	old	ku33	?	Jinxing	old;aged	5482	?
+2186	ku₃₃	Wang2006a, 1493	old	ku33	?	Dashi	old;aged	5482	?
+2187	ku₃₃	Wang2006a, 1493	old	ku33	?	Zhoucheng	old;aged	5482	?
+2188	kɤ₃₃	Wang2006a, 1493	old	kv33	?	Mazhelong	old;aged	5482	?
+2189	ku₃₃	Allen2007, 415	old / 老	ku33	?	Jianchuan	old;aged	5482	老
+2190	ku₃₃	Allen2007, 415	old / 老	ku33	?	Eryuan	old;aged	5482	老
+2191	ku₃₃	Allen2007, 415	old / 老	ku33	?	Heqi	old;aged	5482	老
+2192	ku₃₃	Allen2007, 415	old / 老	ku33	?	Lanping	old;aged	5482	老
+2193	ku₃₃	Allen2007, 415	old / 老	ku33	?	Qiliqiao	old;aged	5482	老
+2194	ku₃₃	Allen2007, 415	old / 老	ku33	?	Yunlong	old;aged	5482	老
+2195	ku₃₃	Allen2007, 415	old / 老	ku33	?	Xiangyun	old;aged	5482	老
+2196	kɤ₃₃	Allen2007, 415	old / 老	kɤ33	?	Luobenzhuo	old;aged	5482	老
+#
+2197	geŋ₂₁	Wang2006a, 1051	used, old	geŋ21	?	Tuoluo	old;used	5482	?
+2198	gɯ₄₂	Wang2006a, 1051	used, old	gɯ42	?	Gongxing	old;used	5482	?
+2199	gɯ₄₃	Wang2006a, 1051	used, old	gɯ43	?	Enqi	old;used	5482	?
+2200	gɯ₄₂	Wang2006a, 1051	used, old	gɯ42	?	Ega	old;used	5482	?
+2201	gɯ̃₄₂	Wang2006a, 1051	used, old	gɯ̃42	?	Jinman	old;used	5482	?
+2202	kɯ₃₁	Wang2006a, 1051	used, old	kɯ31	?	Zhoucheng	old;used	5482	?
+2203	kǝɯ₂₁	Wang2006a, 1051	used, old	kǝɯ21	?	Mazhelong	old;used	5482	?
+2204	kɯ₂₁	Allen2007, 422	old / 旧	kɯ21	?	Jianchuan	old;used	5482	旧
+2205	kɯ₃₁	Allen2007, 422	old / 旧	kɯ31	?	Eryuan	old;used	5482	旧
+2206	kɯ₃₁	Allen2007, 422	old / 旧	kɯ31	?	Heqi	old;used	5482	旧
+2207	kɯ₃₁	Allen2007, 422	old / 旧	kɯ31	?	Lanping	old;used	5482	旧
+2208	kɯ₃₃	Allen2007, 422	old / 旧	kɯ33	?	Qiliqiao	old;used	5482	旧
+2209	kɯ₃₁	Allen2007, 422	old / 旧	kɯ31	?	Yunlong	old;used	5482	旧
+2210	kɯ₂₁	Allen2007, 422	old / 旧	kɯ21	?	Xiangyun	old;used	5482	旧
+2211	gɯ̃₃₃	Allen2007, 422	old / 旧	gɯ̃33	?	Luobenzhuo	old;used	5482	旧
+#
+2212	a₂₁	Wang2006a, 797	one	a21	?	Tuoluo	one	6244	?
+2213	a₅₅	Wang2006a, 797	one	a55	?	Gongxing	one	6244	?
+2214	a₄₃	Wang2006a, 797	one	a43	?	Enqi	one	6244	?
+2215	a₄₂	Wang2006a, 797	one	a42	?	Ega	one	6244	?
+2216	a₄₂	Wang2006a, 797	one	a42	?	Jinman	one	6244	?
+2217	a₄₂	Wang2006a, 797	one	a42	?	Jinxing	one	6244	?
+2218	a₃₁	Wang2006a, 797	one	a31	?	Zhoucheng	one	6244	?
+2219	a₂₁	Wang2006a, 797	one	a21	?	Mazhelong	one	6244	?
+2220	ji₄₄	Allen2007, 450	one / 一	ji44	?	Jianchuan	one	6244	一
+2221	ji₄₄	Allen2007, 450	one / 一	ji44	?	Eryuan	one	6244	一
+2222	ji₄₄	Allen2007, 450	one / 一	ji44	?	Heqi	one	6244	一
+2223	ji₄₄	Allen2007, 450	one / 一	ji44	?	Lanping	one	6244	一
+2224	ji₄₄	Allen2007, 450	one / 一	ji44	?	Qiliqiao	one	6244	一
+2225	ji₄₄	Allen2007, 450	one / 一	ji44/a31	?	Yunlong	one	6244	一
+2226	a₃₁	Allen2007, 450	one / 一	a31	?	Xiangyun	one	6244	一
+2227	ʔi₅₅	Allen2007, 450	one / 一	ʔi55	?	Luobenzhuo	one	6244	一
+#
+2228	qʰɚ̃₅₅	Wang2006a, 1461	open	qʰɚ̃55	verb	Tuoluo	open	513017	?
+2229	qʰe₅₅	Wang2006a, 1461	open	qʰe55	verb	Gongxing	open	513017	?
+2230	qʰɯ₂₄	Wang2006a, 1461	open	qʰɯ24	verb	Enqi	open	513017	?
+2231	qʰɯ₅₅	Wang2006a, 1461	open	qʰɯ55	verb	Ega	open	513017	?
+2232	qʰɯ̃₅₅	Wang2006a, 1461	open	qʰɯ̃55	verb	Jinman	open	513017	?
+2233	kʰɯ₅₅	Wang2006a, 1461	open	kʰɯ55	verb	Jinxing	open	513017	?
+2234	kʰɯ₅₅	Wang2006a, 1461	open	kʰɯ55	verb	Dashi	open	513017	?
+2235	kʰɯ₅₅	Wang2006a, 1461	open	kʰɯ55	verb	Zhoucheng	open	513017	?
+2236	kʰǝ₅₅	Wang2006a, 1461	open	kʰǝ55	verb	Mazhelong	open	513017	?
+2237	kʰɯ₅₅	Allen2007, 324	open(door) / 开（门）	kʰɯ55	verb	Jianchuan	open	513017	开（门）
+2238	kʰɯ₅₅	Allen2007, 324	open(door) / 开（门）	kʰɯ55	verb	Eryuan	open	513017	开（门）
+2239	kʰɯ₅₅	Allen2007, 324	open(door) / 开（门）	kʰɯ55	verb	Heqi	open	513017	开（门）
+2240	kʰe₅₅	Allen2007, 324	open(door) / 开（门）	kʰe55	verb	Lanping	open	513017	开（门）
+2241	kʰɯ₅₅	Allen2007, 324	open(door) / 开（门）	kʰɯ55	verb	Qiliqiao	open	513017	开（门）
+2242	kʰɯ₅₅	Allen2007, 324	open(door) / 开（门）	kʰɯ55	verb	Yunlong	open	513017	开（门）
+2243	kʰou₅₅	Allen2007, 324	open(door) / 开（门）	kʰou55	verb	Xiangyun	open	513017	开（门）
+2244	qʰɯ̃₅₅	Allen2007, 324	open(door) / 开（门）	qʰɯ̃55	verb	Luobenzhuo	open	513017	开（门）
+#
+7589	sʰũɔ̃₃₁	Allen2007, 445	painful / 痛	sʰũɔ̃31	?	Heqi	painful	496633	痛
+7587	sɤ̃₃₁	Allen2007, 445	painful / 痛	sɤ̃31	?	Jianchuan	painful	496633	痛
+7588	sɤ₃₁	Allen2007, 445	painful / 痛	sɤ31	?	Eryuan	painful	496633	痛
+7590	sɔ̃₃₁	Allen2007, 445	painful / 痛	sɔ̃31	?	Lanping	painful	496633	痛
+7591	sɿ₃₁	Allen2007, 445	painful / 痛	sɿ31	?	Qiliqiao	painful	496633	痛
+7592	sɿ₃₁	Allen2007, 445	painful / 痛	sɿ31	?	Yunlong	painful	496633	痛
+7593	ɕɛ̃₃₁	Allen2007, 445	painful / 痛	ɕɛ̃31	?	Xiangyun	painful	496633	痛
+7594	sõ₃₁	Allen2007, 445	painful / 痛	sõ31	?	Luobenzhuo	painful	496633	痛
+#
+2292	tʰɤ₃₃	Wang2006a, 38	path; road	tʰv33	?	Tuoluo	path;road	3258	?
+2293	tʰy₂₂	Wang2006a, 38	path; road	tʰy22	?	Gongxing	path;road	3258	?
+2294	tʰiu₂₂	Wang2006a, 38	path; road	tʰiu22	?	Enqi	path;road	3258	?
+2295	t͡ɕiu₂₂	Wang2006a, 38	path; road	tɕiu22	?	Ega	path;road	3258	?
+2296	ʈʰu₂₂	Wang2006a, 38	path; road	ʈʰu22	?	Jinman	path;road	3258	?
+2297	tʰu₃₃	Wang2006a, 38	path; road	tʰu33	?	Jinxing	path;road	3258	?
+2298	tʰu₃₃	Wang2006a, 38	path; road	tʰu33	?	Dashi	path;road	3258	?
+2299	tʰo₃₃	Wang2006a, 38	path; road	tʰo33	?	Zhoucheng	path;road	3258	?
+2300	tʰǝɯ₃₃	Wang2006a, 38	path; road	tʰǝɯ33	?	Mazhelong	path;road	3258	?
+2301	tʰu₃₃	Allen2007, 171	road / 路	tʰu33	?	Jianchuan	path;road	3258	路
+2302	tʰɔ₃₃	Allen2007, 171	road / 路	tʰɔ33	?	Eryuan	path;road	3258	路
+2303	tʰu₃₃	Allen2007, 171	road / 路	tʰu33	?	Heqi	path;road	3258	路
+2304	tʰu₃₃	Allen2007, 171	road / 路	tʰu33	?	Lanping	path;road	3258	路
+2305	tʰu₃₃	Allen2007, 171	road / 路	tʰu33	?	Qiliqiao	path;road	3258	路
+2306	tʰu₃₃	Allen2007, 171	road / 路	tʰu33	?	Yunlong	path;road	3258	路
+2307	tʰu₃₃	Allen2007, 171	road / 路	tʰu33	?	Xiangyun	path;road	3258	路
+2308	tao₄₂cʰɤ₃₃	Allen2007, 171	road / 路	tao42cʰɤ33	?	Luobenzhuo	path;road	3258	路
+#
+2360	jen₃₅	Wang2006a, 167	person	jen35	?	Tuoluo	person	333730	?
+2361	ɲi₁₂	Wang2006a, 167	person	ɲi12	?	Gongxing	person	333730	?
+2362	ɲi₂₁	Wang2006a, 167	person	ɲi21	?	Enqi	person	333730	?
+2363	ɲi₂₁	Wang2006a, 167	person	ɲi21	?	Ega	person	333730	?
+2364	ɲi₂₁	Wang2006a, 167	person	ɲi21	?	Jinman	person	333730	?
+2365	jen₂₁	Wang2006a, 167	person	jen21	?	Jinxing	person	333730	?
+2366	jen₂₁	Wang2006a, 167	person	jen21	?	Dashi	person	333730	?
+2367	ɲi₂₁	Wang2006a, 167	person	ɲi21	?	Zhoucheng	person	333730	?
+2368	ɲien₂₁	Wang2006a, 167	person	ɲien21	?	Mazhelong	person	333730	?
+2369	jĩ₂₁kɛ̃₅₅jĩ₂₁	Allen2007, 155	person / 人	jĩ21kɛ̃55jĩ21	?	Jianchuan	person	333730	人
+2370	ɲi₂₁kʲɛ₃₅ɲi₂₁	Allen2007, 155	person / 人	ɲi21kʲɛ35ɲi21	?	Eryuan	person	333730	人
+2371	jĩ₂₁kɛ̃₃₅jĩ₂₁	Allen2007, 155	person / 人	jĩ21kɛ̃35jĩ21	?	Heqi	person	333730	人
+2372	jĩ₂₁kɛ̃₅₅	Allen2007, 155	person / 人	jĩ21kɛ̃55	?	Lanping	person	333730	人
+2373	ɲi₂₁kɛ₃₅	Allen2007, 155	person / 人	ɲi21kɛ35	?	Qiliqiao	person	333730	人
+2374	ɲi₂₁kɛ₃₅	Allen2007, 155	person / 人	ɲi21kɛ35	?	Yunlong	person	333730	人
+2375	ni₂₁kɛ̃₃₅	Allen2007, 155	person / 人	ni21kɛ̃35	?	Xiangyun	person	333730	人
+2376	ɲi₃₁qao₅₅	Allen2007, 155	person / 人	ɲi31qao55	?	Luobenzhuo	person	333730	人
+#
+6907	t͡sɤ̃₄₂	Allen2007, 293	plant(seed) / 栽种	tsɤ̃42	?	Jianchuan	plant(seed)	619975	栽种
+6909	t͡sũɔ̃₄₂	Allen2007, 293	plant(seed) / 栽种	tsũɔ̃42	?	Heqi	plant(seed)	619975	栽种
+6910	t͡sɔ̃₄₂ku₄₄	Allen2007, 293	plant(seed) / 栽种	tsɔ̃42ku44/fɛ44	?	Lanping	plant(seed)	619975	栽种
+6912	kɛ₃₃	Allen2007, 293	plant(seed) / 栽种	kɛ33	?	Yunlong	plant(seed)	619975	栽种
+6913	kʲɛ₃₅	Allen2007, 293	plant(seed) / 栽种	kʲɛ35/tɕɛ̃42	?	Xiangyun	plant(seed)	619975	栽种
+6908	t͡sɤ₄₂	Allen2007, 293	plant(seed) / 栽种	tsɤ42	?	Eryuan	plant(seed)	619975	栽种
+6914	t͡ɕõ₄₂	Allen2007, 293	plant(seed) / 栽种	tɕõ42	?	Luobenzhuo	plant(seed)	619975	栽种
+6911	t͡sɤ₃₂	Allen2007, 293	plant(seed) / 栽种	tsɤ32	?	Qiliqiao	plant(seed)	619975	栽种
+#
+7083	wa₄₂sẽ₂₁	Allen2007, 333	play / 玩耍	wa42sẽ21	verb	Jianchuan	play	6010	玩耍
+7084	u₃₁t͡ɕʰu₃₁	Allen2007, 333	play / 玩耍	u31tɕʰu31	verb	Eryuan	play	6010	玩耍
+7085	vɤ₄₂tɯ₃₃	Allen2007, 333	play / 玩耍	vɤ42tɯ33	verb	Heqi	play	6010	玩耍
+7086	wa₄₂ʐɛ₂₁	Allen2007, 333	play / 玩耍	wa42ʐɛ21	verb	Lanping	play	6010	玩耍
+7087	ɔ₂₁t͡ɕʰɔ₃₃	Allen2007, 333	play / 玩耍	ɔ21tɕʰɔ33	verb	Qiliqiao	play	6010	玩耍
+7088	wu₃₁t͡ɕʰu₃₁	Allen2007, 333	play / 玩耍	wu31tɕʰu31	verb	Yunlong	play	6010	玩耍
+7089	t͡sʰu₃₁	Allen2007, 333	play / 玩耍	tsʰu31	verb	Xiangyun	play	6010	玩耍
+7090	xæ̃₃₅ʐæ₄₂	Allen2007, 333	play / 玩耍	xæ̃35ʐæ42	verb	Luobenzhuo	play	6010	玩耍
+#
+2478	ʑi₃₃	Wang2006a, 1487	pull; tug	ʑi33	verb	Tuoluo	pull	6071	?
+2479	d͡ʑi₂₂	Wang2006a, 1487	pull; tug	dʑi22	verb	Gongxing	pull	6071	?
+2480	d͡ʑi₂₂	Wang2006a, 1487	pull; tug	dʑi22	verb	Enqi	pull	6071	?
+2481	kʰɛ₂₂	Wang2006a, 1487	pull; tug	(kʰɛ22/tɕʰio55)	verb	Ega	pull	6071	?
+2482	t͡ɕi₃₃	Wang2006a, 1487	pull; tug	tɕi33	verb	Jinxing	pull	6071	?
+2483	t͡ɕi₃₃	Wang2006a, 1487	pull; tug	tɕi33	verb	Dashi	pull	6071	?
+2484	t͡ɕi₃₃	Wang2006a, 1487	pull; tug	tɕi33	verb	Zhoucheng	pull	6071	?
+2485	kʰen₅₅	Wang2006a, 1487	pull; tug	(kʰen55)	verb	Mazhelong	pull	6071	?
+2486	t͡ɕi₃₃	Allen2007, 275	pull / 拉	tɕi33	verb	Jianchuan	pull	6071	拉
+2487	kʲi₃₃	Allen2007, 275	pull / 拉	kʲi33	verb	Eryuan	pull	6071	拉
+2488	kʰa₃₃	Allen2007, 275	pull / 拉	kʰa33	verb	Heqi	pull	6071	拉
+2489	t͡ɕi₃₃	Allen2007, 275	pull / 拉	tɕi33	verb	Lanping	pull	6071	拉
+2490	t͡ɕi₃₃	Allen2007, 275	pull / 拉	tɕi33	verb	Qiliqiao	pull	6071	拉
+2491	t͡ɕi₃₃	Allen2007, 275	pull / 拉	tɕi33	verb	Yunlong	pull	6071	拉
+2492	t͡ɕi₄₄	Allen2007, 275	pull / 拉	tɕi44/tɕẽ35	verb	Xiangyun	pull	6071	拉
+2493	t͡ɕã₄₄	Allen2007, 275	pull / 拉	tɕã44	verb	Luobenzhuo	pull	6071	拉
+#
+6827	mia₅₅	Allen2007, 276	push / 推	mia55	verb	Jianchuan	push	6068	推
+6828	ma₃₅	Allen2007, 276	push / 推	ma35	verb	Eryuan	push	6068	推
+6829	ma₅₅	Allen2007, 276	push / 推	ma55	verb	Heqi	push	6068	推
+6830	ma₄₄	Allen2007, 276	push / 推	ma44	verb	Lanping	push	6068	推
+6831	ma₃₅	Allen2007, 276	push / 推	ma35	verb	Qiliqiao	push	6068	推
+6832	ma₃₅	Allen2007, 276	push / 推	ma35	verb	Yunlong	push	6068	推
+6833	t͡sʰu₅₅	Allen2007, 276	push / 推	tsʰu55/ma35	verb	Xiangyun	push	6068	推
+6834	pʰa₅₅	Allen2007, 276	push / 推	pʰa55	verb	Luobenzhuo	push	6068	推
+#
+5759	vɤ₃₃ɕi₃₃	Allen2007, 7	rain / 雨	vɤ33ɕi33	?	Qiliqiao	rain	3100	雨
+5755	vɤ₃₃	Allen2007, 7	rain / 雨	vɤ33	?	Jianchuan	rain	3100	雨
+5756	vɤ₃₃ɕi₃₃	Allen2007, 7	rain / 雨	vɤ33ɕi33	?	Eryuan	rain	3100	雨
+5757	vɤ₃₃	Allen2007, 7	rain / 雨	vɤ33	?	Heqi	rain	3100	雨
+5758	ʐɯ₃₃	Allen2007, 7	rain / 雨	ʐɯ33	?	Lanping	rain	3100	雨
+5760	vɤ₃₃ɕi₃₃	Allen2007, 7	rain / 雨	vɤ33ɕi33	?	Yunlong	rain	3100	雨
+5761	jɛ₃₃	Allen2007, 7	rain / 雨	jɛ33	?	Xiangyun	rain	3100	雨
+5762	dʐʅ₃₃	Allen2007, 7	rain / 雨	dʐʅ33	?	Luobenzhuo	rain	3100	雨
+2511	ʐi₃₃luo₄₂	Wang2006a, 1719	(rain) fall	(ʐi33)luo42	?	Tuoluo	rain	3100	?
+2512	ʐi₂₂w₂₁	Wang2006a, 1719	(rain) fall	(ʐi22)w21	?	Gongxing	rain	3100	?
+2513	u₂₁	Wang2006a, 1719	(rain) fall	u21	?	Enqi	rain	3100	?
+2514	u₄₂	Wang2006a, 1719	(rain) fall	u42	?	Ega	rain	3100	?
+2515	u₄₂	Wang2006a, 1719	(rain) fall	u42	?	Jinman	rain	3100	?
+2516	ɣou₄₂	Wang2006a, 1719	(rain) fall	ɣou42	?	Jinxing	rain	3100	?
+2517	ɣou₄₂	Wang2006a, 1719	(rain) fall	ɣou42	?	Dashi	rain	3100	?
+2518	ou₄₂ɤu₃₃ɕi₄₄	Wang2006a, 1719	(rain) fall	ou42(vu33ɕi44)	?	Zhoucheng	rain	3100	?
+2519	ɣo₄₂	Wang2006a, 1719	(rain) fall	ɣo42	?	Mazhelong	rain	3100	?
+#
+2554	tʰa₄₂	Wang2006a, 1007	red	tʰa42	?	Tuoluo	red	1333710	?
+2555	tʰæ₄₂	Wang2006a, 1007	red	tʰæ42	?	Gongxing	red	1333710	?
+2556	tʰiæ₅₅	Wang2006a, 1007	red	tʰiæ55	?	Enqi	red	1333710	?
+2557	t͡ɕʰa₄₄	Wang2006a, 1007	red	tɕʰa44	?	Ega	red	1333710	?
+2558	ʈʰa₅₅	Wang2006a, 1007	red	ʈʰa55	?	Jinman	red	1333710	?
+2559	t͡sʰa₄₄	Wang2006a, 1007	red	tsʰa44	?	Jinxing	red	1333710	?
+2560	t͡ʂʰɚ₄₄	Wang2006a, 1007	red	tʂʰɚ44	?	Dashi	red	1333710	?
+2561	t͡sʰɛ₄₄	Wang2006a, 1007	red	tsʰɛ44	?	Zhoucheng	red	1333710	?
+2562	xoŋ₃₃	Wang2006a, 1007	red	[xoŋ33]	?	Mazhelong	red	1333710	?
+2563	t͡sʰɛ₄₄	Allen2007, 406	red / 红	tsʰɛ44	?	Jianchuan	red	1333710	红
+2564	xɔ₃₅	Allen2007, 406	red / 红	xɔ35	?	Eryuan	red	1333710	红
+2565	t͡sʰɛ₄₄	Allen2007, 406	red / 红	tsʰɛ44	?	Heqi	red	1333710	红
+2566	t͡sʰɛ₄₄	Allen2007, 406	red / 红	tsʰɛ44	?	Lanping	red	1333710	红
+2567	t͡sʰɛ₄₄	Allen2007, 406	red / 红	tsʰɛ44/xuɔ35	?	Qiliqiao	red	1333710	红
+2568	t͡sʰɛ₃₃	Allen2007, 406	red / 红	tsʰɛ33	?	Yunlong	red	1333710	红
+2569	t͡sʰɛ₄₄	Allen2007, 406	red / 红	tsʰɛ44	?	Xiangyun	red	1333710	红
+2570	ʈʰa₅₅	Allen2007, 406	red / 红	ʈʰa55	?	Luobenzhuo	red	1333710	红
+#
+5832	t͡sɛ₃₁	Allen2007, 28	right(side) / 右边	tsɛ31	?	Yunlong	right side	436024	右边
+5827	t͡sɛ₄₂fɤ₃₃	Allen2007, 28	right(side) / 右边	tsɛ42fɤ33	?	Jianchuan	right side	436024	右边
+5828	t͡ʂɛ₄₂pɔ₃₁	Allen2007, 28	right(side) / 右边	tʂɛ42pɔ31	?	Eryuan	right side	436024	右边
+5829	t͡sɛ̃₄₂fɤ₃₃	Allen2007, 28	right(side) / 右边	tsɛ̃42fɤ33	?	Heqi	right side	436024	右边
+5830	t͡sɛ̃₄₄pĩɛ̃₅₅pʰao₄₄	Allen2007, 28	right(side) / 右边	tsɛ̃44pĩɛ̃55pʰao44	?	Lanping	right side	436024	右边
+5831	t͡sɛ̃₄₄pɔ₂₁	Allen2007, 28	right(side) / 右边	tsɛ̃44pɔ21	?	Qiliqiao	right side	436024	右边
+5833	t͡sɛ̃₄₂sɛ̃₂₁	Allen2007, 28	right(side) / 右边	tsɛ̃42sɛ̃21	?	Xiangyun	right side	436024	右边
+5834	cã₄₄ɕi₃₃	Allen2007, 28	right(side) / 右边	cã44ɕi33	?	Luobenzhuo	right side	436024	右边
+#
+2638	qoŋ₅₅	Wang2006a, 30	river	qoŋ55	?	Tuoluo	river	3253	?
+2639	qoŋ₅₅	Wang2006a, 30	river	qoŋ55	?	Gongxing	river	3253	?
+2640	qo₂₄	Wang2006a, 30	river	qo24/tio21	?	Enqi	river	3253	?
+2641	qu₅₅	Wang2006a, 30	river	qu55/tɕo21	?	Ega	river	3253	?
+2642	qõ₅₅	Wang2006a, 30	river	qõ55/ʈo21	?	Jinman	river	3253	?
+2643	kɤŋ₅₅	Wang2006a, 30	river	kvŋ55	?	Jinxing	river	3253	?
+2644	kõ₃₅	Wang2006a, 30	river	kõ35	?	Dashi	river	3253	?
+2645	kɤ₃₅	Wang2006a, 30	river	kv35	?	Zhoucheng	river	3253	?
+2646	koŋ₅₅	Wang2006a, 30	river	koŋ55	?	Mazhelong	river	3253	?
+2647	kɤ̃₅₅	Allen2007, 15	river / 河	kɤ̃55	?	Jianchuan	river	3253	河
+2648	kɤ₃₅	Allen2007, 15	river / 河	kɤ35	?	Eryuan	river	3253	河
+2649	kɔ̃₅₅	Allen2007, 15	river / 河	kɔ̃55	?	Heqi	river	3253	河
+2650	kõ₅₅	Allen2007, 15	river / 河	kõ55	?	Lanping	river	3253	河
+2651	kɤ₃₅	Allen2007, 15	river / 河	kɤ35	?	Qiliqiao	river	3253	河
+2652	kɯ₃₅kɯ₃₃	Allen2007, 15	river / 河	kɯ35kɯ33	?	Yunlong	river	3253	河
+2653	kʲɛ₃₅t͡sɔ₄₂	Allen2007, 15	river / 河	kʲɛ35tsɔ42	?	Xiangyun	river	3253	河
+2654	ʈõ₂₁	Allen2007, 15	river / 河	ʈõ21	?	Luobenzhuo	river	3253	河
+#
+2655	mɛ₂₁	Wang2006a, 375	root	mɛ21	?	Tuoluo	root	3269	?
+2656	te₂₄	Wang2006a, 375	root	te24	?	Gongxing	root	3269	?
+2657	tɛ₅₅	Wang2006a, 375	root	tE55	?	Enqi	root	3269	?
+2658	tɛ₄₂	Wang2006a, 375	root	tɛ42	?	Ega	root	3269	?
+2659	te₄₂	Wang2006a, 375	root	te42	?	Jinman	root	3269	?
+2660	te₄₄	Wang2006a, 375	root	te44	?	Jinxing	root	3269	?
+2661	te₄₄	Wang2006a, 375	root	te44	?	Dashi	root	3269	?
+2662	mi₄₄	Wang2006a, 375	root	mi44	?	Zhoucheng	root	3269	?
+2663	t͡so₃₃	Wang2006a, 375	root	(tso33)	?	Mazhelong	root	3269	?
+2664	mi₄₄	Allen2007, 115	root / 根	mi44	?	Jianchuan	root	3269	根
+2665	me₄₂	Allen2007, 115	root / 根	me42	?	Eryuan	root	3269	根
+2666	mi₄₄	Allen2007, 115	root / 根	mi44	?	Heqi	root	3269	根
+2667	te₄₄	Allen2007, 115	root / 根	te44/mi55	?	Lanping	root	3269	根
+2668	mi₄₄	Allen2007, 115	root / 根	mi44	?	Qiliqiao	root	3269	根
+2669	dɛ₃₃	Allen2007, 115	root / 根	dɛ33	?	Yunlong	root	3269	根
+2670	me₃₁me₃₁	Allen2007, 115	root / 根	me31me31	?	Xiangyun	root	3269	根
+2671	bo₅₅mɛ₄₄	Allen2007, 115	root / 根	bo55mɛ44	?	Luobenzhuo	root	3269	根
+#
+4582	su₄₂	Wang2006a, 619	rope	su42	?	Tuoluo	rope	5465	?
+4583	su₂₄	Wang2006a, 619	rope	su24	?	Gongxing	rope	5465	?
+4584	su₅₅	Wang2006a, 619	rope	su55	?	Enqi	rope	5465	?
+4585	su₄₄	Wang2006a, 619	rope	su44	?	Ega	rope	5465	?
+4586	so₅₅	Wang2006a, 619	rope	so55	?	Jinman	rope	5465	?
+4587	sou₄₄	Wang2006a, 619	rope	sou44	?	Jinxing	rope	5465	?
+4588	sʰou₄₄	Wang2006a, 619	rope	sʰou44	?	Dashi	rope	5465	?
+4589	so₄₄	Wang2006a, 619	rope	so44	?	Zhoucheng	rope	5465	?
+4590	so₄₄	Wang2006a, 619	rope	so44	?	Mazhelong	rope	5465	?
+#
+4830	uen₁₂	Wang2006a, 990	round	uen12	?	Gongxing	round	5984	?
+4829	ueŋ₃₅	Wang2006a, 990	round	ueŋ35	?	Tuoluo	round	5984	?
+4835	uẽ₃₁	Wang2006a, 990	round	uẽ31	?	Dashi	round	5984	?
+4836	ue₂₁	Wang2006a, 990	round	ue21	?	Zhoucheng	round	5984	?
+4837	ven₂₁	Wang2006a, 990	round	ven21	?	Mazhelong	round	5984	?
+4834	uẽ₂₁	Wang2006a, 990	round	uẽ21	?	Jinxing	round	5984	?
+4831	ʁuɛ₂₁	Wang2006a, 990	round	ʁuE21	?	Enqi	round	5984	?
+4832	kʰuɛ₄₄	Wang2006a, 990	round	kʰuɛ44	?	Ega	round	5984	?
+4833	ŋue₂₁	Wang2006a, 990	round	ŋue21	?	Jinman	round	5984	?
+#
+2672	t͡ɕyen₅₅	Wang2006a, 61	salt	tɕyen55	?	Tuoluo	salt	5599	?
+2673	t͡ɕyen₅₅	Wang2006a, 61	salt	tɕyen55	?	Gongxing	salt	5599	?
+2674	t͡suɛ₂₄	Wang2006a, 61	salt	tsuE24	?	Enqi	salt	5599	?
+2675	t͡suɛ₅₅	Wang2006a, 61	salt	tsuɛ55	?	Ega	salt	5599	?
+2676	t͡suẽ₅₅	Wang2006a, 61	salt	tsuẽ55	?	Jinman	salt	5599	?
+2677	pien₅₅	Wang2006a, 61	salt	pien55	?	Jinxing	salt	5599	?
+2678	piẽ₃₅	Wang2006a, 61	salt	piẽ35	?	Dashi	salt	5599	?
+2679	pi₃₅	Wang2006a, 61	salt	pi35	?	Zhoucheng	salt	5599	?
+2680	pĩ₅₅	Allen2007, 200	salt / 盐	pĩ55	?	Jianchuan	salt	5599	盐
+2681	pi₃₅	Allen2007, 200	salt / 盐	pi35	?	Eryuan	salt	5599	盐
+2682	pĩ₃₅	Allen2007, 200	salt / 盐	pĩ35	?	Heqi	salt	5599	盐
+2683	pĩ₅₅	Allen2007, 200	salt / 盐	pĩ55	?	Lanping	salt	5599	盐
+2684	pi₃₅	Allen2007, 200	salt / 盐	pi35	?	Qiliqiao	salt	5599	盐
+2685	pi₃₅	Allen2007, 200	salt / 盐	pi35	?	Yunlong	salt	5599	盐
+2686	pĩ₃₅	Allen2007, 200	salt / 盐	pĩ35	?	Xiangyun	salt	5599	盐
+2687	t͡sũɛ̃₅₅	Allen2007, 200	salt / 盐	tsũɛ̃55	?	Luobenzhuo	salt	5599	盐
+#
+3926	ɕɨo₅₅	Wang2006a, 44	sand	ɕɨo55	?	Tuoluo	sand	3305	?
+3927	sao₅₅	Wang2006a, 44	sand	sao55	?	Gongxing	sand	3305	?
+3928	ɕio₂₄	Wang2006a, 44	sand	ɕio24	?	Enqi	sand	3305	?
+3929	ɕio₅₅mi₂₂	Wang2006a, 44	sand	ɕio55mi22	?	Ega	sand	3305	?
+3930	ɕio₅₅	Wang2006a, 44	sand	ɕio55	?	Jinman	sand	3305	?
+3931	sou₅₅	Wang2006a, 44	sand	sou55	?	Jinxing	sand	3305	?
+3932	so₅₅	Wang2006a, 44	sand	so55	?	Zhoucheng	sand	3305	?
+3933	sa₅₅	Wang2006a, 44	sand	sa55	?	Mazhelong	sand	3305	?
+#
+6776	tɯ₃₃	Allen2007, 256	see / 见	tɯ33	verb	Yunlong	see	6003	见
+6771	kẽ₄₂	Allen2007, 256	see / 见	kẽ42	verb	Jianchuan	see	6003	见
+6772	kʲe₄₂	Allen2007, 256	see / 见	kʲe42	verb	Eryuan	see	6003	见
+6773	kẽ₄₂	Allen2007, 256	see / 见	kẽ42	verb	Heqi	see	6003	见
+6777	kʲẽ₄₂	Allen2007, 256	see / 见	kʲẽ42	verb	Xiangyun	see	6003	见
+6778	tɯ₅₅	Allen2007, 256	see / 见	tɯ55	verb	Luobenzhuo	see	6003	见
+6774	kɛ̃₄₂	Allen2007, 256	see / 见	kɛ̃42	verb	Lanping	see	6003	见
+6775	ke₄₂	Allen2007, 256	see / 见	ke42	verb	Qiliqiao	see	6003	见
+#
+2752	t͡ʂɤŋ₃₃	Wang2006a, 405	seed	tʂvŋ33	?	Tuoluo	seed	3361	?
+2753	t͡soŋ₂₂	Wang2006a, 405	seed	tsoŋ22	?	Gongxing	seed	3361	?
+2754	t͡ɕo₂₂	Wang2006a, 405	seed	tɕo22	?	Enqi	seed	3361	?
+2755	t͡ɕu₂₂	Wang2006a, 405	seed	tɕu22	?	Ega	seed	3361	?
+2756	t͡ɕõ₂₂	Wang2006a, 405	seed	tɕõ22	?	Jinman	seed	3361	?
+2757	t͡sɤ̃₃₃	Wang2006a, 405	seed	tsṽ33	?	Jinxing	seed	3361	?
+2758	t͡ʂoŋ₃₃	Wang2006a, 405	seed	tʂoŋ33	?	Dashi	seed	3361	?
+2759	t͡sɤ₃₃	Wang2006a, 405	seed	tsv33	?	Zhoucheng	seed	3361	?
+2760	t͡soŋ₃₃	Wang2006a, 405	seed	tsoŋ33	?	Mazhelong	seed	3361	?
+2761	t͡sɤ̃₃₃	Allen2007, 114	seed / 种子	tsɤ̃33	?	Jianchuan	seed	3361	种子
+2762	t͡sɤ₃₃	Allen2007, 114	seed / 种子	tsɤ33	?	Eryuan	seed	3361	种子
+2763	t͡sũɔ̃₃₃	Allen2007, 114	seed / 种子	tsũɔ̃33	?	Heqi	seed	3361	种子
+2764	t͡sõ₄₄	Allen2007, 114	seed / 种子	tsõ44	?	Lanping	seed	3361	种子
+2765	t͡sɤ₃₃	Allen2007, 114	seed / 种子	tsɤ33	?	Qiliqiao	seed	3361	种子
+2766	d͡zɯ₃₃	Allen2007, 114	seed / 种子	dzɯ33	?	Yunlong	seed	3361	种子
+2767	jɛ̃₃₃t͡sʰu₃₃	Allen2007, 114	seed / 种子	jɛ̃33tsʰu33	?	Xiangyun	seed	3361	种子
+2768	bo₅₅t͡ɕɔ̃₃₁	Allen2007, 114	seed / 种子	bo55tɕɔ̃31	?	Luobenzhuo	seed	3361	种子
+#
+2786	t͡ɕʰi₄₂	Wang2006a, 803	seven	tɕʰi42	?	Tuoluo	seven	7004	?
+2787	t͡ɕʰi₂₄	Wang2006a, 803	seven	tɕʰi24	?	Gongxing	seven	7004	?
+2788	t͡sʰi₅₅	Wang2006a, 803	seven	tsʰi55	?	Enqi	seven	7004	?
+2789	t͡sʰi₄₄	Wang2006a, 803	seven	tsʰi44	?	Ega	seven	7004	?
+2790	t͡sʰi₅₅	Wang2006a, 803	seven	tsʰi55	?	Jinman	seven	7004	?
+2791	t͡ɕʰi₄₄	Wang2006a, 803	seven	tɕʰi44	?	Jinxing	seven	7004	?
+2792	t͡ɕʰi₄₄	Wang2006a, 803	seven	tɕʰi44	?	Dashi	seven	7004	?
+2793	t͡ɕʰi₄₄	Wang2006a, 803	seven	tɕʰi44	?	Zhoucheng	seven	7004	?
+2794	t͡ɕʰi₄₄	Wang2006a, 803	seven	tɕʰi44	?	Mazhelong	seven	7004	?
+2795	t͡ɕʰi₄₄	Allen2007, 456	seven / 七	tɕʰi44	?	Jianchuan	seven	7004	七
+2796	t͡ɕʰi₄₄	Allen2007, 456	seven / 七	tɕʰi44	?	Eryuan	seven	7004	七
+2797	t͡ɕʰi₄₄	Allen2007, 456	seven / 七	tɕʰi44	?	Heqi	seven	7004	七
+2798	t͡ɕʰi₄₄	Allen2007, 456	seven / 七	tɕʰi44	?	Lanping	seven	7004	七
+2799	t͡ɕʰi₄₄	Allen2007, 456	seven / 七	tɕʰi44	?	Qiliqiao	seven	7004	七
+2800	t͡ɕʰi₄₄	Allen2007, 456	seven / 七	tɕʰi44	?	Yunlong	seven	7004	七
+2801	t͡ɕʰi₄₄	Allen2007, 456	seven / 七	tɕʰi44	?	Xiangyun	seven	7004	七
+2802	t͡ɕʰi₄₄	Allen2007, 456	seven / 七	tɕʰi44	?	Luobenzhuo	seven	7004	七
+#
+2803	ji₂₁	Wang2006a, 1020	sharp	ji21	?	Tuoluo	sharp	5987	?
+2804	ʑi₄₂	Wang2006a, 1020	sharp	ʑi42	?	Gongxing	sharp	5987	?
+2805	ɲi₄₃	Wang2006a, 1020	sharp	ɲi43	?	Enqi	sharp	5987	?
+2806	ɲi₄₄	Wang2006a, 1020	sharp	ɲi44	?	Ega	sharp	5987	?
+2807	ji₄₂	Wang2006a, 1020	sharp	ji42	?	Jinman	sharp	5987	?
+2808	ji₃₁	Wang2006a, 1020	sharp	ji31	?	Jinxing	sharp	5987	?
+2809	ji₂₁	Wang2006a, 1020	sharp	ji21	?	Dashi	sharp	5987	?
+2810	ji₃₁	Wang2006a, 1020	sharp	ji31	?	Zhoucheng	sharp	5987	?
+2811	t͡ɕiǝɯ₄₂	Wang2006a, 1020	sharp	tɕiǝɯ42	?	Mazhelong	sharp	5987	?
+2812	ji₃₁	Allen2007, 425	sharp(knife) / 快(刀)	ji31	?	Jianchuan	sharp	5987	快(刀)
+2813	ji₃₁	Allen2007, 425	sharp(knife) / 快(刀)	ji31	?	Eryuan	sharp	5987	快(刀)
+2814	ji₃₁	Allen2007, 425	sharp(knife) / 快(刀)	ji31	?	Heqi	sharp	5987	快(刀)
+2815	ji₃₁	Allen2007, 425	sharp(knife) / 快(刀)	ji31	?	Lanping	sharp	5987	快(刀)
+2816	ji₃₃	Allen2007, 425	sharp(knife) / 快(刀)	ji33	?	Qiliqiao	sharp	5987	快(刀)
+2817	jɛ₃₁	Allen2007, 425	sharp(knife) / 快(刀)	jɛ31	?	Yunlong	sharp	5987	快(刀)
+2818	ji₃₁	Allen2007, 425	sharp(knife) / 快(刀)	ji31	?	Xiangyun	sharp	5987	快(刀)
+2819	ʑi₄₄	Allen2007, 425	sharp(knife) / 快(刀)	ʑi44	?	Luobenzhuo	sharp	5987	快(刀)
+#
+6187	ŋɛ₂₁	Allen2007, 117	shoot,sprout / 芽	ŋɛ21	?	Jianchuan	shoot,sprout	522875	芽
+6188	ŋɛ₂₁	Allen2007, 117	shoot,sprout / 芽	ŋɛ21	?	Eryuan	shoot,sprout	522875	芽
+6189	ŋɛ₂₁	Allen2007, 117	shoot,sprout / 芽	ŋɛ21	?	Heqi	shoot,sprout	522875	芽
+6190	ŋɛ₂₁	Allen2007, 117	shoot,sprout / 芽	ŋɛ21	?	Lanping	shoot,sprout	522875	芽
+6192	ŋɛ₂₁	Allen2007, 117	shoot,sprout / 芽	ŋɛ21	?	Yunlong	shoot,sprout	522875	芽
+6193	jɛ̃₂₁	Allen2007, 117	shoot,sprout / 芽	jɛ̃21	?	Xiangyun	shoot,sprout	522875	芽
+6194	bo₅₅ni₃₁	Allen2007, 117	shoot,sprout / 芽	bo55ni31	?	Luobenzhuo	shoot,sprout	522875	芽
+6191	pi₂₁	Allen2007, 117	shoot,sprout / 芽	pi21	?	Qiliqiao	shoot,sprout	522875	芽
+#
+7404	t͡sʰɯ₅₅	Allen2007, 391	short / 短	tsʰɯ55	?	Eryuan	short	6746	短
+7405	t͡sʰɯ₅₅	Allen2007, 391	short / 短	tsʰɯ55	?	Heqi	short	6746	短
+7406	t͡sʰɯ₅₅	Allen2007, 391	short / 短	tsʰɯ55	?	Lanping	short	6746	短
+7408	t͡sʰɯ₅₅	Allen2007, 391	short / 短	tsʰɯ55	?	Yunlong	short	6746	短
+7403	t͡sʰɯ₅₅	Allen2007, 391	short / 短	tsʰɯ55	?	Jianchuan	short	6746	短
+7407	t͡sʰɯ₅₅	Allen2007, 391	short / 短	tsʰɯ55	?	Qiliqiao	short	6746	短
+7409	t͡sʰo₅₅	Allen2007, 391	short / 短	tsʰo55	?	Xiangyun	short	6746	短
+7410	t͡ɕʰĩ₅₅	Allen2007, 391	short / 短	tɕʰĩ55	?	Luobenzhuo	short	6746	短
+#
+2854	kɤ₂₁	Wang2006a, 1819	sit	kv21	verb	Tuoluo	sit	6022	?
+2855	kao₄₂	Wang2006a, 1819	sit	kao42	verb	Gongxing	sit	6022	?
+2856	ku₄₃	Wang2006a, 1819	sit	ku43	verb	Enqi	sit	6022	?
+2857	kɤ₄₂	Wang2006a, 1819	sit	kv42	verb	Ega	sit	6022	?
+2858	kɤ₄₂	Wang2006a, 1819	sit	kv42	verb	Jinman	sit	6022	?
+2859	kɤ₄₂	Wang2006a, 1819	sit	kv42	verb	Jinxing	sit	6022	?
+2860	ko₄₂	Wang2006a, 1819	sit	ko42	verb	Dashi	sit	6022	?
+2861	kɤ₄₂	Wang2006a, 1819	sit	kv42	verb	Zhoucheng	sit	6022	?
+2862	kɤ₄₂	Wang2006a, 1819	sit	kv42	verb	Mazhelong	sit	6022	?
+2863	kɤ₄₂	Allen2007, 282	sit / 坐	kɤ42	verb	Jianchuan	sit	6022	坐
+2864	kɤ₄₂	Allen2007, 282	sit / 坐	kɤ42	verb	Eryuan	sit	6022	坐
+2865	kuɔ₄₂	Allen2007, 282	sit / 坐	kuɔ42	verb	Heqi	sit	6022	坐
+2866	t͡sʰao₄₄	Allen2007, 282	sit / 坐	tsʰao44	verb	Lanping	sit	6022	坐
+2867	kɤ₃₂	Allen2007, 282	sit / 坐	kɤ32	verb	Qiliqiao	sit	6022	坐
+2868	kɤ₄₂	Allen2007, 282	sit / 坐	kɤ42	verb	Yunlong	sit	6022	坐
+2869	kɯ₄₂	Allen2007, 282	sit / 坐	kɯ42	verb	Xiangyun	sit	6022	坐
+2870	kɤ₄₄	Allen2007, 282	sit / 坐	kɤ44	verb	Luobenzhuo	sit	6022	坐
+#
+2871	fo₄₂	Wang2006a, 802	six	fo42	?	Tuoluo	six	7003	?
+2872	pfu₂₄	Wang2006a, 802	six	pfu24	?	Gongxing	six	7003	?
+2873	fo₅₅	Wang2006a, 802	six	fo55	?	Enqi	six	7003	?
+2874	xo₄₄	Wang2006a, 802	six	xo44	?	Ega	six	7003	?
+2875	xo₅₅	Wang2006a, 802	six	xo55	?	Jinman	six	7003	?
+2876	fɤ₄₄	Wang2006a, 802	six	fv44	?	Jinxing	six	7003	?
+2877	fo₄₄	Wang2006a, 802	six	fo44	?	Dashi	six	7003	?
+2878	fɤ₄₄	Wang2006a, 802	six	fv44	?	Zhoucheng	six	7003	?
+2879	fɤ₄₄	Wang2006a, 802	six	fv44	?	Mazhelong	six	7003	?
+2880	fɤ₄₄	Allen2007, 455	six / 六	fɤ44	?	Jianchuan	six	7003	六
+2881	fɤ₄₄	Allen2007, 455	six / 六	fɤ44	?	Eryuan	six	7003	六
+2882	fɤ₄₄	Allen2007, 455	six / 六	fɤ44	?	Heqi	six	7003	六
+2883	fɔ₄₄	Allen2007, 455	six / 六	fɔ44	?	Lanping	six	7003	六
+2884	fɤ₄₄	Allen2007, 455	six / 六	fɤ44	?	Qiliqiao	six	7003	六
+2885	fɤ₄₄	Allen2007, 455	six / 六	fɤ44	?	Yunlong	six	7003	六
+2886	fɤ₄₄	Allen2007, 455	six / 六	fɤ44	?	Xiangyun	six	7003	六
+2887	fɔ₄₄	Allen2007, 455	six / 六	fɔ44	?	Luobenzhuo	six	7003	六
+#
+3995	bi₂₅	Wang2006a, 120	skin	bi25	?	Tuoluo	skin	3430	?
+3996	bi₁₂	Wang2006a, 120	skin	bi12	?	Gongxing	skin	3430	?
+3997	pi₂₁	Wang2006a, 120	skin	pi21	?	Enqi	skin	3430	?
+3998	t͡ɕyi₂₁qa₅₅	Wang2006a, 120	skin	tɕyi21qa55	?	Ega	skin	3430	?
+3999	t͡ɕyi₂₁	Wang2006a, 120	skin	tɕyi21	?	Jinman	skin	3430	?
+4000	pe₂₁	Wang2006a, 120	skin	pe21	?	Jinxing	skin	3430	?
+4001	pe₂₁	Wang2006a, 120	skin	pe21	?	Dashi	skin	3430	?
+4002	pe₂₁	Wang2006a, 120	skin	pe21	?	Zhoucheng	skin	3430	?
+4003	pe₂₁	Wang2006a, 120	skin	pe21	?	Mazhelong	skin	3430	?
+#
+2888	xen₅₅	Wang2006a, 1	sky	xen55	?	Tuoluo	sky	7039	?
+2889	hen₅₅	Wang2006a, 1	sky	hen55	?	Gongxing	sky	7039	?
+2890	xɛ₂₄	Wang2006a, 1	sky	xE24	?	Enqi	sky	7039	?
+2891	xɛ̃₅₅	Wang2006a, 1	sky	xɛ̃55	?	Ega	sky	7039	?
+2892	xɛ̃₅₅	Wang2006a, 1	sky	xɛ̃55	?	Jinman	sky	7039	?
+2893	xen₅₅	Wang2006a, 1	sky	xen55	?	Jinxing	sky	7039	?
+2894	xen₅₅	Wang2006a, 1	sky	xen55	?	Dashi	sky	7039	?
+2895	xe₅₅	Wang2006a, 1	sky	xe55	?	Zhoucheng	sky	7039	?
+2896	xen₅₅	Wang2006a, 1	sky	xen55	?	Mazhelong	sky	7039	?
+2897	xẽ₅₅	Allen2007, 1	sky / 天	xẽ55	?	Jianchuan	sky	7039	天
+2898	xe₅₅	Allen2007, 1	sky / 天	xe55	?	Eryuan	sky	7039	天
+2899	xʰẽ₅₅	Allen2007, 1	sky / 天	xʰẽ55	?	Heqi	sky	7039	天
+2900	xẽ₅₅kʰao₃₁	Allen2007, 1	sky / 天	xẽ55kʰao31	?	Lanping	sky	7039	天
+2901	xe₅₅	Allen2007, 1	sky / 天	xe55	?	Qiliqiao	sky	7039	天
+2902	xe₅₅	Allen2007, 1	sky / 天	xe55	?	Yunlong	sky	7039	天
+2903	xẽ₅₅	Allen2007, 1	sky / 天	xẽ55	?	Xiangyun	sky	7039	天
+2904	xẽ₅₅	Allen2007, 1	sky / 天	xẽ55	?	Luobenzhuo	sky	7039	天
+#
+6874	ɴ̣₃₃ti₃₁	Allen2007, 288	sleep / 睡	ɴ̣33ti31	verb	Luobenzhuo	sleep	6519	睡
+6867	t͡sʰɛ̃₃₃	Allen2007, 288	sleep / 睡	tsʰɛ̃33	verb	Jianchuan	sleep	6519	睡
+6868	t͡ʂʰɛ₃₃	Allen2007, 288	sleep / 睡	tʂʰɛ33	verb	Eryuan	sleep	6519	睡
+6869	t͡sʰɛ̃₃₃	Allen2007, 288	sleep / 睡	tsʰɛ̃33	verb	Heqi	sleep	6519	睡
+6870	t͡sʰɛ̃₄₄	Allen2007, 288	sleep / 睡	tsʰɛ̃44	verb	Lanping	sleep	6519	睡
+6871	t͡sʰɛ₃₃	Allen2007, 288	sleep / 睡	tsʰɛ33	verb	Qiliqiao	sleep	6519	睡
+6872	t͡sʰɛ₃₃	Allen2007, 288	sleep / 睡	tsʰɛ33	verb	Yunlong	sleep	6519	睡
+6873	t͡sʰɛ̃₃₃	Allen2007, 288	sleep / 睡	tsʰɛ̃33	verb	Xiangyun	sleep	6519	睡
+#
+7395	se₃₁	Allen2007, 387	small / 小	se31	?	Jianchuan	small/little	5509	小
+7400	se₃₁	Allen2007, 387	small / 小	se31	?	Yunlong	small/little	5509	小
+7396	se₃₁	Allen2007, 387	small / 小	se31	?	Eryuan	small/little	5509	小
+7401	se₂₁	Allen2007, 387	small / 小	se21	?	Xiangyun	small/little	5509	小
+7402	sæ̃₄₂	Allen2007, 387	small / 小	sæ̃42	?	Luobenzhuo	small/little	5509	小
+7398	se₃₁	Allen2007, 387	small / 小	se31	?	Lanping	small/little	5509	小
+7399	se₃₃	Allen2007, 387	small / 小	se33	?	Qiliqiao	small/little	5509	小
+7397	sʰe₃₁	Allen2007, 387	small / 小	sʰe31	?	Heqi	small/little	5509	小
+#
+2905	tʰɤ₅₅	Wang2006a, 1707	to smell	tʰv55	verb	Tuoluo	smell	6520	?
+2906	t͡ʂʰy₅₅	Wang2006a, 1707	to smell	tʂʰy55	verb	Gongxing	smell	6520	?
+2907	tʰiu₂₄	Wang2006a, 1707	to smell	tʰiu24	verb	Enqi	smell	6520	?
+2908	xã₅₅	Wang2006a, 1707	to smell	xã55	verb	Ega	smell	6520	?
+2909	ʈʰu₅₅	Wang2006a, 1707	to smell	ʈʰu55	verb	Jinman	smell	6520	?
+2910	t͡sʰu₅₅	Wang2006a, 1707	to smell	tsʰu55	verb	Jinxing	smell	6520	?
+2911	t͡ʂʰu₅₅	Wang2006a, 1707	to smell	tʂʰu55	verb	Dashi	smell	6520	?
+2912	t͡ʂɤ₅₅	Wang2006a, 1707	to smell	tʂv55	verb	Zhoucheng	smell	6520	?
+2913	t͡sʰu₅₅	Wang2006a, 1707	to smell	tsʰu55	verb	Mazhelong	smell	6520	?
+2914	t͡sʰu₅₅	Allen2007, 259	smell(vb) / 臭、闻	tsʰu55	verb	Jianchuan	smell	6520	臭、闻
+2915	t͡ʂʰu₅₅	Allen2007, 259	smell(vb) / 臭、闻	tʂʰu55	verb	Eryuan	smell	6520	臭、闻
+2916	t͡ɕʰu₃₅	Allen2007, 259	smell(vb) / 臭、闻	tɕʰu35	verb	Heqi	smell	6520	臭、闻
+2917	t͡sʰu₅₅	Allen2007, 259	smell(vb) / 臭、闻	tsʰu55	verb	Lanping	smell	6520	臭、闻
+2918	ʧʰu₅₅	Allen2007, 259	smell(vb) / 臭、闻	ʧʰu55	verb	Qiliqiao	smell	6520	臭、闻
+2919	t͡sʰu₅₅	Allen2007, 259	smell(vb) / 臭、闻	tsʰu55	verb	Yunlong	smell	6520	臭、闻
+2920	t͡ɕʰu₅₅	Allen2007, 259	smell(vb) / 臭、闻	tɕʰu55	verb	Xiangyun	smell	6520	臭、闻
+2921	ʈʰɤ₃₁	Allen2007, 259	smell(vb) / 臭、闻	ʈʰɤ31	verb	Luobenzhuo	smell	6520	臭、闻
+#
+3884	xue₃₃ɕien₅₅	Wang2006a, 19	smoke	xue33ɕien55	?	Tuoluo	smoke	3451	?
+3885	xui₂₂ɕi₅₅	Wang2006a, 19	smoke	xui22ɕi55	?	Gongxing	smoke	3451	?
+3886	xui₂₂si₂₄	Wang2006a, 19	smoke	xui22si24	?	Enqi	smoke	3451	?
+3887	fi₂₂sɛ₅₅	Wang2006a, 19	smoke	fi22sɛ55	?	Ega	smoke	3451	?
+3888	fi₂₂se₅₅	Wang2006a, 19	smoke	fi22se55	?	Jinman	smoke	3451	?
+3889	xui₃₃ɕien₅₅	Wang2006a, 19	smoke	xui33ɕien55	?	Jinxing	smoke	3451	?
+3890	xui₃₃ɕien₃₅	Wang2006a, 19	smoke	xui33ɕien35	?	Dashi	smoke	3451	?
+3891	xui₃₃ɕe₅₅	Wang2006a, 19	smoke	xui33ɕe55	?	Zhoucheng	smoke	3451	?
+3892	fi₃₃ɕen₅₅	Wang2006a, 19	smoke	fi33ɕen55	?	Mazhelong	smoke	3451	?
+#
+4838	baŋ₃₅	Wang2006a, 994	smooth	baŋ35	?	Tuoluo	smooth	5487	?
+4839	bæ₁₂	Wang2006a, 994	smooth	bæ12	?	Gongxing	smooth	5487	?
+4840	bɛ₂₁	Wang2006a, 994	smooth	bE21	?	Enqi	smooth	5487	?
+4842	pã₂₁	Wang2006a, 994	smooth	pã21	?	Jinman	smooth	5487	?
+4843	pan₂₁	Wang2006a, 994	smooth	pan21	?	Jinxing	smooth	5487	?
+4844	pɚ̃₂₁	Wang2006a, 994	smooth	pɚ̃21	?	Dashi	smooth	5487	?
+4845	pɛ₂₁	Wang2006a, 994	smooth	pɛ21	?	Zhoucheng	smooth	5487	?
+4846	pɚ̃₂₁	Wang2006a, 994	smooth	pɚ̃21	?	Mazhelong	smooth	5487	?
+4841	pa₂₁	Wang2006a, 994	smooth	pa21	?	Ega	smooth	5487	?
+#
+4265	t͡ʂʰɚ̃₃₃	Wang2006a, 347	snake	tʂʰɚ̃33	?	Tuoluo	snake	3388	?
+4266	t͡ʂʰi₂₂	Wang2006a, 347	snake	tʂʰi22	?	Gongxing	snake	3388	?
+4267	t͡sʰɿ₂₂	Wang2006a, 347	snake	tsʰɿ22	?	Enqi	snake	3388	?
+4268	ʃʰɛ₂₂	Wang2006a, 347	snake	ʃʰɛ22	?	Ega	snake	3388	?
+4269	t͡ɕ↑iɚ̃₂₂	Wang2006a, 347	snake	tɕ↑iɚ̃22	?	Jinman	snake	3388	?
+4270	t͡ɕʰiu₃₃	Wang2006a, 347	snake	tɕʰiu33	?	Mazhelong	snake	3388	?
+2938	t͡ʂʰɚ̃₃₃	Wang2006a, 347	snake	tʂʰɚ̃33	?	Tuoluo	snake	3388	?
+2939	t͡ʂʰi₂₂	Wang2006a, 347	snake	tʂʰi22	?	Gongxing	snake	3388	?
+2940	t͡sʰɿ₂₂	Wang2006a, 347	snake	tsʰɿ22	?	Enqi	snake	3388	?
+2941	t͡sʰɛ₂₂	Wang2006a, 347	snake	tsʰɛ22	?	Ega	snake	3388	?
+2942	t͡ɕʰiɚ̃₂₂	Wang2006a, 347	snake	tɕʰiɚ̃22	?	Jinman	snake	3388	?
+2943	kʰɤ₃₃	Wang2006a, 347	snake	kʰv33	?	Jinxing	snake	3388	?
+2944	kʰo₃₃	Wang2006a, 347	snake	kʰo33	?	Dashi	snake	3388	?
+2945	kʰɤ₃₃	Wang2006a, 347	snake	kʰv33	?	Zhoucheng	snake	3388	?
+2946	t͡ɕʰiu₃₃	Wang2006a, 347	snake	tɕʰiu33	?	Mazhelong	snake	3388	?
+2947	kʰɤ₃₃	Allen2007, 70	snake / 蛇	kʰɤ33	?	Jianchuan	snake	3388	蛇
+2948	kʰɤ₃₃	Allen2007, 70	snake / 蛇	kʰɤ33	?	Eryuan	snake	3388	蛇
+2949	kʰuɔ₃₃	Allen2007, 70	snake / 蛇	kʰuɔ33	?	Heqi	snake	3388	蛇
+2950	kʰuɛ₃₃	Allen2007, 70	snake / 蛇	kʰuɛ33	?	Lanping	snake	3388	蛇
+2951	kʰɤ₃₃	Allen2007, 70	snake / 蛇	kʰɤ33	?	Qiliqiao	snake	3388	蛇
+2952	kʰɤ₃₃	Allen2007, 70	snake / 蛇	kʰɤ33	?	Yunlong	snake	3388	蛇
+2953	kʰɛ₃₃	Allen2007, 70	snake / 蛇	kʰɛ33	?	Xiangyun	snake	3388	蛇
+2954	t͡ɕʰɛ̃₃₃	Allen2007, 70	snake / 蛇	tɕʰɛ̃33	?	Luobenzhuo	snake	3388	蛇
+#
+2963	sue₄₂	Wang2006a, 12	snow	sue42	?	Tuoluo	snow	3455	?
+2964	suɛ₄₂	Wang2006a, 12	snow	suɛ42	?	Gongxing	snow	3455	?
+2965	suɛ₅₅	Wang2006a, 12	snow	suE55	?	Enqi	snow	3455	?
+2966	suɛ₄₄	Wang2006a, 12	snow	suɛ44	?	Ega	snow	3455	?
+2967	sue₅₅	Wang2006a, 12	snow	sue55	?	Jinman	snow	3455	?
+2968	sui₄₄	Wang2006a, 12	snow	sui44	?	Jinxing	snow	3455	?
+2969	sʰue₄₄	Wang2006a, 12	snow	sʰue44	?	Dashi	snow	3455	?
+2970	sue₄₄	Wang2006a, 12	snow	sue44	?	Zhoucheng	snow	3455	?
+2971	ɕyɛ₄₄	Wang2006a, 12	snow	ɕyɛ44	?	Mazhelong	snow	3455	?
+2972	sue₄₄	Allen2007, 11	snow / 雪	sue44	?	Jianchuan	snow	3455	雪
+2973	sue₄₄	Allen2007, 11	snow / 雪	sue44	?	Eryuan	snow	3455	雪
+2974	sʰue₄₄	Allen2007, 11	snow / 雪	sʰue44	?	Heqi	snow	3455	雪
+2975	sue₄₄	Allen2007, 11	snow / 雪	sue44	?	Lanping	snow	3455	雪
+2976	ɕy₄₄	Allen2007, 11	snow / 雪	ɕy44	?	Qiliqiao	snow	3455	雪
+2977	ɕyɛ₄₄	Allen2007, 11	snow / 雪	ɕyɛ44	?	Yunlong	snow	3455	雪
+2978	sue₄₄	Allen2007, 11	snow / 雪	sue44	?	Xiangyun	snow	3455	雪
+2979	suɛ₅₅	Allen2007, 11	snow / 雪	suɛ55	?	Luobenzhuo	snow	3455	雪
+#
+5811	tʰu₃₃sɿ₃₃	Allen2007, 21	soil / 土	tʰu33sɿ33	?	Jianchuan	soil	5481	土
+5813	tʰu₃₃sɿ₃₃	Allen2007, 21	soil / 土	tʰu33sɿ33	?	Heqi	soil	5481	土
+5814	tʰu₃₃sɿ₃₃	Allen2007, 21	soil / 土	tʰu33sɿ33	?	Lanping	soil	5481	土
+5815	ne₂₁	Allen2007, 21	soil / 土	ne21	?	Qiliqiao	soil	5481	土
+5816	ɲi₃₁tʰi₅₅pʰa₄₄	Allen2007, 21	soil / 土	ɲi31tʰi55pʰa44	?	Yunlong	soil	5481	土
+5817	ne₃₁	Allen2007, 21	soil / 土	ne31	?	Xiangyun	soil	5481	土
+5818	nɛ₃₃pʰa₅₅	Allen2007, 21	soil / 土	nɛ33pʰa55	?	Luobenzhuo	soil	5481	土
+5812	tʰu₃₃	Allen2007, 21	soil / 土	tʰu33	?	Eryuan	soil	5481	土
+#
+6032	tao₅₅su₅₅wa₃₁	Allen2007, 75	spider / 蜘蛛	tao55su55wa31	?	Yunlong	spider	3588	蜘蛛
+6031	tɔ₃₅sɿ₃₅tɔ₃₅ŋɯ₂₁	Allen2007, 75	spider / 蜘蛛	tɔ35sɿ35tɔ35ŋɯ21	?	Qiliqiao	spider	3588	蜘蛛
+6030	tu₅₅ɕi₅₅ɔ̃₂₁t͡ɕĩ₅₅	Allen2007, 75	spider / 蜘蛛	tu55ɕi55ɔ̃21tɕĩ55	?	Lanping	spider	3588	蜘蛛
+6027	ke₃₃	Allen2007, 75	spider / 蜘蛛	ke33	?	Jianchuan	spider	3588	蜘蛛
+6028	tua₃₅sua₃₅ɣɔ₃₁	Allen2007, 75	spider / 蜘蛛	tua35sua35ɣɔ31	?	Eryuan	spider	3588	蜘蛛
+6029	pi₅₅se₅₅lɛ₅₅ɣɔ₂₁	Allen2007, 75	spider / 蜘蛛	pi55se55lɛ55ɣɔ21	?	Heqi	spider	3588	蜘蛛
+6033	fe₃₅sɤ₃₅	Allen2007, 75	spider / 蜘蛛	fe35sɤ35	?	Xiangyun	spider	3588	蜘蛛
+6034	tao₅₅sao₅₅lao₃₁	Allen2007, 75	spider / 蜘蛛	tao55sao55lao31	?	Luobenzhuo	spider	3588	蜘蛛
+#
+3111	t͡ɕʰi₄₂	Wang2006a, 1688	spit (noun or verb?)	tɕʰi42(/fɚ55tʰɔ21)	verb	Tuoluo	spit	6051	?
+3112	pfu₁₂tʰua₄₂	Wang2006a, 1688	spit (noun or verb?)	(pfu12tʰua42)	verb	Gongxing	spit	6051	?
+3113	fɛ₂₄tʰo₄₃	Wang2006a, 1688	spit (noun or verb?)	(fE24tʰo43)	verb	Enqi	spit	6051	?
+3114	fɛ₅₅tʰo₄₂	Wang2006a, 1688	spit (noun or verb?)	(fɛ55tʰo42)	verb	Ega	spit	6051	?
+3115	fe₅₅	Wang2006a, 1688	spit (noun or verb?)	(fe55)	verb	Jinman	spit	6051	?
+3116	t͡sʰi₅₅t͡sʰi₅₅tʰou₃₁	Wang2006a, 1688	spit (noun or verb?)	tsʰi55(tsʰi55tʰou31)	verb	Jinxing	spit	6051	?
+3117	t͡ʂʰi₅₅	Wang2006a, 1688	spit (noun or verb?)	tʂʰi55	verb	Dashi	spit	6051	?
+3118	t͡si₅₅	Wang2006a, 1688	spit (noun or verb?)	tsi55	verb	Zhoucheng	spit	6051	?
+3119	t͡ɕʰi₅₅	Wang2006a, 1688	spit (noun or verb?)	tɕʰi55	verb	Mazhelong	spit	6051	?
+3120	t͡sʰɿ₅₅	Allen2007, 264	spit / 吐（痰）	tsʰɿ55	verb	Jianchuan	spit	6051	吐（痰）
+3121	t͡sʰɿ₅₅	Allen2007, 264	spit / 吐（痰）	tsʰɿ55	verb	Eryuan	spit	6051	吐（痰）
+3122	t͡sʰɿ₅₅	Allen2007, 264	spit / 吐（痰）	tsʰɿ55	verb	Heqi	spit	6051	吐（痰）
+3123	t͡sʰɛ₅₅	Allen2007, 264	spit / 吐（痰）	tsʰɛ55	verb	Lanping	spit	6051	吐（痰）
+3124	e₄₂tʰɔ₃₁wa₄₂	Allen2007, 264	spit / 吐（痰）	e42(tʰɔ31wa42)	verb	Qiliqiao	spit	6051	吐（痰）
+3125	t͡sɿ₃₅	Allen2007, 264	spit / 吐（痰）	tsɿ35	verb	Yunlong	spit	6051	吐（痰）
+3126	t͡sʰɿ₅₅	Allen2007, 264	spit / 吐（痰）	tsʰɿ55	verb	Xiangyun	spit	6051	吐（痰）
+3127	fe₅₅tʰao₃₁	Allen2007, 264	spit / 吐（痰）	fe55tʰao31	verb	Luobenzhuo	spit	6051	吐（痰）
+#
+5256	t͡sue₄₂	Wang2006a, 1405	squeeze (for milk)	tsue42	?	Tuoluo	squeeze (for milk)	6017	?
+5257	t͡suɛ₂₄	Wang2006a, 1405	squeeze (for milk)	tsuɛ24	?	Gongxing	squeeze (for milk)	6017	?
+5258	t͡suɛ₅₅	Wang2006a, 1405	squeeze (for milk)	tsuE55	?	Enqi	squeeze (for milk)	6017	?
+5259	nɛ₅₅	Wang2006a, 1405	squeeze (for milk)	(nɛ55)	?	Ega	squeeze (for milk)	6017	?
+5260	le₅₅	Wang2006a, 1405	squeeze (for milk)	(le55)	?	Jinman	squeeze (for milk)	6017	?
+5261	t͡sui₄₄	Wang2006a, 1405	squeeze (for milk)	tsui44	?	Jinxing	squeeze (for milk)	6017	?
+5262	t͡ɕi₄₄	Wang2006a, 1405	squeeze (for milk)	[tɕi44]	?	Dashi	squeeze (for milk)	6017	?
+5263	t͡sue₄₄	Wang2006a, 1405	squeeze (for milk)	tsue44	?	Zhoucheng	squeeze (for milk)	6017	?
+5264	t͡ɕi₃₁	Wang2006a, 1405	squeeze (for milk)	[tɕi31]	?	Mazhelong	squeeze (for milk)	6017	?
+#
+3128	ɕiaŋ₅₅	Wang2006a, 5	star	ɕiaŋ55	?	Tuoluo	star	6041	?
+3129	san₅₅	Wang2006a, 5	star	san55	?	Gongxing	star	6041	?
+3130	ɕiæ₂₄	Wang2006a, 5	star	ɕiæ24	?	Enqi	star	6041	?
+3131	ɕia₅₅	Wang2006a, 5	star	ɕia55	?	Ega	star	6041	?
+3132	ɕiã₅₅	Wang2006a, 5	star	ɕiã55	?	Jinman	star	6041	?
+3133	ɕian₅₅	Wang2006a, 5	star	ɕian55	?	Jinxing	star	6041	?
+3134	ɕiɚ̃₅₅	Wang2006a, 5	star	ɕiɚ̃55	?	Dashi	star	6041	?
+3135	ɕiɛ₅₅	Wang2006a, 5	star	ɕiɛ55	?	Zhoucheng	star	6041	?
+3136	ɕɚ̃₅₅	Wang2006a, 5	star	ɕɚ̃55	?	Mazhelong	star	6041	?
+3137	ɕɛ̃₅₅kʰo₃₃	Allen2007, 4	star / 星星	ɕɛ̃55kʰo33	?	Jianchuan	star	6041	星星
+3138	ɕɛ₅₅ɣɔ₃₃	Allen2007, 4	star / 星星	ɕɛ55ɣɔ33	?	Eryuan	star	6041	星星
+3139	ɕʰɛ̃₅₅kʰɔ₃₃	Allen2007, 4	star / 星星	ɕʰɛ̃55kʰɔ33	?	Heqi	star	6041	星星
+3140	ɕĩɛ̃₅₅kʰu₄₄	Allen2007, 4	star / 星星	ɕĩɛ̃55kʰu44	?	Lanping	star	6041	星星
+3141	ɕɛ₅₅o₃₃	Allen2007, 4	star / 星星	ɕɛ55o33	?	Qiliqiao	star	6041	星星
+3142	ɕɛ₅₅kʰɔ₃₃	Allen2007, 4	star / 星星	ɕɛ55kʰɔ33	?	Yunlong	star	6041	星星
+3143	ɕɛ̃₅₅kʰɔ₃₃	Allen2007, 4	star / 星星	ɕɛ̃55kʰɔ33	?	Xiangyun	star	6041	星星
+3144	ɕã₃₃t͡ɕi₃₁	Allen2007, 4	star / 星星	ɕã33tɕi31	?	Luobenzhuo	star	6041	星星
+#
+7152	ta₃₁	Allen2007, 343	steal / 偷	ta31	?	Yunlong	steal	336072	偷
+7147	ta₂₁	Allen2007, 343	steal / 偷	ta21	?	Jianchuan	steal	336072	偷
+7148	ta₃₁	Allen2007, 343	steal / 偷	ta31	?	Eryuan	steal	336072	偷
+7149	ta₃₁	Allen2007, 343	steal / 偷	ta31	?	Heqi	steal	336072	偷
+7150	ta₂₁	Allen2007, 343	steal / 偷	ta21	?	Lanping	steal	336072	偷
+7151	ta₃₁	Allen2007, 343	steal / 偷	ta31	?	Qiliqiao	steal	336072	偷
+7153	ta₃₁	Allen2007, 343	steal / 偷	ta31	?	Xiangyun	steal	336072	偷
+7154	diɛ₄₂	Allen2007, 343	steal / 偷	diɛ42	?	Luobenzhuo	steal	336072	偷
+#
+4531	duɔ₄₂	Wang2006a, 586	stick	duɔ42	?	Tuoluo	stick	5662	?
+4532	pio₂₄	Wang2006a, 586	stick	(pio24)	?	Enqi	stick	5662	?
+4533	t͡ɕo₅₅	Wang2006a, 586	stick	tɕo55	?	Ega	stick	5662	?
+4534	qua₄₂	Wang2006a, 586	stick	(qua42)	?	Jinman	stick	5662	?
+4535	pio₅₅	Wang2006a, 586	stick	pio55	?	Jinxing	stick	5662	?
+4536	piou₃₅	Wang2006a, 586	stick	piou35	?	Dashi	stick	5662	?
+4537	pia₃₅	Wang2006a, 586	stick	pia35	?	Zhoucheng	stick	5662	?
+4538	pio₅₅	Wang2006a, 586	stick	pio55	?	Mazhelong	stick	5662	?
+#
+3213	diu₄₂	Wang2006a, 43	stone	diu42	?	Tuoluo	stone	3633	?
+3214	d͡zu₂₁	Wang2006a, 43	stone	dzu21	?	Gongxing	stone	3633	?
+3215	tiu₂₁	Wang2006a, 43	stone	tiu21	?	Enqi	stone	3633	?
+3216	t͡ɕiu₄₂	Wang2006a, 43	stone	tɕiu42	?	Ega	stone	3633	?
+3217	ʈo₂₁	Wang2006a, 43	stone	ʈo21	?	Jinman	stone	3633	?
+3218	t͡sou₄₂	Wang2006a, 43	stone	tsou42	?	Jinxing	stone	3633	?
+3219	t͡ʂou₄₂	Wang2006a, 43	stone	tʂou42	?	Dashi	stone	3633	?
+3220	t͡sou₄₂	Wang2006a, 43	stone	tsou42	?	Zhoucheng	stone	3633	?
+3221	t͡sʰɤ₄₂	Wang2006a, 43	stone	tsʰv42	?	Mazhelong	stone	3633	?
+3222	t͡ɕo₄₂kʰue₅₅	Allen2007, 23	stone / 石头	tɕo42kʰue55	?	Jianchuan	stone	3633	石头
+3223	t͡ʂo₄₂kʰue₅₅	Allen2007, 23	stone / 石头	tʂo42kʰue55	?	Eryuan	stone	3633	石头
+3224	t͡sou₄₂kʰue₅₅	Allen2007, 23	stone / 石头	tsou42kʰue55	?	Heqi	stone	3633	石头
+3225	t͡su₃₁kʰue₅₅	Allen2007, 23	stone / 石头	tsu31kʰue55	?	Lanping	stone	3633	石头
+3226	t͡so₄₂kʰue₅₅	Allen2007, 23	stone / 石头	tso42kʰue55	?	Qiliqiao	stone	3633	石头
+3227	t͡so₄₂kʰue₅₅	Allen2007, 23	stone / 石头	tso42kʰue55	?	Yunlong	stone	3633	石头
+3228	t͡so₄₂kʰue₅₅	Allen2007, 23	stone / 石头	tso42kʰue55	?	Xiangyun	stone	3633	石头
+3229	tu₄₂qʰɛ̃₅₅	Allen2007, 23	stone / 石头	tu42qʰɛ̃55	?	Luobenzhuo	stone	3633	石头
+#
+3245	tue₅₅	Wang2006a, 1003	straight	tue55	?	Tuoluo	straight	5994	?
+3246	tuen₅₅	Wang2006a, 1003	straight	tuen55	?	Gongxing	straight	5994	?
+3247	tyɛ₂₄	Wang2006a, 1003	straight	tyE24	?	Enqi	straight	5994	?
+3248	ti₅₅	Wang2006a, 1003	straight	ti55	?	Ega	straight	5994	?
+3249	tyi₅₅	Wang2006a, 1003	straight	tyi55	?	Jinman	straight	5994	?
+3250	tuen₅₅	Wang2006a, 1003	straight	tuen55	?	Jinxing	straight	5994	?
+3251	tuen₃₅	Wang2006a, 1003	straight	tuen35	?	Dashi	straight	5994	?
+3252	miou₄₂	Wang2006a, 1003	straight	miou42	?	Zhoucheng	straight	5994	?
+3253	t͡suen₅₅	Wang2006a, 1003	straight	(tsuen55)	?	Mazhelong	straight	5994	?
+3254	tũẽ₅₅	Allen2007, 400	straight / 直	tũẽ55	?	Jianchuan	straight	5994	直
+3255	miɔ₄₂	Allen2007, 400	straight / 直	miɔ42	?	Eryuan	straight	5994	直
+3256	t͡sɿ₅₅	Allen2007, 400	straight / 直	tsɿ55	?	Heqi	straight	5994	直
+3257	tũẽ₄₄	Allen2007, 400	straight / 直	tũẽ44	?	Lanping	straight	5994	直
+3258	miɔ₃₂	Allen2007, 400	straight / 直	miɔ32	?	Qiliqiao	straight	5994	直
+3259	miɔ₄₂	Allen2007, 400	straight / 直	miɔ42	?	Yunlong	straight	5994	直
+3260	t͡sɿ₃₅	Allen2007, 400	straight / 直	tsɿ35	?	Xiangyun	straight	5994	直
+3261	dy₅₅	Allen2007, 400	straight / 直	dy55	?	Luobenzhuo	straight	5994	直
+#
+3262	jien₄₂	Wang2006a, 2	sun	jien42	?	Tuoluo	sun	5850	?
+3263	ɲi₂₄	Wang2006a, 2	sun	ɲi24	?	Gongxing	sun	5850	?
+3264	ɲi₅₅	Wang2006a, 2	sun	ɲi55	?	Enqi	sun	5850	?
+3265	ɲi₄₄	Wang2006a, 2	sun	ɲi44	?	Ega	sun	5850	?
+3266	ɲi₅₅	Wang2006a, 2	sun	ɲi55	?	Jinman	sun	5850	?
+3267	jien₄₄	Wang2006a, 2	sun	jien44	?	Jinxing	sun	5850	?
+3268	jien₄₄	Wang2006a, 2	sun	jien44	?	Dashi	sun	5850	?
+3269	mi₄₄	Wang2006a, 2	sun	mi44	?	Zhoucheng	sun	5850	?
+3270	ɲiɛ₄₄	Wang2006a, 2	sun	ɲiɛ44	?	Mazhelong	sun	5850	?
+3271	jĩ₄₄pʰĩ₃₁	Allen2007, 2	sun / 太阳	jĩ44pʰĩ31	?	Jianchuan	sun	5850	太阳
+3272	ɲi₄₄pʰi₃₁	Allen2007, 2	sun / 太阳	ɲi44pʰi31	?	Eryuan	sun	5850	太阳
+3273	jĩ₄₄pʰĩ₃₁	Allen2007, 2	sun / 太阳	jĩ44pʰĩ31	?	Heqi	sun	5850	太阳
+3274	jĩ₅₅pʰĩ₃₁	Allen2007, 2	sun / 太阳	jĩ55pʰĩ31	?	Lanping	sun	5850	太阳
+3275	mi₄₄pʰi₃₁	Allen2007, 2	sun / 太阳	mi44pʰi31	?	Qiliqiao	sun	5850	太阳
+3276	ɲi₄₄pʰi₃₁	Allen2007, 2	sun / 太阳	ɲi44pʰi31	?	Yunlong	sun	5850	太阳
+3277	ni₄₄t͡sʰou₄₄t͡sɿ₃₃	Allen2007, 2	sun / 太阳	ni44tsʰou44tsɿ33	?	Xiangyun	sun	5850	太阳
+3278	ɲi₅₅	Allen2007, 2	sun / 太阳	ɲi55	?	Luobenzhuo	sun	5850	太阳
+#
+3296	t͡ʂʰ|er̃₅₅	Wang2006a, 1802	swell	tʂʰ|er̃55	verb	Tuoluo	swell	6454	?
+3297	|sr.ʰɚ̃₅₅	Wang2006a, 1802	swell	|sr.ʰɚ̃55	verb	Gongxing	swell	6454	?
+3298	t͡sʰɿ₂₄	Wang2006a, 1802	swell	tsʰɿ24	verb	Enqi	swell	6454	?
+3299	t͡sʰɛ₅₅	Wang2006a, 1802	swell	tsʰɛ55	verb	Ega	swell	6454	?
+3300	t͡ʂʰɚ₅₅	Wang2006a, 1802	swell	tʂʰɚ55	verb	Jinman	swell	6454	?
+3301	t͡sʰan₅₅	Wang2006a, 1802	swell	tsʰan55	verb	Jinxing	swell	6454	?
+3302	t͡ʂʰɚ̃₅₅	Wang2006a, 1802	swell	tʂʰɚ̃55	verb	Dashi	swell	6454	?
+3303	t͡sʰi₅₅	Wang2006a, 1802	swell	tsʰi55	verb	Zhoucheng	swell	6454	?
+3304	t͡sʰen₅₅	Wang2006a, 1802	swell	tsʰen55	verb	Mazhelong	swell	6454	?
+3305	t͡sʰɛ̃₅₅	Allen2007, 380	swell / 肿	tsʰɛ̃55	verb	Jianchuan	swell	6454	肿
+3306	t͡sʰɿ₅₅	Allen2007, 380	swell / 肿	tsʰɿ55	verb	Eryuan	swell	6454	肿
+3307	t͡sʰɿ̃₅₅	Allen2007, 380	swell / 肿	tsʰɿ̃55	verb	Heqi	swell	6454	肿
+3308	t͡sʰɛ̃₄₄	Allen2007, 380	swell / 肿	tsʰɛ̃44	verb	Lanping	swell	6454	肿
+3309	t͡sʰɿ₅₅	Allen2007, 380	swell / 肿	tsʰɿ55	verb	Qiliqiao	swell	6454	肿
+3310	t͡sʰɿ₅₅	Allen2007, 380	swell / 肿	tsʰɿ55	verb	Yunlong	swell	6454	肿
+3311	t͡sʰɛ̃₅₅	Allen2007, 380	swell / 肿	tsʰɛ̃55	verb	Xiangyun	swell	6454	肿
+3312	t͡ʂʰɛ̃₅₅	Allen2007, 380	swell / 肿	tʂʰɛ̃55	verb	Luobenzhuo	swell	6454	肿
+#
+6083	ɤ̃₃₃tɤ̃₅₅	Allen2007, 88	tail / 尾巴	ɤ̃33tɤ̃55	?	Jianchuan	tail	5468	尾巴
+6084	ŋɤ₄₄tɤ₃₅	Allen2007, 88	tail / 尾巴	ŋɤ44tɤ35	?	Eryuan	tail	5468	尾巴
+6085	ṽ₃₃tuɔ₅₅luɔ₅₅	Allen2007, 88	tail / 尾巴	ṽ33tuɔ55luɔ55	?	Heqi	tail	5468	尾巴
+6086	wẽ₃₃tu₅₅	Allen2007, 88	tail / 尾巴	wẽ33tu55	?	Lanping	tail	5468	尾巴
+6087	mi₄₄tu₃₅	Allen2007, 88	tail / 尾巴	mi44tu35	?	Qiliqiao	tail	5468	尾巴
+6088	ŋɤ₄₄tɤ₃₅	Allen2007, 88	tail / 尾巴	ŋɤ44tɤ35	?	Yunlong	tail	5468	尾巴
+6089	mi₃₃tɯ₃₅	Allen2007, 88	tail / 尾巴	mi33tɯ35	?	Xiangyun	tail	5468	尾巴
+6090	mæ̃₃₁qua₅₅	Allen2007, 88	tail / 尾巴	mæ̃31qua55	?	Luobenzhuo	tail	5468	尾巴
+#
+3347	ʐɚ₄₂	Wang2006a, 806	ten	ʐɚ42	?	Tuoluo	ten	6312	?
+3348	dʐi₂₁	Wang2006a, 806	ten	dʐi21	?	Gongxing	ten	6312	?
+3349	t͡sɿ₂₁	Wang2006a, 806	ten	tsɿ21	?	Enqi	ten	6312	?
+3350	t͡sɛ₄₂	Wang2006a, 806	ten	tsɛ42	?	Ega	ten	6312	?
+3351	t͡ʂɚ₄₂	Wang2006a, 806	ten	tʂɚ42	?	Jinman	ten	6312	?
+3352	t͡sa₄₂	Wang2006a, 806	ten	tsa42	?	Jinxing	ten	6312	?
+3353	t͡ʂi₄₂	Wang2006a, 806	ten	tʂi42	?	Dashi	ten	6312	?
+3354	t͡si₄₂	Wang2006a, 806	ten	tsi42	?	Zhoucheng	ten	6312	?
+3355	t͡sʰi₄₂	Wang2006a, 806	ten	tsʰi42	?	Mazhelong	ten	6312	?
+3356	t͡sɛ₄₂	Allen2007, 459	ten / 十	tsɛ42	?	Jianchuan	ten	6312	十
+3357	t͡sɿ₄₂	Allen2007, 459	ten / 十	tsɿ42	?	Eryuan	ten	6312	十
+3358	t͡sɿ₄₂	Allen2007, 459	ten / 十	tsɿ42	?	Heqi	ten	6312	十
+3359	t͡sɛ₄₂	Allen2007, 459	ten / 十	tsɛ42	?	Lanping	ten	6312	十
+3360	t͡sɿ₄₂	Allen2007, 459	ten / 十	tsɿ42	?	Qiliqiao	ten	6312	十
+3361	t͡sɿ₄₂	Allen2007, 459	ten / 十	tsɿ42	?	Yunlong	ten	6312	十
+3362	t͡sɿ₄₂	Allen2007, 459	ten / 十	tsɿ42	?	Xiangyun	ten	6312	十
+3363	t͡ʂæ₄₂	Allen2007, 459	ten / 十	tʂæ42	?	Luobenzhuo	ten	6312	十
+#
+7764	na₅₅	Allen2007, 486	that / 那	na55	?	Eryuan	that	1149393	那
+7766	na₅₅	Allen2007, 486	that / 那	na55	?	Lanping	that	1149393	那
+7765	na₅₅	Allen2007, 486	that / 那	na55	?	Heqi	that	1149393	那
+7767	vɯ₅₅	Allen2007, 486	that / 那	vɯ55	?	Qiliqiao	that	1149393	那
+7768	na₅₅	Allen2007, 486	that / 那	na55	?	Yunlong	that	1149393	那
+7769	na₅₅	Allen2007, 486	that / 那	na55	?	Xiangyun	that	1149393	那
+7770	tɔ₅₅wã₅₅	Allen2007, 486	that / 那	tɔ55wã55	?	Luobenzhuo	that	1149393	那
+7763	na₅₅	Allen2007, 486	that / 那	na55	?	Jianchuan	that	1149393	那
+#
+7777	na₅₅xou₃₁	Allen2007, 487	there / 那里	na55xou31	?	Xiangyun	there	858309	那里
+7776	na₅₅ŋue₃₃	Allen2007, 487	there / 那里	na55ŋue33	?	Yunlong	there	858309	那里
+7771	na₅₅a₄₂	Allen2007, 487	there / 那里	na55a42	?	Jianchuan	there	858309	那里
+7773	na₅₅lɯ₃₃	Allen2007, 487	there / 那里	na55lɯ33	?	Heqi	there	858309	那里
+7774	tã₅₅wa₄₄	Allen2007, 487	there / 那里	tã55wa44	?	Lanping	there	858309	那里
+7775	vɯ₅₅ta₄₄	Allen2007, 487	there / 那里	vɯ55ta44	?	Qiliqiao	there	858309	那里
+7778	tɔ₄₄wa₄₄ṃ₄₄	Allen2007, 487	there / 那里	tɔ44wa44ṃ44	?	Luobenzhuo	there	858309	那里
+7772	na₅₅xa₂₁	Allen2007, 487	there / 那里	na55xa21	?	Eryuan	there	858309	那里
+#
+7259	t͡sɯ₃₃	Allen2007, 362	there is / 有	tsɯ33	?	Jianchuan	there is	858309	有
+7260	t͡sɯ₃₃	Allen2007, 362	there is / 有	tsɯ33	?	Eryuan	there is	858309	有
+7261	t͡sɯ₃₃	Allen2007, 362	there is / 有	tsɯ33	?	Heqi	there is	858309	有
+7262	t͡sɯ₄₄	Allen2007, 362	there is / 有	tsɯ44	?	Lanping	there is	858309	有
+7263	t͡sɯ₃₃	Allen2007, 362	there is / 有	tsɯ33	?	Qiliqiao	there is	858309	有
+7264	zɿ₃₃	Allen2007, 362	there is / 有	zɿ33	?	Yunlong	there is	858309	有
+7265	zou₃₃	Allen2007, 362	there is / 有	zou33	?	Xiangyun	there is	858309	有
+7266	ʥi₃₃	Allen2007, 362	there is / 有	ʥi33	?	Luobenzhuo	there is	858309	有
+#
+7715	ma₅₅	Allen2007, 480	they(3 p.p.) / 他们	ma55	verb	Jianchuan	they	352331	他们
+7716	pa₅₅	Allen2007, 480	they(3 p.p.) / 他们	pa55	verb	Eryuan	they	352331	他们
+7717	va₅₅	Allen2007, 480	they(3 p.p.) / 他们	va55	verb	Heqi	they	352331	他们
+7718	ma₅₅	Allen2007, 480	they(3 p.p.) / 他们	ma55	verb	Lanping	they	352331	他们
+7719	va₅₅	Allen2007, 480	they(3 p.p.) / 他们	va55	verb	Qiliqiao	they	352331	他们
+7720	pa₅₅	Allen2007, 480	they(3 p.p.) / 他们	pa55	verb	Yunlong	they	352331	他们
+7721	pa₅₅	Allen2007, 480	they(3 p.p.) / 他们	pa55	verb	Xiangyun	they	352331	他们
+7722	bi₅₅t͡ɕa₃₁	Allen2007, 480	they(3 p.p.) / 他们	bi55tɕa31	verb	Luobenzhuo	they	352331	他们
+#
+3364	ʁɚ₃₃	Wang2006a, 980	thick	ʁɚ33	?	Tuoluo	thick	5503	?
+3365	ɢe₂₂	Wang2006a, 980	thick	ɢe22	?	Gongxing	thick	5503	?
+3366	ɢɯ₂₂	Wang2006a, 980	thick	ɢɯ22	?	Enqi	thick	5503	?
+3367	qɯ̃₄₂	Wang2006a, 980	thick	qɯ̃42	?	Jinman	thick	5503	?
+3368	kẽ₃₃	Wang2006a, 980	thick	kẽ33	?	Jinxing	thick	5503	?
+3369	kẽ₃₃	Wang2006a, 980	thick	kẽ33	?	Dashi	thick	5503	?
+3370	kɯ₃₃	Wang2006a, 980	thick	kɯ33	?	Zhoucheng	thick	5503	?
+3371	kǝɯ₃₃	Wang2006a, 980	thick	kǝɯ33	?	Mazhelong	thick	5503	?
+3372	kɯ̃₃₁	Allen2007, 394	thick / 厚	kɯ̃31	?	Jianchuan	thick	5503	厚
+3373	kɯ₃₃	Allen2007, 394	thick / 厚	kɯ33	?	Eryuan	thick	5503	厚
+3374	kɯ̃₃₁	Allen2007, 394	thick / 厚	kɯ̃31	?	Heqi	thick	5503	厚
+3375	kɯ̃₄₄	Allen2007, 394	thick / 厚	kɯ̃44	?	Lanping	thick	5503	厚
+3376	kɯ₃₃	Allen2007, 394	thick / 厚	kɯ33	?	Qiliqiao	thick	5503	厚
+3377	kɯ₃₃	Allen2007, 394	thick / 厚	kɯ33	?	Yunlong	thick	5503	厚
+3378	kɯ₃₃	Allen2007, 394	thick / 厚	kɯ33	?	Xiangyun	thick	5503	厚
+3379	qɯ̃₃₁	Allen2007, 394	thick / 厚	qɯ̃31	?	Luobenzhuo	thick	5503	厚
+#
+7417	t͡sʰu₅₅	Allen2007, 392	thick,coarse / 粗	tsʰu55	?	Xiangyun	thick,coarse	5503	粗
+7411	t͡sʰu₅₅	Allen2007, 392	thick,coarse / 粗	tsʰu55	?	Jianchuan	thick,coarse	5503	粗
+7412	t͡sʰu₅₅	Allen2007, 392	thick,coarse / 粗	tsʰu55	?	Eryuan	thick,coarse	5503	粗
+7413	t͡sʰu₅₅	Allen2007, 392	thick,coarse / 粗	tsʰu55	?	Heqi	thick,coarse	5503	粗
+7414	t͡sʰu₅₅	Allen2007, 392	thick,coarse / 粗	tsʰu55	?	Lanping	thick,coarse	5503	粗
+7415	ʧʰu₅₅	Allen2007, 392	thick,coarse / 粗	ʧʰu55	?	Qiliqiao	thick,coarse	5503	粗
+7418	ʧʰu₅₅	Allen2007, 392	thick,coarse / 粗	ʧʰu55	?	Luobenzhuo	thick,coarse	5503	粗
+7416	t͡sʰu₅₅	Allen2007, 392	thick,coarse / 粗	tsʰu55	?	Yunlong	thick,coarse	5503	粗
+#
+7419	mo₄₂	Allen2007, 393	fine,thin / 细	mo42	?	Jianchuan	thin;fine	5990	细
+7420	mɔ₄₂	Allen2007, 393	fine,thin / 细	mɔ42	?	Eryuan	thin;fine	5990	细
+7421	ma₄₂	Allen2007, 393	fine,thin / 细	ma42	?	Heqi	thin;fine	5990	细
+7422	mɔ̃₃₁	Allen2007, 393	fine,thin / 细	mɔ̃31	?	Lanping	thin;fine	5990	细
+7423	mu₃₂	Allen2007, 393	fine,thin / 细	mu32	?	Qiliqiao	thin;fine	5990	细
+7424	mɔ₄₂	Allen2007, 393	fine,thin / 细	mɔ42	?	Yunlong	thin;fine	5990	细
+7425	mɔu₄₂	Allen2007, 393	fine,thin / 细	mɔu42	?	Xiangyun	thin;fine	5990	细
+7426	mɔ̃₄₄	Allen2007, 393	fine,thin / 细	mɔ̃44	?	Luobenzhuo	thin;fine	5990	细
+#
+7427	po₄₂	Allen2007, 395	thin,flimsy / 薄	po42	?	Jianchuan	thin;flimsy	5990	薄
+7428	pɔ₄₂	Allen2007, 395	thin,flimsy / 薄	pɔ42	?	Eryuan	thin;flimsy	5990	薄
+7429	pɔu₄₂	Allen2007, 395	thin,flimsy / 薄	pɔu42	?	Heqi	thin;flimsy	5990	薄
+7430	pao₄₂	Allen2007, 395	thin,flimsy / 薄	pao42	?	Lanping	thin;flimsy	5990	薄
+7431	po₄₂	Allen2007, 395	thin,flimsy / 薄	po42	?	Qiliqiao	thin;flimsy	5990	薄
+7432	pɔ₄₂	Allen2007, 395	thin,flimsy / 薄	pɔ42	?	Yunlong	thin;flimsy	5990	薄
+7433	pɔu₄₂	Allen2007, 395	thin,flimsy / 薄	pɔu42	?	Xiangyun	thin;flimsy	5990	薄
+7434	pɔ₄₄	Allen2007, 395	thin,flimsy / 薄	pɔ44	?	Luobenzhuo	thin;flimsy	5990	薄
+#
+7747	lɯ₃₁	Allen2007, 484	this / 这	lɯ31	?	Jianchuan	this	5458	这
+7748	nɯ₃₁	Allen2007, 484	this / 这	nɯ31	?	Eryuan	this	5458	这
+7749	ɑ₅₅ta₄₄	Allen2007, 484	this / 这	ɑ55ta44	?	Heqi	this	5458	这
+7750	nɔ₃₁	Allen2007, 484	this / 这	nɔ31	?	Lanping	this	5458	这
+7751	lɯ₃₁	Allen2007, 484	this / 这	lɯ31	?	Qiliqiao	this	5458	这
+7752	nɯ₃₁	Allen2007, 484	this / 这	nɯ31	?	Yunlong	this	5458	这
+7753	tou₃₁	Allen2007, 484	this / 这	tou31	?	Xiangyun	this	5458	这
+7754	nɔ₄₄	Allen2007, 484	this / 这	nɔ44	?	Luobenzhuo	this	5458	这
+#
+3410	nɔ₂₁	Wang2006a, 931	you	nɔ21	?	Tuoluo	thou	5459	?
+3411	na₄₂	Wang2006a, 931	you	na42	?	Gongxing	thou	5459	?
+3412	no₄₃	Wang2006a, 931	you	no43	?	Enqi	thou	5459	?
+3413	no₄₂	Wang2006a, 931	you	no42	?	Ega	thou	5459	?
+3414	no₄₂	Wang2006a, 931	you	no42	?	Jinman	thou	5459	?
+3415	nou₃₁	Wang2006a, 931	you	nou31	?	Jinxing	thou	5459	?
+3416	nõ₃₁	Wang2006a, 931	you	nõ31	?	Dashi	thou	5459	?
+3417	no₃₁	Wang2006a, 931	you	no31	?	Zhoucheng	thou	5459	?
+3418	nen₄₂	Wang2006a, 931	you	nen42	?	Mazhelong	thou	5459	?
+3419	no₃₁	Allen2007, 477	you(2 p.s.) / 你	no31	?	Jianchuan	thou	5459	你
+3420	nɔ₃₁	Allen2007, 477	you(2 p.s.) / 你	nɔ31	?	Eryuan	thou	5459	你
+3421	nɔ₃₁	Allen2007, 477	you(2 p.s.) / 你	nɔ31	?	Heqi	thou	5459	你
+3422	nɔ₃₁	Allen2007, 477	you(2 p.s.) / 你	nɔ31	?	Lanping	thou	5459	你
+3423	nɔ₃₁	Allen2007, 477	you(2 p.s.) / 你	nɔ31	?	Qiliqiao	thou	5459	你
+3424	nɔ₃₁	Allen2007, 477	you(2 p.s.) / 你	nɔ31	?	Yunlong	thou	5459	你
+3425	nɔ₃₁	Allen2007, 477	you(2 p.s.) / 你	nɔ31	?	Xiangyun	thou	5459	你
+3426	nɔ₄₄	Allen2007, 477	you(2 p.s.) / 你	nɔ44	?	Luobenzhuo	thou	5459	你
+#
+3444	saŋ₅₅	Wang2006a, 799	three	saŋ55	?	Tuoluo	three	156096	?
+3445	saŋ₂₄	Wang2006a, 799	three	saŋ24	?	Gongxing	three	156096	?
+3446	sa₂₄	Wang2006a, 799	three	sa24	?	Enqi	three	156096	?
+3447	so₅₅	Wang2006a, 799	three	so55	?	Ega	three	156096	?
+3448	sã₅₅	Wang2006a, 799	three	sã55	?	Jinman	three	156096	?
+3449	sɑ̃₅₅	Wang2006a, 799	three	sɑ̃55	?	Jinxing	three	156096	?
+3450	sʰã₅₅	Wang2006a, 799	three	sʰã55	?	Dashi	three	156096	?
+3451	sa₅₅	Wang2006a, 799	three	sa55	?	Zhoucheng	three	156096	?
+3452	saŋ₅₅	Wang2006a, 799	three	saŋ55	?	Mazhelong	three	156096	?
+3453	sã₅₅	Allen2007, 452	three / 三	sã55	?	Jianchuan	three	156096	三
+3454	sa₅₅	Allen2007, 452	three / 三	sa55	?	Eryuan	three	156096	三
+3455	sʰã₅₅	Allen2007, 452	three / 三	sʰã55	?	Heqi	three	156096	三
+3456	sã₅₅	Allen2007, 452	three / 三	sã55	?	Lanping	three	156096	三
+3457	sa₅₅	Allen2007, 452	three / 三	sa55	?	Qiliqiao	three	156096	三
+3458	sa₅₅	Allen2007, 452	three / 三	sa55	?	Yunlong	three	156096	三
+3459	sã₅₅	Allen2007, 452	three / 三	sã55	?	Xiangyun	three	156096	三
+3460	sæ̃₅₅	Allen2007, 452	three / 三	sæ̃55	?	Luobenzhuo	three	156096	三
+#
+3461	xen₅₅ma₃₅	Wang2006a, 8	thunder	xen55ma35	?	Tuoluo	thunder	509787	?
+3462	hen₅₅mæ₁₂	Wang2006a, 8	thunder	hen55mæ12	?	Gongxing	thunder	509787	?
+3463	xɛ₂₄mæ₂₁	Wang2006a, 8	thunder	xE24mæ21	?	Enqi	thunder	509787	?
+3464	xẽ₅₅ma₂₁	Wang2006a, 8	thunder	xẽ55ma21	?	Ega	thunder	509787	?
+3465	xẽ₅₅ma₂₁	Wang2006a, 8	thunder	xẽ55ma21	?	Jinman	thunder	509787	?
+3466	xen₅₅man₂₁	Wang2006a, 8	thunder	xen55man21	?	Jinxing	thunder	509787	?
+3467	xen₅₅mɚ₂₁	Wang2006a, 8	thunder	xen55mɚ21	?	Dashi	thunder	509787	?
+3468	xe₅₅mɛ₂₁	Wang2006a, 8	thunder	xe55mɛ21	?	Zhoucheng	thunder	509787	?
+3469	xen₅₅mɚ₂₁	Wang2006a, 8	thunder	xen55mɚ21	?	Mazhelong	thunder	509787	?
+3470	xẽ₅₅mɛ₂₁	Allen2007, 9	thunder(vb) / 打雷	xẽ55mɛ21	?	Jianchuan	thunder	509787	打雷
+3471	xe₅₅mɛ₂₁	Allen2007, 9	thunder(vb) / 打雷	xe55mɛ21	?	Eryuan	thunder	509787	打雷
+3472	xʰẽ₅₅mɛ₂₁	Allen2007, 9	thunder(vb) / 打雷	xʰẽ55mɛ21	?	Heqi	thunder	509787	打雷
+3473	xẽ₅₅mæ₂₁	Allen2007, 9	thunder(vb) / 打雷	xẽ55mæ21	?	Lanping	thunder	509787	打雷
+3474	xe₅₅mɛ₂₁	Allen2007, 9	thunder(vb) / 打雷	xe55mɛ21	?	Qiliqiao	thunder	509787	打雷
+3475	xe₅₅mɛ₂₁	Allen2007, 9	thunder(vb) / 打雷	xe55mɛ21	?	Yunlong	thunder	509787	打雷
+3476	xẽ₅₅mɛ₂₁	Allen2007, 9	thunder(vb) / 打雷	xẽ55mɛ21	?	Xiangyun	thunder	509787	打雷
+3477	xẽ₅₅mã₃₁	Allen2007, 9	thunder(vb) / 打雷	xẽ55mã31	?	Luobenzhuo	thunder	509787	打雷
+#
+5174	xu₂₄	Wang2006a, 1269	to burn	(xu24)	?	Enqi	to burn	1299599	?
+5175	fi₂₂pɛ₂₂	Wang2006a, 1269	to burn	(fi22pɛ22)	?	Ega	to burn	1299599	?
+5176	fɤ₅₅ji₅₅	Wang2006a, 1269	to burn	(fv55ji55)	?	Jinman	to burn	1299599	?
+5177	jĩ₃₃	Wang2006a, 1269	to burn	jĩ33	?	Jinxing	to burn	1299599	?
+5178	ʂu₅₅	Wang2006a, 1269	to burn	ʂu55	?	Dashi	to burn	1299599	?
+5179	su₅₅	Wang2006a, 1269	to burn	su55	?	Zhoucheng	to burn	1299599	?
+5180	sɤ₅₅	Wang2006a, 1269	to burn	sv55	?	Mazhelong	to burn	1299599	?
+5172	jen₃₃	Wang2006a, 1269	to burn	jen33	?	Tuoluo	to burn	1299599	?
+5173	ɕy₅₅	Wang2006a, 1269	to burn	ɕy55	?	Gongxing	to burn	1299599	?
+#
+3512	de₄₂	Wang2006a, 139	tongue	de42	?	Tuoluo	tongue	5440	?
+3513	djɛ₂₁	Wang2006a, 139	tongue	djɛ21	?	Gongxing	tongue	5440	?
+3514	tjɛ₂₁	Wang2006a, 139	tongue	tjE21	?	Enqi	tongue	5440	?
+3515	ti₂₁	Wang2006a, 139	tongue	ti21	?	Ega	tongue	5440	?
+3516	ʈɚ₄₂	Wang2006a, 139	tongue	ʈɚ42	?	Jinman	tongue	5440	?
+3517	t͡se₄₂	Wang2006a, 139	tongue	tse42	?	Jinxing	tongue	5440	?
+3518	t͡ʂe₄₂	Wang2006a, 139	tongue	tʂe42	?	Dashi	tongue	5440	?
+3519	t͡se₄₂	Wang2006a, 139	tongue	tse42	?	Zhoucheng	tongue	5440	?
+3520	t͡sʰɛ₄₂	Wang2006a, 139	tongue	tsʰɛ42	?	Mazhelong	tongue	5440	?
+3521	t͡se₄₂	Allen2007, 132	tongue / 舌头	tse42	?	Jianchuan	tongue	5440	舌头
+3522	t͡ʂe₄₂pʰi₃₁	Allen2007, 132	tongue / 舌头	tʂe42pʰi31	?	Eryuan	tongue	5440	舌头
+3523	t͡se₄₂pʰĩ₃₁	Allen2007, 132	tongue / 舌头	tse42pʰĩ31	?	Heqi	tongue	5440	舌头
+3524	t͡sẽ₃₃pʰĩ₃₁	Allen2007, 132	tongue / 舌头	tsẽ33pʰĩ31	?	Lanping	tongue	5440	舌头
+3525	t͡se₄₂pʰi₃₁	Allen2007, 132	tongue / 舌头	tse42pʰi31	?	Qiliqiao	tongue	5440	舌头
+3526	t͡se₄₂pʰi₃₁	Allen2007, 132	tongue / 舌头	tse42pʰi31	?	Yunlong	tongue	5440	舌头
+3527	zɿ₃₃tou₃₁	Allen2007, 132	tongue / 舌头	zɿ33tou31	?	Xiangyun	tongue	5440	舌头
+3528	ʈæ̃₄₂	Allen2007, 132	tongue / 舌头	ʈæ̃42	?	Luobenzhuo	tongue	5440	舌头
+#
+6274	t͡ɕo₃₃pa₅₅	Allen2007, 131	tooth / 牙	tɕo33pa55	?	Luobenzhuo	tooth	5946	牙
+6269	t͡sʰɿ₃₃pa₄₄	Allen2007, 131	tooth / 牙	tsʰɿ33pa44	?	Heqi	tooth	5946	牙
+6271	t͡sɿ₃₃pa₄₄	Allen2007, 131	tooth / 牙	tsɿ33pa44	?	Qiliqiao	tooth	5946	牙
+6272	t͡sɿ₃₃pa₃₃	Allen2007, 131	tooth / 牙	tsɿ33pa33	?	Yunlong	tooth	5946	牙
+6273	t͡sɿ₃₃pa₄₄	Allen2007, 131	tooth / 牙	tsɿ33pa44	?	Xiangyun	tooth	5946	牙
+6268	t͡sʰɿ₃₃pʰa₃₃	Allen2007, 131	tooth / 牙	tsʰɿ33pʰa33	?	Eryuan	tooth	5946	牙
+6267	t͡sɿ₃₃pa₄₄	Allen2007, 131	tooth / 牙	tsɿ33pa44	?	Jianchuan	tooth	5946	牙
+6270	t͡su₄₄pa₄₄	Allen2007, 131	tooth / 牙	tsu44pa44	?	Lanping	tooth	5946	牙
+#
+3529	diɯ₂₁	Wang2006a, 372	tree	diɯ21	?	Tuoluo	tree	3854	?
+3530	dʐi₄₂	Wang2006a, 372	tree	dʐi42	?	Gongxing	tree	3854	?
+3531	diɯ₄₃	Wang2006a, 372	tree	diɯ43	?	Enqi	tree	3854	?
+3532	d͡ʑi₄₂	Wang2006a, 372	tree	dʑi42	?	Ega	tree	3854	?
+3533	ɖɯ₄₂	Wang2006a, 372	tree	ɖɯ42	?	Jinman	tree	3854	?
+3534	t͡sɯ₃₁	Wang2006a, 372	tree	tsɯ31	?	Jinxing	tree	3854	?
+3535	t͡ʂɯ₂₁	Wang2006a, 372	tree	tʂɯ21	?	Dashi	tree	3854	?
+3536	t͡sɯ₃₁	Wang2006a, 372	tree	tsɯ31	?	Zhoucheng	tree	3854	?
+3537	d͡zǝɯ₂₁	Wang2006a, 372	tree	dzǝɯ21	?	Mazhelong	tree	3854	?
+3538	t͡sɯ₃₁	Allen2007, 89	tree / 树	tsɯ31	?	Jianchuan	tree	3854	树
+3539	t͡ʂɯ₃₁	Allen2007, 89	tree / 树	tʂɯ31	?	Eryuan	tree	3854	树
+3540	t͡sɯ₃₁	Allen2007, 89	tree / 树	tsɯ31	?	Heqi	tree	3854	树
+3541	t͡sɯ₂₁	Allen2007, 89	tree / 树	tsɯ21	?	Lanping	tree	3854	树
+3542	t͡sɯ₃₁	Allen2007, 89	tree / 树	tsɯ31	?	Qiliqiao	tree	3854	树
+3543	d͡zɯ₃₁	Allen2007, 89	tree / 树	dzɯ31	?	Yunlong	tree	3854	树
+3544	zou₃₁	Allen2007, 89	tree / 树	zou31	?	Xiangyun	tree	3854	树
+3545	ɖɯ₃₁	Allen2007, 89	tree / 树	ɖɯ31	?	Luobenzhuo	tree	3854	树
+#
+5652	t͡suen₄₂	Wang2006a, 1806	turn around	tsuen42	?	Jinxing	turn around	6055	?
+5653	t͡ʂuen₄₂	Wang2006a, 1806	turn around	tʂuen42	?	Dashi	turn around	6055	?
+5654	t͡sue₄₂	Wang2006a, 1806	turn around	tsue42	?	Zhoucheng	turn around	6055	?
+5647	ʐyen₂₁	Wang2006a, 1806	turn around	ʐyen21	?	Tuoluo	turn around	6055	?
+5648	zyen₄₂	Wang2006a, 1806	turn around	zyen42	?	Gongxing	turn around	6055	?
+5649	t͡ɕyɛ₄₃	Wang2006a, 1806	turn around	tɕyE43	?	Enqi	turn around	6055	?
+5650	zyɛ₄₂	Wang2006a, 1806	turn around	zyɛ42	?	Ega	turn around	6055	?
+5651	zye₄₂	Wang2006a, 1806	turn around	zye42	?	Jinman	turn around	6055	?
+5655	t͡suan₄₂	Wang2006a, 1806	turn around	tsuan42	?	Mazhelong	turn around	6055	?
+#
+3560	kpŋ₃₃	Wang2006a, 798	two	kpŋ33	?	Tuoluo	two	6248	?
+3561	koŋ₃₃	Wang2006a, 798	two	koŋ33	?	Gongxing	two	6248	?
+3562	ku₂₂	Wang2006a, 798	two	ku22	?	Enqi	two	6248	?
+3563	kɤ₃₃	Wang2006a, 798	two	kv33	?	Ega	two	6248	?
+3564	koŋ₃₃	Wang2006a, 798	two	koŋ33	?	Jinman	two	6248	?
+3565	kõ₃₃	Wang2006a, 798	two	kõ33	?	Jinxing	two	6248	?
+3566	koŋ₃₃	Wang2006a, 798	two	koŋ33	?	Dashi	two	6248	?
+3567	kou₃₃	Wang2006a, 798	two	kou33	?	Zhoucheng	two	6248	?
+3568	koŋ₃₃	Wang2006a, 798	two	koŋ33	?	Mazhelong	two	6248	?
+3569	kõ₃₃	Allen2007, 451	two / 二	kõ33	?	Jianchuan	two	6248	二
+3570	kɔ₃₃	Allen2007, 451	two / 二	kɔ33	?	Eryuan	two	6248	二
+3571	kɔ̃u₃₃	Allen2007, 451	two / 二	kɔ̃u33	?	Heqi	two	6248	二
+3572	kɔ̃₄₄	Allen2007, 451	two / 二	kɔ̃44	?	Lanping	two	6248	二
+3573	ko₃₃	Allen2007, 451	two / 二	ko33	?	Qiliqiao	two	6248	二
+3574	kɔ₃₃	Allen2007, 451	two / 二	kɔ33	?	Yunlong	two	6248	二
+3575	kɔu₃₃	Allen2007, 451	two / 二	kɔu33	?	Xiangyun	two	6248	二
+3576	kɤ₃₃	Allen2007, 451	two / 二	kɤ33	?	Luobenzhuo	two	6248	二
+#
+4847	tue₅₅	Wang2006a, 1002	vertical, be standing	tue55	?	Tuoluo	vertical, be standing	6053	?
+4848	tyen₅₅	Wang2006a, 1002	vertical, be standing	tyen55	?	Gongxing	vertical, be standing	6053	?
+4849	tyɛ₂₄	Wang2006a, 1002	vertical, be standing	tyE24	?	Enqi	vertical, be standing	6053	?
+4850	to₅₅t͡ɕi₂₂	Wang2006a, 1002	vertical, be standing	to55tɕi22	?	Ega	vertical, be standing	6053	?
+4851	tyi₅₅	Wang2006a, 1002	vertical, be standing	tyi55	?	Jinman	vertical, be standing	6053	?
+4852	tuen₅₅	Wang2006a, 1002	vertical, be standing	tuen55	?	Jinxing	vertical, be standing	6053	?
+4853	tuen₃₅	Wang2006a, 1002	vertical, be standing	tuen35	?	Dashi	vertical, be standing	6053	?
+4854	tue₃₅	Wang2006a, 1002	vertical, be standing	tue35	?	Zhoucheng	vertical, be standing	6053	?
+4855	t͡suen₅₅	Wang2006a, 1002	vertical, be standing	(tsuen55)	?	Mazhelong	vertical, be standing	6053	?
+#
+3660	kʰuɛ₃₃	Wang2006a, 1535	vomit/throw up	kʰuɛ33	verb	Tuoluo	vomit	5617	?
+3661	qʰuɛ₂₂	Wang2006a, 1535	vomit/throw up	qʰuɛ22	verb	Gongxing	vomit	5617	?
+3662	qʰuɛ₂₂	Wang2006a, 1535	vomit/throw up	qʰuE22	verb	Enqi	vomit	5617	?
+3663	t͡ɕʰa₄₄	Wang2006a, 1535	vomit/throw up	(tɕʰa44)	verb	Ega	vomit	5617	?
+3664	t͡ɕʰa₄₄	Wang2006a, 1535	vomit/throw up	(tɕʰa44)	verb	Jinman	vomit	5617	?
+3665	t͡ɕʰia₄₄	Wang2006a, 1535	vomit/throw up	(tɕʰia44)	verb	Jinxing	vomit	5617	?
+3666	tã₄₂	Wang2006a, 1535	vomit/throw up	(tã42)	verb	Dashi	vomit	5617	?
+3667	kʰui₄₄	Wang2006a, 1535	vomit/throw up	kʰui44	verb	Zhoucheng	vomit	5617	?
+3668	kʰui₃₃	Wang2006a, 1535	vomit/throw up	kʰui33	verb	Mazhelong	vomit	5617	?
+3669	t͡ɕʰɛ₄₄	Allen2007, 265	vomit / 呕吐	tɕʰɛ44	verb	Jianchuan	vomit	5617	呕吐
+3670	e₄₄ta₄₂	Allen2007, 265	vomit / 呕吐	e44ta42	verb	Eryuan	vomit	5617	呕吐
+3671	tã₄₂	Allen2007, 265	vomit / 呕吐	tã42	verb	Heqi	vomit	5617	呕吐
+3672	xue₄₄	Allen2007, 265	vomit / 呕吐	xue44	verb	Lanping	vomit	5617	呕吐
+3673	ta₃₂	Allen2007, 265	vomit / 呕吐	ta32	verb	Qiliqiao	vomit	5617	呕吐
+3674	ta₄₂	Allen2007, 265	vomit / 呕吐	ta42	verb	Yunlong	vomit	5617	呕吐
+3675	kʰue₃₁	Allen2007, 265	vomit / 呕吐	kʰue31	verb	Xiangyun	vomit	5617	呕吐
+3676	t͡ɕʰa₅₅	Allen2007, 265	vomit / 呕吐	tɕʰa55	verb	Luobenzhuo	vomit	5617	呕吐
+#
+6848	pe₄₄	Allen2007, 281	walk / 走	pe44	verb	Yunlong	walk	6054	走
+6849	pe₄₄	Allen2007, 281	walk / 走	pe44	verb	Xiangyun	walk	6054	走
+6850	ja₅₅	Allen2007, 281	walk / 走	ja55	verb	Luobenzhuo	walk	6054	走
+6843	pe₄₄	Allen2007, 281	walk / 走	pe44	verb	Jianchuan	walk	6054	走
+6844	pe₄₄	Allen2007, 281	walk / 走	pe44	verb	Eryuan	walk	6054	走
+6845	pe₄₄	Allen2007, 281	walk / 走	pe44	verb	Heqi	walk	6054	走
+6846	pe₄₄	Allen2007, 281	walk / 走	pe44	verb	Lanping	walk	6054	走
+6847	pe₄₄	Allen2007, 281	walk / 走	pe44	verb	Qiliqiao	walk	6054	走
+#
+3694	uen₅₅	Wang2006a, 1064	lukewarm	uen55	?	Tuoluo	warm	5485	?
+3695	uen₂₂	Wang2006a, 1064	lukewarm	uen22	?	Gongxing	warm	5485	?
+3696	ʔuɛ₂₄	Wang2006a, 1064	lukewarm	ʔuE24	?	Enqi	warm	5485	?
+3697	ʔuɛ̃₅₅	Wang2006a, 1064	lukewarm	ʔuɛ̃55	?	Ega	warm	5485	?
+3698	uẽ₂₂	Wang2006a, 1064	lukewarm	uẽ22	?	Jinman	warm	5485	?
+3699	ʔuen₅₅	Wang2006a, 1064	lukewarm	ʔuen55	?	Jinxing	warm	5485	?
+3700	uen₃₅	Wang2006a, 1064	lukewarm	uen35	?	Dashi	warm	5485	?
+3701	uɛ₃₅	Wang2006a, 1064	lukewarm	uɛ35	?	Zhoucheng	warm	5485	?
+3702	men₃₃tʰen₃₃	Wang2006a, 1064	lukewarm	(men33tʰen33)	?	Mazhelong	warm	5485	?
+3703	wẽ₅₅ɤɤ₄₄	Allen2007, 435	warm / 暖和	wẽ55vɤ44	?	Jianchuan	warm	5485	暖和
+3704	we₃₅ɤɤ₄₄	Allen2007, 435	warm / 暖和	we35vɤ44	?	Eryuan	warm	5485	暖和
+3705	wẽ₅₅	Allen2007, 435	warm / 暖和	wẽ55	?	Heqi	warm	5485	暖和
+3706	wẽ₅₅	Allen2007, 435	warm / 暖和	wẽ55	?	Lanping	warm	5485	暖和
+3707	we₃₅	Allen2007, 435	warm / 暖和	we35	?	Qiliqiao	warm	5485	暖和
+3708	wɛ₄₄na₃₁	Allen2007, 435	warm / 暖和	wɛ44na31	?	Yunlong	warm	5485	暖和
+3709	wẽ₃₅	Allen2007, 435	warm / 暖和	wẽ35	?	Xiangyun	warm	5485	暖和
+3710	wẽ₅₅	Allen2007, 435	warm / 暖和	wẽ55	?	Luobenzhuo	warm	5485	暖和
+#
+7011	se₃₃	Allen2007, 320	wash / 洗	se33	verb	Jianchuan	wash	6069	洗
+7016	se₃₃	Allen2007, 320	wash / 洗	se33	verb	Yunlong	wash	6069	洗
+7017	se₃₃	Allen2007, 320	wash / 洗	se33	verb	Xiangyun	wash	6069	洗
+7014	sẽ₄₄	Allen2007, 320	wash / 洗	sẽ44	verb	Lanping	wash	6069	洗
+7015	se₃₃	Allen2007, 320	wash / 洗	se33	verb	Qiliqiao	wash	6069	洗
+7013	sʰe₃₃	Allen2007, 320	wash / 洗	sʰe33	verb	Heqi	wash	6069	洗
+7018	ɕy₃₃	Allen2007, 320	wash / 洗	ɕy33	verb	Luobenzhuo	wash	6069	洗
+7012	se₃₃	Allen2007, 320	wash / 洗	se33	verb	Eryuan	wash	6069	洗
+#
+3711	ɕyi₃₃	Wang2006a, 47	water	ɕyi33	?	Tuoluo	water	4118	?
+3712	ɕy₂₂	Wang2006a, 47	water	ɕy22	?	Gongxing	water	4118	?
+3713	ɕyi₂₂	Wang2006a, 47	water	ɕyi22	?	Enqi	water	4118	?
+3714	ɕyi₂₂	Wang2006a, 47	water	ɕyi22	?	Ega	water	4118	?
+3715	ɕyi₂₂	Wang2006a, 47	water	ɕyi22	?	Jinman	water	4118	?
+3716	ɕyi₃₃	Wang2006a, 47	water	ɕyi33	?	Jinxing	water	4118	?
+3717	ɕiui₃₃	Wang2006a, 47	water	ɕiui33	?	Dashi	water	4118	?
+3718	ɕyi₃₃	Wang2006a, 47	water	ɕyi33	?	Zhoucheng	water	4118	?
+3719	ɕyi₃₃	Wang2006a, 47	water	ɕyi33	?	Mazhelong	water	4118	?
+3720	ɕy₃₃	Allen2007, 14	water / 水	ɕy33	?	Jianchuan	water	4118	水
+3721	ɕy₃₃	Allen2007, 14	water / 水	ɕy33	?	Eryuan	water	4118	水
+3722	ɕy₃₃	Allen2007, 14	water / 水	ɕy33	?	Heqi	water	4118	水
+3723	ɕy₃₃	Allen2007, 14	water / 水	ɕy33	?	Lanping	water	4118	水
+3724	ɕy₃₃	Allen2007, 14	water / 水	ɕy33	?	Qiliqiao	water	4118	水
+3725	ɕy₃₃	Allen2007, 14	water / 水	ɕy33	?	Yunlong	water	4118	水
+3726	ɕy₃₃	Allen2007, 14	water / 水	ɕy33	?	Xiangyun	water	4118	水
+3727	sy₃₃	Allen2007, 14	water / 水	sy33	?	Luobenzhuo	water	4118	水
+#
+7696	ɲa₅₅	Allen2007, 475	we(1 p.p.) / 我们	ɲa55	?	Yunlong	we	5455	我们
+7691	jã₅₅	Allen2007, 475	we(1 p.p.) / 我们	jã55	?	Jianchuan	we	5455	我们
+7692	ŋa₅₅	Allen2007, 475	we(1 p.p.) / 我们	ŋa55	?	Eryuan	we	5455	我们
+7693	ŋa₅₅	Allen2007, 475	we(1 p.p.) / 我们	ŋa55	?	Heqi	we	5455	我们
+7694	ŋã₅₅	Allen2007, 475	we(1 p.p.) / 我们	ŋã55	?	Lanping	we	5455	我们
+7695	ŋa₅₅	Allen2007, 475	we(1 p.p.) / 我们	ŋa55	?	Qiliqiao	we	5455	我们
+7697	ŋa₅₅	Allen2007, 475	we(1 p.p.) / 我们	ŋa55	?	Xiangyun	we	5455	我们
+7698	mĩʔ₅₅	Allen2007, 475	we(1 p.p.) / 我们	mĩʔ55	?	Luobenzhuo	we	5455	我们
+#
+7510	xɛ₅₅	Allen2007, 420	wet / 湿	xɛ55	?	Lanping	wet	7027	湿
+7511	pʰɛ₅₅	Allen2007, 420	wet / 湿	pʰɛ55	?	Qiliqiao	wet	7027	湿
+7512	pʰɛ₅₅	Allen2007, 420	wet / 湿	pʰɛ55	?	Yunlong	wet	7027	湿
+7513	pʰiɛ₅₅	Allen2007, 420	wet / 湿	pʰiɛ55	?	Xiangyun	wet	7027	湿
+7514	xã₅₅	Allen2007, 420	wet / 湿	xã55	?	Luobenzhuo	wet	7027	湿
+7509	pʰɛ̃₅₅	Allen2007, 420	wet / 湿	pʰɛ̃55	?	Heqi	wet	7027	湿
+7507	xɛ̃₅₅	Allen2007, 420	wet / 湿	xɛ̃55	?	Jianchuan	wet	7027	湿
+5795	so₅₅jo₄₄t͡ɕi₃₁	Allen2007, 18	wet / 水田	so55jo44tɕi31	?	Jianchuan	wet	7027	水田
+5796	ɕy₃₃t͡ɕi₃₁	Allen2007, 18	wet / 水田	ɕy33tɕi31	?	Eryuan	wet	7027	水田
+5798	ɕy₃₃t͡ɕi₃₁	Allen2007, 18	wet / 水田	ɕy33tɕi31	?	Lanping	wet	7027	水田
+5799	kuɔ₄₂t͡ɕi₃₁	Allen2007, 18	wet / 水田	kuɔ42tɕi31	?	Qiliqiao	wet	7027	水田
+5797	ɕy₃₃t͡ɕi₃₁	Allen2007, 18	wet / 水田	ɕy33tɕi31	?	Heqi	wet	7027	水田
+5800	ɕy₃₃t͡ɕi₃₁	Allen2007, 18	wet / 水田	ɕy33tɕi31	?	Yunlong	wet	7027	水田
+5802	pʰãõ₅₅t͡ɕĩ₄₂	Allen2007, 18	wet / 水田	pʰãõ55tɕĩ42	?	Luobenzhuo	wet	7027	水田
+5801	ɕy₃₃ji₃₁	Allen2007, 18	wet / 水田	ɕy33ji31	?	Xiangyun	wet	7027	水田
+7508	pʰɛ₅₅	Allen2007, 420	wet / 湿	pʰɛ55	?	Eryuan	wet	7027	湿
+#
+7790	ɛ₅₅xɛ̃₄₂	Allen2007, 489	what / 什么	ɛ55xɛ̃42	?	Lanping	what	5491	什么
+7792	a₅₅xe₃₁	Allen2007, 489	what / 什么	a55xe31	?	Yunlong	what	5491	什么
+7793	a₅₅le₃₁xɔ₄₄	Allen2007, 489	what / 什么	a55le31xɔ44	?	Xiangyun	what	5491	什么
+7791	xɛ₃₁ne₃₁	Allen2007, 489	what / 什么	xɛ31ne31	?	Qiliqiao	what	5491	什么
+7794	a₅₅xã₄₂	Allen2007, 489	what / 什么	a55xã42	?	Luobenzhuo	what	5491	什么
+7787	ɛ₅₅xɛ̃₃₁	Allen2007, 489	what / 什么	ɛ55xɛ̃31	?	Jianchuan	what	5491	什么
+7788	a₅₅ne₃₁	Allen2007, 489	what / 什么	a55ne31	?	Eryuan	what	5491	什么
+7789	a₅₅xʰa₃₁	Allen2007, 489	what / 什么	a55xʰa31	?	Heqi	what	5491	什么
+#
+7796	a₅₅na₄₄	Allen2007, 490	where / 哪里	a55na44	?	Eryuan	where	5492	哪里
+7797	ma₄₄lɯ₃₃	Allen2007, 490	where / 哪里	ma44lɯ33	?	Heqi	where	5492	哪里
+7800	a₅₅na₄₄	Allen2007, 490	where / 哪里	a55na44	?	Yunlong	where	5492	哪里
+7802	a₅₅mã₅₅	Allen2007, 490	where / 哪里	a55mã55	?	Luobenzhuo	where	5492	哪里
+7801	t͡ɕɛ̃₃₅t͡sɿ₅₅xou₃₃	Allen2007, 490	where / 哪里	tɕɛ̃35tsɿ55xou33	?	Xiangyun	where	5492	哪里
+7795	a₅₅na₄₄	Allen2007, 490	where / 哪里	a55na44	?	Jianchuan	where	5492	哪里
+7798	a₅₅ma₅₅	Allen2007, 490	where / 哪里	a55ma55	?	Lanping	where	5492	哪里
+7799	a₅₅na₄₄	Allen2007, 490	where / 哪里	a55na44	?	Qiliqiao	where	5492	哪里
+#
+3762	ba₄₂	Wang2006a, 1006	white	ba42	?	Tuoluo	white	5825	?
+3763	bæ₂₁	Wang2006a, 1006	white	bæ21	?	Gongxing	white	5825	?
+3764	pa₂₁	Wang2006a, 1006	white	pa21	?	Enqi	white	5825	?
+3765	pa₄₂	Wang2006a, 1006	white	pa42	?	Ega	white	5825	?
+3766	pa₄₂	Wang2006a, 1006	white	pa42	?	Jinman	white	5825	?
+3767	pa₄₂	Wang2006a, 1006	white	pa42	?	Jinxing	white	5825	?
+3768	pɚ₄₂	Wang2006a, 1006	white	pɚ42	?	Dashi	white	5825	?
+3769	pɛ₄₂	Wang2006a, 1006	white	pɛ42	?	Zhoucheng	white	5825	?
+3770	pʰɚ₄₂	Wang2006a, 1006	white	pʰɚ42	?	Mazhelong	white	5825	?
+3771	pɛ₄₂	Allen2007, 409	white / 白	pɛ42	?	Jianchuan	white	5825	白
+3772	pɛ₄₂	Allen2007, 409	white / 白	pɛ42	?	Eryuan	white	5825	白
+3773	pɛ₄₂	Allen2007, 409	white / 白	pɛ42	?	Heqi	white	5825	白
+3774	pæ₄₂	Allen2007, 409	white / 白	pæ42	?	Lanping	white	5825	白
+3775	pɛ₄₂	Allen2007, 409	white / 白	pɛ42	?	Qiliqiao	white	5825	白
+3776	pɛ₄₂	Allen2007, 409	white / 白	pɛ42	?	Yunlong	white	5825	白
+3777	pɛ₄₂	Allen2007, 409	white / 白	pɛ42	?	Xiangyun	white	5825	白
+3778	pa₄₄	Allen2007, 409	white / 白	pa44	?	Luobenzhuo	white	5825	白
+#
+7779	a₃₁to₂₁	Allen2007, 488	who / 谁	a31to21	?	Jianchuan	who	5490	谁
+7780	a₃₁tɔ₂₁	Allen2007, 488	who / 谁	a31tɔ21	?	Eryuan	who	5490	谁
+7781	ma₄₄tɯ₂₁	Allen2007, 488	who / 谁	ma44tɯ21	?	Heqi	who	5490	谁
+7782	mɯ̃₅₅jĩ₃₁	Allen2007, 488	who / 谁	mɯ̃55jĩ31	?	Lanping	who	5490	谁
+7783	a₅₅ɲi₂₁	Allen2007, 488	who / 谁	a55ɲi21	?	Qiliqiao	who	5490	谁
+7784	a₅₅na₄₄ɲi₂₁	Allen2007, 488	who / 谁	a55na44ɲi21	?	Yunlong	who	5490	谁
+7785	a₅₅tɔ₂₁i₄₄	Allen2007, 488	who / 谁	a55tɔ21i44	?	Xiangyun	who	5490	谁
+7786	a₅₅tɔ₃₁	Allen2007, 488	who / 谁	a55tɔ31	?	Luobenzhuo	who	5490	谁
+#
+4785	qʰuo₄₂	Wang2006a, 966	wide	qʰuo42	?	Tuoluo	wide	5502	?
+4786	qʰua₂₄	Wang2006a, 966	wide	qʰua24	?	Gongxing	wide	5502	?
+4787	qʰua₅₅	Wang2006a, 966	wide	qʰua55	?	Enqi	wide	5502	?
+4788	qʰua₄₄	Wang2006a, 966	wide	qʰua44	?	Ega	wide	5502	?
+4789	qʰua₅₅	Wang2006a, 966	wide	qʰua55	?	Jinman	wide	5502	?
+4790	kʰuɑ₄₄	Wang2006a, 966	wide	kʰuɑ44	?	Jinxing	wide	5502	?
+4791	kʰua₄₄	Wang2006a, 966	wide	kʰua44	?	Dashi	wide	5502	?
+4792	kʰua₄₄	Wang2006a, 966	wide	kʰua44	?	Zhoucheng	wide	5502	?
+4793	kʰua₄₄	Wang2006a, 966	wide	kʰua44	?	Mazhelong	wide	5502	?
+4794	qʰuo₄₂	Wang2006a, 976	wide	qʰuo42	?	Tuoluo	wide	5502	?
+4795	qʰua₂₄	Wang2006a, 976	wide	qʰua24	?	Gongxing	wide	5502	?
+4796	qʰua₅₅	Wang2006a, 976	wide	qʰua55	?	Enqi	wide	5502	?
+4797	qʰua₄₄	Wang2006a, 976	wide	qʰua44	?	Ega	wide	5502	?
+4798	qʰua₅₅	Wang2006a, 976	wide	qʰua55	?	Jinman	wide	5502	?
+4799	kʰuɑ₅₅	Wang2006a, 976	wide	kʰuɑ55	?	Jinxing	wide	5502	?
+4800	kʰua₄₄	Wang2006a, 976	wide	kʰua44	?	Dashi	wide	5502	?
+4801	kʰua₄₄	Wang2006a, 976	wide	kʰua44	?	Zhoucheng	wide	5502	?
+4802	kʰua₄₄	Wang2006a, 976	wide	kʰua44	?	Mazhelong	wide	5502	?
+#
+6371	vɤ₃₃jĩ₂₁	Allen2007, 164	wife / 妻子	vɤ33jĩ21	?	Jianchuan	wife	5429	妻子
+6372	vɤ₃₃ɲi₂₁	Allen2007, 164	wife / 妻子	vɤ33ɲi21	?	Eryuan	wife	5429	妻子
+6373	fɤ₃₃tiɯ₂₁	Allen2007, 164	wife / 妻子	fɤ33tiɯ21	?	Heqi	wife	5429	妻子
+6374	vɛ₃₃jĩ₂₁	Allen2007, 164	wife / 妻子	vɛ33jĩ21	?	Lanping	wife	5429	妻子
+6375	vɤ₃₃ɲi₂₁	Allen2007, 164	wife / 妻子	vɤ33ɲi21	?	Qiliqiao	wife	5429	妻子
+6376	vɤ₃₃ɲi₂₁	Allen2007, 164	wife / 妻子	vɤ33ɲi21	?	Yunlong	wife	5429	妻子
+6377	nɛ̃₃₃ni₃₁	Allen2007, 164	wife / 妻子	nɛ̃33ni31	?	Xiangyun	wife	5429	妻子
+6378	ɲõ₄₄nɛ₃₁	Allen2007, 164	wife / 妻子	ɲõ44nɛ31	?	Luobenzhuo	wife	5429	妻子
+#
+3792	t͡ɕyen₅₅	Wang2006a, 9	wind	tɕyen55	?	Tuoluo	wind	4160	?
+3793	t͡ɕyen₅₅	Wang2006a, 9	wind	tɕyen55	?	Gongxing	wind	4160	?
+3794	t͡suɛ₂₄	Wang2006a, 9	wind	tsuE24	?	Enqi	wind	4160	?
+3795	t͡ɕyi₅₅	Wang2006a, 9	wind	tɕyi55	?	Ega	wind	4160	?
+3796	t͡ɕyi₅₅	Wang2006a, 9	wind	tɕyi55	?	Jinman	wind	4160	?
+3797	pi₅₅	Wang2006a, 9	wind	pi55	?	Jinxing	wind	4160	?
+3798	piɛ̃₃₅	Wang2006a, 9	wind	piɛ̃35	?	Dashi	wind	4160	?
+3799	pi₃₅	Wang2006a, 9	wind	pi35	?	Zhoucheng	wind	4160	?
+3800	pien₅₅	Wang2006a, 9	wind	pien55	?	Mazhelong	wind	4160	?
+3801	pi₅₅sɿ₅₅	Allen2007, 6	wind / 风	pi55sɿ55	?	Jianchuan	wind	4160	风
+3802	pi₅₅sɿ₅₅	Allen2007, 6	wind / 风	pi55sɿ55	?	Eryuan	wind	4160	风
+3803	pĩ₅₅	Allen2007, 6	wind / 风	pĩ55	?	Heqi	wind	4160	风
+3804	pi₅₅sɿ₅₅	Allen2007, 6	wind / 风	pi55sɿ55	?	Lanping	wind	4160	风
+3805	pi₃₅sɿ₃₅	Allen2007, 6	wind / 风	pi35sɿ35	?	Qiliqiao	wind	4160	风
+3806	pi₃₅ɕi₅₅	Allen2007, 6	wind / 风	pi35ɕi55	?	Yunlong	wind	4160	风
+3807	pi₃₅	Allen2007, 6	wind / 风	pi35	?	Xiangyun	wind	4160	风
+3808	t͡ɕỹ₃₃	Allen2007, 6	wind / 风	tɕỹ33	?	Luobenzhuo	wind	4160	风
+#
+6067	jĩ₃₃kʰɤ₅₅	Allen2007, 85	wing(bird) / 翅膀	jĩ33kʰɤ55	?	Jianchuan	wing	5528	翅膀
+6068	ji₃₁kʰɤ₅₅	Allen2007, 85	wing(bird) / 翅膀	ji31kʰɤ55	?	Eryuan	wing	5528	翅膀
+6069	jĩ₄₄kʰuɔ₃₅	Allen2007, 85	wing(bird) / 翅膀	jĩ44kʰuɔ35	?	Heqi	wing	5528	翅膀
+6070	jɔ₂₁kʰu₅₅	Allen2007, 85	wing(bird) / 翅膀	jɔ21kʰu55	?	Lanping	wing	5528	翅膀
+6071	ji₃₅la₄₄kʰɤ₅₅	Allen2007, 85	wing(bird) / 翅膀	ji35la44kʰɤ55	?	Qiliqiao	wing	5528	翅膀
+6072	lao₂₁ji₂₁	Allen2007, 85	wing(bird) / 翅膀	lao21ji21	?	Yunlong	wing	5528	翅膀
+6073	jɔ₃₃kʰɛ₅₅	Allen2007, 85	wing(bird) / 翅膀	jɔ33kʰɛ55	?	Xiangyun	wing	5528	翅膀
+6074	lao₃₁ji₄₂	Allen2007, 85	wing(bird) / 翅膀	lao31ji42	?	Luobenzhuo	wing	5528	翅膀
+#
+3809	jen₃₅hoŋ₅₅mo₃₃	Wang2006a, 174	woman	(jen35hoŋ55mo33)	?	Tuoluo	woman	4165	?
+3810	ɲyi₂₂	Wang2006a, 174	woman	ɲyi22	?	Ega	woman	4165	?
+3811	ɲu₂₂	Wang2006a, 174	woman	ɲu22	?	Jinman	woman	4165	?
+3812	jɤ̃₃₃	Wang2006a, 174	woman	jṽ33	?	Jinxing	woman	4165	?
+3813	jũ₃₃	Wang2006a, 174	woman	jũ33	?	Dashi	woman	4165	?
+3814	ɲɤ₃₃	Wang2006a, 174	woman	ɲv33	?	Zhoucheng	woman	4165	?
+3815	ɲõ₃₃	Wang2006a, 174	woman	ɲõ33	?	Mazhelong	woman	4165	?
+3816	jɤ̃₃₃jĩ₂₁	Allen2007, 156	woman / 女人	jɤ̃33jĩ21	?	Jianchuan	woman	4165	女人
+3817	ɲɤ₃₃ɲi₂₁	Allen2007, 156	woman / 女人	ɲɤ33ɲi21	?	Eryuan	woman	4165	女人
+3818	jõ₃₃jĩ₂₁	Allen2007, 156	woman / 女人	jõ33jĩ21	?	Heqi	woman	4165	女人
+3819	jɯ̃₃₃jĩ₂₁	Allen2007, 156	woman / 女人	jɯ̃33jĩ21	?	Lanping	woman	4165	女人
+3820	nɤ₃₃ɲi₂₁	Allen2007, 156	woman / 女人	nɤ33ɲi21	?	Qiliqiao	woman	4165	女人
+3821	ɲɤ₃₃ɲi₂₁	Allen2007, 156	woman / 女人	ɲɤ33ɲi21	?	Yunlong	woman	4165	女人
+3822	nɛ̃₃₃ni₂₁	Allen2007, 156	woman / 女人	nɛ̃33ni21	?	Xiangyun	woman	4165	女人
+3823	ɲõ₄₄nɛ₄₄t͡ɕi₃₁ɲi₃₁	Allen2007, 156	woman / 女人	ɲõ44nɛ44tɕi31ɲi31	?	Luobenzhuo	woman	4165	女人
+#
+3824	suɔ₄₂	Wang2006a, 914	a year old	suɔ42	?	Tuoluo	year	5478	?
+3825	sua₂₄	Wang2006a, 914	a year old	sua24	?	Gongxing	year	5478	?
+3826	sua₅₅	Wang2006a, 914	a year old	sua55	?	Enqi	year	5478	?
+3827	sua₄₄	Wang2006a, 914	a year old	sua44	?	Ega	year	5478	?
+3828	sua₅₅	Wang2006a, 914	a year old	sua55	?	Jinman	year	5478	?
+3829	suɑ₄₄	Wang2006a, 914	a year old	suɑ44	?	Jinxing	year	5478	?
+3830	sʰua₄₄	Wang2006a, 914	a year old	sʰua44	?	Dashi	year	5478	?
+3831	sua₄₄	Wang2006a, 914	a year old	sua44	?	Zhoucheng	year	5478	?
+3832	sua₄₄	Wang2006a, 914	a year old	sua44	?	Mazhelong	year	5478	?
+3833	sua₄₄	Allen2007, 31	year / 年、岁	sua44	?	Jianchuan	year	5478	年、岁
+3834	sua₄₄	Allen2007, 31	year / 年、岁	sua44	?	Eryuan	year	5478	年、岁
+3835	sʰua₄₄	Allen2007, 31	year / 年、岁	sʰua44	?	Heqi	year	5478	年、岁
+3836	sua₄₄	Allen2007, 31	year / 年、岁	sua44	?	Lanping	year	5478	年、岁
+3837	ʃua₄₄	Allen2007, 31	year / 年、岁	ʃua44	?	Qiliqiao	year	5478	年、岁
+3838	sua₄₄	Allen2007, 31	year / 年、岁	sua44	?	Yunlong	year	5478	年、岁
+3839	sua₄₄	Allen2007, 31	year / 年、岁	sua44	?	Xiangyun	year	5478	年、岁
+3840	sua₄₄	Allen2007, 31	year / 年、岁	sua44	?	Luobenzhuo	year	5478	年、岁
+#
+3841	ŋoŋ₃₅	Wang2006a, 1008	yellow	ŋoŋ35	?	Tuoluo	yellow	6031	?
+3842	ʁaŋ₁₂	Wang2006a, 1008	yellow	ʁaŋ12	?	Gongxing	yellow	6031	?
+3843	ʁo₂₁	Wang2006a, 1008	yellow	ʁo21	?	Enqi	yellow	6031	?
+3844	ŋõ₂₁	Wang2006a, 1008	yellow	ŋõ21	?	Ega	yellow	6031	?
+3845	õ₂₁	Wang2006a, 1008	yellow	õ21	?	Jinman	yellow	6031	?
+3846	ṽ₂₁	Wang2006a, 1008	yellow	ṽ21	?	Jinxing	yellow	6031	?
+3847	võ₂₁	Wang2006a, 1008	yellow	võ21	?	Dashi	yellow	6031	?
+3848	ŋɤ₂₁	Wang2006a, 1008	yellow	ŋv21	?	Zhoucheng	yellow	6031	?
+3849	ɣoŋ₂₁	Wang2006a, 1008	yellow	ɣoŋ21	?	Mazhelong	yellow	6031	?
+3850	ɤ̃₂₁	Allen2007, 407	yellow / 黄	ɤ̃21	?	Jianchuan	yellow	6031	黄
+3851	ŋɤ₂₁	Allen2007, 407	yellow / 黄	ŋɤ21	?	Eryuan	yellow	6031	黄
+3852	ũ₂₁	Allen2007, 407	yellow / 黄	ũ21	?	Heqi	yellow	6031	黄
+3853	wɔ₂₁	Allen2007, 407	yellow / 黄	wɔ21	?	Lanping	yellow	6031	黄
+3854	ŋɤ₂₁	Allen2007, 407	yellow / 黄	ŋɤ21	?	Qiliqiao	yellow	6031	黄
+3855	ʁɔ₃₁	Allen2007, 407	yellow / 黄	ʁɔ31	?	Yunlong	yellow	6031	黄
+3856	ŋɯ₂₁	Allen2007, 407	yellow / 黄	ŋɯ21	?	Xiangyun	yellow	6031	黄
+3857	ŋo₃₁	Allen2007, 407	yellow / 黄	ŋo31	?	Luobenzhuo	yellow	6031	黄
+#
+7707	na₅₅	Allen2007, 478	you(2 p.p.) / 你们	na55	?	Jianchuan	you(2 p.p.)	5456	你们
+7708	na₅₅	Allen2007, 478	you(2 p.p.) / 你们	na55	?	Eryuan	you(2 p.p.)	5456	你们
+7709	na₅₅	Allen2007, 478	you(2 p.p.) / 你们	na55	?	Heqi	you(2 p.p.)	5456	你们
+7710	na₅₅	Allen2007, 478	you(2 p.p.) / 你们	na55	?	Lanping	you(2 p.p.)	5456	你们
+7711	na₅₅	Allen2007, 478	you(2 p.p.) / 你们	na55	?	Qiliqiao	you(2 p.p.)	5456	你们
+7712	na₅₅	Allen2007, 478	you(2 p.p.) / 你们	na55	?	Yunlong	you(2 p.p.)	5456	你们
+7713	na₅₅	Allen2007, 478	you(2 p.p.) / 你们	na55	?	Xiangyun	you(2 p.p.)	5456	你们
+7714	ɲi₅₅t͡ɕa₃₁	Allen2007, 478	you(2 p.p.) / 你们	ɲi55tɕa31	?	Luobenzhuo	you(2 p.p.)	5456	你们
