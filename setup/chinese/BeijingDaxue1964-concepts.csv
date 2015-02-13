@@ -599,132 +599,132 @@ ID	NUMBER	CHINESE_GLOSS	PAGENO	POS	SEMANTIC_FIELD	SF_IN_SOURCE	POS_IN_SOURCE	ENG
 598	598	杀	300	verbs	daily actions	四、日常操作	动詞	kill	-
 599	599	宰	300	verbs	daily actions	四、日常操作	动詞	to slaughter	-
 600	600	泼	301	verbs	daily actions	四、日常操作	动詞	pour // splash 	-
-601	601	浇	301	verbs	daily actions	四、日常操作	动詞	spray, water, sprinkle	-
-602	602	扫	302	verbs	daily actions	四、日常操作	动詞	sweep, clear away; exterminate	-
-603	603	点	302	verbs	daily actions	四、日常操作	动詞	dot, speck, spot; point, degree	-
-604	604	收拾	303	verbs	daily actions	四、日常操作	动詞	arrange // mend // take care of // fade // buy off // cook // pack // dispel // eliminate // arrange;administer	-
-605	605	撹和	303	verbs	daily actions	四、日常操作	动詞	-	-
+601	601	浇	301	verbs	daily actions	四、日常操作	动詞	water // sprinkle	-
+602	602	扫	302	verbs	daily actions	四、日常操作	动詞	sweep	-
+603	603	点	302	verbs	daily actions	四、日常操作	动詞	point to // nod	-
+604	604	收拾	303	verbs	daily actions	四、日常操作	动詞	gather // collect	-
+605	605	撹和	303	verbs	daily actions	四、日常操作	动詞	-	?
 606	606	拌	304	verbs	daily actions	四、日常操作	动詞	mix	-
 607	607	选择	304	verbs	daily actions	四、日常操作	动詞	select	-
-608	608	藏(收存）	305	verbs	daily actions	四、日常操作	动詞	-	-
-609	609	說	305	verbs	communication	五、交际、事务、人事	动詞	speak, say, talk; scold, upbraid	-
-610	610	閑淡	306	verbs	communication	五、交际、事务、人事	动詞	-	-
-611	611	問	306	verbs	communication	五、交际、事务、人事	动詞	ask about, inquire after	-
-612	612	理	307	verbs	communication	五、交际、事务、人事	动詞	reason, logic; manage	-
-613	613	叫	307	verbs	communication	五、交际、事务、人事	动詞	cry, shout; hail, greet, call	-
-614	614	喊	308	verbs	communication	五、交际、事务、人事	动詞	shout, call out, yell; howl; cry	-
-615	615	笑	308	verbs	communication	五、交际、事务、人事	动詞	smile, laugh, giggle; snicker	-
-616	616	哭	309	verbs	communication	五、交际、事务、人事	动詞	weep, cry, wail	-
-617	617	駡	309	verbs	communication	五、交际、事务、人事	动詞	accuse, blame, curse, scold	-
-618	618	开玩笑	310	verbs	communication	五、交际、事务、人事	动詞	joke;jest	-
-619	619	发脾气	310	verbs	communication	五、交际、事务、人事	动詞	lost one&rsquo;s temper // get angry	-
-620	620	吵架	311	verbs	communication	五、交际、事务、人事	动詞	have words with sb.	-
-621	621	打架	311	verbs	communication	五、交际、事务、人事	动詞	fight;scuffle // come to blows // mix it up	-
-622	622	劝	312	verbs	communication	五、交际、事务、人事	动詞	recommend, advise, urge	-
-623	623	吹牛	312	verbs	communication	五、交际、事务、人事	动詞	boast // chat	-
-624	624	拍馬	313	verbs	communication	五、交际、事务、人事	动詞	fawn	-
-625	625	发誓	313	verbs	communication	五、交际、事务、人事	动詞	swear;vow;pledge	-
-626	626	陪	314	verbs	communication	五、交际、事务、人事	动詞	accompany, be with, keep company	-
-627	627	做事儿	314	verbs	communication	五、交际、事务、人事	动詞	-	-
-628	628	干活儿	315	verbs	communication	五、交际、事务、人事	动詞	-	-
-629	629	种地	315	verbs	communication	五、交际、事务、人事	动詞	cultivate (till) land;go in for farming	-
-630	630	开車	316	verbs	communication	五、交际、事务、人事	动詞	drive a car,train,etc. // set a machine going	-
-631	631	买布	316	verbs	communication	五、交际、事务、人事	动詞	-	-
-632	632	买油	317	verbs	communication	五、交际、事务、人事	动詞	-	-
-633	633	买药(买中药）	317	verbs	communication	五、交际、事务、人事	动詞	-	-
-634	634	活	318	verbs	communication	五、交际、事务、人事	动詞	live, exist, survive; lively	-
-635	635	死	318	verbs	communication	五、交际、事务、人事	动詞	die; dead; death	-
-636	636	結婚（指男方）	319	verbs	communication	五、交际、事务、人事	动詞	-	-
-637	637	結婚（指女方）	319	verbs	communication	五、交际、事务、人事	动詞	-	-
-638	638	生（生育）	320	verbs	communication	五、交际、事务、人事	动詞	-	-
-639	639	上課	320	verbs	culture, music	六、文化、娛乐	动詞	give lessons // go to class // have class	-
+608	608	藏(收存）	305	verbs	daily actions	四、日常操作	动詞	hide // collect (money)	-
+609	609	說	305	verbs	communication	五、交际、事务、人事	动詞	speak	-
+610	610	閑淡	306	verbs	communication	五、交际、事务、人事	动詞	talk // make smalltalk	-
+611	611	問	306	verbs	communication	五、交际、事务、人事	动詞	ask	-
+612	612	理	307	verbs	communication	五、交际、事务、人事	动詞	manage	-
+613	613	叫	307	verbs	communication	五、交际、事务、人事	动詞	cry // call	-
+614	614	喊	308	verbs	communication	五、交际、事务、人事	动詞	shout // cry	-
+615	615	笑	308	verbs	communication	五、交际、事务、人事	动詞	smile	-
+616	616	哭	309	verbs	communication	五、交际、事务、人事	动詞	weep // cry	-
+617	617	駡	309	verbs	communication	五、交际、事务、人事	动詞	shout // scold	-
+618	618	开玩笑	310	verbs	communication	五、交际、事务、人事	动詞	make a joke	-
+619	619	发脾气	310	verbs	communication	五、交际、事务、人事	动詞	get angry	-
+620	620	吵架	311	verbs	communication	五、交际、事务、人事	动詞	argue // quarell	-
+621	621	打架	311	verbs	communication	五、交际、事务、人事	动詞	fight	-
+622	622	劝	312	verbs	communication	五、交际、事务、人事	动詞	recommend	-
+623	623	吹牛	312	verbs	communication	五、交际、事务、人事	动詞	boast	-
+624	624	拍馬	313	verbs	communication	五、交际、事务、人事	动詞	flatter	-
+625	625	发誓	313	verbs	communication	五、交际、事务、人事	动詞	swear // vow	-
+626	626	陪	314	verbs	communication	五、交际、事务、人事	动詞	accompany	-
+627	627	做事儿	314	verbs	communication	五、交际、事务、人事	动詞	do something	-
+628	628	干活儿	315	verbs	communication	五、交际、事务、人事	动詞	work	-
+629	629	种地	315	verbs	communication	五、交际、事务、人事	动詞	cultivate	-
+630	630	开車	316	verbs	communication	五、交际、事务、人事	动詞	drive a car	-
+631	631	买布	316	verbs	communication	五、交际、事务、人事	动詞	buy cloth	-
+632	632	买油	317	verbs	communication	五、交际、事务、人事	动詞	buy oil	-
+633	633	买药(买中药）	317	verbs	communication	五、交际、事务、人事	动詞	buy Chinese medicine	-
+634	634	活	318	verbs	communication	五、交际、事务、人事	动詞	live --, exist, survive; lively	-
+635	635	死	318	verbs	communication	五、交际、事务、人事	动詞	die	-
+636	636	結婚（指男方）	319	verbs	communication	五、交际、事务、人事	动詞	marry (of a man)	-
+637	637	結婚（指女方）	319	verbs	communication	五、交际、事务、人事	动詞	marry (of a woman)	-
+638	638	生（生育）	320	verbs	communication	五、交际、事务、人事	动詞	give birth	-
+639	639	上課	320	verbs	culture, music	六、文化、娛乐	动詞	start class // go to class	-
 640	640	下課	321	verbs	culture, music	六、文化、娛乐	动詞	finish class	-
 641	641	敎	321	verbs	culture, music	六、文化、娛乐	动詞	teach	-
-642	642	学	322	verbs	culture, music	六、文化、娛乐	动詞	learning, knowledge; school	-
-643	643	玩儿	322	verbs	culture, music	六、文化、娛乐	动詞	-	-
-644	644	游泳	323	verbs	culture, music	六、文化、娛乐	动詞	have a swim;swim	-
-645	645	照相	323	verbs	culture, music	六、文化、娛乐	动詞	take a picture(或photograph) // photograph	-
-646	646	赢	324	verbs	culture, music	六、文化、娛乐	动詞	win; surplus, gain, profit	-
-647	647	輸	324	verbs	culture, music	六、文化、娛乐	动詞	transport, carry, haul	-
-648	648	休息	325	verbs	physiology and disease	七、生理、病理	动詞	(of a nation) recuperate and multiply // have a rest;take a rest;rest // stop	-
-649	649	睡觉	325	verbs	physiology and disease	七、生理、病理	动詞	fall asleep // wake up	-
-650	650	打呵欠	326	verbs	physiology and disease	七、生理、病理	动詞	yawn // gape	-
-651	651	打瞌睡	326	verbs	physiology and disease	七、生理、病理	动詞	nod;doze off	-
-652	652	打冷噤	327	verbs	physiology and disease	七、生理、病理	动詞	-	-
-653	653	哆嗦	327	verbs	physiology and disease	七、生理、病理	动詞	tremble // shiver	-
-654	654	喷嚏	328	verbs	physiology and disease	七、生理、病理	动詞	sternutation;sneeze	-
-655	655	抓痒	328	verbs	physiology and disease	七、生理、病理	动詞	-	-
-656	656	撒（撒尿）	329	verbs	physiology and disease	七、生理、病理	动詞	-	-
-657	657	拉(拉屎）	329	verbs	physiology and disease	七、生理、病理	动詞	-	-
+642	642	学	322	verbs	culture, music	六、文化、娛乐	动詞	learn	-
+643	643	玩儿	322	verbs	culture, music	六、文化、娛乐	动詞	play	-
+644	644	游泳	323	verbs	culture, music	六、文化、娛乐	动詞	swim	-
+645	645	照相	323	verbs	culture, music	六、文化、娛乐	动詞	take a picture	-
+646	646	赢	324	verbs	culture, music	六、文化、娛乐	动詞	win	-
+647	647	輸	324	verbs	culture, music	六、文化、娛乐	动詞	transport // carry	-
+648	648	休息	325	verbs	physiology and disease	七、生理、病理	动詞	rest	-
+649	649	睡觉	325	verbs	physiology and disease	七、生理、病理	动詞	sleep	-
+650	650	打呵欠	326	verbs	physiology and disease	七、生理、病理	动詞	yawn	-
+651	651	打瞌睡	326	verbs	physiology and disease	七、生理、病理	动詞	doze off	-
+652	652	打冷噤	327	verbs	physiology and disease	七、生理、病理	动詞	-	?
+653	653	哆嗦	327	verbs	physiology and disease	七、生理、病理	动詞	tremble	-
+654	654	喷嚏	328	verbs	physiology and disease	七、生理、病理	动詞	sneeze	-
+655	655	抓痒	328	verbs	physiology and disease	七、生理、病理	动詞	-	?
+656	656	撒（撒尿）	329	verbs	physiology and disease	七、生理、病理	动詞	pee // piss	-
+657	657	拉(拉屎）	329	verbs	physiology and disease	七、生理、病理	动詞	defecate // shit	-
 658	658	生病	330	verbs	physiology and disease	七、生理、病理	动詞	fall ill	-
-659	659	着凉	330	verbs	physiology and disease	七、生理、病理	动詞	catch cold	-
+659	659	着凉	330	verbs	physiology and disease	七、生理、病理	动詞	catch a cold	-
 660	660	咳嗽	331	verbs	physiology and disease	七、生理、病理	动詞	cough	-
-661	661	头暈	331	verbs	physiology and disease	七、生理、病理	动詞	-	-
-662	662	发烧	332	verbs	physiology and disease	七、生理、病理	动詞	have a temperature;have a fever // heat sink	-
-663	663	泻肚	332	verbs	physiology and disease	七、生理、病理	动詞	scour // have loose bowels; have diarrhoea	-
-664	664	生疟疾	333	verbs	physiology and disease	七、生理、病理	动詞	-	-
-665	665	喜欢	333	verbs	perceive, reflect	八、感受、思維	动詞	like;love // happy;elated	-
-666	666	討厌	334	verbs	perceive, reflect	八、感受、思維	动詞	loathe;be disgusted with // disagreeable;disgusting;repugnant // be hard to handle;troublesome	-
-667	667	怪	334	verbs	perceive, reflect	八、感受、思維	动詞	strange, unusual, peculiar	-
-668	668	恨	335	verbs	perceive, reflect	八、感受、思維	动詞	hatred, dislike; resent, hate	-
-669	669	后悔	335	verbs	perceive, reflect	八、感受、思維	动詞	repent;regret	-
-670	670	怕	336	verbs	perceive, reflect	八、感受、思維	动詞	to fear, be afraid of; apprehensive	-
-671	671	知道	336	verbs	perceive, reflect	八、感受、思維	动詞	know // know road // know;realize;be aware of	-
-672	672	想	337	verbs	perceive, reflect	八、感受、思維	动詞	think, speculate, plan, consider	-
-673	673	打算	337	verbs	perceive, reflect	八、感受、思維	动詞	intend;contemplate;propose;be prepared to // plan	-
-674	674	相信	338	verbs	perceive, reflect	八、感受、思維	动詞	believe in;be convinced of;have faith in;place reliance on;put one's trust in	-
-675	675	怀疑	338	verbs	perceive, reflect	八、感受、思維	动詞	doubt;suspect;scepsis	-
-676	676	小心	339	verbs	perceive, reflect	八、感受、思維	动詞	take care // cautious;careful // respectful and cautious	-
-677	677	想念	339	verbs	perceive, reflect	八、感受、思維	动詞	long to see again;miss // souvenir	-
+661	661	头暈	331	verbs	physiology and disease	七、生理、病理	动詞	-	?
+662	662	发烧	332	verbs	physiology and disease	七、生理、病理	动詞	have a fever	-
+663	663	泻肚	332	verbs	physiology and disease	七、生理、病理	动詞	have diarrhoea	-
+664	664	生疟疾	333	verbs	physiology and disease	七、生理、病理	动詞	-	?
+665	665	喜欢	333	verbs	perceive, reflect	八、感受、思維	动詞	like	-
+666	666	討厌	334	verbs	perceive, reflect	八、感受、思維	动詞	dislike	-
+667	667	怪	334	verbs	perceive, reflect	八、感受、思維	动詞	make responsible for	-
+668	668	恨	335	verbs	perceive, reflect	八、感受、思維	动詞	hate	-
+669	669	后悔	335	verbs	perceive, reflect	八、感受、思維	动詞	regret	-
+670	670	怕	336	verbs	perceive, reflect	八、感受、思維	动詞	fear	-
+671	671	知道	336	verbs	perceive, reflect	八、感受、思維	动詞	know	-
+672	672	想	337	verbs	perceive, reflect	八、感受、思維	动詞	think	-
+673	673	打算	337	verbs	perceive, reflect	八、感受、思維	动詞	plan // intend	-
+674	674	相信	338	verbs	perceive, reflect	八、感受、思維	动詞	believer // trust	-
+675	675	怀疑	338	verbs	perceive, reflect	八、感受、思維	动詞	doubt	-
+676	676	小心	339	verbs	perceive, reflect	八、感受、思維	动詞	take care	-
+677	677	想念	339	verbs	perceive, reflect	八、感受、思維	动詞	miss // long for	-
 678	678	忘記	340	verbs	perceive, reflect	八、感受、思維	动詞	forget	-
-679	679	要	340	verbs	perceive, reflect	八、感受、思維	动詞	necessary, essential; necessity	-
-680	680	不要	341	verbs	perceive, reflect	八、感受、思維	动詞	do not // refrain from	-
-681	681	应該	341	verbs	desire, judge	九、願望、判断	动詞	should;ought to;must	-
-682	682	値得	342	verbs	desire, judge	九、願望、判断	动詞	-	-
-683	683	是	342	verbs	desire, judge	九、願望、判断	动詞	indeed, yes, right; to be; demonstrative pronoun, this, that	-
-684	684	不是	343	verbs	desire, judge	九、願望、判断	动詞	mistake;faul // be not	-
-685	685	沒有（无）	343	verbs	desire, judge	九、願望、判断	动詞	-	-
+679	679	要	340	verbs	perceive, reflect	八、感受、思維	动詞	want	-
+680	680	不要	341	verbs	perceive, reflect	八、感受、思維	动詞	refrain from // do not want	-
+681	681	应該	341	verbs	desire, judge	九、願望、判断	动詞	must	-
+682	682	値得	342	verbs	desire, judge	九、願望、判断	动詞	be necessary	-
+683	683	是	342	verbs	desire, judge	九、願望、判断	动詞	be	-
+684	684	不是	343	verbs	desire, judge	九、願望、判断	动詞	be not	-
+685	685	沒有（无）	343	verbs	desire, judge	九、願望、判断	动詞	lack // have not	-
 686	686	接吻	344	verbs	other	十、其他	动詞	kiss	-
-687	687	上坟	344	verbs	other	十、其他	动詞	honour the memory of the dead at a grave	-
-688	688	遗失	345	verbs	other	十、其他	动詞	-	-
-689	689	浪费	345	verbs	other	十、其他	动詞	waste;lavish;squander spand;	-
-690	690	大	346	adjectives	appearance, situation	一、形状、情况	形容詞	-	-
-691	691	小	346	adjectives	appearance, situation	一、形状、情况	形容詞	small, tiny, insignificant	-
-692	692	髙	347	adjectives	appearance, situation	一、形状、情况	形容詞	variant of高U+9AD8, high, tall; lofty, elevated	-
-693	693	低	347	adjectives	appearance, situation	一、形状、情况	形容詞	low; to lower, hang, bend, bow	-
-694	694	矮	348	adjectives	appearance, situation	一、形状、情况	形容詞	short, dwarf; low	-
-695	695	长	348	adjectives	appearance, situation	一、形状、情况	形容詞	long; length; excel in; leader	-
-696	696	短	349	adjectives	appearance, situation	一、形状、情况	形容詞	short; brief; deficient, lacking	-
-697	697	粗	349	adjectives	appearance, situation	一、形状、情况	形容詞	rough, thick, course; rude	-
-698	698	細	350	adjectives	appearance, situation	一、形状、情况	形容詞	fine, tiny; slender, thin	-
-699	699	宽	350	adjectives	appearance, situation	一、形状、情况	形容詞	broad, wide; spacious, vast	-
-700	700	窄	351	adjectives	appearance, situation	一、形状、情况	形容詞	narrow, tight; narrow-minded	-
-701	701	厚	351	adjectives	appearance, situation	一、形状、情况	形容詞	thick; substantial; greatly	-
-702	702	薄	352	adjectives	appearance, situation	一、形状、情况	形容詞	thin, slight, weak; poor, stingy	-
-703	703	深	352	adjectives	appearance, situation	一、形状、情况	形容詞	deep; depth; far; very, extreme	-
-704	704	浅	353	adjectives	appearance, situation	一、形状、情况	形容詞	shallow, not deep; superficial	-
-705	705	空	353	adjectives	appearance, situation	一、形状、情况	形容詞	empty, hollow, bare, deserted	-
-706	706	滿	354	adjectives	appearance, situation	一、形状、情况	形容詞	fill; full, satisfied	-
-707	707	方	354	adjectives	appearance, situation	一、形状、情况	形容詞	a square, rectangle; a region; local	-
-708	708	圓	355	adjectives	appearance, situation	一、形状、情况	形容詞	circle; round, circular; complete	-
-709	709	平	355	adjectives	appearance, situation	一、形状、情况	形容詞	flat, level, even; peaceful	-
-710	710	正	356	adjectives	appearance, situation	一、形状、情况	形容詞	right, proper, correct	-
-711	711	反	356	adjectives	appearance, situation	一、形状、情况	形容詞	reverse, opposite, contrary, anti	-
-712	712	歪	357	adjectives	appearance, situation	一、形状、情况	形容詞	slant; inclined; askewd, awry	-
-713	713	横	357	adjectives	appearance, situation	一、形状、情况	形容詞	across	-
-714	714	竪	358	adjectives	appearance, situation	一、形状、情况	形容詞	perpendicular, vertical; erect	-
-715	715	直	358	adjectives	appearance, situation	一、形状、情况	形容詞	straight, erect, vertical	-
-716	716	斜	359	adjectives	appearance, situation	一、形状、情况	形容詞	slanting, sloping, inclined	-
-717	717	陡	359	adjectives	appearance, situation	一、形状、情况	形容詞	steep, sloping; abruptly, sudden	-
-718	718	弯	360	adjectives	appearance, situation	一、形状、情况	形容詞	bend, curve	-
-719	719	亮	360	adjectives	appearance, situation	一、形状、情况	形容詞	-	-
-720	720	暗	361	adjectives	appearance, situation	一、形状、情况	形容詞	dark; obscure; in secret, covert	-
-721	721	黑	361	adjectives	appearance, situation	一、形状、情况	形容詞	black; dark; evil, sinister	-
-722	722	輕	362	adjectives	appearance, situation	一、形状、情况	形容詞	light; easy, simple; gentle	-
-723	723	重	362	adjectives	appearance, situation	一、形状、情况	形容詞	-	-
-724	724	干	363	adjectives	appearance, situation	一、形状、情况	形容詞	oppose, offend; invade; dried	-
-725	725	湿	363	adjectives	appearance, situation	一、形状、情况	形容詞	?	-
-726	726	稠	364	adjectives	appearance, situation	一、形状、情况	形容詞	dense, crowded, packed; soupy	-
+687	687	上坟	344	verbs	other	十、其他	动詞	visit a grave	-
+688	688	遗失	345	verbs	other	十、其他	动詞	loose	-
+689	689	浪费	345	verbs	other	十、其他	动詞	waste	-
+690	690	大	346	adjectives	appearance, situation	一、形状、情况	形容詞	big	-
+691	691	小	346	adjectives	appearance, situation	一、形状、情况	形容詞	small	-
+692	692	髙	347	adjectives	appearance, situation	一、形状、情况	形容詞	high	高
+693	693	低	347	adjectives	appearance, situation	一、形状、情况	形容詞	low	-
+694	694	矮	348	adjectives	appearance, situation	一、形状、情况	形容詞	short	-
+695	695	长	348	adjectives	appearance, situation	一、形状、情况	形容詞	long	-
+696	696	短	349	adjectives	appearance, situation	一、形状、情况	形容詞	short	-
+697	697	粗	349	adjectives	appearance, situation	一、形状、情况	形容詞	rough	-
+698	698	細	350	adjectives	appearance, situation	一、形状、情况	形容詞	fine	-
+699	699	宽	350	adjectives	appearance, situation	一、形状、情况	形容詞	broad	-
+700	700	窄	351	adjectives	appearance, situation	一、形状、情况	形容詞	narrow	-
+701	701	厚	351	adjectives	appearance, situation	一、形状、情况	形容詞	thick	-
+702	702	薄	352	adjectives	appearance, situation	一、形状、情况	形容詞	thin	-
+703	703	深	352	adjectives	appearance, situation	一、形状、情况	形容詞	deep	-
+704	704	浅	353	adjectives	appearance, situation	一、形状、情况	形容詞	shallow	-
+705	705	空	353	adjectives	appearance, situation	一、形状、情况	形容詞	empty	-
+706	706	滿	354	adjectives	appearance, situation	一、形状、情况	形容詞	full	-
+707	707	方	354	adjectives	appearance, situation	一、形状、情况	形容詞	having the form of a square	-
+708	708	圓	355	adjectives	appearance, situation	一、形状、情况	形容詞	circular	-
+709	709	平	355	adjectives	appearance, situation	一、形状、情况	形容詞	flat	-
+710	710	正	356	adjectives	appearance, situation	一、形状、情况	形容詞	right	-
+711	711	反	356	adjectives	appearance, situation	一、形状、情况	形容詞	reverse // opposite	-
+712	712	歪	357	adjectives	appearance, situation	一、形状、情况	形容詞	slanted	-
+713	713	横	357	adjectives	appearance, situation	一、形状、情况	形容詞	horizontal	-
+714	714	竪	358	adjectives	appearance, situation	一、形状、情况	形容詞	vertical	-
+715	715	直	358	adjectives	appearance, situation	一、形状、情况	形容詞	straight // erect	-
+716	716	斜	359	adjectives	appearance, situation	一、形状、情况	形容詞	slanting // inclined	-
+717	717	陡	359	adjectives	appearance, situation	一、形状、情况	形容詞	steep	-
+718	718	弯	360	adjectives	appearance, situation	一、形状、情况	形容詞	bend	-
+719	719	亮	360	adjectives	appearance, situation	一、形状、情况	形容詞	bright	-
+720	720	暗	361	adjectives	appearance, situation	一、形状、情况	形容詞	dark	-
+721	721	黑	361	adjectives	appearance, situation	一、形状、情况	形容詞	black	-
+722	722	輕	362	adjectives	appearance, situation	一、形状、情况	形容詞	light (of weight)---; easy, simple; gentle	-
+723	723	重	362	adjectives	appearance, situation	一、形状、情况	形容詞	heavy	-
+724	724	干	363	adjectives	appearance, situation	一、形状、情况	形容詞	dry	-
+725	725	湿	363	adjectives	appearance, situation	一、形状、情况	形容詞	wet	-
+726	726	稠	364	adjectives	appearance, situation	一、形状、情况	形容詞	dense, crowded, packed; soupy	+++
 727	727	釅	364	adjectives	appearance, situation	一、形状、情况	形容詞	?	-
 728	728	稀	365	adjectives	appearance, situation	一、形状、情况	形容詞	rare, unusual, scarce; sparse	-
 729	729	硬	365	adjectives	appearance, situation	一、形状、情况	形容詞	hard, firm, strong; obstinate	-
