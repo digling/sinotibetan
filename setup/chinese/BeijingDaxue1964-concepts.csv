@@ -720,122 +720,122 @@ ID	NUMBER	CHINESE_GLOSS	PAGENO	POS	SEMANTIC_FIELD	SF_IN_SOURCE	POS_IN_SOURCE	ENG
 719	719	亮	360	adjectives	appearance, situation	一、形状、情况	形容詞	bright	-
 720	720	暗	361	adjectives	appearance, situation	一、形状、情况	形容詞	dark	-
 721	721	黑	361	adjectives	appearance, situation	一、形状、情况	形容詞	black	-
-722	722	輕	362	adjectives	appearance, situation	一、形状、情况	形容詞	light (of weight)---; easy, simple; gentle	-
+722	722	輕	362	adjectives	appearance, situation	一、形状、情况	形容詞	light (of weight)	-
 723	723	重	362	adjectives	appearance, situation	一、形状、情况	形容詞	heavy	-
 724	724	干	363	adjectives	appearance, situation	一、形状、情况	形容詞	dry	-
 725	725	湿	363	adjectives	appearance, situation	一、形状、情况	形容詞	wet	-
 726	726	稠	364	adjectives	appearance, situation	一、形状、情况	形容詞	dense, crowded, packed; soupy	+++
-727	727	釅	364	adjectives	appearance, situation	一、形状、情况	形容詞	?	-
-728	728	稀	365	adjectives	appearance, situation	一、形状、情况	形容詞	rare, unusual, scarce; sparse	-
-729	729	硬	365	adjectives	appearance, situation	一、形状、情况	形容詞	hard, firm, strong; obstinate	-
-730	730	軟	366	adjectives	appearance, situation	一、形状、情况	形容詞	soft, flexible, pliable; weak	-
-731	731	老(不嫩）	366	adjectives	appearance, situation	一、形状、情况	形容詞	-	-
-732	732	嫩	367	adjectives	appearance, situation	一、形状、情况	形容詞	soft, tender, delicate; young	-
-733	733	脆	367	adjectives	appearance, situation	一、形状、情况	形容詞	crisp; fragile, frail; brittle	-
-734	734	結实	368	adjectives	appearance, situation	一、形状、情况	形容詞	bear fruit // stout	-
-735	735	生（不熟）	368	adjectives	appearance, situation	一、形状、情况	形容詞	-	-
-736	736	整齐	369	adjectives	appearance, situation	一、形状、情况	形容詞	tidy;neat // put in order // even;regular // integral // reorganize	-
-737	737	乱	369	adjectives	appearance, situation	一、形状、情况	形容詞	confusion, state of chaos, revolt	-
-738	738	破	370	adjectives	appearance, situation	一、形状、情况	形容詞	break, ruin, destroy; rout	-
-739	739	干淨	370	adjectives	appearance, situation	一、形状、情况	形容詞	-	-
-740	740	骯髒	371	adjectives	appearance, situation	一、形状、情况	形容詞	-	-
-741	741	热鬧	371	adjectives	appearance, situation	一、形状、情况	形容詞	bustling with activity // fun // lively // have a jolly time	-
-742	742	淸楚	372	adjectives	appearance, situation	一、形状、情况	形容詞	-	-
-743	743	模糊	372	adjectives	appearance, situation	一、形状、情况	形容詞	-	-
-744	744	渾	373	adjectives	appearance, situation	一、形状、情况	形容詞	muddy, turbid; blend, merge, mix	-
-745	745	快(鋒利）	373	adjectives	appearance, situation	一、形状、情况	形容詞	-	-
-746	746	快(迅速）	374	adjectives	appearance, situation	一、形状、情况	形容詞	-	-
-747	747	早	374	adjectives	appearance, situation	一、形状、情况	形容詞	early; soon; morning	-
-748	748	晚	375	adjectives	appearance, situation	一、形状、情况	形容詞	night, evening; late	-
-749	749	好	375	adjectives	character	二、性质	形容詞	good, excellent, fine; well	-
-750	750	坏	376	adjectives	character	二、性质	形容詞	rotten, spoilt, bad, broken down	-
-751	751	差	376	adjectives	character	二、性质	形容詞	to differ; different, wrong; nearly, almost; an officer	-
-752	752	难	377	adjectives	character	二、性质	形容詞	difficult, arduous, hard; unable	-
-753	753	容易	377	adjectives	character	二、性质	形容詞	easily // lightly // sweetly	-
-754	754	貴	378	adjectives	character	二、性质	形容詞	expensive, costly, valuable	-
-755	755	便宜	378	adjectives	character	二、性质	形容詞	convenient // small advantages // let sb. off lightly // cheap	-
-756	756	热	379	adjectives	physiological perception	三、生理感觉	形容詞	hot; heat; fever; restless; zeal	-
-757	757	冷	379	adjectives	physiological perception	三、生理感觉	形容詞	cold, cool; lonely	-
-758	758	烫	380	adjectives	physiological perception	三、生理感觉	形容詞	scald, heat; wash; iron clothes	-
-759	759	暧和	380	adjectives	physiological perception	三、生理感觉	形容詞	-	-
+727	727	釅	364	adjectives	appearance, situation	一、形状、情况	形容詞	?	酽
+728	728	稀	365	adjectives	appearance, situation	一、形状、情况	形容詞	rare // scarce	-
+729	729	硬	365	adjectives	appearance, situation	一、形状、情况	形容詞	hard // firm	-
+730	730	軟	366	adjectives	appearance, situation	一、形状、情况	形容詞	soft // flexible	-
+731	731	老(不嫩）	366	adjectives	appearance, situation	一、形状、情况	形容詞	old	-
+732	732	嫩	367	adjectives	appearance, situation	一、形状、情况	形容詞	young	-
+733	733	脆	367	adjectives	appearance, situation	一、形状、情况	形容詞	fragile	-
+734	734	結实	368	adjectives	appearance, situation	一、形状、情况	形容詞	robust	-
+735	735	生（不熟）	368	adjectives	appearance, situation	一、形状、情况	形容詞	unripe	-
+736	736	整齐	369	adjectives	appearance, situation	一、形状、情况	形容詞	tidy // neat	-
+737	737	乱	369	adjectives	appearance, situation	一、形状、情况	形容詞	untidy // chaotic	-
+738	738	破	370	adjectives	appearance, situation	一、形状、情况	形容詞	broken	-
+739	739	干淨	370	adjectives	appearance, situation	一、形状、情况	形容詞	clean	-
+740	740	骯髒	371	adjectives	appearance, situation	一、形状、情况	形容詞	dirty	-
+741	741	热鬧	371	adjectives	appearance, situation	一、形状、情况	形容詞	crowdy	-
+742	742	淸楚	372	adjectives	appearance, situation	一、形状、情况	形容詞	transparent // clear	-
+743	743	模糊	372	adjectives	appearance, situation	一、形状、情况	形容詞	blurred // intransparent	-
+744	744	渾	373	adjectives	appearance, situation	一、形状、情况	形容詞	muddy	-
+745	745	快(鋒利）	373	adjectives	appearance, situation	一、形状、情况	形容詞	sharp (knife)	-
+746	746	快(迅速）	374	adjectives	appearance, situation	一、形状、情况	形容詞	quick // fast	-
+747	747	早	374	adjectives	appearance, situation	一、形状、情况	形容詞	early	-
+748	748	晚	375	adjectives	appearance, situation	一、形状、情况	形容詞	late	-
+749	749	好	375	adjectives	character	二、性质	形容詞	good	-
+750	750	坏	376	adjectives	character	二、性质	形容詞	bad	-
+751	751	差	376	adjectives	character	二、性质	形容詞	different // wrong	-
+752	752	难	377	adjectives	character	二、性质	形容詞	difficult	-
+753	753	容易	377	adjectives	character	二、性质	形容詞	easy	-
+754	754	貴	378	adjectives	character	二、性质	形容詞	expensive	-
+755	755	便宜	378	adjectives	character	二、性质	形容詞	cheap	-
+756	756	热	379	adjectives	physiological perception	三、生理感觉	形容詞	hot	-
+757	757	冷	379	adjectives	physiological perception	三、生理感觉	形容詞	cold	-
+758	758	烫	380	adjectives	physiological perception	三、生理感觉	形容詞	hot // sharp (food)	-
+759	759	暧和	380	adjectives	physiological perception	三、生理感觉	形容詞	warm	-
 760	760	溫	381	adjectives	physiological perception	三、生理感觉	形容詞	lukewarm	-
-761	761	凉	381	adjectives	physiological perception	三、生理感觉	形容詞	cool, cold; disheartened	-
-762	762	香	382	adjectives	physiological perception	三、生理感觉	形容詞	fragrant, sweet smelling, incense	-
-763	763	臭	382	adjectives	physiological perception	三、生理感觉	形容詞	smell, stink, emit foul odor	-
-764	764	餿	383	adjectives	physiological perception	三、生理感觉	形容詞	spoiled, rotten, stale, rancid	-
-765	765	咸	383	adjectives	physiological perception	三、生理感觉	形容詞	together; all, completely; united	-
-766	766	淡	384	adjectives	physiological perception	三、生理感觉	形容詞	calm, quiet, tranquil	-
-767	767	餓	384	adjectives	physiological perception	三、生理感觉	形容詞	hungry; greedy for; hunger	-
-768	768	渴	385	adjectives	physiological perception	三、生理感觉	形容詞	thirsty, parched; yearn, pine	-
-769	769	累	385	adjectives	physiological perception	三、生理感觉	形容詞	tired; implicate, involve; bother	-
-770	770	痒	386	adjectives	physiological perception	三、生理感觉	形容詞	itch	-
-771	771	舒服	386	adjectives	physiological perception	三、生理感觉	形容詞	be well // please;comfortable;gratifying // satisfy	-
-772	772	忙	387	adjectives	physiological perception	三、生理感觉	形容詞	busy, pressed for time; hustling	-
-773	773	闲	387	adjectives	physiological perception	三、生理感觉	形容詞	fence, guard; defend; idle time	-
-774	774	胖	388	adjectives	describing body appearance	四、形貌体态	形容詞	fat, obese; fatty	-
-775	775	肥	388	adjectives	describing body appearance	四、形貌体态	形容詞	fat, plump, obese; fertile	-
-776	776	瘦	389	adjectives	describing body appearance	四、形貌体态	形容詞	thin, emaciated, lean; meager	-
-777	777	老（不年輕）	389	adjectives	describing body appearance	四、形貌体态	形容詞	-	-
+761	761	凉	381	adjectives	physiological perception	三、生理感觉	形容詞	cold // cool	-
+762	762	香	382	adjectives	physiological perception	三、生理感觉	形容詞	fragrant	-
+763	763	臭	382	adjectives	physiological perception	三、生理感觉	形容詞	stinking	-
+764	764	餿	383	adjectives	physiological perception	三、生理感觉	形容詞	rotten // sour 	?
+765	765	咸	383	adjectives	physiological perception	三、生理感觉	形容詞	salty	-
+766	766	淡	384	adjectives	physiological perception	三、生理感觉	形容詞	tasteless	-
+767	767	餓	384	adjectives	physiological perception	三、生理感觉	形容詞	hungry	-
+768	768	渴	385	adjectives	physiological perception	三、生理感觉	形容詞	thirsty	-
+769	769	累	385	adjectives	physiological perception	三、生理感觉	形容詞	tired	-
+770	770	痒	386	adjectives	physiological perception	三、生理感觉	形容詞	itchy	-
+771	771	舒服	386	adjectives	physiological perception	三、生理感觉	形容詞	comfortable	-
+772	772	忙	387	adjectives	physiological perception	三、生理感觉	形容詞	busy	-
+773	773	闲	387	adjectives	physiological perception	三、生理感觉	形容詞	idle	-
+774	774	胖	388	adjectives	describing body appearance	四、形貌体态	形容詞	fat // obese	-
+775	775	肥	388	adjectives	describing body appearance	四、形貌体态	形容詞	fat // plump	-
+776	776	瘦	389	adjectives	describing body appearance	四、形貌体态	形容詞	thin	-
+777	777	老（不年輕）	389	adjectives	describing body appearance	四、形貌体态	形容詞	old // aged	-
 778	778	年輕	390	adjectives	describing body appearance	四、形貌体态	形容詞	young	-
-779	779	好看、漂亮	390	adjectives	describing body appearance	四、形貌体态	形容詞	-	-
-780	780	难看、丑	391	adjectives	describing body appearance	四、形貌体态	形容詞	-	-
-781	781	强壮	391	adjectives	describing body appearance	四、形貌体态	形容詞	strong;sturdy // powerful // middle age	-
-782	782	傻	392	adjectives	behavior	五、品性、行为	形容詞	foolish, silly, stupid; an imbecile	-
-783	783	老实	392	adjectives	behavior	五、品性、行为	形容詞	honest // frank // well-behaved // simpleminded;naive;easily taken in	-
-784	784	狡猾	393	adjectives	behavior	五、品性、行为	形容詞	crafty	-
-785	785	直爽	393	adjectives	behavior	五、品性、行为	形容詞	forth right;frank	-
-786	786	大方	394	adjectives	behavior	五、品性、行为	形容詞	expert // generous // natural and posied // decent // general principle;great truth	-
-787	787	小气	394	adjectives	behavior	五、品性、行为	形容詞	stingy;mean;nigardly;tight-fisted;narrow-minded pelly	-
-788	788	骄傲	395	adjectives	behavior	五、品性、行为	形容詞	-	-
-789	789	謙虚	395	adjectives	behavior	五、品性、行为	形容詞	modest // make modest remarks	-
-790	790	乖	396	adjectives	behavior	五、品性、行为	形容詞	rebel; crafty, shrewd	-
-791	791	顽皮	396	adjectives	behavior	五、品性、行为	形容詞	mischievous;naughty // cunning and stubborn // hard shell	-
-792	792	勤快	397	adjectives	behavior	五、品性、行为	形容詞	diligent;hardworking	-
-793	793	懒	397	adjectives	behavior	五、品性、行为	形容詞	lazy, languid, listless	-
-794	794	能干	398	adjectives	behavior	五、品性、行为	形容詞	able;capable;know one's job well	-
-795	795	內行	398	adjectives	behavior	五、品性、行为	形容詞	adept;expert	-
-796	796	外行	399	adjectives	behavior	五、品性、行为	形容詞	philistine;ignoramus // layman;greenhorn // one who is out of one's line // lay;unprofessional	-
-797	797	髙兴	399	adjectives	mood	六、心理感受	形容詞	-	-
-798	798	合意	400	adjectives	mood	六、心理感受	形容詞	suit;be to one's liking	-
-799	799	煩恼	400	adjectives	mood	六、心理感受	形容詞	be vexed;be worried;be annoyed;be irritated // bother;disturb	-
-800	800	可怜	401	adjectives	mood	六、心理感受	形容詞	pity;have pity on // it's a pity // pitiful;pitiable // meagre;miserable	-
-801	801	倒霉	401	adjectives	mood	六、心理感受	形容詞	have bad luck // woe	-
-802	802	奇怪	402	adjectives	mood	六、心理感受	形容詞	odd;queer;strange // unusual person or thing // wonder	-
-803	803	害怕	402	adjectives	mood	六、心理感受	形容詞	be afraid of ;be scared	-
-804	804	害羞	403	adjectives	mood	六、心理感受	形容詞	be bashful;be shy	-
-805	805	我	403	pronounss	personal	一、人称代詞	代 詞	our, us, i, me, my, we	-
-806	806	你	404	pronounss	personal	一、人称代詞	代 詞	you, second person pronoun	-
-807	807	他	404	pronounss	personal	一、人称代詞	代 詞	other, another; he, she, it	-
-808	808	我們	405	pronounss	personal	一、人称代詞	代 詞	we;us	-
-809	809	咱們	405	pronounss	personal	一、人称代詞	代 詞	-	-
-810	810	你們	406	pronounss	personal	一、人称代詞	代 詞	you	-
-811	811	他們	406	pronounss	personal	一、人称代詞	代 詞	they	-
-812	812	大家	407	pronounss	personal	一、人称代詞	代 詞	woman;husband's mother // everybody // all // we // you // they // other people // family of high ranking official // great master // master // Your Majesty // polymath	-
-813	813	自己	407	pronounss	personal	一、人称代詞	代 詞	oneself;self // own;one's own	-
-814	814	人家	408	pronounss	personal	一、人称代詞	代 詞	household // man's world // other;other people // him(her,them) // I;me	-
-815	815	我的	408	pronounss	possessive	二、物主代詞	代 詞	-	-
-816	816	你的	409	pronounss	possessive	二、物主代詞	代 詞	-	-
-817	817	他的	409	pronounss	possessive	二、物主代詞	代 詞	-	-
-818	818	別的	410	pronounss	possessive	二、物主代詞	代 詞	-	-
-819	819	这个	410	pronounss	demonstrative	三、指示代詞	代 詞	this // such	-
-820	820	那个	411	pronounss	demonstrative	三、指示代詞	代 詞	that // that	-
+779	779	好看、漂亮	390	adjectives	describing body appearance	四、形貌体态	形容詞	goodlooking // beautiful	-
+780	780	难看、丑	391	adjectives	describing body appearance	四、形貌体态	形容詞	ugly	-
+781	781	强壮	391	adjectives	describing body appearance	四、形貌体态	形容詞	strong	-
+782	782	傻	392	adjectives	behavior	五、品性、行为	形容詞	stupid	-
+783	783	老实	392	adjectives	behavior	五、品性、行为	形容詞	honest	-
+784	784	狡猾	393	adjectives	behavior	五、品性、行为	形容詞	cunning	-
+785	785	直爽	393	adjectives	behavior	五、品性、行为	形容詞	honest // frank	-
+786	786	大方	394	adjectives	behavior	五、品性、行为	形容詞	generous	-
+787	787	小气	394	adjectives	behavior	五、品性、行为	形容詞	cheap // stingy	-
+788	788	骄傲	395	adjectives	behavior	五、品性、行为	形容詞	proud	骄傲
+789	789	謙虚	395	adjectives	behavior	五、品性、行为	形容詞	modest	-
+790	790	乖	396	adjectives	behavior	五、品性、行为	形容詞	well-behaved	-
+791	791	顽皮	396	adjectives	behavior	五、品性、行为	形容詞	naughty	-
+792	792	勤快	397	adjectives	behavior	五、品性、行为	形容詞	diligent	-
+793	793	懒	397	adjectives	behavior	五、品性、行为	形容詞	lazy	-
+794	794	能干	398	adjectives	behavior	五、品性、行为	形容詞	capable	-
+795	795	內行	398	adjectives	behavior	五、品性、行为	形容詞	competent	-
+796	796	外行	399	adjectives	behavior	五、品性、行为	形容詞	incompetent	-
+797	797	髙兴	399	adjectives	mood	六、心理感受	形容詞	happy	-
+798	798	合意	400	adjectives	mood	六、心理感受	形容詞	suitable // pleasing	-
+799	799	煩恼	400	adjectives	mood	六、心理感受	形容詞	annoying	-
+800	800	可怜	401	adjectives	mood	六、心理感受	形容詞	pityful	-
+801	801	倒霉	401	adjectives	mood	六、心理感受	形容詞	having bad luck	-
+802	802	奇怪	402	adjectives	mood	六、心理感受	形容詞	strange	-
+803	803	害怕	402	adjectives	mood	六、心理感受	形容詞	scary	-
+804	804	害羞	403	adjectives	mood	六、心理感受	形容詞	shy	-
+805	805	我	403	pronounss	personal	一、人称代詞	代 詞	I (first person singular)	-
+806	806	你	404	pronounss	personal	一、人称代詞	代 詞	thou (first person singular) // you (second person singular)	-
+807	807	他	404	pronounss	personal	一、人称代詞	代 詞	he // she // it // third person singular	-
+808	808	我們	405	pronounss	personal	一、人称代詞	代 詞	we (first person pronoun)	-
+809	809	咱們	405	pronounss	personal	一、人称代詞	代 詞	we (inclusive)	-
+810	810	你們	406	pronounss	personal	一、人称代詞	代 詞	you (second person plural pronoun)	-
+811	811	他們	406	pronounss	personal	一、人称代詞	代 詞	they (third person plural)	-
+812	812	大家	407	pronounss	personal	一、人称代詞	代 詞	all // everybody	-
+813	813	自己	407	pronounss	personal	一、人称代詞	代 詞	self // oneself	-
+814	814	人家	408	pronounss	personal	一、人称代詞	代 詞	they // the others	-
+815	815	我的	408	pronounss	possessive	二、物主代詞	代 詞	my (first person singular)	-
+816	816	你的	409	pronounss	possessive	二、物主代詞	代 詞	your (second person singular)	-
+817	817	他的	409	pronounss	possessive	二、物主代詞	代 詞	his // her // its (third person singular)	-
+818	818	別的	410	pronounss	possessive	二、物主代詞	代 詞	others // of the others	-
+819	819	这个	410	pronounss	demonstrative	三、指示代詞	代 詞	this	-
+820	820	那个	411	pronounss	demonstrative	三、指示代詞	代 詞	that	-
 821	821	这些	411	pronounss	demonstrative	三、指示代詞	代 詞	these	-
-822	822	那些	412	pronounss	demonstrative	三、指示代詞	代 詞	those // so much // so many	-
+822	822	那些	412	pronounss	demonstrative	三、指示代詞	代 詞	those	-
 823	823	这儿	412	pronounss	demonstrative	三、指示代詞	代 詞	here	-
-824	824	那儿	413	pronounss	demonstrative	三、指示代詞	代 詞	-	-
+824	824	那儿	413	pronounss	demonstrative	三、指示代詞	代 詞	there	-
 825	825	这边	413	pronounss	demonstrative	三、指示代詞	代 詞	this side // here	-
-826	826	那边	414	pronounss	demonstrative	三、指示代詞	代 詞	there;over there	-
-827	827	这么	414	pronounss	demonstrative	三、指示代詞	代 詞	so // like that // this way	-
-828	828	那么	415	pronounss	demonstrative	三、指示代詞	代 詞	that // then	-
-829	829	誰	415	pronounss	interrogative	四、疑問代詞	代 詞	who? whom? whose? anyone?	-
-830	830	什么	416	pronounss	interrogative	四、疑問代詞	代 詞	what // whatever // nothing // anything	-
-831	831	哪个	416	pronounss	interrogative	四、疑問代詞	代 詞	what;which // who	-
-832	832	哪儿	417	pronounss	interrogative	四、疑問代詞	代 詞	-	-
-833	833	哪边	417	pronounss	interrogative	四、疑問代詞	代 詞	-	-
-834	834	怎么	418	pronounss	interrogative	四、疑問代詞	代 詞	how // what // however // somewhat // how could	-
-835	835	多么	418	pronounss	interrogative	四、疑問代詞	代 詞	how	-
-836	836	多少	419	pronounss	interrogative	四、疑問代詞	代 詞	how much // so much // somewhat // how many	-
-837	837	多久	419	pronounss	interrogative	四、疑問代詞	代 詞	how long time	-
+826	826	那边	414	pronounss	demonstrative	三、指示代詞	代 詞	that side // there	-
+827	827	这么	414	pronounss	demonstrative	三、指示代詞	代 詞	this way	-
+828	828	那么	415	pronounss	demonstrative	三、指示代詞	代 詞	that way	-
+829	829	誰	415	pronounss	interrogative	四、疑問代詞	代 詞	who (interrogative pronoun)	-
+830	830	什么	416	pronounss	interrogative	四、疑問代詞	代 詞	what (interrogative pronoun)	-
+831	831	哪个	416	pronounss	interrogative	四、疑問代詞	代 詞	which (interrogative pronoun)	-
+832	832	哪儿	417	pronounss	interrogative	四、疑問代詞	代 詞	where (interrogative pronoun)	-
+833	833	哪边	417	pronounss	interrogative	四、疑問代詞	代 詞	which place // where	-
+834	834	怎么	418	pronounss	interrogative	四、疑問代詞	代 詞	how	-
+835	835	多么	418	pronounss	interrogative	四、疑問代詞	代 詞	how much // to which degree	-
+836	836	多少	419	pronounss	interrogative	四、疑問代詞	代 詞	how much	-
+837	837	多久	419	pronounss	interrogative	四、疑問代詞	代 詞	how long	-
 838	838	一个人	420	classifiers	nominal	一、物量詞	量 詞	-	-
 839	839	一头牛	420	classifiers	nominal	一、物量詞	量 詞	-	-
 840	840	一只鸡	421	classifiers	nominal	一、物量詞	量 詞	-	-
