@@ -803,103 +803,103 @@ ID	NUMBER	CHINESE_GLOSS	PAGENO	POS	SEMANTIC_FIELD	SF_IN_SOURCE	POS_IN_SOURCE	ENG
 802	802	奇怪	402	adjectives	mood	六、心理感受	形容詞	strange	-
 803	803	害怕	402	adjectives	mood	六、心理感受	形容詞	scary	-
 804	804	害羞	403	adjectives	mood	六、心理感受	形容詞	shy	-
-805	805	我	403	pronounss	personal	一、人称代詞	代 詞	I (first person singular)	-
-806	806	你	404	pronounss	personal	一、人称代詞	代 詞	thou (first person singular) // you (second person singular)	-
-807	807	他	404	pronounss	personal	一、人称代詞	代 詞	he // she // it // third person singular	-
-808	808	我們	405	pronounss	personal	一、人称代詞	代 詞	we (first person pronoun)	-
-809	809	咱們	405	pronounss	personal	一、人称代詞	代 詞	we (inclusive)	-
-810	810	你們	406	pronounss	personal	一、人称代詞	代 詞	you (second person plural pronoun)	-
-811	811	他們	406	pronounss	personal	一、人称代詞	代 詞	they (third person plural)	-
-812	812	大家	407	pronounss	personal	一、人称代詞	代 詞	all // everybody	-
-813	813	自己	407	pronounss	personal	一、人称代詞	代 詞	self // oneself	-
-814	814	人家	408	pronounss	personal	一、人称代詞	代 詞	they // the others	-
-815	815	我的	408	pronounss	possessive	二、物主代詞	代 詞	my (first person singular)	-
-816	816	你的	409	pronounss	possessive	二、物主代詞	代 詞	your (second person singular)	-
-817	817	他的	409	pronounss	possessive	二、物主代詞	代 詞	his // her // its (third person singular)	-
-818	818	別的	410	pronounss	possessive	二、物主代詞	代 詞	others // of the others	-
-819	819	这个	410	pronounss	demonstrative	三、指示代詞	代 詞	this	-
-820	820	那个	411	pronounss	demonstrative	三、指示代詞	代 詞	that	-
-821	821	这些	411	pronounss	demonstrative	三、指示代詞	代 詞	these	-
-822	822	那些	412	pronounss	demonstrative	三、指示代詞	代 詞	those	-
-823	823	这儿	412	pronounss	demonstrative	三、指示代詞	代 詞	here	-
-824	824	那儿	413	pronounss	demonstrative	三、指示代詞	代 詞	there	-
-825	825	这边	413	pronounss	demonstrative	三、指示代詞	代 詞	this side // here	-
-826	826	那边	414	pronounss	demonstrative	三、指示代詞	代 詞	that side // there	-
-827	827	这么	414	pronounss	demonstrative	三、指示代詞	代 詞	this way	-
-828	828	那么	415	pronounss	demonstrative	三、指示代詞	代 詞	that way	-
-829	829	誰	415	pronounss	interrogative	四、疑問代詞	代 詞	who (interrogative pronoun)	-
-830	830	什么	416	pronounss	interrogative	四、疑問代詞	代 詞	what (interrogative pronoun)	-
-831	831	哪个	416	pronounss	interrogative	四、疑問代詞	代 詞	which (interrogative pronoun)	-
-832	832	哪儿	417	pronounss	interrogative	四、疑問代詞	代 詞	where (interrogative pronoun)	-
-833	833	哪边	417	pronounss	interrogative	四、疑問代詞	代 詞	which place // where	-
-834	834	怎么	418	pronounss	interrogative	四、疑問代詞	代 詞	how	-
-835	835	多么	418	pronounss	interrogative	四、疑問代詞	代 詞	how much // to which degree	-
-836	836	多少	419	pronounss	interrogative	四、疑問代詞	代 詞	how much	-
-837	837	多久	419	pronounss	interrogative	四、疑問代詞	代 詞	how long	-
-838	838	一个人	420	classifiers	nominal	一、物量詞	量 詞	-	-
-839	839	一头牛	420	classifiers	nominal	一、物量詞	量 詞	-	-
-840	840	一只鸡	421	classifiers	nominal	一、物量詞	量 詞	-	-
-841	841	一条魚	421	classifiers	nominal	一、物量詞	量 詞	-	-
-842	842	一棵树	422	classifiers	nominal	一、物量詞	量 詞	-	-
-843	843	一瓶酒	425	classifiers	nominal	一、物量詞	量 詞	-	-
-844	844	一丛草	422	classifiers	nominal	一、物量詞	量 詞	-	-
-845	845	一朵花儿	423	classifiers	nominal	一、物量詞	量 詞	-	-
-846	846	一串葡萄	423	classifiers	nominal	一、物量詞	量 詞	-	-
-847	847	一頓飯	424	classifiers	nominal	一、物量詞	量 詞	-	-
-848	848	一支烟	424	classifiers	nominal	一、物量詞	量 詞	-	-
-849	849	一口水	425	classifiers	nominal	一、物量詞	量 詞	-	-
-850	850	一套衣服	426	classifiers	nominal	一、物量詞	量 詞	-	-
-851	851	一双鞋	426	classifiers	nominal	一、物量詞	量 詞	-	-
-852	852	一条被子	427	classifiers	nominal	一、物量詞	量 詞	-	-
-853	853	一顶帐子	427	classifiers	nominal	一、物量詞	量 詞	-	-
-854	854	一把刀	428	classifiers	nominal	一、物量詞	量 詞	-	-
-855	855	一根針	428	classifiers	nominal	一、物量詞	量 詞	-	-
-856	856	一座房子	429	classifiers	nominal	一、物量詞	量 詞	-	-
-857	857	一座桥	429	classifiers	nominal	一、物量詞	量 詞	-	-
-858	858	一扇門	430	classifiers	nominal	一、物量詞	量 詞	-	-
-859	859	一辆車	430	classifiers	nominal	一、物量詞	量 詞	-	-
-860	860	一只船	431	classifiers	nominal	一、物量詞	量 詞	-	-
-861	861	一件事情	431	classifiers	nominal	一、物量詞	量 詞	-	-
-862	862	一笔生意	432	classifiers	nominal	一、物量詞	量 詞	-	-
-863	863	逼(看一遍）	432	classifiers	verbal	二、动量詞	量 詞	-	-
-864	864	次（这一次）	433	classifiers	verbal	二、动量詞	量 詞	-	-
-865	865	趟(走一趟）	433	classifiers	verbal	二、动量詞	量 詞	-	-
-866	866	頓(打一頓）	434	classifiers	verbal	二、动量詞	量 詞	-	-
-867	867	下(打一下）	434	classifiers	verbal	二、动量詞	量 詞	-	-
-868	868	从前	435	classifiers	verbal	二、动量詞	副 詞	formerly;before // once	-
-869	869	刚才	435	classifiers	verbal	二、动量詞	副 詞	just a short while ago;a moment ago;just now	-
-870	870	现在	436	classifiers	verbal	二、动量詞	副 詞	exist;alive // now;at present;today	-
-871	871	一向	437	classifiers	verbal	二、动量詞	副 詞	lately on // all along;consistently // earlier on;lately	-
-872	872	預先	437	classifiers	verbal	二、动量詞	副 詞	in advance;beforehand // up front	-
-873	873	巳經	438	classifiers	verbal	二、动量詞	副 詞	-	-
-874	874	常常	438	classifiers	verbal	二、动量詞	副 詞	often;frequently;usually	-
-875	875	赶快	439	classifiers	verbal	二、动量詞	副 詞	lose no time;proceed apace;hasten // haste	-
-876	876	馬上	439	classifiers	verbal	二、动量詞	副 詞	immediately;right off // on horseback	-
-877	877	很	440	classifiers	verbal	二、动量詞	副 詞	very, quite, much	-
-878	878	更	440	classifiers	verbal	二、动量詞	副 詞	more, still further, much more	-
-879	879	最	441	classifiers	verbal	二、动量詞	副 詞	most, extremely, exceedingly	-
-880	880	太	441	classifiers	verbal	二、动量詞	副 詞	very, too, much; big; extreme	-
-881	881	稍微	442	classifiers	verbal	二、动量詞	副 詞	a little;a bit;a trifle	-
-882	882	恰巧	442	classifiers	verbal	二、动量詞	副 詞	happen to // by chance	-
-883	883	都	443	classifiers	verbal	二、动量詞	副 詞	metropolis, capital; all, the whole; elegant, refined	-
-884	884	統統	443	classifiers	verbal	二、动量詞	副 詞	wholly;completely;entirely	-
-885	885	一起	444	classifiers	verbal	二、动量詞	副 詞	together // in the same place // in company // altogether;in all // a band	-
-886	886	又	444	classifiers	verbal	二、动量詞	副 詞	and, also, again, in addition	-
-887	887	再	445	classifiers	verbal	二、动量詞	副 詞	again, twice, re-	-
-888	888	仍旧	445	classifiers	verbal	二、动量詞	副 詞	still;yet	-
-889	889	反正	446	classifiers	verbal	二、动量詞	副 詞	anyhow // return to the right way // come over from the enemy&rsquo;s side	-
-890	890	大約	446	classifiers	verbal	二、动量詞	副 詞	about // probably	-
-891	891	一定	447	classifiers	verbal	二、动量詞	副 詞	fixed;specified;regular // definite;constant // surely;certainly;necessarily // given;particular;certain	-
-892	892	不	447	classifiers	verbal	二、动量詞	副 詞	no, not; un-; negative prefix	-
-893	893	沒〔有〕(未）	448	classifiers	verbal	二、动量詞	副 詞	-	-
-894	894	別	448	classifiers	verbal	二、动量詞	副 詞	separate, other; do not	-
+805	805	我	403	pronounss	personal	一、人称代詞	代詞	I (first person singular)	-
+806	806	你	404	pronounss	personal	一、人称代詞	代詞	thou (first person singular) // you (second person singular)	-
+807	807	他	404	pronounss	personal	一、人称代詞	代詞	he // she // it // third person singular	-
+808	808	我們	405	pronounss	personal	一、人称代詞	代詞	we (first person pronoun)	-
+809	809	咱們	405	pronounss	personal	一、人称代詞	代詞	we (inclusive)	-
+810	810	你們	406	pronounss	personal	一、人称代詞	代詞	you (second person plural pronoun)	-
+811	811	他們	406	pronounss	personal	一、人称代詞	代詞	they (third person plural)	-
+812	812	大家	407	pronounss	personal	一、人称代詞	代詞	all // everybody	-
+813	813	自己	407	pronounss	personal	一、人称代詞	代詞	self // oneself	-
+814	814	人家	408	pronounss	personal	一、人称代詞	代詞	they // the others	-
+815	815	我的	408	pronounss	possessive	二、物主代詞	代詞	my (first person singular)	-
+816	816	你的	409	pronounss	possessive	二、物主代詞	代詞	your (second person singular)	-
+817	817	他的	409	pronounss	possessive	二、物主代詞	代詞	his // her // its (third person singular)	-
+818	818	別的	410	pronounss	possessive	二、物主代詞	代詞	others // of the others	-
+819	819	这个	410	pronounss	demonstrative	三、指示代詞	代詞	this	-
+820	820	那个	411	pronounss	demonstrative	三、指示代詞	代詞	that	-
+821	821	这些	411	pronounss	demonstrative	三、指示代詞	代詞	these	-
+822	822	那些	412	pronounss	demonstrative	三、指示代詞	代詞	those	-
+823	823	这儿	412	pronounss	demonstrative	三、指示代詞	代詞	here	-
+824	824	那儿	413	pronounss	demonstrative	三、指示代詞	代詞	there	-
+825	825	这边	413	pronounss	demonstrative	三、指示代詞	代詞	this side // here	-
+826	826	那边	414	pronounss	demonstrative	三、指示代詞	代詞	that side // there	-
+827	827	这么	414	pronounss	demonstrative	三、指示代詞	代詞	this way	-
+828	828	那么	415	pronounss	demonstrative	三、指示代詞	代詞	that way	-
+829	829	誰	415	pronounss	interrogative	四、疑問代詞	代詞	who (interrogative pronoun)	-
+830	830	什么	416	pronounss	interrogative	四、疑問代詞	代詞	what (interrogative pronoun)	-
+831	831	哪个	416	pronounss	interrogative	四、疑問代詞	代詞	which (interrogative pronoun)	-
+832	832	哪儿	417	pronounss	interrogative	四、疑問代詞	代詞	where (interrogative pronoun)	-
+833	833	哪边	417	pronounss	interrogative	四、疑問代詞	代詞	which place // where	-
+834	834	怎么	418	pronounss	interrogative	四、疑問代詞	代詞	how	-
+835	835	多么	418	pronounss	interrogative	四、疑問代詞	代詞	how much // to which degree	-
+836	836	多少	419	pronounss	interrogative	四、疑問代詞	代詞	how much	-
+837	837	多久	419	pronounss	interrogative	四、疑問代詞	代詞	how long	-
+838	838	一个人	420	classifiers	nominal	一、物量詞	量詞	piece (cls for persons)	-
+839	839	一头牛	420	classifiers	nominal	一、物量詞	量詞	head (cls for cows)	-
+840	840	一只鸡	421	classifiers	nominal	一、物量詞	量詞	piece (cls for chickens)	-
+841	841	一条魚	421	classifiers	nominal	一、物量詞	量詞	piece (cls for fishes)	-
+842	842	一棵树	422	classifiers	nominal	一、物量詞	量詞	piece (cls for trees)	-
+843	843	一瓶酒	425	classifiers	nominal	一、物量詞	量詞	bottle (cls for alcohol) 	-
+844	844	一丛草	422	classifiers	nominal	一、物量詞	量詞	bush (cls for grass)	-
+845	845	一朵花儿	423	classifiers	nominal	一、物量詞	量詞	bud (cls for flower)	-
+846	846	一串葡萄	423	classifiers	nominal	一、物量詞	量詞	chain (cls for grapes)	-
+847	847	一頓飯	424	classifiers	nominal	一、物量詞	量詞	portion (cls for food)	-
+848	848	一支烟	424	classifiers	nominal	一、物量詞	量詞	piece (cls for cigarettes)	-
+849	849	一口水	425	classifiers	nominal	一、物量詞	量詞	mouth (cls for water)	-
+850	850	一套衣服	426	classifiers	nominal	一、物量詞	量詞	piece (cls for clothes)	-
+851	851	一双鞋	426	classifiers	nominal	一、物量詞	量詞	pair (cls for shoes)	-
+852	852	一条被子	427	classifiers	nominal	一、物量詞	量詞	piece (cls for blankets) 	-
+853	853	一顶帐子	427	classifiers	nominal	一、物量詞	量詞	piece (cls for heats)	-
+854	854	一把刀	428	classifiers	nominal	一、物量詞	量詞	handle (cls for knives)	-
+855	855	一根針	428	classifiers	nominal	一、物量詞	量詞	piece (cls for needles)	-
+856	856	一座房子	429	classifiers	nominal	一、物量詞	量詞	piece (cls for houses)	-
+857	857	一座桥	429	classifiers	nominal	一、物量詞	量詞	piece (cls for bridges)	-
+858	858	一扇門	430	classifiers	nominal	一、物量詞	量詞	fan (cls for doors)	-
+859	859	一辆車	430	classifiers	nominal	一、物量詞	量詞	piece (cls for cars)	-
+860	860	一只船	431	classifiers	nominal	一、物量詞	量詞	piece (cls for ship)	-
+861	861	一件事情	431	classifiers	nominal	一、物量詞	量詞	piece (cls for thing)	-
+862	862	一笔生意	432	classifiers	nominal	一、物量詞	量詞	pencil (cls for business deals)	-
+863	863	逼(看一遍）	432	classifiers	verbal	二、动量詞	量詞	time (look one time)	-
+864	864	次（这一次）	433	classifiers	verbal	二、动量詞	量詞	time (this time)	-
+865	865	趟(走一趟）	433	classifiers	verbal	二、动量詞	量詞	walk (walk a walk)	-
+866	866	頓(打一頓）	434	classifiers	verbal	二、动量詞	量詞	time (beat one time)	-
+867	867	下(打一下）	434	classifiers	verbal	二、动量詞	量詞	a little bit (beat a little)	-
+868	868	从前	435	classifiers	verbal	二、动量詞	副詞	formerly	-
+869	869	刚才	435	classifiers	verbal	二、动量詞	副詞	just a short while ago	-
+870	870	现在	436	classifiers	verbal	二、动量詞	副詞	now	-
+871	871	一向	437	classifiers	verbal	二、动量詞	副詞	all along	-
+872	872	預先	437	classifiers	verbal	二、动量詞	副詞	in advance	-
+873	873	巳經	438	classifiers	verbal	二、动量詞	副詞	already	-
+874	874	常常	438	classifiers	verbal	二、动量詞	副詞	often	-
+875	875	赶快	439	classifiers	verbal	二、动量詞	副詞	fast // quick	-
+876	876	馬上	439	classifiers	verbal	二、动量詞	副詞	immediately	-
+877	877	很	440	classifiers	verbal	二、动量詞	副詞	very	-
+878	878	更	440	classifiers	verbal	二、动量詞	副詞	more	-
+879	879	最	441	classifiers	verbal	二、动量詞	副詞	most	-
+880	880	太	441	classifiers	verbal	二、动量詞	副詞	too	-
+881	881	稍微	442	classifiers	verbal	二、动量詞	副詞	a little	-
+882	882	恰巧	442	classifiers	verbal	二、动量詞	副詞	by chance	-
+883	883	都	443	classifiers	verbal	二、动量詞	副詞	all	-
+884	884	統統	443	classifiers	verbal	二、动量詞	副詞	completely	-
+885	885	一起	444	classifiers	verbal	二、动量詞	副詞	together	-
+886	886	又	444	classifiers	verbal	二、动量詞	副詞	again	-
+887	887	再	445	classifiers	verbal	二、动量詞	副詞	again	-
+888	888	仍旧	445	classifiers	verbal	二、动量詞	副詞	still	-
+889	889	反正	446	classifiers	verbal	二、动量詞	副詞	anyhow	-
+890	890	大約	446	classifiers	verbal	二、动量詞	副詞	probably	-
+891	891	一定	447	classifiers	verbal	二、动量詞	副詞	certainly	-
+892	892	不	447	classifiers	verbal	二、动量詞	副詞	not	-
+893	893	沒〔有〕(未）	448	classifiers	verbal	二、动量詞	副 詞	not	-
+894	894	別	448	classifiers	verbal	二、动量詞	副 詞	other	-
 895	895	不用	449	classifiers	verbal	二、动量詞	副 詞	need not	-
-896	896	把	449	classifiers	verbal	二、动量詞	介詞、連詞	hold, take; guard; regard as	-
-897	897	被	450	classifiers	verbal	二、动量詞	介詞、連詞	passive indicator 'by'; bedding	-
-898	898	替	450	classifiers	verbal	二、动量詞	介詞、連詞	change, replace, substitute for	-
-899	899	在	451	classifiers	verbal	二、动量詞	介詞、連詞	be at, in, on; consist in, rest	-
-900	900	从	451	classifiers	verbal	二、动量詞	介詞、連詞	from, by, since, whence, through	-
-901	901	到	452	classifiers	verbal	二、动量詞	介詞、連詞	go to, arrive, been to	-
-902	902	向	452	classifiers	verbal	二、动量詞	介詞、連詞	toward, direction, trend	-
-903	903	和	453	classifiers	verbal	二、动量詞	介詞、連詞	harmony, peace; peaceful, calm	-
-904	904	如果	453	classifiers	verbal	二、动量詞	介詞、連詞	if	-
+896	896	把	449	classifiers	verbal	二、动量詞	介詞、連詞	regarg as // with	-
+897	897	被	450	classifiers	verbal	二、动量詞	介詞、連詞	by	-
+898	898	替	450	classifiers	verbal	二、动量詞	介詞、連詞	instead of	-
+899	899	在	451	classifiers	verbal	二、动量詞	介詞、連詞	in	-
+900	900	从	451	classifiers	verbal	二、动量詞	介詞、連詞	from	-
+901	901	到	452	classifiers	verbal	二、动量詞	介詞、連詞	until	-
+902	902	向	452	classifiers	verbal	二、动量詞	介詞、連詞	towards	-
+903	903	和	453	classifiers	verbal	二、动量詞	介詞、連詞	and	-
+904	904	如果	453	classifiers	verbal	二、动量詞	介詞、連詞	iv	-
