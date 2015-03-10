@@ -129,14 +129,14 @@ ID	NUMBER	CHINESE_GLOSS	PAGENO	POS	SEMANTIC_FIELD	SF_IN_SOURCE	POS_IN_SOURCE	ENG
 128	128	尾巴	64	nouns	animals	四、动物	名 詞	tail	-
 129	129	鳞	65	nouns	animals	四、动物	名 詞	fish scales	-
 130	130	梅花	65	nouns	plants	五、植物	名 詞	plum blossom	-
-131	131	杏花	66	nouns	plants	五、植物	名 詞	-	?
-132	132	桃花	66	nouns	plants	五、植物	名 詞	-	?
+131	131	杏花	66	nouns	plants	五、植物	名 詞	apricot blossom	-
+132	132	桃花	66	nouns	plants	五、植物	名 詞	peach blossom	-
 133	133	荷花	67	nouns	plants	五、植物	名 詞	lotus	-
-134	134	桂花	67	nouns	plants	五、植物	名 詞	-	?
+134	134	桂花	67	nouns	plants	五、植物	名 詞	cassia	-
 135	135	艾	68	nouns	plants	五、植物	名 詞	artemisia // mugwort	-
 136	136	棉花	68	nouns	plants	五、植物	名 詞	cotton // raw cotton	-
-137	137	稻子	69	nouns	plants	五、植物	名 詞	rice (daozi)	稻子
-138	138	大米	70	nouns	plants	五、植物	名 詞	rice (dami)	-
+137	137	稻子	69	nouns	plants	五、植物	名 詞	rice plant	稻子
+138	138	大米	70	nouns	plants	五、植物	名 詞	rice	-
 139	139	糯米	70	nouns	plants	五、植物	名 詞	polished glutinous rice	-
 140	140	麦子	71	nouns	plants	五、植物	名 詞	wheat	-
 141	141	面粉	71	nouns	plants	五、植物	名 詞	flour	-
@@ -189,8 +189,8 @@ ID	NUMBER	CHINESE_GLOSS	PAGENO	POS	SEMANTIC_FIELD	SF_IN_SOURCE	POS_IN_SOURCE	ENG
 188	188	米湯	95	nouns	food	六、飮食	名 詞	thin rice or millet gruel	-
 189	189	饅头	95	nouns	food	六、飮食	名 詞	steamed bun	-
 190	190	包子	96	nouns	food	六、飮食	名 詞	steamed stuffed bun	-
-191	191	餃子	96	nouns	food	六、飮食	名 詞	dumpling (jiaozi)	-
-192	192	餛飩	97	nouns	food	六、飮食	名 詞	dumpling (won ton)	-
+191	191	餃子	96	nouns	food	六、飮食	名 詞	dumpling (Jiaozi)	-
+192	192	餛飩	97	nouns	food	六、飮食	名 詞	dumpling (Wonton)	-
 193	193	面条儿	97	nouns	food	六、飮食	名 詞	noodles	-
 194	194	糕	98	nouns	food	六、飮食	名 詞	cakes // pastry	-
 195	195	餡儿	98	nouns	food	六、飮食	名 詞	stuffing (in food)	-
@@ -203,7 +203,7 @@ ID	NUMBER	CHINESE_GLOSS	PAGENO	POS	SEMANTIC_FIELD	SF_IN_SOURCE	POS_IN_SOURCE	ENG
 202	202	猪舌头	102	nouns	food	六、飮食	名 詞	pork tongue	-
 203	203	鸡蛋	102	nouns	food	六、飮食	名 詞	egg	-
 204	204	腐乳	103	nouns	food	六、飮食	名 詞	fermented bean curd	-
-205	205	粉条儿	103	nouns	food	六、飮食	名 詞	-	???
+205	205	粉条儿	103	nouns	food	六、飮食	名 詞	fēntiào (thin noodles)	-
 206	206	作料	104	nouns	food	六、飮食	名 詞	condiments // seasoning	-
 207	207	猪油	104	nouns	food	六、飮食	名 詞	pork fat	-
 208	208	酱油	105	nouns	food	六、飮食	名 詞	soy sauce	-
@@ -220,7 +220,7 @@ ID	NUMBER	CHINESE_GLOSS	PAGENO	POS	SEMANTIC_FIELD	SF_IN_SOURCE	POS_IN_SOURCE	ENG
 219	219	上衣	110	nouns	clothing	七、服飾	名 詞	jacket	-
 220	220	衬衫	111	nouns	clothing	七、服飾	名 詞	shirt	-
 221	221	汗衫	111	nouns	clothing	七、服飾	名 詞	undershirt	-
-222	222	夹祅	112	nouns	clothing	七、服飾	名 詞	-	???
+222	222	夹祅	112	nouns	clothing	七、服飾	名 詞	jiā'ǎo (costume)	-
 223	223	毛衣	112	nouns	clothing	七、服飾	名 詞	woolen sweater	-
 224	224	大衣	113	nouns	clothing	七、服飾	名 詞	coat	-
 225	225	裤子	113	nouns	clothing	七、服飾	名 詞	trousers	-
@@ -239,7 +239,7 @@ ID	NUMBER	CHINESE_GLOSS	PAGENO	POS	SEMANTIC_FIELD	SF_IN_SOURCE	POS_IN_SOURCE	ENG
 238	238	围嘴儿	120	nouns	clothing	七、服飾	名 詞	bib	-
 239	239	領子	120	nouns	clothing	七、服飾	名 詞	collar	-
 240	240	袖子	121	nouns	clothing	七、服飾	名 詞	sleeve	-
-241	241	里子	121	nouns	clothing	七、服飾	名 詞	lining;entrails;inside of clothes	???
+241	241	里子	121	nouns	clothing	七、服飾	名 詞	lining (of clothes)	-
 242	242	房子	122	nouns	living, dwelling	八、房屋	名 詞	Building // house	-
 243	243	屋子	122	nouns	living, dwelling	八、房屋	名 詞	room	-
 244	244	正房	123	nouns	living, dwelling	八、房屋	名 詞	principal rooms (in a courtyard) // middle room in the whole house	-
@@ -247,10 +247,10 @@ ID	NUMBER	CHINESE_GLOSS	PAGENO	POS	SEMANTIC_FIELD	SF_IN_SOURCE	POS_IN_SOURCE	ENG
 246	246	厨房	124	nouns	living, dwelling	八、房屋	名 詞	kitchen	-
 247	247	厠所	124	nouns	living, dwelling	八、房屋	名 詞	toilet	-
 248	248	柱子	125	nouns	living, dwelling	八、房屋	名 詞	column // pillar	-
-249	249	房梁	125	nouns	living, dwelling	八、房屋	名 詞	-	???
+249	249	房梁	125	nouns	living, dwelling	八、房屋	名 詞	beam (in a house)	-
 250	250	墙	126	nouns	living, dwelling	八、房屋	名 詞	wall	-
 251	251	窗子	126	nouns	living, dwelling	八、房屋	名 詞	window	-
-252	252	鬥檻儿	127	nouns	living, dwelling	八、房屋	名 詞	-	???
+252	252	鬥檻儿	127	nouns	living, dwelling	八、房屋	名 詞	bucket trap	-
 253	253	晒台	127	nouns	living, dwelling	八、房屋	名 詞	flat roof	-
 254	254	栏杆	128	nouns	living, dwelling	八、房屋	名 詞	balustrade	-
 255	255	台阶	128	nouns	living, dwelling	八、房屋	名 詞	steps (of stairs)	-
@@ -276,12 +276,12 @@ ID	NUMBER	CHINESE_GLOSS	PAGENO	POS	SEMANTIC_FIELD	SF_IN_SOURCE	POS_IN_SOURCE	ENG
 275	275	席子	138	nouns	tools of daily use	九、器具、日常用具	名 詞	mat	-
 276	276	帐子	139	nouns	tools of daily use	九、器具、日常用具	名 詞	bed-curtain	-
 277	277	鍋	139	nouns	tools of daily use	九、器具、日常用具	名 詞	cooking-pot	-
-278	278	鍋鏟	140	nouns	tools of daily use	九、器具、日常用具	名 詞	-	???
+278	278	鍋鏟	140	nouns	tools of daily use	九、器具、日常用具	名 詞	pancake turner	-
 279	279	菜刀	140	nouns	tools of daily use	九、器具、日常用具	名 詞	kitchen knife	-
 280	280	筷子	141	nouns	tools of daily use	九、器具、日常用具	名 詞	chopsticks	-
 281	281	调羹	141	nouns	tools of daily use	九、器具、日常用具	名 詞	spoon	-
 282	282	缸	142	nouns	tools of daily use	九、器具、日常用具	名 詞	earthen jug	-
-283	283	水瓢	142	nouns	tools of daily use	九、器具、日常用具	名 詞	-	???
+283	283	水瓢	142	nouns	tools of daily use	九、器具、日常用具	名 詞	baler 	-
 284	284	坛子	143	nouns	tools of daily use	九、器具、日常用具	名 詞	earthern jug	-
 285	285	罐子	143	nouns	tools of daily use	九、器具、日常用具	名 詞	pot // jug	-
 286	286	瓶子	144	nouns	tools of daily use	九、器具、日常用具	名 詞	bottle	-
@@ -291,7 +291,7 @@ ID	NUMBER	CHINESE_GLOSS	PAGENO	POS	SEMANTIC_FIELD	SF_IN_SOURCE	POS_IN_SOURCE	ENG
 290	290	热水瓶	146	nouns	tools of daily use	九、器具、日常用具	名 詞	thermos bottle	-
 291	291	浆糊	146	nouns	tools of daily use	九、器具、日常用具	名 詞	glue	-
 292	292	針	147	nouns	tools of daily use	九、器具、日常用具	名 詞	needle	-
-293	293	頂針儿	147	nouns	tools of daily use	九、器具、日常用具	名 詞	-	???
+293	293	頂針儿	147	nouns	tools of daily use	九、器具、日常用具	名 詞	thimble	-
 294	294	綫	148	nouns	tools of daily use	九、器具、日常用具	名 詞	thread // wire	-
 295	295	绳子	148	nouns	tools of daily use	九、器具、日常用具	名 詞	rope	-
 296	296	鎖	149	nouns	tools of daily use	九、器具、日常用具	名 詞	lock	-
@@ -311,7 +311,7 @@ ID	NUMBER	CHINESE_GLOSS	PAGENO	POS	SEMANTIC_FIELD	SF_IN_SOURCE	POS_IN_SOURCE	ENG
 310	310	痰盂	156	nouns	tools of daily use	九、器具、日常用具	名 詞	spittoon	-
 311	311	算盘	156	nouns	instruments, material	十、工具、材料	名 詞	abacus	-
 312	312	秤	157	nouns	instruments, material	十、工具、材料	名 詞	scale	-
-313	313	戥子	157	nouns	instruments, material	十、工具、材料	名 詞	-	???
+313	313	戥子	157	nouns	instruments, material	十、工具、材料	名 詞	steelyard (for weighing gold, medicine)	-
 314	314	尺	158	nouns	instruments, material	十、工具、材料	名 詞	foot (measure)	-
 315	315	剪子	158	nouns	instruments, material	十、工具、材料	名 詞	scissors	-
 316	316	锤子	159	nouns	instruments, material	十、工具、材料	名 詞	hammer	-
@@ -323,7 +323,7 @@ ID	NUMBER	CHINESE_GLOSS	PAGENO	POS	SEMANTIC_FIELD	SF_IN_SOURCE	POS_IN_SOURCE	ENG
 322	322	銼刀	162	nouns	instruments, material	十、工具、材料	名 詞	file (tool)	-
 323	323	钻子	162	nouns	instruments, material	十、工具、材料	名 詞	drill (tool)	-
 324	324	錐子	163	nouns	instruments, material	十、工具、材料	名 詞	awl	-
-325	325	鉋子	163	nouns	instruments, material	十、工具、材料	名 詞	-	???
+325	325	鉋子	163	nouns	instruments, material	十、工具、材料	名 詞	plane (tool)	-
 326	326	小刀儿	164	nouns	instruments, material	十、工具、材料	名 詞	small knife	-
 327	327	钩子	164	nouns	instruments, material	十、工具、材料	名 詞	hook	-
 328	328	釘子	165	nouns	instruments, material	十、工具、材料	名 詞	nail (tool)	-
@@ -430,36 +430,36 @@ ID	NUMBER	CHINESE_GLOSS	PAGENO	POS	SEMANTIC_FIELD	SF_IN_SOURCE	POS_IN_SOURCE	ENG
 429	429	叔父	215	nouns	kinship terms	十五、亲属称呼	名 詞	uncle	-
 430	430	嬸母	216	nouns	kinship terms	十五、亲属称呼	名 詞	wife of father's younger brother // aunt	-
 431	431	姑父	216	nouns	kinship terms	十五、亲属称呼	名 詞	husband of father's sister // uncle	-
-432	432	姑母	217	nouns	kinship terms	十五、亲属称呼	名 詞	-	?
-433	433	外公	217	nouns	kinship terms	十五、亲属称呼	名 詞	-	?
-434	434	外婆	218	nouns	kinship terms	十五、亲属称呼	名 詞	-	?
-435	435	萬父	218	nouns	kinship terms	十五、亲属称呼	名 詞	-	?
-436	436	與母	219	nouns	kinship terms	十五、亲属称呼	名 詞	-	?
+432	432	姑母	217	nouns	kinship terms	十五、亲属称呼	名 詞	father's sister // aunt	-
+433	433	外公	217	nouns	kinship terms	十五、亲属称呼	名 詞	maternal grandfather // grandfather	-
+434	434	外婆	218	nouns	kinship terms	十五、亲属称呼	名 詞	maternal grandmother // grandmother	-
+435	435	萬父	218	nouns	kinship terms	十五、亲属称呼	名 詞	mother's brother // uncle	舅父
+436	436	與母	219	nouns	kinship terms	十五、亲属称呼	名 詞	mother's sister // aunt	舅母
 437	437	姨父	219	nouns	kinship terms	十五、亲属称呼	名 詞	uncle // husband of one's maternal aunt	-
 438	438	姨母	220	nouns	kinship terms	十五、亲属称呼	名 詞	maternal aunt	-
-439	439	丈人	220	nouns	kinship terms	十五、亲属称呼	名 詞	-	?
-440	440	丈母	221	nouns	kinship terms	十五、亲属称呼	名 詞	-	?
+439	439	丈人	220	nouns	kinship terms	十五、亲属称呼	名 詞	wife's father // father-in-law	-
+440	440	丈母	221	nouns	kinship terms	十五、亲属称呼	名 詞	wife's mother // mother-in-law	-
 441	441	公公	221	nouns	kinship terms	十五、亲属称呼	名 詞	husband's father // father-in-law	-
 442	442	婆婆	222	nouns	kinship terms	十五、亲属称呼	名 詞	husband's mother // mother-in-law	-
 443	443	丈夫	222	nouns	kinship terms	十五、亲属称呼	名 詞	husband	-
 444	444	妻子	223	nouns	kinship terms	十五、亲属称呼	名 詞	wife	-
 445	445	哥哥	223	nouns	kinship terms	十五、亲属称呼	名 詞	elder brother	-
-446	446	嫂子	224	nouns	kinship terms	十五、亲属称呼	名 詞	-	?
+446	446	嫂子	224	nouns	kinship terms	十五、亲属称呼	名 詞	elder brother's wife // sister-in-law	-
 447	447	弟弟	224	nouns	kinship terms	十五、亲属称呼	名 詞	younger brother	-
 448	448	姐姐	225	nouns	kinship terms	十五、亲属称呼	名 詞	elder sister	-
 449	449	姐夫	225	nouns	kinship terms	十五、亲属称呼	名 詞	brother-in-law // elder sister's husband	-
 450	450	妹妹	226	nouns	kinship terms	十五、亲属称呼	名 詞	younger sister	-
 451	451	妹夫	226	nouns	kinship terms	十五、亲属称呼	名 詞	brother-in-law // younger sister's husband	-
 452	452	大伯子	227	nouns	kinship terms	十五、亲属称呼	名 詞	brother-in-law // husband's elder brother	-
-453	453	小叔子	227	nouns	kinship terms	十五、亲属称呼	名 詞	-	?
-454	454	大姑子	228	nouns	kinship terms	十五、亲属称呼	名 詞	-	?
-455	455	小姑子	228	nouns	kinship terms	十五、亲属称呼	名 詞	sister-in-law	?
-456	456	儿子	229	nouns	kinship terms	十五、亲属称呼	名 詞	son	?
+453	453	小叔子	227	nouns	kinship terms	十五、亲属称呼	名 詞	husband's younger brother // brother-in-law	-
+454	454	大姑子	228	nouns	kinship terms	十五、亲属称呼	名 詞	husband's elder brother // brother-in-law	-
+455	455	小姑子	228	nouns	kinship terms	十五、亲属称呼	名 詞	sister-in-law	-
+456	456	儿子	229	nouns	kinship terms	十五、亲属称呼	名 詞	son	-
 457	457	媳妇	229	nouns	kinship terms	十五、亲属称呼	名 詞	son's wife	-
 458	458	女儿	230	nouns	kinship terms	十五、亲属称呼	名 詞	daughter	-
-459	459	女婿	230	nouns	kinship terms	十五、亲属称呼	名 詞	son-in-law	?
-460	460	侄儿	231	nouns	kinship terms	十五、亲属称呼	名 詞	-	?
-461	461	侄女	231	nouns	kinship terms	十五、亲属称呼	名 詞	niece	?
+459	459	女婿	230	nouns	kinship terms	十五、亲属称呼	名 詞	son-in-law	-
+460	460	侄儿	231	nouns	kinship terms	十五、亲属称呼	名 詞	nephew	-
+461	461	侄女	231	nouns	kinship terms	十五、亲属称呼	名 詞	niece	-
 462	462	外甥	232	nouns	kinship terms	十五、亲属称呼	名 詞	nephew // sister's son	-
 463	463	孙子	232	nouns	kinship terms	十五、亲属称呼	名 詞	grandson	-
 464	464	孙女	233	nouns	kinship terms	十五、亲属称呼	名 詞	granddaughter	-
@@ -493,8 +493,8 @@ ID	NUMBER	CHINESE_GLOSS	PAGENO	POS	SEMANTIC_FIELD	SF_IN_SOURCE	POS_IN_SOURCE	ENG
 492	492	打閃	247	verbs	natural change	一、自然变化	动詞	flash (lightning)	-
 493	493	打雷	247	verbs	natural change	一、自然变化	动詞	thunder	-
 494	494	結冰	248	verbs	natural change	一、自然变化	动詞	freeze	-
-495	495	化雪	248	verbs	natural change	一、自然变化	动詞	-	?
-496	496	淋雨	249	verbs	natural change	一、自然变化	动詞	-	?
+495	495	化雪	248	verbs	natural change	一、自然变化	动詞	melt snow	-
+496	496	淋雨	249	verbs	natural change	一、自然变化	动詞	get wet in the rain	-
 497	497	退色	249	verbs	natural change	一、自然变化	动詞	fade (loose color)	-
 498	498	掉(掉下来）	250	verbs	natural change	一、自然变化	动詞	fall (down)	-
 499	499	看	250	verbs	sense-related actions	二、五官动作	动詞	look // see	-
@@ -510,7 +510,7 @@ ID	NUMBER	CHINESE_GLOSS	PAGENO	POS	SEMANTIC_FIELD	SF_IN_SOURCE	POS_IN_SOURCE	ENG
 509	509	嚼	255	verbs	sense-related actions	二、五官动作	动詞	chew	-
 510	510	舔	256	verbs	sense-related actions	二、五官动作	动詞	lick (with tongue)	-
 511	511	呑	256	verbs	sense-related actions	二、五官动作	动詞	swallow	-
-512	512	含	257	verbs	sense-related actions	二、五官动作	动詞	-	?
+512	512	含	257	verbs	sense-related actions	二、五官动作	动詞	keep in the mouth	-
 513	513	噴	257	verbs	sense-related actions	二、五官动作	动詞	splash	-
 514	514	吹	258	verbs	sense-related actions	二、五官动作	动詞	blow	-
 515	515	嚐	258	verbs	sense-related actions	二、五官动作	动詞	taste	-
@@ -603,7 +603,7 @@ ID	NUMBER	CHINESE_GLOSS	PAGENO	POS	SEMANTIC_FIELD	SF_IN_SOURCE	POS_IN_SOURCE	ENG
 602	602	扫	302	verbs	daily actions	四、日常操作	动詞	sweep	-
 603	603	点	302	verbs	daily actions	四、日常操作	动詞	point to // nod	-
 604	604	收拾	303	verbs	daily actions	四、日常操作	动詞	gather // collect	-
-605	605	撹和	303	verbs	daily actions	四、日常操作	动詞	-	?
+605	605	撹和	303	verbs	daily actions	四、日常操作	动詞	mix // blend	-
 606	606	拌	304	verbs	daily actions	四、日常操作	动詞	mix	-
 607	607	选择	304	verbs	daily actions	四、日常操作	动詞	select	-
 608	608	藏(收存）	305	verbs	daily actions	四、日常操作	动詞	hide // collect (money)	-
@@ -632,7 +632,7 @@ ID	NUMBER	CHINESE_GLOSS	PAGENO	POS	SEMANTIC_FIELD	SF_IN_SOURCE	POS_IN_SOURCE	ENG
 631	631	买布	316	verbs	communication	五、交际、事务、人事	动詞	buy cloth	-
 632	632	买油	317	verbs	communication	五、交际、事务、人事	动詞	buy oil	-
 633	633	买药(买中药）	317	verbs	communication	五、交际、事务、人事	动詞	buy Chinese medicine	-
-634	634	活	318	verbs	communication	五、交际、事务、人事	动詞	live --, exist, survive; lively	-
+634	634	活	318	verbs	communication	五、交际、事务、人事	动詞	live	-
 635	635	死	318	verbs	communication	五、交际、事务、人事	动詞	die	-
 636	636	結婚（指男方）	319	verbs	communication	五、交际、事务、人事	动詞	marry (of a man)	-
 637	637	結婚（指女方）	319	verbs	communication	五、交际、事务、人事	动詞	marry (of a woman)	-
@@ -650,19 +650,19 @@ ID	NUMBER	CHINESE_GLOSS	PAGENO	POS	SEMANTIC_FIELD	SF_IN_SOURCE	POS_IN_SOURCE	ENG
 649	649	睡觉	325	verbs	physiology and disease	七、生理、病理	动詞	sleep	-
 650	650	打呵欠	326	verbs	physiology and disease	七、生理、病理	动詞	yawn	-
 651	651	打瞌睡	326	verbs	physiology and disease	七、生理、病理	动詞	doze off	-
-652	652	打冷噤	327	verbs	physiology and disease	七、生理、病理	动詞	-	?
+652	652	打冷噤	327	verbs	physiology and disease	七、生理、病理	动詞	shiver	-
 653	653	哆嗦	327	verbs	physiology and disease	七、生理、病理	动詞	tremble	-
 654	654	喷嚏	328	verbs	physiology and disease	七、生理、病理	动詞	sneeze	-
-655	655	抓痒	328	verbs	physiology and disease	七、生理、病理	动詞	-	?
+655	655	抓痒	328	verbs	physiology and disease	七、生理、病理	动詞	scratch (to relieve itch)	-
 656	656	撒（撒尿）	329	verbs	physiology and disease	七、生理、病理	动詞	pee // piss	-
 657	657	拉(拉屎）	329	verbs	physiology and disease	七、生理、病理	动詞	defecate // shit	-
 658	658	生病	330	verbs	physiology and disease	七、生理、病理	动詞	fall ill	-
 659	659	着凉	330	verbs	physiology and disease	七、生理、病理	动詞	catch a cold	-
 660	660	咳嗽	331	verbs	physiology and disease	七、生理、病理	动詞	cough	-
-661	661	头暈	331	verbs	physiology and disease	七、生理、病理	动詞	-	?
+661	661	头暈	331	verbs	physiology and disease	七、生理、病理	动詞	get dizzy	-
 662	662	发烧	332	verbs	physiology and disease	七、生理、病理	动詞	have a fever	-
 663	663	泻肚	332	verbs	physiology and disease	七、生理、病理	动詞	have diarrhoea	-
-664	664	生疟疾	333	verbs	physiology and disease	七、生理、病理	动詞	-	?
+664	664	生疟疾	333	verbs	physiology and disease	七、生理、病理	动詞	get malaria	-
 665	665	喜欢	333	verbs	perceive, reflect	八、感受、思維	动詞	like	-
 666	666	討厌	334	verbs	perceive, reflect	八、感受、思維	动詞	dislike	-
 667	667	怪	334	verbs	perceive, reflect	八、感受、思維	动詞	make responsible for	-
@@ -724,8 +724,8 @@ ID	NUMBER	CHINESE_GLOSS	PAGENO	POS	SEMANTIC_FIELD	SF_IN_SOURCE	POS_IN_SOURCE	ENG
 723	723	重	362	adjectives	appearance, situation	一、形状、情况	形容詞	heavy	-
 724	724	干	363	adjectives	appearance, situation	一、形状、情况	形容詞	dry	-
 725	725	湿	363	adjectives	appearance, situation	一、形状、情况	形容詞	wet	-
-726	726	稠	364	adjectives	appearance, situation	一、形状、情况	形容詞	dense, crowded, packed; soupy	+++
-727	727	釅	364	adjectives	appearance, situation	一、形状、情况	形容詞	?	酽
+726	726	稠	364	adjectives	appearance, situation	一、形状、情况	形容詞	stiff (of eggs)	-
+727	727	釅	364	adjectives	appearance, situation	一、形状、情况	形容詞	thick or strong (of tea)	酽
 728	728	稀	365	adjectives	appearance, situation	一、形状、情况	形容詞	rare // scarce	-
 729	729	硬	365	adjectives	appearance, situation	一、形状、情况	形容詞	hard // firm	-
 730	730	軟	366	adjectives	appearance, situation	一、形状、情况	形容詞	soft // flexible	-
@@ -762,7 +762,7 @@ ID	NUMBER	CHINESE_GLOSS	PAGENO	POS	SEMANTIC_FIELD	SF_IN_SOURCE	POS_IN_SOURCE	ENG
 761	761	凉	381	adjectives	physiological perception	三、生理感觉	形容詞	cold // cool	-
 762	762	香	382	adjectives	physiological perception	三、生理感觉	形容詞	fragrant	-
 763	763	臭	382	adjectives	physiological perception	三、生理感觉	形容詞	stinking	-
-764	764	餿	383	adjectives	physiological perception	三、生理感觉	形容詞	rotten // sour 	?
+764	764	餿	383	adjectives	physiological perception	三、生理感觉	形容詞	rotten // sour 	-
 765	765	咸	383	adjectives	physiological perception	三、生理感觉	形容詞	salty	-
 766	766	淡	384	adjectives	physiological perception	三、生理感觉	形容詞	tasteless	-
 767	767	餓	384	adjectives	physiological perception	三、生理感觉	形容詞	hungry	-
@@ -902,4 +902,4 @@ ID	NUMBER	CHINESE_GLOSS	PAGENO	POS	SEMANTIC_FIELD	SF_IN_SOURCE	POS_IN_SOURCE	ENG
 901	901	到	452	classifiers	verbal	二、动量詞	介詞、連詞	until	-
 902	902	向	452	classifiers	verbal	二、动量詞	介詞、連詞	towards	-
 903	903	和	453	classifiers	verbal	二、动量詞	介詞、連詞	and	-
-904	904	如果	453	classifiers	verbal	二、动量詞	介詞、連詞	iv	-
+904	904	如果	453	classifiers	verbal	二、动量詞	介詞、連詞	if	-
