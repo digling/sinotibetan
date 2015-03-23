@@ -1,0 +1,273 @@
+1 	 above 	 ?	?
+2 	 all 	 ?	?
+3 	 and 	 ?	?
+4 	 animal [noun] 	 ?	?
+5 	 ashes [noun] 	 ?	?
+6 	 at 	 ?	?
+7 	 back [noun] 	 ?	?
+8 	 bad 	 190 	 bad
+9 	 bark [noun] 	 4 	 bark
+10 	 bark [verb] 	 4 	 bark
+11 	 bark/the bark [verb] 	 4 	 bark
+12 	 be alive [verb] 	 ?	?
+13 	 because 	 ?	?
+14 	 belly [noun] 	 195 	 belly
+15 	 below, under 	 ?	?
+16 	 big 	 ?	?
+17 	 bird [noun] 	 196 	 bird
+18 	 bite [verb] 	 197 	 bite
+19 	 black 	 199 	 black
+20 	 blood [noun] 	 201 	 blood
+21 	 blow [verb] 	 ?	?
+22 	 blunt 	 ?	?
+23 	 bone [noun] 	 ?	?
+24 	 branch [noun] 	 ?	?
+25 	 breast [noun] 	 205 	 breast
+26 	 breathe [verb] 	 ?	?
+27 	 burn (intransitive) [verb] 	 ?	?
+28 	 burn [transitive] [verb] 	 ?	?
+29 	 buy [verb] 	 211 	 buy
+30 	 chew [verb] 	 23 	 chew
+31 	 child (descendant) [noun] 	 217 	 child
+32 	 child (young human [noun] 	 217 	 child
+33 	 choose [verb] 	 ?	?
+34 	 claw [noun] 	 ?	?
+35 	 climb [verb] 	 ?	?
+36 	 cloud [noun] 	 221 	 cloud
+37 	 cold (of temperature) 	 ?	?
+38 	 come [verb] 	 223 	 come
+39 	 cook [verb] 	 31 	 cook / boil (rice)
+40 	 correct (right) 	 135 	 right / correct
+41 	 count [verb] 	 ?	?
+42 	 cry [verb] 	 ?	?
+43 	 cut [verb] 	 ?	?
+44 	 day (opposed to night) [noun] 	 36 	 day after tomorrow
+44 	 day (opposed to night) [noun] 	 37 	 day before yesterday
+45 	 die [verb] 	 232 	 die
+46 	 dig [verb] 	 234 	 dig
+47 	 dirty 	 235 	 dirty
+48 	 dog [noun] 	 236 	 dog
+49 	 dream [noun] 	 238 	 dream
+50 	 drink [verb] 	 239 	 drink
+51 	 dry 	 241 	 dry
+52 	 dull 	 ?	?
+53 	 dust [noun] 	 ?	?
+54 	 ear [noun] 	 243 	 ear
+55 	 earth (soil) [noun] 	 ?	?
+56 	 eat [verb] 	 247 	 eat
+57 	 egg [noun] 	 248 	 egg
+58 	 eight 	 249 	 eight
+59 	 eye [noun] 	 255 	 eye
+60 	 fall [verb] 	 ?	?
+61 	 far 	 ?	?
+62 	 fat (grease) [noun] 	 ?	?
+63 	 fat (obese) 	 ?	?
+64 	 father [noun] 	 258 	 father
+65 	 fear (be afraid) [verb] 	 ?	?
+66 	 feather [noun] 	 ?	?
+67 	 female 	 ?	?
+68 	 few 	 ?	?
+69 	 fight [verb] 	 261 	 fight
+70 	 fire [noun] 	 263 	 fire
+71 	 fish [noun] 	 265 	 fish
+72 	 five 	 266 	 five
+73 	 float [verb] 	 56 	 float
+74 	 flow [verb] 	 ?	?
+75 	 flower [noun] 	 269 	 flower
+76 	 fly (move through air) [verb] 	 270 	 fly
+77 	 fog [noun] 	 57 	 fog
+78 	 foot [noun] 	 271 	 foot
+79 	 forest [noun] 	 ?	?
+80 	 four 	 275 	 four
+81 	 freeze [verb] 	 ?	?
+82 	 fruit [noun] 	 279 	 fruit
+83 	 full 	 280 	 full
+84 	 give [verb] 	 ?	?
+85 	 good 	 285 	 good
+86 	 grass [noun] 	 288 	 grass
+87 	 green 	 289 	 green
+88 	 grow [verb] 	 290 	 grow
+89 	 hair [noun] 	 ?	?
+90 	 hand [noun] 	 292 	 hand
+91 	 he or she [third person singular] 	 ?	?
+92 	 head [noun] 	 295 	 head
+93 	 hear [verb] 	 ?	?
+94 	 heart [noun] 	 296 	 heart
+95 	 heavy 	 297 	 heavy
+96 	 here 	 300 	 here
+97 	 hide (conceal) [verb] 	 ?	?
+98 	 hit [verb] 	 ?	?
+99 	 hold [verb] 	 ?	?
+100 	 horn (keratinized skin) [noun] 	 303 	 horn
+101 	 house [noun] 	 306 	 house
+102 	 how 	 ?	?
+103 	 hundred 	 307 	 hundred
+104 	 hunt [verb] 	 308 	 hunt
+105 	 husband [noun] 	 309 	 husband
+106 	 I [first person singular] 	 186 	 I
+107 	 ice [noun] 	 75 	 ice
+108 	 if 	 ?	?
+109 	 in 	 113 	 past, in the
+110 	 intestines [noun] 	 ?	?
+111 	 kill [verb] 	 315 	 kill
+112 	 knee [noun] 	 ?	?
+113 	 knife 	 81 	 knife (long)
+113 	 knife 	 316 	 knife
+114 	 know [verb] 	 317 	 know
+115 	 lake [noun] 	 319 	 lake
+116 	 laugh [verb] 	 ?	?
+117 	 leaf [noun] 	 322 	 leaf
+118 	 left 	 84 	 left
+119 	 leg [noun] 	 ?	?
+120 	 lick [verb] 	 ?	?
+121 	 lick/to suck [verb] 	 ?	?
+122 	 lie down [verb] 	 ?	?
+123 	 lie, rest [verb] 	 132 	 rest
+124 	 lightning [noun] 	 ?	?
+125 	 liver [noun] 	 328 	 liver
+126 	 long 	 329 	 long
+127 	 louse [noun] 	 331 	 louse
+128 	 male 	 ?	?
+129 	 man [noun] 	 351 	 old man
+130 	 many 	 92 	 many / much
+131 	 meat [noun] 	 ?	?
+132 	 moon [noun] 	 336 	 moon
+133 	 mosquito [noun] 	 338 	 mosquito
+134 	 mother [noun] 	 339 	 mother
+135 	 mountain [noun] 	 ?	?
+136 	 mouse or rat [noun] 	 ?	?
+137 	 mouth [noun] 	 340 	 mouth
+138 	 nail (fingernail or claw) [noun] 	 ?	?
+139 	 name [noun] 	 342 	 name
+140 	 narrow 	 343 	 narrow
+141 	 near 	 344 	 near
+142 	 neck [noun] 	 345 	 neck
+143 	 needle (for sewing) [noun] 	 346 	 needle
+144 	 new 	 347 	 new
+145 	 night [noun] 	 ?	?
+146 	 nine 	 105 	 nine
+147 	 nose [noun] 	 350 	 nose
+148 	 not 	 ?	?
+149 	 now 	 ?	?
+150 	 old (of person) 	 351 	 old man
+151 	 one 	 109 	 one
+152 	 open [verb] 	 ?	?
+153 	 other 	 ?	?
+154 	 painful 	 ?	?
+155 	 person [noun] 	 10 	 blind person
+155 	 person [noun] 	 38 	 deaf person
+155 	 person [noun] 	 82 	 lame person
+156 	 plant [verb] 	 ?	?
+157 	 play [verb] 	 ?	?
+158 	 pull [verb] 	 ?	?
+159 	 push [verb] 	 ?	?
+160 	 rain [noun] 	 357 	 rain
+161 	 red 	 361 	 red
+162 	 reside (live) [verb] 	 ?	?
+163 	 right 	 134 	 right
+163 	 right 	 135 	 right / correct
+164 	 river [noun] 	 364 	 river
+165 	 road [noun] 	 ?	?
+166 	 roof [noun] 	 ?	?
+167 	 root [noun] 	 365 	 root
+168 	 rope [noun] 	 ?	?
+169 	 rotten (of fruits) 	 ?	?
+170 	 round 	 ?	?
+171 	 rub [verb] 	 ?	?
+172 	 salt [noun] 	 368 	 salt
+173 	 sand [noun] 	 369 	 sand
+174 	 say [verb] 	 ?	?
+175 	 scratch [verb] 	 ?	?
+176 	 sea [noun] 	 372 	 sea
+177 	 see [verb] 	 373 	 see
+178 	 seed [noun] 	 374 	 seed
+179 	 seven 	 376 	 seven
+180 	 sew [verb] 	 ?	?
+181 	 sharp 	 381 	 sharp
+182 	 shoot (an arrow) [verb] 	 ?	?
+183 	 short 	 384 	 short
+184 	 shoulder [noun] 	 385 	 shoulder
+185 	 shy 	 ?	?
+186 	 sick 	 ?	?
+187 	 sing [verb] 	 388 	 sing
+188 	 sit [verb] 	 ?	?
+189 	 six 	 142 	 six
+190 	 skin [noun] 	 389 	 skin
+191 	 sky [noun] 	 391 	 sky
+192 	 sleep [verb] 	 392 	 sleep
+193 	 small 	 394 	 small
+194 	 smell (perceive odor) [transitive] [verb] 	 395 	 smell
+195 	 smoke [noun] 	 396 	 smoke
+196 	 smooth 	 ?	?
+197 	 snake [noun] 	 397 	 snake
+198 	 snow [noun] 	 398 	 snow
+199 	 some 	 ?	?
+200 	 spider [noun] 	 405 	 spider
+201 	 spit [verb] 	 406 	 spit
+202 	 split [verb] 	 ?	?
+203 	 squeeze [verb] 	 ?	?
+204 	 stab [verb] 	 ?	?
+205 	 stand [verb] 	 407 	 stand
+206 	 star [noun] 	 408 	 star
+207 	 steal [verb] 	 409 	 steal
+208 	 stick [noun] 	 ?	?
+209 	 stone (a piece of) [noun] 	 ?	?
+210 	 straight 	 410 	 straight
+211 	 suck [verb] 	 ?	?
+212 	 sun [noun] 	 413 	 sun
+213 	 swell [verb] 	 ?	?
+214 	 swim [verb] 	 ?	?
+215 	 tail [noun] 	 419 	 tail
+216 	 ten 	 158 	 ten
+216 	 ten 	 159 	 ten thousand
+217 	 that 	 421 	 that
+218 	 there 	 422 	 there
+219 	 they [third person plural] 	 423 	 they
+219 	 they [third person plural] 	 424 	 they two
+220 	 thick 	 425 	 thick
+221 	 thin 	 427 	 thin
+222 	 think (reflect) [verb] 	 429 	 think
+223 	 this 	 430 	 this
+224 	 thou [second person singular] 	 ?	?
+225 	 three 	 163 	 three
+226 	 throw [verb] 	 ?	?
+227 	 thunder [noun] 	 433 	 thunder
+228 	 tie (together) [verb] 	 ?	?
+229 	 tongue [noun] 	 438 	 tongue
+230 	 tooth (front) [noun] 	 439 	 tooth
+231 	 tree [noun] 	 440 	 tree
+232 	 turn (around) [verb] 	 ?	?
+233 	 twenty 	 167 	 twenty
+234 	 two 	 424 	 they two
+234 	 two 	 442 	 two
+234 	 two 	 472 	 you two
+235 	 vomit [verb] 	 ?	?
+236 	 walk [verb] 	 451 	 walk
+237 	 warm (hot) 	 169 	 warm
+238 	 wash [verb] 	 453 	 wash (clothes)
+239 	 water [noun] 	 454 	 water
+240 	 we [first person plural] 	 170 	 we
+240 	 we [first person plural] 	 171 	 we (inclusive)
+241 	 wet 	 457 	 wet
+242 	 what 	 173 	 what
+243 	 when 	 ?	?
+244 	 where 	 175 	 where
+245 	 white 	 458 	 white
+246 	 who 	 177 	 who
+247 	 wide 	 ?	?
+248 	 wife [noun] 	 459 	 wife
+249 	 wind [noun] 	 460 	 wind
+250 	 wing [noun] 	 462 	 wing
+251 	 wipe 	 ?	?
+252 	 with 	 ?	?
+253 	 woman [noun] 	 465 	 woman
+254 	 wood (material) [noun] 	 ?	?
+255 	 work [noun] 	 182 	 work / labor
+256 	 worm [noun] 	 77 	 insect / worm
+257 	 yawn [verb] 	 ?	?
+258 	 year [noun] 	 183 	 year after next
+258 	 year [noun] 	 184 	 year before last
+258 	 year [noun] 	 468 	 year
+259 	 yellow 	 469 	 yellow
+260 	 you [second person plural] 	 185 	 you (pl.)
+260 	 you [second person plural] 	 472 	 you two
