@@ -1,0 +1,251 @@
+NUMBER	GLOSS	SEMANTIC TAG	STATUS
+1	above	location, adjective or noun	OLD
+2	all	characterisation, quantity	OLD
+3	ant (noun)	animal	NEW
+4	armpit (noun)	body	NEW
+5	bad	characterisation, character	OLD
+6	bamboo (noun)	plant, food	NEW
+7	barley (tibetan or highland) (noun)	plant	NEW
+8	be alive (verb)	process	OLD
+9	belly (noun)	body	OLD
+10	below, under	location, adjective or noun	OLD
+11	big	characterisation, quantity	OLD
+12	bird (noun)	animal	OLD
+13	bite (verb)	action	OLD
+14	black	characterization, color	OLD
+15	blood (noun)	body	OLD
+16	blow (of wind) (verb)	process	OLD
+17	body hair (hair or fur) (noun)		NEW
+18	bone (noun)	body	OLD
+19	branch (noun)	body, plant	OLD
+20	breast (female) (noun)	body	OLD
+21	burn [intransitive] (verb)	process	OLD
+22	buy (verb)	action	OLD
+23	chew (verb)	action	OLD
+24	child (young human (noun)	kinship	OLD
+25	cloud (noun)	nature	OLD
+26	cold (of temperature)	characterization, weather	OLD
+27	come (verb)	action	OLD
+28	correct (right)	characterization, character	OLD
+29	count (verb)	action	OLD
+30	cry (weep) (verb)	action	OLD
+31	dark	characterisation, state	NEW
+32	daughter (noun)	kinship	NEW
+33	dew (noun)	nature	NEW
+34	die (verb)	process	OLD
+35	dig (verb)	action	OLD
+36	dirty	characterisation, state	OLD
+37	dog (noun)	nature	OLD
+38	dream (noun)	mind	OLD
+39	drink (verb)	action	OLD
+40	dry	characterisation, state	OLD
+41	dust (noun)	nature	OLD
+42	ear (noun)	body	OLD
+43	early	time	NEW
+44	earth (soil) (noun)	nature	OLD
+45	earthworm (noun)	animal	NEW
+46	eat (verb)	action	OLD
+47	egg (noun)	animal, product	OLD
+48	eight	number	OLD
+49	eye (noun)	body	OLD
+50	far	characterisation, location	OLD
+51	father (noun)	kinship	OLD
+52	feather (noun)	animal, product	OLD
+53	fight (verb)	action	OLD
+54	fire (noun)	nature	OLD
+55	firewood	object, utility	NEW
+56	fish (noun)	animal	OLD
+57	five	number	OLD
+58	flea (noun)	animal	NEW
+59	float (verb)	process	OLD
+60	flow (verb)	process	OLD
+61	flower (noun)	plant	OLD
+62	fly (move through air) (verb)	action	OLD
+63	fog (noun)	nature	OLD
+64	foot (noun)	body	OLD
+65	forest (noun)	nature	OLD
+66	forget	action	NEW
+67	four	number	OLD
+68	fox (noun)	animal	NEW
+69	frog (noun)	animal	NEW
+70	front (front side) (noun)	location	NEW
+71	frost (noun)	nature	NEW
+72	fruit (noun)	nature, food	OLD
+73	full	characterisation, state	OLD
+74	give (verb)	action	OLD
+75	goat (noun)	animal	NEW
+76	good	characterisation, character	OLD
+77	grass (noun)	nature	OLD
+78	green	characterization, color	OLD
+79	hail (noun)	nature	NEW
+80	hair (of the head) (noun)	body	OLD
+81	hand (noun)	body	OLD
+82	hard	characterisation, form	NEW
+83	he or she [third person pronoun singular]	pronoun	OLD
+84	head (noun)	body	OLD
+85	hear (verb)	action	OLD
+86	heart (noun)	body	OLD
+87	heavy	characterisation, quantity	OLD
+88	here	location, pronoun	OLD
+89	hide (conceal) (verb)	action	OLD
+90	high / tall	characterisation, quantity	NEW
+91	hold (verb)	action	OLD
+92	hoof (noun)	body	NEW
+93	horizontal	location	NEW
+94	horn (keratinized skin) (noun)	body, animal	OLD
+95	horse (noun)	animal	NEW
+96	hot	characterisation, temperature	NEW
+97	house (noun)	residence	OLD
+98	hundred	number	NEW
+99	hundred	number	OLD
+100	hunt (verb)	action	OLD
+101	husband (noun)	kinship	OLD
+102	i [first person singular]	pronoun	OLD
+103	ice (noun)	nature	OLD
+104	inside	location	NEW
+105	kill (verb)	action	OLD
+106	knead	action	NEW
+107	knee (noun)	body	OLD
+108	knife	object, tool	OLD
+109	know (verb)	action	OLD
+110	lake (noun)	nature	OLD
+111	late	time	NEW
+112	laugh (verb)	action	OLD
+113	leaf (noun)	body, animal	OLD
+114	learn	action	NEW
+115	left	characterization, location	OLD
+116	lick (verb)	action	OLD
+117	lie down (verb)	action	OLD
+118	light (of weight)	characterisation, quantity	NEW
+119	lip (the lips) (noun)		NEW
+120	liver (noun)	body	OLD
+121	long	characterization, quantity	OLD
+122	louse (noun)	animal	OLD
+123	lung (noun)	body part	NEW
+124	man (male human) (noun)	human being	OLD
+125	many	characterization, quantity	OLD
+126	marry (a man marries a woman)	action	NEW
+127	meat (noun)	body, animal	OLD
+128	middle	location	NEW
+129	moon (noun)	nature, object	OLD
+130	morning	time	NEW
+131	mosqui(noun) (verb)	animal	OLD
+132	mother (noun)	kinship	OLD
+133	mountain (noun)	nature, geography	OLD
+134	mouse or rat (noun)	animal	OLD
+135	mouth (noun)	body	OLD
+136	mud (noun)	nature	NEW
+137	nail (fingernail or claw) (noun)	body	OLD
+138	name (noun)	human being	OLD
+139	narrow	characterization, quantity	OLD
+140	near	characterization, quantity	OLD
+141	neck (noun)	body	OLD
+142	needle (for sewing) (noun)	object, tool	OLD
+143	new	characterization, state	OLD
+144	nine	number	OLD
+145	nit (noun)	animal	NEW
+146	noon	time	NEW
+147	nose (noun)	body	OLD
+148	old (of person)	characterization, state	OLD
+149	one	number	OLD
+150	otter (noun)	animal	NEW
+151	outside	location	NEW
+152	pig (noun)	animal	NEW
+153	plant (vegetals, rice) (verb)	action	OLD
+154	play (verb)	action	OLD
+155	pull (verb)	action	OLD
+156	push (verb)	action	OLD
+157	rain (noun)	nature, phenomenon	OLD
+158	rainbow (noun)	nature	NEW
+159	red	characterization, color	OLD
+160	reside (live) (verb)	action	OLD
+161	rice plant (noun)	object, food	NEW
+162	right	characterization, location	OLD
+163	river (noun)	nature, geography	OLD
+164	road (noun)	object, geography	OLD
+165	root (noun)	body, animal	OLD
+166	rope (noun)	object, tool	OLD
+167	round	characterization, form	OLD
+168	run	action	NEW
+169	salt (noun)	object, food	OLD
+170	salty	characterisation, taste	NEW
+171	sand (noun)	nature, substance	OLD
+172	scratch (verb)	action	OLD
+173	sea (noun)	nature, geography	OLD
+174	see (verb)	action	OLD
+175	seed (noun)	object, food	OLD
+176	seven	number	OLD
+177	sharp	characterization, form	OLD
+178	sheep (noun)	animal	NEW
+179	shoot (an arrow) (verb)	action	OLD
+180	short	characterization, quantity	OLD
+181	shoulder (noun)	body	OLD
+182	shy	characterization, character	OLD
+183	sickle	object, tool	NEW
+184	sing (verb)	action	OLD
+185	six	number	OLD
+186	skin (noun)	body	OLD
+187	sky (noun)	nature, geography	OLD
+188	sleep (verb)	action	OLD
+189	small	characterization, quantity	OLD
+190	smell (perceive odor) [transitive] (verb)	action	OLD
+191	smoke (noun)	nature	OLD
+192	smooth	characterization, form	OLD
+193	snake (noun)	animal	OLD
+194	snow (noun)	nature, object	OLD
+195	soft	characterisation, form	NEW
+196	son (noun)	kinship	NEW
+197	sparrow (noun)	animal	NEW
+198	spider (noun)	animal	OLD
+199	spit (verb)	action	OLD
+200	stand (verb)	action	OLD
+201	star (noun)	nature, geography	OLD
+202	steal (verb)	action	OLD
+203	stick (noun)	object, tool	OLD
+204	stone (a piece of) (noun)	nature, substance	OLD
+205	straight	characterization, form	OLD
+206	sun (noun)	object, geography	OLD
+207	tail (noun)	body, animal	OLD
+208	ten	number	OLD
+209	that	pronoun	OLD
+210	there	location	OLD
+211	thick	characterization, quantity	OLD
+212	thigh (noun)	body	NEW
+213	thin	characterization, form	OLD
+214	think (reflect) (verb)	action	OLD
+215	this	pronoun	OLD
+216	thou [second person pronoun singular]	pronoun	OLD
+217	three	number	OLD
+218	throw (verb)	action	OLD
+219	thunder (noun)	object, phenomenon	OLD
+220	tiger (noun)	animal	NEW
+221	today	time	NEW
+222	tomorrow	time	NEW
+223	tongue (noun)	body	OLD
+224	tooth (front) (noun)	body	OLD
+225	tree (noun)	nature, object	OLD
+226	twenty	number	OLD
+227	two	number	OLD
+228	vomit (verb)	action	OLD
+229	walk (verb)	action	OLD
+230	water (noun)	nature, substance	OLD
+231	we [first person plural]	pronoun	OLD
+232	wet	characterisation, state	OLD
+233	what	pronoun, question	OLD
+234	wheat (noun)	object, food	NEW
+235	where	pronoun, question	OLD
+236	white	characterisation, color	OLD
+237	who	pronoun, question	OLD
+238	wife (noun)	kinship	OLD
+239	wind (noun)	nature, phenomenon	OLD
+240	wing (noun)	body, animal	OLD
+241	wipe (verb)	action	OLD
+242	wolf (noun)	animal	NEW
+243	woman (noun)	human being	OLD
+244	wood (material) (noun)	plant, substance	OLD
+245	worm (noun)	animal	OLD
+246	year (noun)	time	OLD
+247	yellow	characterisation, color	OLD
+248	yesterday	time	NEW
+249	you [second person plural]	pronoun	OLD
+250	young	characterisation, age	NEW

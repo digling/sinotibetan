@@ -1,0 +1,501 @@
+NUMBER	GLOSS	SEMANTIC TAG	STATUS	CONCEPTICON_ID	CONCEPTICON_GLOSS	MATCH_QUALITY
+1	above	location, adjective or noun	OLD	1	above	1
+
+2	all	characterisation, quantity	OLD	2	all	1
+
+3	ant (noun)	animal	NEW	3	the ant	3
+
+4	armpit (noun)	body	NEW	4	the armpit	3
+
+5	bad	characterisation, character	OLD	5	bad	1
+
+6	bamboo (noun)	plant, food	NEW	6	the bamboo	3
+
+7	barley (tibetan or highland) (noun)	plant	NEW	7	the barley (tibetan or highland)	3
+
+8	be alive (verb)	process	OLD	8	to be alive	2
+
+9	belly (noun)	body	OLD	9	the belly	3
+
+10	below, under	location, adjective or noun	OLD	10	below, under	1
+
+11	big	characterisation, quantity	OLD	11	big	1
+
+12	bird (noun)	animal	OLD	12	the bird	3
+
+13	bite (verb)	action	OLD	13	to bite	2
+
+14	black	characterization, color	OLD	14	black	1
+
+15	blood (noun)	body	OLD	15	the blood	3
+
+16	blow (of wind) (verb)	process	OLD	16	to blow (of wind)	2
+
+17	body hair (hair or fur) (noun)		NEW	17	the body hair (hair or fur)	3
+
+18	bone (noun)	body	OLD	18	the bone	3
+
+19	branch (noun)	body, plant	OLD	19	the branch	3
+
+20	breast (female) (noun)	body	OLD	20	the breast (female)	3
+
+21	burn [intransitive] (verb)	process	OLD	21	to burn [intransitive]	2
+
+22	buy (verb)	action	OLD	22	to buy	2
+
+23	chew (verb)	action	OLD	23	to chew	2
+
+24	child (young human (noun)	kinship	OLD	24	the child (young human	3
+
+25	cloud (noun)	nature	OLD	25	the cloud	3
+
+26	cold (of temperature)	characterization, weather	OLD	26	cold (of temperature)	1
+
+27	come (verb)	action	OLD	27	to come	2
+
+28	correct (right)	characterization, character	OLD	28	correct (right)	1
+
+29	count (verb)	action	OLD	29	to count	2
+
+30	cry (weep) (verb)	action	OLD	30	to cry (weep)	2
+
+31	dark	characterisation, state	NEW	31	dark	1
+
+32	daughter (noun)	kinship	NEW	32	the daughter	3
+
+33	dew (noun)	nature	NEW	33	the dew	3
+
+34	die (verb)	process	OLD	34	to die	2
+
+35	dig (verb)	action	OLD	35	to dig	2
+
+36	dirty	characterisation, state	OLD	36	dirty	1
+
+37	dog (noun)	nature	OLD	37	the dog	3
+
+38	dream (noun)	mind	OLD	38	the dream	3
+
+39	drink (verb)	action	OLD	39	to drink	2
+
+40	dry	characterisation, state	OLD	40	dry	1
+
+41	dust (noun)	nature	OLD	41	the dust	3
+
+42	ear (noun)	body	OLD	42	the ear	3
+
+43	early	time	NEW	43	early	1
+
+44	earth (soil) (noun)	nature	OLD	44	the earth (soil)	3
+
+45	earthworm (noun)	animal	NEW	45	the earthworm	3
+
+46	eat (verb)	action	OLD	46	to eat	2
+
+47	egg (noun)	animal, product	OLD	47	the egg	3
+
+48	eight	number	OLD	48	eight	1
+
+49	eye (noun)	body	OLD	49	the eye	3
+
+50	far	characterisation, location	OLD	50	far	1
+
+51	father (noun)	kinship	OLD	51	the father	3
+
+52	feather (noun)	animal, product	OLD	52	the feather	3
+
+53	fight (verb)	action	OLD	53	to fight	2
+
+54	fire (noun)	nature	OLD	54	the fire	3
+
+55	firewood	object, utility	NEW	55	firewood	1
+
+56	fish (noun)	animal	OLD	56	the fish	3
+
+57	five	number	OLD	57	five	1
+
+58	flea (noun)	animal	NEW	58	the flea	3
+
+59	float (verb)	process	OLD	59	to float	2
+
+60	flow (verb)	process	OLD	60	to flow	2
+
+61	flower (noun)	plant	OLD	61	the flower	3
+
+62	fly (move through air) (verb)	action	OLD	62	to fly (move through air)	2
+
+63	fog (noun)	nature	OLD	63	the fog	3
+
+64	foot (noun)	body	OLD	64	the foot	3
+
+65	forest (noun)	nature	OLD	65	the forest	3
+
+66	forget	action	NEW	66	forget	1
+
+67	four	number	OLD	67	four	1
+
+68	fox (noun)	animal	NEW	68	the fox	3
+
+69	frog (noun)	animal	NEW	69	the frog	3
+
+70	front (front side) (noun)	location	NEW	70	the front (front side)	3
+
+71	frost (noun)	nature	NEW	71	the frost	3
+
+72	fruit (noun)	nature, food	OLD	72	the fruit	3
+
+73	full	characterisation, state	OLD	73	full	1
+
+74	give (verb)	action	OLD	74	to give	2
+
+75	goat (noun)	animal	NEW	75	the goat	3
+
+76	good	characterisation, character	OLD	76	good	1
+
+77	grass (noun)	nature	OLD	77	the grass	3
+
+78	green	characterization, color	OLD	78	green	1
+
+79	hail (noun)	nature	NEW	79	the hail	3
+
+80	hair (of the head) (noun)	body	OLD	80	the hair (of the head)	3
+
+81	hand (noun)	body	OLD	81	the hand	3
+
+82	hard	characterisation, form	NEW	82	hard	1
+
+83	he or she [third person pronoun singular]	pronoun	OLD	83	he or she [third person pronoun singular]	1
+
+84	head (noun)	body	OLD	84	the head	3
+
+85	hear (verb)	action	OLD	85	to hear	2
+
+86	heart (noun)	body	OLD	86	the heart	3
+
+87	heavy	characterisation, quantity	OLD	87	heavy	1
+
+88	here	location, pronoun	OLD	88	here	1
+
+89	hide (conceal) (verb)	action	OLD	89	to hide (conceal)	2
+
+90	high / tall	characterisation, quantity	NEW	90	high / tall	1
+
+91	hold (verb)	action	OLD	91	to hold	2
+
+92	hoof (noun)	body	NEW	92	the hoof	3
+
+93	horizontal	location	NEW	93	horizontal	1
+
+94	horn (keratinized skin) (noun)	body, animal	OLD	94	the horn (keratinized skin)	2
+
+95	horse (noun)	animal	NEW	95	the horse	3
+
+96	hot	characterisation, temperature	NEW	96	hot	1
+
+97	house (noun)	residence	OLD	97	the house	3
+
+98	hundred	number	NEW	99	hundred	1
+
+99	hundred	number	OLD	99	hundred	1
+
+100	hunt (verb)	action	OLD	100	to hunt	2
+
+101	husband (noun)	kinship	OLD	101	the husband	3
+
+102	i [first person singular]	pronoun	OLD	102	i [first person singular]	1
+
+103	ice (noun)	nature	OLD	103	the ice	3
+
+104	inside	location	NEW	104	inside	1
+
+105	kill (verb)	action	OLD	105	to kill	2
+
+106	knead	action	NEW	106	knead	1
+
+107	knee (noun)	body	OLD	107	the knee	3
+
+108	knife	object, tool	OLD	108	knife	1
+
+109	know (verb)	action	OLD	109	to know	2
+
+110	lake (noun)	nature	OLD	110	the lake	3
+
+111	late	time	NEW	111	late	1
+
+112	laugh (verb)	action	OLD	112	to laugh	2
+
+113	leaf (noun)	body, animal	OLD	113	the leaf	3
+
+114	learn	action	NEW	114	learn	1
+
+115	left	characterization, location	OLD	115	left	1
+
+116	lick (verb)	action	OLD	116	to lick	2
+
+117	lie down (verb)	action	OLD	117	to lie down	2
+
+118	light (of weight)	characterisation, quantity	NEW	118	light (of weight)	1
+
+119	lip (the lips) (noun)		NEW	119	the lip (the lips)	3
+
+120	liver (noun)	body	OLD	120	the liver	3
+
+121	long	characterization, quantity	OLD	121	long	1
+
+122	louse (noun)	animal	OLD	122	the louse	3
+
+123	lung (noun)	body part	NEW	123	the lung	3
+
+124	man (male human) (noun)	human being	OLD	124	the man (male human)	2
+
+125	many	characterization, quantity	OLD	125	many	1
+
+126	marry (a man marries a woman)	action	NEW	126	marry (a man marries a woman)	1
+
+127	meat (noun)	body, animal	OLD	127	the meat	3
+
+128	middle	location	NEW	128	middle	1
+
+129	moon (noun)	nature, object	OLD	129	the moon	3
+
+130	morning	time	NEW	130	morning	1
+
+131	mosqui(noun) (verb)	animal	OLD	0	???	8
+
+132	mother (noun)	kinship	OLD	132	the mother	3
+
+133	mountain (noun)	nature, geography	OLD	133	the mountain	3
+
+134	mouse or rat (noun)	animal	OLD	134	the mouse or rat	3
+
+135	mouth (noun)	body	OLD	135	the mouth	3
+
+136	mud (noun)	nature	NEW	136	the mud	3
+
+137	nail (fingernail or claw) (noun)	body	OLD	137	the nail (fingernail or claw)	3
+
+138	name (noun)	human being	OLD	138	the name	3
+
+139	narrow	characterization, quantity	OLD	139	narrow	1
+
+140	near	characterization, quantity	OLD	140	near	1
+
+141	neck (noun)	body	OLD	141	the neck	3
+
+142	needle (for sewing) (noun)	object, tool	OLD	142	the needle (for sewing)	3
+
+143	new	characterization, state	OLD	143	new	1
+
+144	nine	number	OLD	144	nine	1
+
+145	nit (noun)	animal	NEW	145	the nit	3
+
+146	noon	time	NEW	146	noon	1
+
+147	nose (noun)	body	OLD	147	the nose	3
+
+148	old (of person)	characterization, state	OLD	148	old (of person)	1
+
+149	one	number	OLD	149	one	1
+
+150	otter (noun)	animal	NEW	150	the otter	3
+
+151	outside	location	NEW	151	outside	1
+
+152	pig (noun)	animal	NEW	152	the pig	3
+
+153	plant (vegetals, rice) (verb)	action	OLD	153	to plant (vegetals, rice)	2
+
+154	play (verb)	action	OLD	154	to play	2
+
+155	pull (verb)	action	OLD	155	to pull	2
+
+156	push (verb)	action	OLD	156	to push	2
+
+157	rain (noun)	nature, phenomenon	OLD	157	the rain	3
+
+158	rainbow (noun)	nature	NEW	158	the rainbow	3
+
+159	red	characterization, color	OLD	159	red	1
+
+160	reside (live) (verb)	action	OLD	160	to reside (live)	2
+
+161	rice plant (noun)	object, food	NEW	161	the rice plant	3
+
+162	right	characterization, location	OLD	162	right	1
+
+163	river (noun)	nature, geography	OLD	163	the river	3
+
+164	road (noun)	object, geography	OLD	164	the road	3
+
+165	root (noun)	body, animal	OLD	165	the root	3
+
+166	rope (noun)	object, tool	OLD	166	the rope	3
+
+167	round	characterization, form	OLD	167	round	1
+
+168	run	action	NEW	168	run	1
+
+169	salt (noun)	object, food	OLD	169	the salt	3
+
+170	salty	characterisation, taste	NEW	170	salty	1
+
+171	sand (noun)	nature, substance	OLD	171	the sand	3
+
+172	scratch (verb)	action	OLD	172	to scratch	2
+
+173	sea (noun)	nature, geography	OLD	173	the sea	3
+
+174	see (verb)	action	OLD	174	to see	2
+
+175	seed (noun)	object, food	OLD	175	the seed	3
+
+176	seven	number	OLD	176	seven	1
+
+177	sharp	characterization, form	OLD	177	sharp	1
+
+178	sheep (noun)	animal	NEW	178	the sheep	3
+
+179	shoot (an arrow) (verb)	action	OLD	179	to shoot (an arrow)	2
+
+180	short	characterization, quantity	OLD	180	short	1
+
+181	shoulder (noun)	body	OLD	181	the shoulder	3
+
+182	shy	characterization, character	OLD	182	shy	1
+
+183	sickle	object, tool	NEW	183	the sickle	3
+
+184	sing (verb)	action	OLD	184	to sing	2
+
+185	six	number	OLD	185	six	1
+
+186	skin (noun)	body	OLD	186	the skin	3
+
+187	sky (noun)	nature, geography	OLD	187	the sky	3
+
+188	sleep (verb)	action	OLD	188	to sleep	2
+
+189	small	characterization, quantity	OLD	189	small	1
+
+190	smell (perceive odor) [transitive] (verb)	action	OLD	190	to smell (perceive odor) [transitive]	2
+
+191	smoke (noun)	nature	OLD	191	the smoke	3
+
+192	smooth	characterization, form	OLD	192	smooth	1
+
+193	snake (noun)	animal	OLD	193	the snake	3
+
+194	snow (noun)	nature, object	OLD	194	the snow	3
+
+195	soft	characterisation, form	NEW	195	soft	1
+
+196	son (noun)	kinship	NEW	196	the son	3
+
+197	sparrow (noun)	animal	NEW	197	the sparrow	3
+
+198	spider (noun)	animal	OLD	198	the spider	3
+
+199	spit (verb)	action	OLD	199	to spit	2
+
+200	stand (verb)	action	OLD	200	to stand	2
+
+201	star (noun)	nature, geography	OLD	201	the star	3
+
+202	steal (verb)	action	OLD	202	to steal	2
+
+203	stick (noun)	object, tool	OLD	203	the stick	3
+
+204	stone (a piece of) (noun)	nature, substance	OLD	204	the stone (a piece of)	3
+
+205	straight	characterization, form	OLD	205	straight	1
+
+206	sun (noun)	object, geography	OLD	206	the sun	3
+
+207	tail (noun)	body, animal	OLD	207	the tail	3
+
+208	ten	number	OLD	208	ten	1
+
+209	that	pronoun	OLD	209	that	1
+
+210	there	location	OLD	210	there	1
+
+211	thick	characterization, quantity	OLD	211	thick	1
+
+212	thigh (noun)	body	NEW	212	the thigh	3
+
+213	thin	characterization, form	OLD	213	thin	1
+
+214	think (reflect) (verb)	action	OLD	214	to think (reflect)	2
+
+215	this	pronoun	OLD	215	this	1
+
+216	thou [second person pronoun singular]	pronoun	OLD	216	thou [second person pronoun singular]	1
+
+217	three	number	OLD	217	three	1
+
+218	throw (verb)	action	OLD	218	to throw	2
+
+219	thunder (noun)	object, phenomenon	OLD	219	the thunder	3
+
+220	tiger (noun)	animal	NEW	220	the tiger	3
+
+221	today	time	NEW	221	today	1
+
+222	tomorrow	time	NEW	222	tomorrow	1
+
+223	tongue (noun)	body	OLD	223	the tongue	3
+
+224	tooth (front) (noun)	body	OLD	224	the tooth (front)	3
+
+225	tree (noun)	nature, object	OLD	225	the tree	3
+
+226	twenty	number	OLD	226	twenty	1
+
+227	two	number	OLD	227	two	1
+
+228	vomit (verb)	action	OLD	228	to vomit	2
+
+229	walk (verb)	action	OLD	229	to walk	2
+
+230	water (noun)	nature, substance	OLD	230	the water	3
+
+231	we [first person plural]	pronoun	OLD	231	we [first person plural inclusive]	3
+
+232	wet	characterisation, state	OLD	232	wet	1
+
+233	what	pronoun, question	OLD	233	what	1
+
+234	wheat (noun)	object, food	NEW	234	the wheat	3
+
+235	where	pronoun, question	OLD	235	where	1
+
+236	white	characterisation, color	OLD	236	white	1
+
+237	who	pronoun, question	OLD	237	who	1
+
+238	wife (noun)	kinship	OLD	238	the wife	3
+
+239	wind (noun)	nature, phenomenon	OLD	239	the wind	3
+
+240	wing (noun)	body, animal	OLD	240	the wing	3
+
+241	wipe (verb)	action	OLD	241	to wipe	2
+
+242	wolf (noun)	animal	NEW	242	the wolf	3
+
+243	woman (noun)	human being	OLD	243	the woman	3
+
+244	wood (material) (noun)	plant, substance	OLD	244	the wood (material)	3
+
+245	worm (noun)	animal	OLD	245	the worm	3
+
+246	year (noun)	time	OLD	246	the year	3
+
+247	yellow	characterisation, color	OLD	247	yellow	1
+
+248	yesterday	time	NEW	248	yesterday	1
+
+249	you [second person plural]	pronoun	OLD	249	you [second person plural]	1
+
+250	young	characterisation, age	NEW	250	young	1
+
