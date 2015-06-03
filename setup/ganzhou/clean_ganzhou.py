@@ -14,7 +14,7 @@ from lingpyd.plugins.chinese.sinopy import clean_chinese_ipa
 from lingpyd.plugins.lpserver.lexibase import LexiBase
 
 # load stb data (today's status)
-stb = LexiBase('sinotibetan', dbase='../../sqlite/sinotibetan.sqlite3',
+stb = LexiBase('sinotibetan', dbase='sinotibetan.sqlite3',
         url='http://tsv.lingpy.org/triples/sinotibetan.sqlite3')
 
         #Wordlist('sinotibetan-2015-02-10.tsv')

@@ -2,12 +2,12 @@
 #os.system('mv sinotibetan.sqlite3 ~/projects/websites/dighl/triples/')
 from lingpyd import *
 from lingpyd.plugins.lpserver.lexibase import LexiBase,load_sqlite
-
+import json
 # in later steps:
 # re-link the data
 db = LexiBase('sinotibetan', dbase='sinotibetan.sqlite3')
 
-mcon = [w[1] for w in csv2list('matches.tsv')]
+mcon = [w[1] for w in csv2list('stdb.concepts.csv')]
 txt1 = ''
 concepts = sorted(set([db[k,'concept'] for k in db]))
 for c in concepts:
@@ -34,12 +34,16 @@ txt3 = ''
 for col in sorted(db.header, key=lambda x: db.header[x]):
     txt3 += '<option value="'+col.upper()+'" selected>'+col.upper()+'</option>'
 
+with open('metadata.json') as f:
+    meta = 'META = '+json.dumps(json.loads(f.read()))+';'
+
 with open('website/index.template.html') as f:
     d = f.read()
     d = d.format(JS=open('website/stb.js').read(), 
             DOCULECTS = txt2,
             CONCEPTS  = txt1,
-            CONTENT = txt3
+            CONTENT = txt3,
+            META = meta
             )
 with open('website/index.html', 'w') as f:
     f.write(d)        
