@@ -24,6 +24,12 @@ concepts = [line[2] for line in csv2list('../concepts/Jacques-2015-249.tsv',
 with open('metadata.json') as f:
     meta = json.loads(f.read())
 
+# write backup
+with open('metadata.json.bak','w') as f:
+    f.write(json.dumps(meta, indent=2))
+
+
+missing = open('missing-data.tsv','w')
 # start determining coverage
 for t in db.taxa:
    
@@ -45,9 +51,14 @@ for t in db.taxa:
         meta[t]['coverage'] = int(100 * coverage / len(concepts) + 0.5)
         print(t,'\t',entries,'\t', coverage, '\t',
                 '{0:.2f}'.format(coverage/len(concepts)))
+        missing.write(
+                t+'\t'+str(meta[t]['coverage'])+'\t'+','.join([x for x in concepts if x not in
+                ipa_part])+'\n')
+
     else:
         print("[!] Missing meta-data for {0}".format(t))
+missing.close()
 
-with open('meta.modified.json', 'w') as f:
+with open('metadata.json', 'w') as f:
     f.write(json.dumps(meta, indent=2))
 
