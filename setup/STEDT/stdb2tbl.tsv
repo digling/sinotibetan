@@ -1,0 +1,261 @@
+NUMBER	GLOSS	SEMANTIC TAG	STATUS	CONCEPTICON_ID	CONCEPTICON_GLOSS
+1	to bite	action	OLD	bite (verb)
+2	to buy	action	OLD	buy (verb)
+3	to chew	action	OLD	chew (verb)
+4	to come	action	OLD	come (verb)
+5	to cook	action	OLD	cook / boil (verb)
+6	to count	action	OLD	count (numbers) (verb)
+7	to cry (weep)	action	OLD	cry (verb)
+8	to cut	action	OLD	cut (meat) (verb)
+9	to dig	action	OLD	dig / scoop out (verb)
+10	to drink	action	OLD	drink (verb)
+11	to eat	action	OLD	eat
+12	to fight	action	OLD	fight (verb)
+13	to fly (move through air)	action	OLD	fly (verb)
+14	to give	action	OLD	give (verb)
+15	to hear	action	OLD	hear (verb)
+16	to hide (conceal)	action	OLD	hide (sthg.)
+17	to hold	action	OLD	hold (a pen) (verb)
+18	to hunt	action	OLD	hunt
+19	to kill	action	OLD	kill (verb)
+20	to know	action	OLD	familiar with, be / know sthg. o (verb)
+21	to laugh	action	OLD	laugh / smile (verb)
+22	to lick	action	OLD	lick / lap (verb)
+23	to lie down	action	OLD	lie down (verb)
+24	to open	action	OLD	open (verb)
+25	to plant	action	OLD	plant (trees) (verb)
+26	to play	action	OLD	play / amuse oneself (verb)
+27	to pull	action	OLD	pull / tug (verb)
+28	to push	action	OLD	push / shove (verb)
+29	to reside (live)	action	OLD	live / reside (verb)
+30	to scratch	action	OLD	scratch (an itch) (verb)
+31	to see	action	OLD	see ( a doctor) (verb)
+32	to shoot (an arrow)	action	OLD	shoot (an arrow) (verb)
+33	to sing	action	OLD	sing
+34	to sleep	action	OLD	sleep (verb)
+35	to smell (perceive odor) [transitive]	action	OLD	smell (verb)
+36	to spit	action	OLD	spit (verb)
+37	to stand	action	OLD	stand (verb)
+38	to steal	action	OLD	steal (verb)
+39	to think (reflect)	action	OLD	think (verb)
+40	to throw	action	OLD	throw / hurl (verb)
+41	to vomit	action	OLD	throw up / vomit (verb)
+42	to walk	action	OLD	walk (verb)
+43	to wash	action	OLD	wash (clothes) (verb)
+44	to wipe	action	OLD	wipe (the table)
+45	knead	action	NEW	knead (dough) (verb)
+46	marry (a man marries a woman)	action	NEW	marry (a woman) (verb)
+47	forget	action	NEW	forget (verb)
+48	learn	action	NEW	learn (verb)
+49	run	action	NEW	run (verb)
+50	swallow	action	NEW	swallow (verb)
+51	the bird	animal	OLD	bird (noun)
+52	the fish	animal	OLD	fish (noun)
+53	the louse	animal	OLD	louse (noun)
+54	the mosquito	animal	OLD	mosquito (noun)
+55	the mouse or rat	animal	OLD	mouse (noun)
+56	the snake	animal	OLD	snake (noun)
+57	the spider	animal	OLD	spider (noun)
+58	the worm	animal	OLD	insect / worm (noun)
+59	the ant	animal	NEW	ant (noun)
+60	the bedbug	animal	NEW	bedbug (noun)
+61	the crow	animal	NEW	crow (noun)
+62	the earthworm	animal	NEW	earthworm (noun)
+63	the goose	animal	NEW	goose (wild) (noun)
+64	the monkey	animal	NEW	monkey (noun)
+65	the pig	animal	NEW	pig (noun)
+66	the rabbit	animal	NEW	rabbit (noun)
+67	the bull	animal	NEW	bull (noun)
+68	the cat	animal	NEW	cat (noun)
+69	the frog	animal	NEW	frog (noun)
+70	the goat	animal	NEW	goat (noun)
+71	the sheep	animal	NEW	sheep (noun)
+72	the sparrow	animal	NEW	sparrow (noun)
+73	the tiger	animal	NEW	tiger (noun)
+74	the wolf	animal	NEW	wolf (noun)
+75	the egg	animal, product	OLD	egg (noun)
+76	the feather	animal, product	OLD	feather / plume (noun)
+77	the belly	body	OLD	belly (noun)
+78	the blood	body	OLD	blood (noun)
+79	the bone	body	OLD	bone (noun)
+80	the breast	body	OLD	breast (noun)
+81	the ear	body	OLD	ear (noun)
+82	the eye	body	OLD	eye (noun)
+83	the foot	body	OLD	foot (noun)
+84	the hair	body	OLD	hair / down (noun)
+85	the hand	body	OLD	hand (noun)
+86	the head	body	OLD	head (noun)
+87	the heart	body	OLD	heart (noun)
+88	the knee	body	OLD	knee (noun)
+89	the liver	body	OLD	liver (noun)
+90	the mouth	body	OLD	mouth (noun)
+91	the nail (fingernail or claw)	body	OLD	nail (noun)
+92	the neck	body	OLD	neck (noun)
+93	the nose	body	OLD	nose (noun)
+94	the shoulder	body	OLD	shoulder (noun)
+95	the skin	body	OLD	skin (noun)
+96	the tongue	body	OLD	tongue (noun)
+97	the tooth (front)	body	OLD	tooth (noun)
+98	the armpit	body	NEW	armpit (noun)
+99	the thigh	body	NEW	thigh (noun)
+100	the hoof	body	NEW	hoof (noun)
+101	the horn (keratinized skin)	body, animal	OLD	horn (noun)
+102	the leaf	body, animal	OLD	leaf (noun)
+103	the meat	body, animal	OLD	meat (noun)
+104	the root	body, animal	OLD	root (noun)
+105	the tail	body, animal	OLD	tail (noun)
+106	the wing	body, animal	OLD	wing (noun)
+107	the branch	body, plant	OLD	branch / twig (noun)
+108	young	characterisation, age	NEW	young
+109	bad	characterisation, character	OLD	bad
+110	good	characterisation, character	OLD	good
+111	white	characterisation, color	OLD	white
+112	yellow	characterisation, color	OLD	yellow
+113	hard	characterisation, form	NEW	hard
+114	soft	characterisation, form	NEW	soft
+115	far	characterisation, location	OLD	far / distant
+116	all	characterisation, quantity	OLD	all / everything
+117	big	characterisation, quantity	OLD	big / large
+118	heavy	characterisation, quantity	OLD	heavy
+119	high / tall	characterisation, quantity	NEW	high / tall
+120	light (of weight)	characterisation, quantity	NEW	light (weight)
+121	dirty	characterisation, state	OLD	dirty
+122	dry	characterisation, state	OLD	dry
+123	full	characterisation, state	OLD	full
+124	wet	characterisation, state	OLD	wet
+125	dark	characterisation, state	NEW	dark
+126	salty	characterisation, taste	NEW	salty
+127	warm (hot)	characterisation, temperature	OLD	warm
+128	hot	characterisation, temperature	NEW	hot
+129	correct (right)	characterization, character	OLD	right / correct
+130	shy	characterization, character	OLD	shy, be / bashful (verb)
+131	black	characterization, color	OLD	black
+132	green	characterization, color	OLD	green
+133	red	characterization, color	OLD	red
+134	sharp	characterization, form	OLD	sharp
+135	smooth	characterization, form	OLD	smooth / glossy / sleek
+136	straight	characterization, form	OLD	straight
+137	thin	characterization, form	OLD	thin
+138	left	characterization, location	OLD	left
+139	right	characterization, location	OLD	right
+140	long	characterization, quantity	OLD	long
+141	many	characterization, quantity	OLD	many / much
+142	narrow	characterization, quantity	OLD	narrow
+143	near	characterization, quantity	OLD	near
+144	short	characterization, quantity	OLD	short
+145	small	characterization, quantity	OLD	small
+146	some	characterization, quantity	OLD	some
+147	thick	characterization, quantity	OLD	thick
+148	new	characterization, state	OLD	new
+149	old (of person)	characterization, state	OLD	old / elderly
+150	cold (of temperature)	characterization, weather	OLD	cold (weather, water)
+151	the man (male human)	human being	OLD	man (noun)
+152	the name	human being	OLD	surname / name (family) (noun)
+153	the woman	human being	OLD	woman (noun)
+154	the child (young human	kinship	OLD	child (noun)
+155	the father	kinship	OLD	father (noun)
+156	the husband	kinship	OLD	husband (noun)
+157	the mother	kinship	OLD	mother (noun)
+158	the wife	kinship	OLD	wife (noun)
+159	the daughter	kinship	NEW	daughter (noun)
+160	the son	kinship	NEW	son (noun)
+161	there	location	OLD	there
+162	the front (front side)	location	NEW	front
+163	horizontal	location	NEW	horizontal
+164	inside	location	NEW	inside
+165	middle	location	NEW	middle (noun)
+166	outside	location	NEW	outside
+167	above	location, adjective or noun	OLD	over / above
+168	below, under	location, adjective or noun	OLD	below / under
+169	here	location, pronoun	OLD	here
+170	the dream	mind	OLD	cut / gouge out (verb)
+171	the cloud	nature	OLD	cloud (noun)
+172	the dog	nature	OLD	dog (noun)
+173	the dust	nature	OLD	dust (noun)
+174	the earth (soil)	nature	OLD	soil / earth (noun)
+175	the fire	nature	OLD	fire (noun)
+176	the fog	nature	OLD	fog (noun)
+177	the forest	nature	OLD	forest (noun)
+178	the grass	nature	OLD	grass (noun)
+179	the ice	nature	OLD	ice (noun)
+180	the lake	nature	OLD	lake (noun)
+181	the smoke	nature	OLD	smoke (noun)
+182	the frost	nature	NEW	frost (noun)
+183	the hail	nature	NEW	hail (noun)
+184	the pond	nature	NEW	pond (noun)
+185	the dew	nature	NEW	dew (noun)
+186	the mud	nature	NEW	mud (noun)
+187	the rainbow	nature	NEW	rainbow (noun)
+188	the fruit	nature, food	OLD	fruit (noun)
+189	the mountain	nature, geography	OLD	hill / mountain (noun)
+190	the river	nature, geography	OLD	river (noun)
+191	the sea	nature, geography	OLD	sea (noun)
+192	the sky	nature, geography	OLD	sky (noun)
+193	the star	nature, geography	OLD	star (noun)
+194	the moon	nature, object	OLD	moon (noun)
+195	the snow	nature, object	OLD	snow (noun)
+196	the tree	nature, object	OLD	tree (noun)
+197	the rain	nature, phenomenon	OLD	rain (noun)
+198	the wind	nature, phenomenon	OLD	wind (noun)
+199	the sand	nature, substance	OLD	sand (noun)
+200	the stone (a piece of)	nature, substance	OLD	stone (noun)
+201	the water	nature, substance	OLD	water (noun)
+202	eight	number	OLD	eight
+203	five	number	OLD	five
+204	four	number	OLD	four
+205	hundred	number	OLD	hundred
+206	nine	number	OLD	nine
+207	one	number	OLD	one
+208	seven	number	OLD	seven
+209	six	number	OLD	six
+210	ten	number	OLD	ten
+211	three	number	OLD	three
+212	twenty	number	OLD	twenty
+213	two	number	OLD	two
+214	the salt	object, food	OLD	salt (noun)
+215	the seed	object, food	OLD	seed (noun)
+216	the soup	object, food	NEW	soup (noun)
+217	the wheat	object, food	NEW	wheat (noun)
+218	the rice	object, food	NEW	rice (noun)
+219	the road	object, geography	OLD	road (noun)
+220	the sun	object, geography	OLD	sun (noun)
+221	the copper	object, mineral, metal	NEW	copper (noun)
+222	the iron	object, mineral, metal	NEW	iron (noun)
+223	the thunder	object, phenomenon	OLD	thunder (noun)
+224	knife	object, tool	OLD	knife (noun)
+225	the needle (for sewing)	object, tool	OLD	needle (noun)
+226	the rope	object, tool	OLD	rope / string (noun)
+227	the stick	object, tool	OLD	rod / stick (noun)
+228	sickle	object, tool	NEW	sickle (noun)
+229	firewood	object, utility	NEW	firewood (noun)
+230	the flower	plant	OLD	flower (noun)
+231	the grape	plant, food	NEW	grape (noun)
+232	the peach	plant, food	NEW	peach (noun)
+233	the bamboo	plant, food	NEW	bamboo (noun)
+234	the vegetable	plant, food	NEW	vegetable (noun)
+235	the wood (material)	plant, substance	OLD	wood / log (noun)
+236	to be alive	process	OLD	living (adj.)
+237	to blow (of wind)	process	OLD	blow (wind) (verb)
+238	to burn [intransitive]	process	OLD	burn (verb)
+239	to die	process	OLD	die (verb)
+240	to fall	process	OLD	fall over / down (verb)
+241	to float	process	OLD	float (verb)
+242	to flow	process	OLD	flow (of water) (verb)
+243	I [first person singular]	pronoun	OLD	I
+244	that	pronoun	OLD	that
+245	they [third person plural]	pronoun	OLD	they
+246	this	pronoun	OLD	this
+247	we [first person plural]	pronoun	OLD	we
+248	you [second person plural]	pronoun	OLD	you
+249	what	pronoun, question	OLD	what
+250	where	pronoun, question	OLD	where
+251	who	pronoun, question	OLD	who
+252	the house	residence	OLD	house (noun)
+253	the year	time	OLD	year (noun)
+254	early	time	NEW	early
+255	late	time	NEW	late
+256	morning	time	NEW	morning (noun)
+257	noon	time	NEW	noon (noun)
+258	today	time	NEW	today
+259	tomorrow	time	NEW	tomorrow
+260	yesterday	time	NEW	yesterday

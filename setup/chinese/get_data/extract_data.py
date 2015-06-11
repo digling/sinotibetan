@@ -31,16 +31,29 @@ for i,table in enumerate(tables):
     # get the first from trs
     tds = re.findall('<td [^>]*>(.*?)</td>',trs[0], re.DOTALL)
     
-    glossA = ''.join(re.findall('<span lang="zh-CN"><b>(.*?)</b>', tds[1]))
-    glossB = ''.join(re.findall('<span lang="zh-CN"><b>(.*?)</b>', tds[2]))
-    print(idx,''.join(glossA))
-    print(idx+1,''.join(glossB))
+    glossA = ''.join(re.findall('<span lang="zh-CN">(.*?)</span>', tds[1]))
+    txtA = ''.join(re.findall('<span lang="en-US">(.*?)</span>', tds[1]))
+    glossB = ''.join(re.findall('<span lang="zh-CN">(.*?)</span>', tds[2]))
+    txtB = ''.join(re.findall('<span lang="en-US">(.*?)</span>', tds[2]))
 
-    f.write('{0}\t{1}\n{2}\t{3}\n'.format(idx,''.join(glossA),idx+1,''.join(glossB)))
+    glossAX = re.sub('</*b*>','',glossA)
+    glossBX = re.sub('</*b>','',glossB)
+    txtAX = re.sub('</*b>','',txtA)
+    txtBX = re.sub('</*b>', '', txtB)
+    
+    if glossAX != glossA:
+        print(idx,glossAX, glossA)
+    else:
+        print(idx, glossA, txtAX)
+    print(idx+1,glossBX)
+
+    f.write('{0}\t{1}\t{4}\n{2}\t{3}\t{5}\n'.format(
+        idx,''.join(glossAX),idx+1,''.join(glossBX),
+        txtAX+'\t'+txtA, txtBX+'\t'+txtB))
     print('')
     idx += 2
     
-    glosses += [glossA,glossB]
+    glosses += [glossAX,glossBX]
 
 print('---')
 idx = 1

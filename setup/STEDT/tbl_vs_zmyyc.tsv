@@ -1,0 +1,2106 @@
+NUMBER	GLOSS	CINDEX	CGLOSS	MATCH_QUALITY
+1	sky	0001	sky (noun)	2
+
+2	sun	0002	sun (noun)	2
+
+3	moon	0004	moon (noun)	2
+
+4	star	0005	star (noun)	2
+
+5	thunder	0008	thunder (noun)	2
+
+6	cloud	0007	cloud (noun)	2
+
+7	wind	0009	wind (noun)	2
+
+8	rain	0010	rain (noun)	2
+
+9	snow	0012	snow (noun)	2
+
+10	water	1422	water / sprinkle / irrigate (verb)	2
+
+11	ice	0017	ice (noun)	2
+
+12	fog	0016	fog (noun)	2
+
+13	frost	0014	frost (noun)	2
+
+14	dew	0015	dew (noun)	2
+
+15	hail	0013	hail (noun)	2
+
+16	rainbow	0011	rainbow (noun)	2
+
+17	earth	0040	soil / earth (noun)	2
+
+18	river	0030	river (noun)	2
+
+19	sea	0032	sea (noun)	2
+
+20	lake	0031	lake (noun)	2
+
+21	pond	0033	pond (noun)	2
+
+22	well	0035	well (noun)	2
+
+23	spring (water)	0049	spring (water) (noun)	2
+
+24	ditch	0034	ditch / gully (noun)	2
+
+25	mountain	0023	hill / mountain (noun)	2
+
+26	cliff	0026	cliff (noun)	2
+
+27	field	0	???	8
+
+28	ground	0022	earth / ground (noun)	2
+
+29	plain	0	???	8
+
+30	slope	0024	hillside / mountain slope (noun)	6
+
+31	earth	0040	soil / earth (noun)	2
+
+32	mud	0046	mud (noun)	2
+
+33	cave	0029	cave / hole (noun)	2
+
+34	hole	0029	cave / hole (noun)	2
+
+35	gold	0051	gold (noun)	2
+
+36	silver	0052	silver (noun)	2
+
+37	copper	0053	copper (noun)	2
+
+38	iron	0054	iron (noun)	2
+
+39	rust	0056	rust (noun)	2
+
+40	steel	0538	steel (for flint) (noun)	2
+
+41	tin	0557	pot / jar / tin (noun)	2
+
+42	stone / rock	0379	pit / stone (noun)	2
+42	stone / rock	1751	rock / sway (verb)	2
+
+43	sand	0044	sand (noun)	2
+
+44	coal	0058	coal (noun)	2
+
+45	fire	1231	fire (a shot)	2
+
+46	smoke	0019	smoke (noun)	2
+
+47	east	0704	east (noun)	2
+
+48	west	0706	west (noun)	2
+
+49	south	0705	south (noun)	2
+
+50	north	0707	north (noun)	2
+
+51	front	0712	front	1
+
+52	back (direction)	0091	back (noun)	2
+
+53	left	0710	left	1
+
+54	right	0711	right	1
+
+55	side	0709	side (noun)	2
+
+56	middle	0708	middle (noun)	2
+
+57	top	0729	on top (of the roof)	5
+
+58	underneath	0	???	8
+
+59	inside	0715	inside	1
+
+60	outside	0714	outside	1
+
+61	edge	0718	edge / rim / margin (noun)	2
+
+62	time	0920	time / instance (of hitting)	2
+
+63	year	0777	year (noun)	2
+
+64	year / age	0777	year (noun)	2
+64	year / age	0685	age (noun)	2
+
+65	year, this	0777	year (noun)	2
+65	year, this	0946	thus / this (way) / (like) this	2
+
+66	year, last	0777	year (noun)	2
+66	year, last	0780	year before last	6
+
+67	year, next	0777	year (noun)	2
+67	year, next	0782	year after next	6
+
+68	year before last	0780	year before last	1
+
+69	year after next	0782	year after next	1
+
+70	spring	0049	spring (water) (noun)	2
+
+71	summer	0792	summer (noun)	2
+
+72	autumn	0793	fall / autumn (noun)	2
+
+73	winter	0794	winter (noun)	2
+
+74	month	0771	month (noun)	2
+
+75	month (intercalary)	0771	month (noun)	2
+
+76	January	0772	January (noun)	2
+
+77	February	0773	February (noun)	2
+
+78	March	0	???	8
+
+79	April	0	???	8
+
+80	May	0	???	8
+
+81	June	0	???	8
+
+82	July	0	???	8
+
+83	August	0	???	8
+
+84	September	0	???	8
+
+85	October	0	???	8
+
+86	November	0	???	8
+
+87	December	0	???	8
+
+88	day (24 hours)	0769	day (first of lunar month) (noun)	2
+
+89	today	0738	today	1
+
+90	yesterday	0739	yesterday	1
+
+91	day before yesterday	0740	day before yesterday	1
+
+92	tomorrow	0742	tomorrow	1
+
+93	day after tomorrow	0743	day after tomorrow	1
+
+94	day, first of month	0769	day (first of lunar month) (noun)	2
+94	day, first of month	0776	end of a month (noun)	5
+
+95	day, third of month	0769	day (first of lunar month) (noun)	2
+95	day, third of month	0776	end of a month (noun)	5
+
+96	day, fifth of month	0769	day (first of lunar month) (noun)	2
+96	day, fifth of month	0776	end of a month (noun)	5
+
+97	day, eleventh of month	0769	day (first of lunar month) (noun)	2
+97	day, eleventh of month	0908	hectare, 1 / 15 of	7
+
+98	day, fifteenth of month	0769	day (first of lunar month) (noun)	2
+98	day, fifteenth of month	0908	hectare, 1 / 15 of	7
+
+99	day, sixteenth of month	0769	day (first of lunar month) (noun)	2
+99	day, sixteenth of month	0908	hectare, 1 / 15 of	7
+
+100	day, twentieth of month	0769	day (first of lunar month) (noun)	2
+100	day, twentieth of month	0908	hectare, 1 / 15 of	7
+
+101	day, thirtieth of month	0769	day (first of lunar month) (noun)	2
+101	day, thirtieth of month	0908	hectare, 1 / 15 of	7
+
+102	day(time)	0769	day (first of lunar month) (noun)	2
+
+103	morning	0749	morning (noun)	2
+
+104	noon	0750	noon (noun)	2
+
+105	night	0753	night, at	2
+
+106	now	0744	three days from now	6
+
+107	past, in the	0783	past, in the	1
+
+108	from now on	0744	three days from now	6
+
+109	bovine	0	???	8
+
+110	water buffalo	0256	buffalo (noun)	5
+
+111	cattle (common)	0258	cattle (bull-yak crossbreed) (noun)	2
+
+112	mule	0281	mule (noun)	2
+
+113	horse	0268	horse (noun)	2
+
+114	donkey	0282	donkey (noun)	2
+
+115	pig	0284	pig (noun)	2
+
+116	goat / sheep (generic)	0276	goat (noun)	2
+116	goat / sheep (generic)	0275	sheep (noun)	2
+
+117	goat	0276	goat (noun)	2
+
+118	sheep	0275	sheep (noun)	2
+
+119	dog	0289	dog (noun)	2
+
+120	cat	0291	cat (noun)	2
+
+121	rabbit	0292	rabbit (noun)	2
+
+122	dragon	0306	dragon (noun)	2
+
+123	elephant	0309	elephant (noun)	2
+
+124	tiger	0304	tiger (noun)	2
+
+125	bear	0311	bear (noun)	2
+
+126	leopard	0310	leopard / panther (noun)	2
+
+127	boar	0285	boar (noun)	2
+
+128	monkey	0308	monkey (noun)	2
+
+129	deer	0313	deer (noun)	2
+
+130	wolf	0324	wolf (noun)	2
+
+131	roebuck	0	???	8
+
+132	fox	0325	fox (noun)	2
+
+133	otter	0317	otter (noun)	2
+
+134	rat / mouse	0	???	8
+134	rat / mouse	0320	mouse (noun)	2
+
+135	chicken	0293	chicken (noun)	2
+
+136	rooster	0	???	8
+
+137	hen	0295	hen (noun)	2
+
+138	duck	0300	duck (noun)	2
+
+139	goose	0334	goose (wild) (noun)	2
+
+140	pigeon	0	???	8
+
+141	pheasant	0340	pheasant (noun)	2
+
+142	bird	0326	bird (noun)	2
+
+143	eagle	0330	eagle / vulture (noun)	2
+
+144	wild goose	0334	goose (wild) (noun)	5
+
+145	crow	0339	crow (noun)	2
+
+146	magpie	0338	magpie (noun)	2
+
+147	swallow	0333	swallow (noun)	2
+
+148	sparrow	0336	sparrow (noun)	2
+
+149	bat	0337	bat (noun)	2
+
+150	frog	0349	frog (noun)	2
+
+151	fish	0351	fish (noun)	2
+
+152	snake	0347	snake (noun)	2
+
+153	honeybee	0	???	8
+
+154	butterfly	0370	butterfly (noun)	2
+
+155	dragonfly	0369	dragonfly (noun)	2
+
+156	grasshopper	0	???	8
+
+157	ant	0365	ant (noun)	2
+
+158	centipede	0362	centipede (noun)	2
+
+159	spider	0361	spider (noun)	2
+
+160	bedbug	0354	bedbug (noun)	2
+
+161	flea	0355	flea (noun)	2
+
+162	louse	0356	louse (noun)	2
+
+163	nit	0357	nit (noun)	2
+
+164	fly	0358	fly (noun)	2
+
+165	mosquito	0360	mosquito (noun)	2
+
+166	earthworm	0363	earthworm (noun)	2
+
+167	leech	0364	leech (noun)	2
+
+168	maggot	0359	maggot (noun)	2
+
+169	insect / worm	0353	insect / worm (noun)	2
+
+170	egg	0450	egg (noun)	2
+
+171	wing	0298	wing (noun)	2
+
+172	hair / fur	0266	hair / down (noun)	2
+172	hair / fur	0	???	8
+
+173	feather	0299	feather / plume (noun)	2
+
+174	claw	0307	claw / talon (noun)	2
+
+175	hoof	0264	hoof (noun)	2
+
+176	horn	0263	horn (noun)	2
+
+177	tail	0267	tail (noun)	2
+
+178	tree	0372	tree (noun)	2
+
+179	pine	0385	pine (noun)	2
+
+180	oak	0	???	8
+
+181	fir	0384	fir (China) (noun)	2
+
+182	willow	0382	willow (noun)	2
+
+183	bamboo	0389	bamboo (noun)	2
+
+184	bamboo shoot	0389	bamboo (noun)	5
+
+185	crops	0401	crops (noun)	2
+
+186	rice (plant)	0403	rice (paddy) (noun)	2
+
+187	barley	0412	barley (highland) (noun)	2
+
+188	wheat	0410	wheat (noun)	2
+
+189	barley (Tibetan)	0412	barley (highland) (noun)	2
+
+190	buckwheat (sweet)	0413	buckwheat (noun)	2
+
+191	buckwheat (bitter)	0413	buckwheat (noun)	2
+
+192	sorghum	0	???	8
+
+193	maize	0416	maize / corn (noun)	2
+
+194	sweet potato	0426	potato (noun)	5
+
+195	potato	0426	potato (noun)	2
+
+196	taro	0	???	8
+
+197	sugarcane	0399	sugarcane (noun)	2
+
+198	peanut	0434	peanut (noun)	2
+
+199	cotton	0418	cotton (noun)	2
+
+200	ramie	0	???	8
+
+201	beans	0	???	8
+
+202	melon	0427	melon / gourd (noun)	2
+
+203	pumpkin	0428	pumpkin (noun)	2
+
+204	cucumber	0429	cucumber (noun)	2
+
+205	eggplant	0	???	8
+
+206	vegetable	0420	vegetable (noun)	2
+
+207	cabbage (Chinese)	0	???	8
+
+208	turnip	0	???	8
+
+209	onion (green)	0423	onion / scallion (noun)	2
+
+210	garlic	0424	garlic (noun)	2
+
+211	ginger	0425	ginger (noun)	2
+
+212	pepper, hot / chili	0422	pepper (hot) / chili (noun)	2
+212	pepper, hot / chili	1075	hot / spicy	2
+
+213	fruit	0378	fruit (noun)	2
+
+214	peach	0392	peach (noun)	2
+
+215	persimmon	0395	persimmon (noun)	2
+
+216	grape	0396	grape (noun)	2
+
+217	tobacco	0455	cigarette / tobacco (noun)	2
+
+218	grass	0436	grass (noun)	2
+
+219	mushroom	0437	mushroom (noun)	2
+
+220	seed	0405	seed (noun)	2
+
+221	seedling	0406	seedling (rice) (noun)	2
+
+222	root	0375	root (noun)	2
+
+223	stem / stalk	0	???	8
+
+224	leaf	0376	leaf (noun)	2
+
+225	branch	0374	branch / twig (noun)	2
+
+226	bud	0381	bud (noun)	2
+
+227	stone / pit	0379	pit / stone (noun)	2
+
+228	flower	0377	flower (noun)	2
+
+229	ear (of grain-producing plant)	0081	ear (noun)	2
+
+230	thorn	0391	thorn / splinter (noun)	2
+
+231	body	0073	body (noun)	2
+
+232	head	0074	head (noun)	2
+
+233	forehead	0077	forehead (noun)	2
+
+234	hair of head	0074	head (noun)	5
+
+235	plait	0076	braid / plait (noun)	2
+
+236	face	0082	face (noun)	2
+
+237	eyebrow	0078	eyebrow (noun)	2
+
+238	eye	0079	eye (noun)	2
+
+239	tear	1650	tear up / rip (verb)	5
+
+240	nose	0080	nose (noun)	2
+
+241	ear	0081	ear (noun)	2
+
+242	mouth	0084	mouth (noun)	2
+
+243	lip	0085	lip (noun)	2
+
+244	tooth	0137	tooth (noun)	2
+
+245	tongue	0139	tongue (noun)	2
+
+246	beard	0086	beard / moustache / goatee (noun)	2
+
+247	chin	0088	chin (noun)	2
+
+248	neck	0089	neck (noun)	2
+
+249	throat	0141	throat (noun)	2
+
+250	shoulder	0090	shoulder (noun)	2
+
+251	hand	0107	hand (noun)	2
+
+252	fist	0114	fist (noun)	2
+
+253	arm	0105	arm (noun)	2
+
+254	elbow	0106	elbow (noun)	2
+
+255	finger	0111	finger (middle) (noun)	2
+
+256	fingernail	0	???	8
+
+257	chest	0527	chest / box / trunk (noun)	2
+
+258	back (of body)	0091	back (noun)	2
+
+259	breast	0094	breast (noun)	2
+
+260	belly	0096	belly (noun)	2
+
+261	waist	0098	waist (noun)	2
+
+262	buttocks	0099	buttocks (noun)	2
+
+263	foot	0103	foot (noun)	2
+
+264	leg	0	???	8
+
+265	armpit	0092	armpit (noun)	2
+
+266	skin	0120	skin (noun)	2
+
+267	sinew	0130	tendon / sinew (noun)	2
+
+268	blood	0129	blood (noun)	2
+
+269	stomach	0148	stomach (noun)	2
+
+270	kidney	0146	kidney (noun)	2
+
+271	intestines	0	???	8
+
+272	heart	0144	heart (noun)	2
+
+273	liver	0145	liver (noun)	2
+
+274	lung	0143	lung (noun)	2
+
+275	gall	0147	gall bladder (noun)	6
+
+276	bladder	0150	bladder (noun)	2
+
+277	sweat	0154	sweat (noun)	2
+
+278	snot	0	???	8
+
+279	phlegm	0	???	8
+
+280	saliva / spittle	0156	saliva (noun)	2
+280	saliva / spittle	0	???	8
+
+281	milk	0095	milk (noun)	2
+
+282	excrement	0151	excrement (noun)	2
+
+283	urine	0152	urine (noun)	2
+
+284	fart	0153	fart (noun)	2
+
+285	boil	0123	sore / boil (noun)	2
+
+286	pus	0159	pus (noun)	2
+
+287	smallpox	0	???	8
+
+288	malaria	0	???	8
+
+289	person	0206	person w / pockmarked face (noun)	5
+
+290	man (male person)	0173	man (noun)	2
+
+291	woman	0174	woman (noun)	2
+
+292	old person	0206	person w / pockmarked face (noun)	5
+
+293	young man	1059	young	5
+
+294	young woman	0174	woman (noun)	5
+
+295	child	0169	child (noun)	2
+
+296	friend	0201	friend (noun)	2
+
+297	enemy	0197	enemy (personal) / antagonizer (noun)	2
+
+298	host	0212	host / master (noun)	2
+
+299	guest	0213	guest (noun)	2
+
+300	blind person	0202	blind person (noun)	2
+
+301	deaf person	0204	deaf person (noun)	2
+
+302	mute	0211	mute (noun)	2
+
+303	mad person	0206	person w / pockmarked face (noun)	5
+
+304	lame person	0203	lame person (noun)	2
+
+305	carpenter	0185	carpenter (noun)	2
+
+306	official	0199	official (government) (noun)	3
+
+307	soldier	0179	soldier (noun)	2
+
+308	army	0	???	8
+
+309	worker	0	???	8
+
+310	farmer	0	???	8
+
+311	doctor	0181	doctor (noun)	2
+
+312	teacher	0	???	8
+
+313	student	0	???	8
+
+314	nationality	0	???	8
+
+315	Chinese	0165	Chinese (Han) (noun)	3
+
+316	autonym	0	???	8
+
+317	grandfather	0216	grandfather (noun)	2
+
+318	grandmother	0217	grandmother (noun)	2
+
+319	father	0218	father (noun)	2
+
+320	mother	0219	mother (noun)	2
+
+321	uncle (paternal, elder)	0230	uncle <father's elder brother> (noun)	2
+321	uncle (paternal, elder)	0	???	8
+
+322	aunt (paternal, elder)	0239	aunt <mother's brother's wife> (noun)	2
+322	aunt (paternal, elder)	0	???	8
+
+323	uncle (paternal, younger)	0230	uncle <father's elder brother> (noun)	2
+323	uncle (paternal, younger)	0	???	8
+
+324	aunt (wife of younger paternal	0239	aunt <mother's brother's wife> (noun)	2
+
+325	uncle (paternal aunt's husband	0230	uncle <father's elder brother> (noun)	2
+
+326	aunt (paternal)	0239	aunt <mother's brother's wife> (noun)	2
+
+327	uncle (maternal)	0230	uncle <father's elder brother> (noun)	2
+
+328	aunt (wife of maternal uncle)	0239	aunt <mother's brother's wife> (noun)	2
+
+329	uncle (maternal aunt's husband	0230	uncle <father's elder brother> (noun)	2
+
+330	aunt (maternal)	0239	aunt <mother's brother's wife> (noun)	2
+
+331	father-in-law	0245	father-in-law (noun)	2
+
+332	mother-in-law	0246	mother-in-law (noun)	2
+
+333	brother (elder)	0228	younger brother (noun)	5
+
+334	sister (elder)	0227	elder sister (noun)	5
+
+335	brother (younger)	0228	younger brother (noun)	5
+
+336	sister (younger)	0227	elder sister (noun)	5
+
+337	husband	0247	husband (noun)	2
+
+338	wife	0248	wife (noun)	2
+
+339	son	0220	son (noun)	2
+
+340	daughter	0222	daughter (noun)	2
+
+341	daughter-in-law	0221	daughter-in-law (noun)	2
+
+342	son-in-law	0223	son-in-law (noun)	2
+
+343	nephew	0234	nephew <brother's son> (noun)	3
+
+344	niece	0	???	8
+
+345	grandson	0224	grandson (noun)	2
+
+346	granddaughter	0225	granddaughter (noun)	2
+
+347	relative	0	???	8
+
+348	house	0494	house (noun)	2
+
+349	home	0	???	8
+
+350	wall	0510	wall (noun)	2
+
+351	pole	0618	pole (carrying / shoulder) (noun)	2
+
+352	beam	0518	beam (of building) (noun)	2
+
+353	door	0516	door (front) / door (entrance) (noun)	2
+
+354	window	0517	window (noun)	2
+
+355	fireplace	0	???	8
+
+356	lime	0	???	8
+
+357	brick	0508	brick (noun)	2
+
+358	tile	0509	tile (noun)	2
+
+359	board / plank	0512	plank / board (noun)	2
+
+360	nail (tool)	0580	nail / tack (noun)	2
+
+361	city	0	???	8
+
+362	village	0066	village (noun)	2
+
+363	temple	0069	temple (noun)	2
+
+364	grave	0	???	8
+
+365	granary	0	???	8
+
+366	vegetable garden	0420	vegetable (noun)	5
+
+367	enclosure	0	???	8
+
+368	nest	0327	nest (bird) (noun)	2
+
+369	scarf for the head / turban	0788	initially / beginning, in the	7
+369	scarf for the head / turban	0474	head-cloth / turban (noun)	2
+
+370	hat	0475	hat (noun)	2
+
+371	hat (bamboo)	0475	hat (noun)	2
+
+372	earring	0	???	8
+
+373	bracelet	0487	bracelet (noun)	2
+
+374	wristwatch	0	???	8
+
+375	ring	0486	ring (noun)	2
+
+376	clothes	0	???	8
+
+377	sleeve	0469	sleeve (noun)	2
+
+378	raincoat (of leaves, hemp fibe	0	???	8
+378	raincoat (of leaves, hemp fibe	0419	hemp (noun)	7
+
+379	pants / trousers	0471	pants / trousers (noun)	2
+
+380	skirt	0472	skirt (noun)	2
+
+381	legging	0	???	8
+
+382	shoe	0479	shoe (noun)	2
+
+383	socks	0	???	8
+
+384	mosquito net	0360	mosquito (noun)	5
+
+385	quilt	0	???	8
+
+386	mat	0491	mat (noun)	2
+
+387	pillow	0490	pillow (noun)	2
+
+388	cloth	0473	cloth (colorful, worn on the head) (noun)	2
+
+389	silk (cloth)	0463	silk (noun)	2
+
+390	rice (uncooked)	0403	rice (paddy) (noun)	2
+
+391	flour	0442	flour (noun)	2
+
+392	rice (cooked)	0403	rice (paddy) (noun)	2
+
+393	breakfast	0	???	8
+
+394	lunch	0	???	8
+
+395	dinner	0	???	8
+
+396	gruel	0441	gruel / porridge (noun)	2
+
+397	oil	0445	oil (animal) (noun)	2
+
+398	salt	0061	salt (noun)	2
+
+399	meat / flesh	0443	meat (noun)	2
+399	meat / flesh	0128	flesh / muscle (noun)	2
+
+400	dish	0554	plate / dish (noun)	2
+
+401	soup	0451	soup (noun)	2
+
+402	liquor	0	???	8
+
+403	noodles	0	???	8
+
+404	sugar	0449	sugar (noun)	2
+
+405	bran	0457	chaff / bran (noun)	2
+
+406	husk	0	???	8
+
+407	feed	0460	fodder / feed (horse) (noun)	2
+
+408	ax	0	???	8
+
+409	knife	0549	knife (noun)	2
+
+410	sickle	0624	sickle (noun)	2
+
+411	flail	0	???	8
+
+412	hoe	0617	hoe (noun)	2
+
+413	wedge	0620	wedge (noun)	2
+
+414	plough	1347	plough / till (verb)	2
+
+415	rake	1132	rake (the fields)	2
+
+416	yoke	0599	yoke (noun)	2
+
+417	loom	0632	loom (noun)	2
+
+418	spade	0	???	8
+
+419	saw	0608	saw (noun)	2
+
+420	needle	0578	needle (noun)	2
+
+421	thread	0461	thread (noun)	2
+
+422	rope	0619	rope / string (noun)	2
+
+423	gun	0635	gun / rifle (noun)	2
+
+424	cannon	0	???	8
+
+425	bullet	0	???	8
+
+426	gunpowder	0640	gunpowder (noun)	2
+
+427	bow (weapon)	0636	bow (for arrow) (noun)	2
+
+428	arrow	0637	arrow (noun)	2
+
+429	stick	0586	rod / stick (noun)	2
+
+430	whip	0597	whip (noun)	2
+
+431	saddle	0588	saddle (noun)	2
+
+432	dustpan / winnowing sieve	0	???	8
+432	dustpan / winnowing sieve	1603	sieve / sift (verb)	7
+
+433	sieve	0629	sieve / sifter (noun)	2
+
+434	mill	0	???	8
+
+435	pestle	1201	pestle / pound (verb)	2
+
+436	mortar	0627	mortar (noun)	2
+
+437	basket (bamboo, large)	0622	basket carried on the back (noun)	6
+437	basket (bamboo, large)	0	???	8
+
+438	lock	0584	lock (noun)	2
+
+439	key	0585	key (noun)	2
+
+440	broom	0532	broom (noun)	2
+
+441	pot / wok	0559	kettle / pot (noun)	2
+441	pot / wok	0545	wok (large, iron) / pan (noun)	2
+
+442	lid	0547	lid / cover (noun)	2
+
+443	barrel / pail / bucket	0	???	8
+443	barrel / pail / bucket	0856	bucket (of water)	2
+
+444	hoop	0563	hoop / band (noun)	2
+
+445	washbasin	0	???	8
+
+446	chopper	0633	chopper (noun)	2
+
+447	bowl	0881	bowl (of tobacco)	2
+
+448	chopsticks	0555	chopsticks (noun)	2
+
+449	plate	0554	plate / dish (noun)	2
+
+450	cup	0	???	8
+
+451	bottle	0556	bottle (noun)	2
+
+452	table	0524	table (noun)	2
+
+453	chair	0	???	8
+
+454	stool	0525	stool / bench (noun)	2
+
+455	bed	0526	bed (noun)	2
+
+456	ladder	0582	ladder (noun)	2
+
+457	trunk / box	0527	chest / box / trunk (noun)	2
+457	trunk / box	0529	box / case (noun)	2
+
+458	mirror	0531	mirror (noun)	2
+
+459	comb	0481	comb (noun)	2
+
+460	scissors	0581	scissors (noun)	2
+
+461	brush	0	???	8
+
+462	soap	0530	soap (noun)	2
+
+463	lamp	0533	light / lamp (noun)	2
+
+464	candle	0	???	8
+
+465	match	0539	match (noun)	2
+
+466	steelyard	0570	steelyard / scales (noun)	2
+
+467	metal weight on steelyard	0570	steelyard / scales (noun)	5
+
+468	firewood	0534	firewood (noun)	2
+
+469	wood	0511	wood / log (noun)	2
+
+470	fertilizer	0623	fertilizer / manure (noun)	2
+
+471	dung / manure	0273	dung (horse) (noun)	2
+471	dung / manure	0623	fertilizer / manure (noun)	2
+
+472	ashes	0	???	8
+
+473	garbage	0542	garbage / rubbish (noun)	2
+
+474	road / way	0038	road (noun)	2
+474	road / way	1756	lead the way (verb)	6
+
+475	railroad	0	???	8
+
+476	highway	0	???	8
+
+477	bridge	0070	bridge (noun)	2
+
+478	vehicle	0	???	8
+
+479	train	0	???	8
+
+480	car	0	???	8
+
+481	boat	0602	boat / ship (noun)	2
+
+482	airplane	0	???	8
+
+483	marketplace	0	???	8
+
+484	shop	0	???	8
+
+485	money	0573	money (noun)	2
+
+486	price	0	???	8
+
+487	bank	0	???	8
+
+488	interest	0576	interest (financial) (noun)	2
+
+489	wages	0	???	8
+
+490	paper	0647	paper (noun)	2
+
+491	pen	0648	pen (writing instrument) (noun)	2
+
+492	pencil	0	???	8
+
+493	ink cake	0649	ink (Chinese) (noun)	7
+
+494	ink	0649	ink (Chinese) (noun)	2
+
+495	word / character	0643	character / word (noun)	2
+
+496	book	0646	book (noun)	2
+
+497	letter	0644	letter (noun)	2
+
+498	song	0656	song (noun)	2
+
+499	folksong	0	???	8
+
+500	story / tale	0652	story (noun)	2
+500	story / tale	0	???	8
+
+501	ball	0	???	8
+
+502	flag	0	???	8
+
+503	flute-like instrument (Turkic)	0665	instrument (two-stringed, bowed) (noun)	5
+
+504	gong	0660	gong (noun)	2
+
+505	drum	0659	drum (noun)	2
+
+506	flute	0664	flute (bamboo, vertical) (noun)	2
+
+507	mouth organ	0084	mouth (noun)	7
+
+508	bell	0666	bell (noun)	2
+
+509	medicine	0456	medicine (noun)	2
+
+510	poison	0641	poison / toxin (noun)	2
+
+511	language	0	???	8
+
+512	voice	0	???	8
+
+513	strength	0675	strength (physical) (noun)	2
+
+514	courage	0	???	8
+
+515	thing / matter / event	0523	thing (noun)	2
+515	thing / matter / event	0677	matter / affair (noun)	2
+515	thing / matter / event	0	???	8
+
+516	surname	0686	surname / name (family) (noun)	2
+
+517	name	0687	name (noun)	2
+
+518	thing	0523	thing (noun)	2
+
+519	dream	0699	dream (noun)	2
+
+520	shadow	0698	shadow (noun)	2
+
+521	god / deity	0671	god of rain / Dragon King (noun)	6
+521	god / deity	0	???	8
+
+522	mark	0695	mark / trace / track (noun)	2
+
+523	ghost / demon	0669	ghost / spirit (noun)	2
+523	ghost / demon	0670	spirit (evil) / demon (noun)	2
+
+524	soul / spirit	0673	soul / spirit (noun)	2
+524	soul / spirit	0669	ghost / spirit (noun)	2
+
+525	country / nation	0	???	8
+
+526	means / method	0678	means / solution (noun)	2
+526	means / method	0	???	8
+
+527	school	0	???	8
+
+528	look	1744	find / look for (verb)	5
+
+529	see	1471	see (verb)	3
+
+530	close (eye)	1155	close (the mouth)	2
+
+531	open (eye)	1191	open (an umbrella)	2
+
+532	listen	1681	listen (verb)	3
+
+533	eat	1198	eat	1
+
+534	drink	1370	drink (verb)	3
+
+535	bite	1279	bite (mosquito) (verb)	3
+
+536	chew	1424	chew (verb)	3
+
+537	lick	1674	lick / lap (verb)	2
+
+538	hold in mouth	0084	mouth (noun)	5
+
+539	gnaw	1481	gnaw / nibble (verb)	2
+
+540	swallow	0333	swallow (noun)	2
+
+541	swallow	0333	swallow (noun)	2
+
+542	spit	1688	spit (verb)	3
+
+543	vomit	1535	throw up / vomit (verb)	3
+
+544	blow with mouth	0084	mouth (noun)	5
+
+545	say / speak	0	???	8
+545	say / speak	1649	speak (verb)	3
+
+546	read	1287	read (verb)	3
+
+547	cry out / yell	1800	point at / to / out (verb)	5
+547	cry out / yell	1368	yell / shout (verb)	2
+
+548	smell (verb)	1707	smell (verb)	1
+
+549	take	1528	take / hold / get (verb)	2
+
+550	strike with open palm	1540	strike (the table) (verb)	5
+
+551	grip / hold	0621	grip / handle (noun)	2
+551	grip / hold	1195	hold, can	2
+
+552	twist together	1455	get together, all / assemble (verb)	5
+
+553	tear (verb)	1650	tear up / rip (verb)	5
+
+554	wring (e.g. wet cloth)	0	???	8
+
+555	scratch	1170	scratch (an itch against sthg.)	2
+
+556	pick up	1414	pick up (verb)	3
+
+557	catch	1789	catch (fire) / be (on fire) (verb)	2
+
+558	throw	1591	throw / toss (verb)	2
+
+559	scatter / broadcast	1235	break up / scatter (verb)	3
+559	scatter / broadcast	0	???	8
+
+560	cast	0	???	8
+
+561	reach out(hand)	1206	go out	7
+
+562	pull	1568	pull / lead (a cow) along (verb)	2
+
+563	push	1689	push / shove (verb)	2
+
+564	hold (baby) in arms	1149	hug / hold in the arms	5
+
+565	kick	1667	kick (verb)	3
+
+566	kneel	1360	kneel (verb)	3
+
+567	tread	1168	step on / tread	2
+
+568	jump	1678	jump (verb)	3
+
+569	stand	1784	stand (verb)	3
+
+570	step / pass over (ditch)	0916	step / stride	2
+570	step / pass over (ditch)	1420	turn / hand over / consign (verb)	5
+
+571	ride	1566	ride (a horse) (verb)	3
+
+572	walk	1815	walk (verb)	3
+
+573	run	1544	run (verb)	3
+
+574	sit	1819	sit down (verb)	6
+
+575	carry on back	1659	lift up / carry (verb)	5
+
+576	go through (a hole)	1222	pierce through	5
+
+577	fall (down)	0793	fall / autumn (noun)	2
+
+578	crawl	1536	crawl (of people) (verb)	3
+
+579	lean	1803	use or lean on (a walking stic (verb)	5
+
+580	dwell / live	0	???	8
+580	dwell / live	1452	live / reside (verb)	2
+
+581	rest	1740	rest (verb)	3
+
+582	sleep	1646	sleep (verb)	3
+
+583	wake up	1739	wake up (verb)	3
+
+584	do	1820	do / make (verb)	2
+
+585	work / labor	1336	work / labor (verb)	2
+585	work / labor	1336	work / labor (verb)	3
+
+586	repair	0	???	8
+
+587	connect	1496	connect / join (verb)	2
+
+588	refine	0	???	8
+
+589	strike (iron)	1540	strike (the table) (verb)	3
+
+590	lay (bricks)	1562	pave / lay (verb)	3
+
+591	move something to a new place	0924	several / few, a	7
+
+592	carry on a pole (two people)	1659	lift up / carry (verb)	5
+
+593	carry on shoulder	1473	shoulder (verb)	5
+
+594	pry	1573	prize / pry (verb)	3
+
+595	plough (verb)	1347	plough / till (verb)	3
+
+596	rake (verb)	0616	rake (noun)	3
+
+597	dig	1150	dig	1
+
+598	plant (verb)	1774	plant (trees) (verb)	2
+
+599	water (verb)	0047	water (noun)	3
+
+600	pour (liquid) into	1550	collide / run into (verb)	5
+
+601	cut	1699	cut / gouge out (verb)	2
+
+602	chop (tree)	1296	chop / cut (meat) (verb)	2
+
+603	skin / flay (verb)	0120	skin (noun)	2
+603	skin / flay (verb)	0	???	8
+
+604	cut (firewood)	1699	cut / gouge out (verb)	2
+
+605	sieve (verb)	0629	sieve / sifter (noun)	3
+
+606	pull (out)	1568	pull / lead (a cow) along (verb)	2
+
+607	graze	0	???	8
+
+608	feed	0460	fodder / feed (horse) (noun)	2
+
+609	choke	0	???	8
+
+610	castrate	1746	castrate (cocks) (verb)	3
+
+611	milk (verb)	0095	milk (noun)	3
+
+612	lead (animal)	1251	lead (the way) / guide (verb)	2
+
+613	weave	1799	weave / knit (verb)	2
+
+614	spin (yarn)	1313	spin (into yarn) (verb)	3
+
+615	measure	1497	measure (verb)	3
+
+616	buy	1516	buy (verb)	3
+
+617	sell	1517	sell (verb)	3
+
+618	count	1640	count (numbers) (verb)	3
+
+619	calculate	1652	calculate (verb)	3
+
+620	weigh	1188	weigh (food)	2
+
+621	teach	1425	teach (verb)	3
+
+622	learn	1742	learn (verb)	3
+
+623	write	1736	write (verb)	3
+
+624	wipe	1163	wipe (the table)	2
+
+625	correct / change	1045	right / correct	2
+625	correct / change	1158	change	2
+
+626	paste / glue / stick	1680	paste / stick / glue (verb)	2
+626	paste / glue / stick	0613	glue / gum (noun)	2
+626	paste / glue / stick	0586	rod / stick (noun)	2
+
+627	cook / boil (rice)	1804	cook / boil (verb)	2
+627	cook / boil (rice)	0123	sore / boil (noun)	2
+
+628	deep-fry	0	???	8
+
+629	stir-fry	1186	stir-fry	1
+
+630	knead (dough)	1594	knead (dough) (verb)	3
+
+631	dry (clothes) near fire	1374	dry by fire (verb)	5
+
+632	warm (oneself) near fire	1374	dry by fire (verb)	5
+
+633	kill	1602	kill (verb)	3
+
+634	cut (vegetable)	1296	chop / cut (meat) (verb)	2
+
+635	mince (meat) with knife	0549	knife (noun)	5
+
+636	cut open (fish)	1461	open (a door) (verb)	5
+
+637	prick	0	???	8
+
+638	stir / churn	1286	stir / budge (verb)	2
+638	stir / churn	0	???	8
+
+639	insert / stick into	1171	poke (a sign into earth) / insert	2
+639	insert / stick into	1778	stick into / stab (verb)	2
+
+640	sharpen	0	???	8
+
+641	grind	1747	grind / pestle (medicine) (verb)	2
+
+642	winnow	1748	winnow (verb)	3
+
+643	rub (to soften animal skin)	0	???	8
+
+644	scoop	1754	scoop up (water) / ladle out (verb)	5
+
+645	strain (tea)	1508	filter / strain (verb)	3
+
+646	put on / wear	1212	put on (shoes)	2
+646	put on / wear	1211	wear (a garment)	2
+
+647	take off (clothing)	1695	take off (clothes) (verb)	3
+
+648	wash (hand)	1713	wash (clothes) (verb)	3
+
+649	wash (clothes)	1713	wash (clothes) (verb)	3
+
+650	bathe	0	???	8
+
+651	shave (hair of head)	1352	shave (hairs) / scrape (verb)	2
+
+652	dye	0543	dye (stuff) (noun)	2
+
+653	patch	1161	patch (clothing)	2
+
+654	comb (verb)	1634	comb (verb)	1
+
+655	braid	0076	braid / plait (noun)	2
+
+656	make bed	1586	make way for / give way (verb)	5
+
+657	sweep	1601	sweep (verb)	3
+
+658	open (door)	1191	open (an umbrella)	2
+
+659	open (lid)	1191	open (an umbrella)	2
+
+660	put / place	1212	put on (shoes)	5
+660	put / place	0064	place (noun)	2
+
+661	hang (object)	1354	hang (on the wall) (verb)	3
+
+662	untie	1600	untie / undo (verb)	2
+
+663	wrap	1142	wrap (verb)	3
+
+664	tie (e.g. firewood)into a bund	0924	several / few, a	7
+
+665	load (verb)	0880	load on an animal's back	6
+
+666	stuff (hole) up	1623	rise / go up (verb)	7
+
+667	bury (something)	1515	bury (verb)	3
+
+668	hide	1169	hide (sthg.)	2
+
+669	pick / select	1675	choose / pick (verb)	3
+669	pick / select	0	???	8
+
+670	pile up (e.g. earth)	1511	pile / stack up (verb)	5
+
+671	press	1745	press / push down (verb)	2
+
+672	hammer (nail in)	0606	hammer (noun)	2
+
+673	light (candle)	0533	light / lamp (noun)	2
+
+674	want	1755	want / need (verb)	2
+
+675	get	1263	get / acquire (verb)	2
+
+676	take back / put away	0713	back	5
+676	take back / put away	1663	escape / run away (verb)	5
+
+677	lose / misplace	1136	lose / defeated	2
+677	lose / misplace	0	???	8
+
+678	search	0	???	8
+
+679	use	1803	use or lean on (a walking stic (verb)	2
+
+680	play	1703	play / amuse oneself (verb)	2
+
+681	win	1760	win (verb)	3
+
+682	lose (a game)	1136	lose / defeated	2
+
+683	sing	1184	sing	1
+
+684	dance	0657	dance (noun)	2
+
+685	celebrate new year	1362	celebrate (the New Year) (verb)	5
+
+686	hunt	1230	hunt	1
+
+687	surround	0	???	8
+
+688	shoot	0380	sprout / shoot (noun)	2
+
+689	hit (target)	1228	hit (a person)	2
+
+690	ask / inquire	1708	ask / question (verb)	2
+690	ask / inquire	0	???	8
+
+691	answer	1389	answer / reply (verb)	2
+
+692	borrow / lend	1443	borrow (tools) (verb)	3
+692	borrow / lend	0	???	8
+
+693	return	1386	return, cause to (verb)	2
+
+694	give / send / deliver	1345	give (verb)	3
+694	give / send / deliver	1542	send / dispatch (a person) (verb)	2
+694	give / send / deliver	0	???	8
+
+695	exchange	1419	exchange (verb)	3
+
+696	marry (a man)	1441	marry (verb)	3
+
+697	marry (a woman)	1441	marry (verb)	3
+
+698	tell	1337	tell (verb)	3
+
+699	help	1140	help	1
+
+700	save / rescue	1451	rescue / save (verb)	3
+700	save / rescue	1451	rescue / save (verb)	2
+
+701	treat / cure	1563	bully / treat s.b. rough (verb)	6
+701	treat / cure	0	???	8
+
+702	give out / distribute	1586	make way for / give way (verb)	5
+702	give out / distribute	0	???	8
+
+703	divide	1319	divide / share (things) (verb)	2
+
+704	owe	1569	owe (money) (verb)	3
+
+705	pay indemnity to	1233	war, go to / battle (verb)	7
+
+706	wait	1264	wait (verb)	3
+
+707	encounter / meet	0	???	8
+707	encounter / meet	1769	meet / come across (verb)	2
+
+708	scold	1514	scold (verb)	3
+
+709	fight	1796	fight / vie for (verb)	2
+
+710	hit / beat	1228	hit (a person)	2
+710	hit / beat	1220	beat / thump	2
+
+711	escape	1663	escape / run away (verb)	2
+
+712	chase / run after	1811	chase after (verb)	6
+712	chase / run after	0782	year after next	5
+
+713	drive away	1576	drive out / expel (verb)	5
+
+714	rob	1570	rob / loot (verb)	2
+
+715	steal	1686	steal (verb)	3
+
+716	cheat / swindle	1564	deceive / cheat (verb)	3
+716	cheat / swindle	0	???	8
+
+717	laugh	1735	laugh / smile (verb)	2
+
+718	weep	0	???	8
+
+719	love	1126	love / like	2
+
+720	like	1126	love / like	2
+
+721	believe	1725	believe / trust (verb)	2
+
+722	know	1798	know (verb)	3
+
+723	understand	1282	understand / grasp (verb)	2
+
+724	guess	1165	guess (a riddle)	2
+
+725	remember	1727	recall / remember (verb)	3
+
+726	forget	1704	forget (verb)	3
+
+727	think	1726	think (verb)	3
+
+728	angry	1621	angry, be / take offense (verb)	2
+
+729	hate	1373	hate (verb)	3
+
+730	fear	0	???	8
+
+731	dare	1335	dare (verb)	3
+
+732	know (a language) / can / be abl	1798	know (verb)	3
+732	know (a language) / can / be abl	1195	hold, can	2
+732	know (a language) / can / be abl	0	???	8
+
+733	be / copula	1712	accustomed to, be / habit of, ha (verb)	2
+733	be / copula	0	???	8
+
+734	NEG+copula	0	???	8
+
+735	have	1232	hit, have (the target)	2
+
+736	NEG+have	0	???	8
+
+737	come	1491	come (verb)	3
+
+738	go	1334	go (to market / a fair) (verb)	2
+
+739	return / go back	1386	return, cause to (verb)	2
+739	return / go back	0713	back	5
+
+740	arrive	1262	arrive (verb)	3
+
+741	cross (river)	1363	cross (a bridge) (verb)	2
+
+742	pass by	1448	pass / go by (verb)	5
+
+743	ascend	0	???	8
+
+744	descend	1418	land / descend (verb)	3
+
+745	exit	0	???	8
+
+746	enter	1447	enter (a house) (verb)	3
+
+747	retreat	1691	back up / retreat (verb)	3
+
+748	exist / be present	0	???	8
+748	exist / be present	0684	gift / present (noun)	2
+
+749	dry in the sun	1604	dry (clothes) in the sun (verb)	5
+
+750	rain (verb)	0010	rain (noun)	3
+
+751	rise (of the sun)	1567	rise / stand up (verb)	2
+
+752	set (of the sun)	1512	set (of the sun) (verb)	3
+
+753	blow (of wind)	1218	blow (the trumpet)	2
+
+754	flash (of lightning)	0	???	8
+
+755	thunder (verb)	1248	thunder (verb)	1
+
+756	flow	1502	flow (of water) (verb)	3
+
+757	overflow	1758	overflow / spill (verb)	2
+
+758	float	1553	float (verb)	3
+
+759	crack (verb)	0694	crack / rift / fissure (noun)	3
+
+760	collapse	1657	collapse / cave in / fall down (verb)	2
+
+761	chipped	0	???	8
+
+762	roll (e.g. rock)	0872	roll (of cloth)	2
+
+763	rotate / spin	0	???	8
+763	rotate / spin	1313	spin (into yarn) (verb)	3
+
+764	drop / fall	0885	drop (of oil)	2
+764	drop / fall	0793	fall / autumn (noun)	2
+
+765	break (v.i. of rope, etc.)	1293	snap / break (a stick) (verb)	2
+765	break (v.i. of rope, etc.)	0	???	8
+
+766	break	1292	break / snap (stick)	2
+
+767	soak / immerse(e.g. seed)	1444	soak / steep (verb)	2
+767	soak / immerse(e.g. seed)	1446	immerse / submerge (verb)	2
+
+768	ladle / dredge	0551	ladle (noun)	2
+768	ladle / dredge	1492	drag for / dredge up (verb)	5
+
+769	leak	1506	leak (verb)	3
+
+770	drip	0	???	8
+
+771	boil	0123	sore / boil (noun)	2
+
+772	melt	0	???	8
+
+773	change / transform	1158	change	2
+773	change / transform	0	???	8
+
+774	birth, give	1717	birth, give to (piglets) (verb)	2
+774	birth, give	1345	give (verb)	3
+
+775	grow	1617	grow (verb)	3
+
+776	ill / sick	1160	ill, to be	2
+776	ill / sick	0	???	8
+
+777	tremble	1303	shiver / tremble (verb)	3
+
+778	swollen	0	???	8
+
+779	drunk	1818	drunk, be (verb)	2
+
+780	die	1651	die (verb)	3
+
+781	alive	1396	alive, become / active (verb)	2
+
+782	fly (verb)	1318	fly (verb)	1
+
+783	bark (verb)	1432	bark (verb)	1
+
+784	crow (verb)	1426	crow (of cocks) (verb)	2
+
+785	lay (egg)	1562	pave / lay (verb)	3
+
+786	hatch	1326	hatch / incubate (verb)	2
+
+787	sting (verb)	1793	sting (of wasps) (verb)	2
+
+788	bud (verb)	0381	bud (noun)	3
+
+789	bloom	0	???	8
+
+790	bear fruit	0378	fruit (noun)	5
+
+791	wither	1272	wither (verb)	3
+
+792	rot / spoil	1330	rot (verb)	3
+792	rot / spoil	1655	damage / spoil (verb)	3
+
+793	begin	1465	start / begin (verb)	3
+
+794	manage	1358	manage / control (verb)	2
+
+795	hold a meeting	0924	several / few, a	7
+
+796	protect	1147	protect	1
+
+797	win / triumph	1760	win (verb)	3
+797	win / triumph	0	???	8
+
+798	lose	1136	lose / defeated	2
+
+799	oppose	1311	oppose (verb)	3
+
+800	big	0964	big / large	2
+
+801	small	0965	small	1
+
+802	high / tall	0968	high / tall	1
+
+803	low	0969	low / short	2
+
+804	deep	0982	deep	1
+
+805	shallow	0983	shallow	1
+
+806	pointed	0992	pointed	1
+
+807	round	0	???	8
+
+808	square	0874	square (area unit for selling cloth)	2
+
+809	long	0972	long	1
+
+810	short	0973	short	1
+
+811	thick	0980	thick	1
+
+812	thin (slender)	1031	watery / thin (porridge)	2
+
+813	thick	0980	thick	1
+
+814	thin	1026	thin	1
+
+815	wide	0966	wide (in diameter) / coarse	2
+
+816	narrow	0977	narrow	1
+
+817	far	0974	far / distant	2
+
+818	near	0975	near	1
+
+819	many / much	0987	many / much	1
+
+820	little / few	0988	few / little	2
+820	little / few	0924	several / few, a	2
+
+821	straight	1003	straight	1
+
+822	crooked	1004	curved / crooked / bent	2
+
+823	horizontal	1001	horizontal	1
+
+824	upright	0	???	8
+
+825	flat / level(land)	0994	level / flat	2
+
+826	steep	1444	soak / steep (verb)	3
+
+827	right, just, upright	0996	right / obverse side (noun)	2
+827	right, just, upright	0	???	8
+
+828	slanting, not upright	1000	askew / awry / slanting	2
+828	slanting, not upright	1519	have, do not (verb)	7
+
+829	light	0533	light / lamp (noun)	2
+
+830	heavy	1014	heavy	1
+
+831	hard	1034	hard	1
+
+832	soft	1035	soft	1
+
+833	bright	1012	bright	1
+
+834	dark	1013	dark	1
+
+835	sunny	1670	clear, be (weather) / sunny (verb)	3
+
+836	cloudy	1669	cloudy, be (sky) / overcast (verb)	2
+
+837	red	1007	red	1
+
+838	yellow	1008	yellow	1
+
+839	blue	1010	blue	1
+
+840	white	1006	white	1
+
+841	black	1005	black	1
+
+842	green	1009	green	1
+
+843	multicolored	1098	multicolored / patterned (cloth)	2
+
+844	thick	0980	thick	1
+
+845	thin (watery)	1031	watery / thin (porridge)	2
+
+846	full	0984	full	1
+
+847	beautiful	1060	beautiful	1
+
+848	ugly	1061	ugly	1
+
+849	fat (of people)	1025	fat (pig)	2
+
+850	fat (meat)	1025	fat (pig)	2
+
+851	lean (meat)	1803	use or lean on (a walking stic (verb)	5
+
+852	thin (of people)	1031	watery / thin (porridge)	2
+
+853	clean	1085	clean	1
+
+854	dirty	1086	dirty	1
+
+855	clear (water)	1022	clear (water)	1
+
+856	turbid / muddy	1023	muddy / turbid	2
+
+857	old (of people)	1051	used / old	2
+
+858	young	1059	young	1
+
+859	tender	1057	tender young (plant)	5
+
+860	good	1052	good	1
+
+861	bad	1053	bad	1
+
+862	fast	1016	quick / fast	2
+
+863	slow	1017	slow	1
+
+864	dry	1028	dry	1
+
+865	wet	1029	wet	1
+
+866	new	1050	new	1
+
+867	old (things)	1051	used / old	2
+
+868	raw	1049	uncooked / raw	2
+
+869	cooked	1637	cooked, be (rice) / done (verb)	2
+
+870	sharp	1020	sharp	1
+
+871	blunt	1021	blunt / dull	2
+
+872	early	1018	early	1
+
+873	late	1019	late	1
+
+874	true	1047	true	1
+
+875	false	1048	false	1
+
+876	expensive	1054	expensive	1
+
+877	cheap	1055	cheap	1
+
+878	easy	1068	easy	1
+
+879	difficult	1067	difficult	1
+
+880	loose / lax	1041	lax / loose / slack	2
+
+881	tight	1040	tense / tight / taut	2
+
+882	smooth	1037	smooth / glossy / sleek	2
+
+883	hot	1062	hot	1
+
+884	cold	1063	cold (weather, water)	2
+
+885	warm	1065	warm	1
+
+886	cool	1066	cool, pleasantly	2
+
+887	sour	1072	sour	1
+
+888	sweet	1073	sweet	1
+
+889	bitter	1074	bitter	1
+
+890	hot (spicy)	1075	hot / spicy	2
+
+891	salty	1076	salty	1
+
+892	fragrant	1069	fragrant (smell)	2
+
+893	delicious	1091	tasty / delicious	2
+
+894	stinky	0	???	8
+
+895	fishy	0	???	8
+
+896	full / satiated	0984	full	2
+896	full / satiated	0	???	8
+
+897	hungry	1298	hungry, be (verb)	2
+
+898	thirsty	1478	thirsty, be (verb)	2
+
+899	tired	1495	tired, be / fatigued (verb)	2
+
+900	itch	1749	itch / tickle (verb)	2
+
+901	pain / ache	0688	pain / agony (noun)	2
+901	pain / ache	1666	ache (head) (verb)	3
+
+902	right / correct	1045	right / correct	1
+
+903	wrong / mistaken	1226	wrong, be	2
+903	wrong / mistaken	0	???	8
+
+904	intelligent	0	???	8
+
+905	stupid	1100	stupid	1
+
+906	diligent	0	???	8
+
+907	lazy	1112	lazy	1
+
+908	glad	0	???	8
+
+909	poor	1084	poor	1
+
+910	rich	1083	rich	1
+
+911	one	0797	one	1
+
+912	two	0798	two	1
+
+913	three	0799	three	1
+
+914	four	0800	four	1
+
+915	five	0801	five	1
+
+916	six	0802	six	1
+
+917	seven	0803	seven	1
+
+918	eight	0804	eight	1
+
+919	nine	0805	nine	1
+
+920	ten	0806	ten	1
+
+921	eleven	0807	eleven	1
+
+922	twelve	0808	twelve	1
+
+923	thirteen	0809	thirteen	1
+
+924	fourteen	0810	fourteen	1
+
+925	fifteen	0811	fifteen	1
+
+926	sixteen	0812	sixteen	1
+
+927	seventeen	0813	seventeen	1
+
+928	eighteen	0814	eighteen	1
+
+929	nineteen	0815	nineteen	1
+
+930	twenty	0816	twenty	1
+
+931	twenty-one	0	???	8
+
+932	thirty	0817	thirty	1
+
+933	forty	0818	forty	1
+
+934	fifty	0819	fifty	1
+
+935	sixty	0820	sixty	1
+
+936	seventy	0821	seventy	1
+
+937	eighty	0822	eighty	1
+
+938	ninety	0823	ninety	1
+
+939	hundred	0824	hundred	1
+
+940	thousand	0826	thousand	1
+
+941	ten thousand	0827	ten thousand	1
+
+942	hundred million	0830	ten million	5
+
+943	zero	0	???	8
+
+944	first	0833	first	1
+
+945	fifth	0	???	8
+
+946	eighth	0	???	8
+
+947	half	0832	half	1
+
+948	classifier for people	0835	classifier for people	1
+
+949	classifier for e.g. bowls	0841	classifier for eggs	5
+
+950	classifier for trees	0848	classifier for trees	1
+
+951	classifier for animals	0841	classifier for eggs	5
+
+952	classifier for objects with ha	0841	classifier for eggs	5
+
+953	classifier for long objects	0841	classifier for eggs	5
+
+954	classifier for long, thin obje	0841	classifier for eggs	5
+954	classifier for long, thin obje	1031	watery / thin (porridge)	7
+
+955	classifier for grains	0841	classifier for eggs	5
+
+956	drop	0885	drop (of oil)	2
+
+957	classifier for clothes	0841	classifier for eggs	5
+
+958	pair	0866	pair (of rabbits)	2
+
+959	fathom=6 feet	0	???	8
+
+960	handspan	0	???	8
+
+961	inch	0905	inch	1
+
+962	foot (measure)	0103	foot (noun)	2
+
+963	acre	0	???	8
+
+964	dry measure / pint	0893	measure of weight (=1 / 2 kilogram)	5
+964	dry measure / pint	0	???	8
+
+965	dry measure / peck / =10 shēng	0893	measure of weight (=1 / 2 kilogram)	5
+965	dry measure / peck / =10 shēng	1814	peck at (rice; of a chicken) (verb)	5
+965	dry measure / peck / =10 shēng	0	???	8
+
+966	tael	0894	tael (=50 grams)	2
+
+967	catty=500 grams	0	???	8
+
+968	monetary unit / dollar	0	???	8
+
+969	I	0928	I	1
+
+970	we two	0798	two	5
+
+971	we	0930	we	1
+
+972	we (inclusive)	0937	we (inclusive)	1
+
+973	you (sg.)	0931	you	2
+
+974	you two	0932	you two	1
+
+975	you (pl.)	0933	you (pl.)	1
+
+976	he / she	0934	he	2
+976	he / she	0	???	8
+
+977	they two	0935	they two	1
+
+978	they	0936	they	1
+
+979	self	0	???	8
+
+980	others	0960	others / miscellaneous	2
+
+981	this	0942	this	1
+
+982	here	0944	here	1
+
+983	that	0947	that	1
+
+984	there	0950	there	1
+
+985	who	0953	who	1
+
+986	what	0954	what	1
+
+987	which	0	???	8
+
+988	where	0955	where	1
+
+989	how many / much	0958	how many / how much	2
+989	how many / much	0987	many / much	2
+
+990	just now	0	???	8
+
+991	first	0833	first	1
+
+992	later (in time)	0	???	8
+
+993	immediately / right away	0	???	8
+993	immediately / right away	0996	right / obverse side (noun)	5
+
+994	often	0	???	8
+
+995	slowly	0	???	8
+
+996	fast (adv.)	1016	quick / fast	3
+
+997	very	0	???	8
+
+998	most (superlative degree)	0	???	8
+
+999	all / even	0962	all / everything	2
+999	all / even	0	???	8
+
+1000	also	0	???	8
+
+1001	again	0	???	8
+
+1002	certainly	0	???	8
+
+1003	NEG	0	???	8
+
+1004	don't	0	???	8
+
