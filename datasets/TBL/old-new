@@ -1,0 +1,504 @@
+NUMBER	GLOSS	SEMANTIC TAG	STATUS	CONCEPTICON_ID	CONCEPTICON_ID	CONCEPTICON_GLOSS	MATCH_QUALITY
+1	above	location, adjective or noun	OLD	0731	2	above	1
+
+2	all	characterisation, quantity	OLD	0962	3	all	1
+
+3	the ant	animal	NEW	0365	0	???	8
+
+4	the armpit	body	NEW	0092	0	???	8
+
+5	bad	characterisation, character	OLD	1053	6	bad	1
+
+6	the bamboo	plant, food	NEW	0389	0	???	8
+
+7	the barley (tibetan or highland)	plant	NEW	0411	0	???	8
+
+8	to be alive	process	OLD	1087	170	to be alive	1
+
+9	the belly	body	OLD	0096	68	the belly	1
+
+10	below, under	location, adjective or noun	OLD	0732	8	below, under	1
+
+11	big	characterisation, quantity	OLD	0964	9	big	1
+
+12	the bird	animal	OLD	0326	69	the bird	1
+
+13	to bite	action	OLD	1753	171	to bite	1
+
+14	black	characterization, color	OLD	1005	10	black	1
+
+15	the blood	body	OLD	0129	70	the blood	1
+
+16	to blow (of wind)	process	OLD	1738	172	to blow (of wind)	1
+
+17	the body hair (hair or fur)		NEW	0266	96	the hair	4
+17	the body hair (hair or fur)		NEW	0266	0	???	8
+
+18	the bone	body	OLD	0133	71	the bone	1
+
+19	the branch	body, plant	OLD	0374	72	the branch	1
+
+20	the breast (female)	body	OLD	0094	73	the breast	2
+
+21	to burn [intransitive]	process	OLD	1269	174	to burn [intransitive]	1
+
+22	to buy	action	OLD	1516	176	to buy	1
+
+23	to chew	action	OLD	1424	177	to chew	1
+
+24	the child (young human	kinship	OLD	0169	75	the child (young human	1
+
+25	the cloud	nature	OLD	0007	76	the cloud	1
+
+26	cold (of temperature)	characterization, weather	OLD	1063	11	cold (of temperature)	1
+
+27	to come	action	OLD	1491	180	to come	1
+
+28	correct (right)	characterization, character	OLD	1045	12	correct (right)	1
+
+29	to count	action	OLD	1640	182	to count	1
+
+30	to cry (weep)	action	OLD	1485	183	to cry (weep)	1
+
+31	dark	characterisation, state	NEW	1013	0	???	8
+
+32	the daughter	kinship	NEW	0222	0	???	8
+
+33	the dew	nature	NEW	0015	0	???	8
+
+34	to die	process	OLD	1651	185	to die	1
+
+35	to dig	action	OLD	1698	186	to dig	1
+
+36	dirty	characterisation, state	OLD	1086	13	dirty	1
+
+37	the dog	nature	OLD	0289	78	the dog	1
+
+38	the dream	mind	OLD	0699	79	the dream	1
+
+39	to drink	action	OLD	1370	187	to drink	1
+
+40	dry	characterisation, state	OLD	1028	14	dry	1
+
+41	the dust	nature	OLD	0045	80	the dust	1
+
+42	the ear	body	OLD	0081	81	the ear	1
+
+43	early	time	NEW	1018	0	???	8
+
+44	the earth (soil)	nature	OLD	0040	82	the earth (soil)	1
+
+45	the earthworm	animal	NEW	0363	0	???	8
+
+46	to eat	action	OLD	1198	188	to eat	1
+
+47	the egg	animal, product	OLD	0450	83	the egg	1
+
+48	eight	number	OLD	0804	16	eight	1
+
+49	the eye	body	OLD	0079	84	the eye	1
+
+50	far	characterisation, location	OLD	0974	17	far	1
+
+51	the father	kinship	OLD	0218	86	the father	1
+
+52	the feather	animal, product	OLD	0299	87	the feather	1
+
+53	to fight	action	OLD	1234	191	to fight	1
+
+54	the fire	nature	OLD	0018	88	the fire	1
+
+55	firewood	object, utility	NEW	0534	0	???	8
+
+56	the fish	animal	OLD	0351	89	the fish	1
+
+57	five	number	OLD	0801	21	five	1
+
+58	the flea	animal	NEW	0355	0	???	8
+
+59	to float	process	OLD	1553	192	to float	1
+
+60	to flow	process	OLD	1502	193	to flow	1
+
+61	the flower	plant	OLD	0377	90	the flower	1
+
+62	to fly (move through air)	action	OLD	1318	194	to fly (move through air)	1
+
+63	the fog	nature	OLD	0016	91	the fog	1
+
+64	the foot	body	OLD	0103	92	the foot	1
+
+65	the forest	nature	OLD	0050	93	the forest	1
+
+66	forget	action	NEW	1704	0	???	8
+
+67	four	number	OLD	0800	22	four	1
+
+68	the fox	animal	NEW	0325	0	???	8
+
+69	the frog	animal	NEW	0349	0	???	8
+
+70	the front (front side)	location	NEW	0712	0	???	8
+
+71	the frost	nature	NEW	0014	0	???	8
+
+72	the fruit	nature, food	OLD	0378	94	the fruit	1
+
+73	full	characterisation, state	OLD	0984	23	full	1
+
+74	to give	action	OLD	1345	196	to give	1
+
+75	the goat	animal	NEW	0276	0	???	8
+
+76	good	characterisation, character	OLD	1052	24	good	1
+
+77	the grass	nature	OLD	0436	95	the grass	1
+
+78	green	characterization, color	OLD	1009	25	green	1
+
+79	the hail	nature	NEW	0013	0	???	8
+
+80	the hair (of the head)	body	OLD	0075	96	the hair	2
+
+81	the hand	body	OLD	0107	97	the hand	1
+
+82	hard	characterisation, form	NEW	1034	0	???	8
+
+83	he or she [third person pronoun singular]	pronoun	OLD	0934	26	he or she [third person singular]	2
+83	he or she [third person pronoun singular]	pronoun	OLD	0934	26	he or she [third person singular]	3
+
+84	the head	body	OLD	0074	98	the head	1
+
+85	to hear	action	OLD	1682	198	to hear	1
+
+86	the heart	body	OLD	0144	99	the heart	1
+
+87	heavy	characterisation, quantity	OLD	1014	27	heavy	1
+
+88	here	location, pronoun	OLD	0944	28	here	1
+
+89	to hide (conceal)	action	OLD	1169	199	to hide (conceal)	1
+
+90	high / tall	characterisation, quantity	NEW	0968	0	???	8
+
+91	to hold	action	OLD	1709	201	to hold	1
+
+92	the hoof	body	NEW	0264	0	???	8
+
+93	horizontal	location	NEW	1001	0	???	8
+
+94	the horn (keratinized skin)	body, animal	OLD	0263	100	the horn (keratinized skin)	1
+
+95	the horse	animal	NEW	0268	0	???	8
+
+96	hot	characterisation, temperature	NEW	1062	0	???	8
+
+97	the house	residence	OLD	0494	101	the house	1
+
+98	hundred	number	NEW	0824	30	hundred	1
+
+99	hundred	number	OLD	0824	30	hundred	1
+
+100	to hunt	action	OLD	1230	202	to hunt	1
+
+101	the husband	kinship	OLD	0247	102	the husband	1
+
+102	i [first person singular]	pronoun	OLD	0928	1	I [first person singular]	2
+
+103	the ice	nature	OLD	0017	103	the ice	1
+
+104	inside	location	NEW	0715	0	???	8
+
+105	to kill	action	OLD	1602	203	to kill	1
+
+106	knead	action	NEW	1594	0	???	8
+
+107	the knee	body	OLD	0101	105	the knee	1
+
+108	knife	object, tool	OLD	0549	33	knife	1
+
+109	to know	action	OLD	1798	204	to know	1
+
+110	the lake	nature	OLD	0031	106	the lake	1
+
+111	late	time	NEW	1019	0	???	8
+
+112	to laugh	action	OLD	1735	205	to laugh	1
+
+113	the leaf	body, animal	OLD	0376	107	the leaf	1
+
+114	learn	action	NEW	1742	0	???	8
+
+115	left	characterization, location	OLD	0710	34	left	1
+
+116	to lick	action	OLD	1674	206	to lick	1
+
+117	to lie down	action	OLD	1661	207	to lie down	1
+
+118	light (of weight)	characterisation, quantity	NEW	1015	0	???	8
+
+119	the lip (the lips)		NEW	0085	0	???	8
+
+120	the liver	body	OLD	0145	110	the liver	1
+
+121	long	characterization, quantity	OLD	0972	35	long	1
+
+122	the louse	animal	OLD	0356	111	the louse	1
+
+123	the lung	body part	NEW	0143	0	???	8
+
+124	the man (male human)	human being	OLD	0173	112	the man (male human)	1
+
+125	many	characterization, quantity	OLD	0987	37	many	1
+
+126	marry (a man marries a woman)	action	NEW	1578	0	???	8
+
+127	the meat	body, animal	OLD	0443	113	the meat	1
+
+128	middle	location	NEW	0708	0	???	8
+
+129	the moon	nature, object	OLD	0004	114	the moon	1
+
+130	morning	time	NEW	0749	0	???	8
+
+131	the mosquito	animal	OLD	0360	115	the mosquito	1
+
+132	the mother	kinship	OLD	0219	116	the mother	1
+
+133	the mountain	nature, geography	OLD	0023	117	the mountain	1
+
+134	the mouse or rat	animal	OLD	0320	118	the mouse or rat	1
+
+135	the mouth	body	OLD	0084	119	the mouth	1
+
+136	the mud	nature	NEW	0046	0	???	8
+
+137	the nail (fingernail or claw)	body	OLD	0113	120	the nail (fingernail or claw)	1
+
+138	the name	human being	OLD	0687	121	the name	1
+
+139	narrow	characterization, quantity	OLD	0977	38	narrow	1
+
+140	near	characterization, quantity	OLD	0975	39	near	1
+
+141	the neck	body	OLD	0089	122	the neck	1
+
+142	the needle (for sewing)	object, tool	OLD	0578	123	the needle (for sewing)	1
+
+143	new	characterization, state	OLD	1050	40	new	1
+
+144	nine	number	OLD	0805	41	nine	1
+
+145	the nit	animal	NEW	0357	0	???	8
+
+146	noon	time	NEW	0750	0	???	8
+
+147	the nose	body	OLD	0080	125	the nose	1
+
+148	old (of person)	characterization, state	OLD	1058	44	old (of person)	1
+
+149	one	number	OLD	0797	45	one	1
+
+150	the otter	animal	NEW	0317	0	???	8
+
+151	outside	location	NEW	0714	0	???	8
+
+152	the pig	animal	NEW	0284	0	???	8
+
+153	to plant (vegetals, rice)	action	OLD	1774	210	to plant	2
+153	to plant (vegetals, rice)	action	OLD	1774	0	???	8
+
+154	to play	action	OLD	1703	211	to play	1
+
+155	to pull	action	OLD	1568	212	to pull	1
+
+156	to push	action	OLD	1689	213	to push	1
+
+157	the rain	nature, phenomenon	OLD	0010	127	the rain	1
+
+158	the rainbow	nature	NEW	0011	0	???	8
+
+159	red	characterization, color	OLD	1007	48	red	1
+
+160	to reside (live)	action	OLD	1452	214	to reside (live)	1
+
+161	the rice plant	object, food	NEW	0439	210	to plant	5
+
+162	right	characterization, location	OLD	0711	49	right	1
+
+163	the river	nature, geography	OLD	0030	128	the river	1
+
+164	the road	object, geography	OLD	0038	129	the road	1
+
+165	the root	body, animal	OLD	0375	131	the root	1
+
+166	the rope	object, tool	OLD	0619	132	the rope	1
+
+167	round	characterization, form	OLD	0990	51	round	1
+
+168	run	action	NEW	1544	0	???	8
+
+169	the salt	object, food	OLD	0061	133	the salt	1
+
+170	salty	characterisation, taste	NEW	1076	0	???	8
+
+171	the sand	nature, substance	OLD	0044	134	the sand	1
+
+172	to scratch	action	OLD	1530	217	to scratch	1
+
+173	the sea	nature, geography	OLD	0032	135	the sea	1
+
+174	to see	action	OLD	1471	218	to see	1
+
+175	the seed	object, food	OLD	0405	136	the seed	1
+
+176	seven	number	OLD	0803	52	seven	1
+
+177	sharp	characterization, form	OLD	1020	53	sharp	1
+
+178	the sheep	animal	NEW	0275	0	???	8
+
+179	to shoot (an arrow)	action	OLD	1611	220	to shoot (an arrow)	1
+
+180	short	characterization, quantity	OLD	0973	54	short	1
+
+181	the shoulder	body	OLD	0090	137	the shoulder	1
+
+182	shy	characterization, character	OLD	1365	55	shy	1
+
+183	the sickle	object, tool	NEW	0624	0	???	8
+
+184	to sing	action	OLD	1184	221	to sing	1
+
+185	six	number	OLD	0802	57	six	1
+
+186	the skin	body	OLD	0120	138	the skin	1
+
+187	the sky	nature, geography	OLD	0001	139	the sky	1
+
+188	to sleep	action	OLD	1646	223	to sleep	1
+
+189	small	characterization, quantity	OLD	0965	58	small	1
+
+190	to smell (perceive odor) [transitive]	action	OLD	1707	224	to smell (perceive odor) [transitive]	1
+
+191	the smoke	nature	OLD	0019	140	the smoke	1
+
+192	smooth	characterization, form	OLD	1037	59	smooth	1
+
+193	the snake	animal	OLD	0347	141	the snake	1
+
+194	the snow	nature, object	OLD	0012	142	the snow	1
+
+195	soft	characterisation, form	NEW	1035	0	???	8
+
+196	the son	kinship	NEW	0220	0	???	8
+
+197	the sparrow	animal	NEW	0336	0	???	8
+
+198	the spider	animal	OLD	0361	143	the spider	1
+
+199	to spit	action	OLD	1688	225	to spit	1
+
+200	to stand	action	OLD	1784	229	to stand	1
+
+201	the star	nature, geography	OLD	0005	144	the star	1
+
+202	to steal	action	OLD	1686	230	to steal	1
+
+203	the stick	object, tool	OLD	0586	145	the stick	1
+
+204	the stone (a piece of)	nature, substance	OLD	0379	146	the stone (a piece of)	1
+
+205	straight	characterization, form	OLD	1003	61	straight	1
+
+206	the sun	object, geography	OLD	0002	147	the sun	1
+
+207	the tail	body, animal	OLD	0267	148	the tail	1
+
+208	ten	number	OLD	0806	62	ten	1
+
+209	that	pronoun	OLD	0947	63	that	1
+
+210	there	location	OLD	0950	162	there	1
+
+211	thick	characterization, quantity	OLD	0980	164	thick	1
+
+212	the thigh	body	NEW	0100	0	???	8
+
+213	thin	characterization, form	OLD	1026	165	thin	1
+
+214	to think (reflect)	action	OLD	1726	234	to think (reflect)	1
+
+215	this	pronoun	OLD	0942	166	this	1
+
+216	thou [second person pronoun singular]	pronoun	OLD	0931	167	thou [second person singular]	3
+
+217	three	number	OLD	0799	168	three	1
+
+218	to throw	action	OLD	1687	235	to throw	1
+
+219	the thunder	object, phenomenon	OLD	0008	149	the thunder	1
+
+220	the tiger	animal	NEW	0304	0	???	8
+
+221	today	time	NEW	0738	0	???	8
+
+222	tomorrow	time	NEW	0742	0	???	8
+
+223	the tongue	body	OLD	0139	150	the tongue	1
+
+224	the tooth (front)	body	OLD	0137	151	the tooth (front)	1
+
+225	the tree	nature, object	OLD	0372	152	the tree	1
+
+226	twenty	number	OLD	0816	243	twenty	1
+
+227	two	number	OLD	0798	244	two	1
+
+228	to vomit	action	OLD	1535	238	to vomit	1
+
+229	to walk	action	OLD	1815	239	to walk	1
+
+230	the water	nature, substance	OLD	0047	153	the water	1
+
+231	we [first person plural inclusive]	pronoun	OLD	0930	246	we [first person plural]	3
+
+232	wet	characterisation, state	OLD	1029	247	wet	1
+
+233	what	pronoun, question	OLD	0954	248	what	1
+
+234	the wheat	object, food	NEW	0410	0	???	8
+
+235	where	pronoun, question	OLD	0955	250	where	1
+
+236	white	characterisation, color	OLD	1006	251	white	1
+
+237	who	pronoun, question	OLD	0953	252	who	1
+
+238	the wife	kinship	OLD	0248	154	the wife	1
+
+239	the wind	nature, phenomenon	OLD	0009	155	the wind	1
+
+240	the wing	body, animal	OLD	0298	156	the wing	1
+
+241	to wipe	action	OLD	1163	241	to wipe	1
+
+242	the wolf	animal	NEW	0324	0	???	8
+
+243	the woman	human being	OLD	0174	157	the woman	1
+
+244	the wood (material)	plant, substance	OLD	0511	158	the wood (material)	1
+
+245	the worm	animal	OLD	0353	160	the worm	1
+
+246	the year	time	OLD	0777	161	the year	1
+
+247	yellow	characterisation, color	OLD	1008	255	yellow	1
+
+248	yesterday	time	NEW	0739	0	???	8
+
+249	you [second person plural]	pronoun	OLD	0931	256	you [second person plural]	1
+
+250	young	characterisation, age	NEW	1059	0	???	8
+
