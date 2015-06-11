@@ -48,7 +48,7 @@ for col in sorted(db.header, key=lambda x: db.header[x]):
     txt3 += '<option value="'+col.upper()+'" selected>'+col.upper()+'</option>'
 
 # we expand on the meta-data template
-with open('metadata.json') as f:
+with open('../metadata/metadata.json') as f:
     meta = 'META = '+json.dumps(json.loads(f.read()))+';'
 
 with open('templates/index.template.html') as f:
