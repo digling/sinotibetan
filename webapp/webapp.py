@@ -20,6 +20,11 @@ import json
 # re-link the data
 db = LexiBase('sinotibetan', dbase='../sqlite/sinotibetan.sqlite3')
 
+
+# we expand on the meta-data template
+with open('../metadata/metadata.json') as f:
+    meta = json.loads(f.read())
+
 mcon = [w[1] for w in csv2list('../concepts/stdb.concepts.csv')]
 txt1 = ''
 concepts = sorted(set([db[k,'concept'] for k in db]))
@@ -33,11 +38,10 @@ for c in concepts:
         txt1 += '<option value="'+c+'">'+c+' ('+str(cov)+' entries)</option>'
 
 txt2 = ''
-langs = [(db[k,'taxon'],db[k,'subgroup']) for k in db]
 
-langs = sorted(set(langs))
-conv = dict(langs)
-langs = sorted(set([x[0] for x in langs]))
+langs = db.taxa 
+conv = dict([(k,v['subgroup']) for k,v in meta.items()])
+
 
 for k in langs:
     etr = len(db.get_list(doculect=k,flat=True))
