@@ -101,8 +101,8 @@ function MakeTable() {
     var header = ['iso','subgroup','entries','source','url'];
     var nheader = ['ISO','SUBGROUP','ENTRIES','SOURCE','URL'];
     var out = '';
-    out += '<table style="cellspacing:2px;border:2px solid black">';
-    out += '<tr><th style="padding:4px;border:1px solid black">NAME</th><th style="padding:4px;border:1px solid black;">'+nheader.join('</th><th style="padding:4px;border:1px solid black;">')+'</th></tr>';
+    out += '<table id="meta-data" style="cellspacing:2px;border:2px solid black">';
+    out += '<thead><tr><th style="padding:4px;border:1px solid black">NAME</th><th style="padding:4px;border:1px solid black;">'+nheader.join('</th><th style="padding:4px;border:1px solid black;">')+'</th></tr></thead><tbody>';
     keys = Object.keys(META);
     keys.sort();
     for(var j=0,key; key=keys[j]; j++) {
@@ -125,8 +125,9 @@ function MakeTable() {
       }
       out += '</tr>';
     }
-    out += '</table>';
+    out += '</tbody></table>';
     json_table.innerHTML = out;
+    $('#meta-data').dataTable();
   }
   else {
     cobu.innerHTML = 'Show Current Data Status';

@@ -20,7 +20,7 @@ import json
 # re-link the data
 db = LexiBase('sinotibetan', dbase='../sqlite/sinotibetan.sqlite3')
 
-
+print("loaded teh db")
 # we expand on the meta-data template
 with open('../metadata/metadata.json') as f:
     meta = json.loads(f.read())
@@ -42,6 +42,7 @@ txt2 = ''
 langs = db.taxa 
 conv = dict([(k,v['subgroup']) for k,v in meta.items()])
 
+print('computed coverage')
 
 for k in langs:
     etr = len(db.get_list(doculect=k,flat=True))
