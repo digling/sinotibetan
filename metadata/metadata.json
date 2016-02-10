@@ -242,7 +242,7 @@
   "Fuzhou": {
     "number_of_entries_in_source": 905,
     "concepts": 180,
-    "classification": "Sinitic.Min.Fuzhou",
+    "classification": "Sinitic.Min.Mindong.Fuzhou",
     "taxon_id_in_source": "",
     "taxon_name_in_source": "",
     "entries": 218,
@@ -422,7 +422,7 @@
   "Yangjiang": {
     "number_of_entries_in_source": 905,
     "concepts": 180,
-    "classification": "Sinitic.?.Yangjiang",
+    "classification": "Sinitic.Yue.Yangjiang",
     "taxon_id_in_source": "",
     "taxon_name_in_source": "",
     "entries": 195,
@@ -452,7 +452,7 @@
   "Yangzhou": {
     "number_of_entries_in_source": 905,
     "concepts": 180,
-    "classification": "Sinitic.?.Yangzhou",
+    "classification": "Sinitic.Mandarin.Jianghuai.Yangzhou",
     "taxon_id_in_source": "",
     "taxon_name_in_source": "",
     "entries": 208,
@@ -512,7 +512,7 @@
   "Xiamen": {
     "number_of_entries_in_source": 905,
     "concepts": 180,
-    "classification": "Sinitic.Min.Xiamen",
+    "classification": "Sinitic.Min.Minnan.Xiamen",
     "taxon_id_in_source": "",
     "taxon_name_in_source": "",
     "entries": 218,
@@ -542,7 +542,7 @@
   "Kunming": {
     "number_of_entries_in_source": 905,
     "concepts": 180,
-    "classification": "Sinitic.Mandarin.Kunming",
+    "classification": "Sinitic.Mandarin.Xinan.Kunming",
     "taxon_id_in_source": "",
     "taxon_name_in_source": "",
     "entries": 190,
@@ -617,7 +617,7 @@
   "Beijing": {
     "number_of_entries_in_source": 905,
     "concepts": 180,
-    "classification": "Sinitic.Mandarin.Beijing",
+    "classification": "Sinitic.Mandarin.Beifang.Beijing",
     "taxon_id_in_source": "",
     "taxon_name_in_source": "",
     "entries": 212,
@@ -632,7 +632,7 @@
   "Chaozhou": {
     "number_of_entries_in_source": 905,
     "concepts": 180,
-    "classification": "Sinitic.?.Chaozhou",
+    "classification": "Sinitic.Min.Minnan.Chaozhou",
     "taxon_id_in_source": "",
     "taxon_name_in_source": "",
     "entries": 210,
@@ -977,7 +977,7 @@
   "Hefei": {
     "number_of_entries_in_source": 905,
     "concepts": 180,
-    "classification": "Sinitic.Mandarin.Hefei",
+    "classification": "Sinitic.Mandarin.Jianghuai.Hefei",
     "taxon_id_in_source": "",
     "taxon_name_in_source": "",
     "entries": 195,
@@ -992,7 +992,7 @@
   "Xian": {
     "number_of_entries_in_source": 905,
     "concepts": 180,
-    "classification": "Sinitic.Mandarin.Xian",
+    "classification": "Sinitic.Mandarin.Xibei.Xian",
     "taxon_id_in_source": "",
     "taxon_name_in_source": "",
     "entries": 193,
@@ -1052,7 +1052,7 @@
   "Shenyang": {
     "number_of_entries_in_source": 905,
     "concepts": 180,
-    "classification": "Sinitic.?.Shenyang",
+    "classification": "Sinitic.Mandarin.Beifang.Shenyang",
     "taxon_id_in_source": "",
     "taxon_name_in_source": "",
     "entries": 198,
@@ -1127,7 +1127,7 @@
   "Jinan": {
     "number_of_entries_in_source": 905,
     "concepts": 180,
-    "classification": "Sinitic.Mandarin.Jinan",
+    "classification": "Sinitic.Mandarin.Beifang.Jinan",
     "taxon_id_in_source": "",
     "taxon_name_in_source": "",
     "entries": 204,
@@ -1247,7 +1247,7 @@
   "Chengdu": {
     "number_of_entries_in_source": 905,
     "concepts": 180,
-    "classification": "Sinitic.Mandarin.Chengdu",
+    "classification": "Sinitic.Mandarin.Xinan.Chengdu",
     "taxon_id_in_source": "",
     "taxon_name_in_source": "",
     "entries": 201,

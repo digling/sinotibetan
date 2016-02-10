@@ -25,13 +25,14 @@ print("loaded teh db")
 with open('../metadata/metadata.json') as f:
     meta = json.loads(f.read())
 
-mcon = [w[1] for w in csv2list('../concepts/stdb.concepts.csv')]
+mcon = [w[1] for w in csv2list('../concepts/STDB-2016-250.tsv')[1:]]
 txt1 = ''
 concepts = sorted(set([db[k,'concept'] for k in db]))
 for c in concepts:
     
     # determine coverage
     cov = len([db[k,'concept'] for k in db if db[k,'concept'] == c])
+    print('Analysed concept {0}'.format(c))
     if c in mcon:
         txt1 += '<option value="'+c+'" selected>'+c+' ('+str(cov)+' entries)</option>'
     else:

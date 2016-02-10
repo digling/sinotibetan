@@ -36,7 +36,7 @@ var sortprefs = {
 function makeURL() {
   
   url = 'http://tsv.lingpy.org?remote_dbase=sinotibetan' 
-    + '&file=sinotibetan&preview=280'
+    + '&file=sinotibetan&preview=280&sampa=TOKENS'
     + '&basics=DOCULECT|CONCEPT|IPA|TOKENS|POS|NOTE|COGID|SOURCE'
     ;
 
