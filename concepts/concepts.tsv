@@ -1,0 +1,251 @@
+NUMBER	GLOSS	TBL_ID	CONCEPTICON_ID
+1	above	731	1741
+2	all	962	98
+3	bad	1053	1292
+4	below, under	732	1485
+5	big	964	1202
+6	black	1005	163
+7	cold (of temperature)	1063	1287
+8	correct (right)	1045	1725
+9	dark	1013	706
+10	dirty	1086	1230
+11	dry	1028	1398
+12	early	1018	672
+13	eight	804	1705
+14	far	974	1406
+15	firewood	534	10
+16	five	801	493
+17	four	800	1500
+18	full	984	1429
+19	good	1052	1035
+20	green	1009	1425
+21	hard	1034	1884
+22	he or she [third person singular]	934	262
+23	heavy	1014	1210
+24	here	944	136
+25	high / tall	968	1265
+26	horizontal	1001	2376
+27	hot	1062	1286
+28	hundred	824	1634
+29	I [first person singular]	928	1209
+30	inside	715	1606
+31	knife	549	1352
+32	late	1019	477
+33	left	710	244
+34	light (of weight)	1052	1052
+35	long	972	1203
+36	many	987	1198
+37	middle	708	1093
+38	morning	749	1339
+39	narrow	977	1267
+40	near	975	1942
+41	new	1050	1231
+42	nine	805	1483
+43	noon	750	12
+44	old (of person)	1058	2112
+45	one	797	1493
+46	outside	714	762
+47	red	1007	156
+48	right	711	1019
+49	round	990	1395
+50	salty	1076	1091
+51	seven	803	1704
+52	sharp	1020	1396
+53	short	973	1645
+54	shy	1365	487
+55	six	802	1703
+56	small	965	1246
+57	smooth	1037	1234
+58	soft	1035	1856
+59	straight	1003	1404
+60	ten	806	1515
+61	that	947	78
+62	the ant	365	587
+63	the armpit	92	1886
+64	the bamboo	389	1927
+65	the barley (tibetan or highland)	411	932
+66	the belly	96	1251
+67	the bird	326	937
+68	the blood	129	946
+69	the body hair (hair or fur)	266	189
+70	the bone	133	1394
+71	the branch	374	1531
+72	the breast (female)	94	1402
+73	the child (young human)	169	1304
+74	the cloud	7	1489
+75	the daughter	222	1357
+76	the dew	15	1977
+77	the dog	289	2009
+78	the dream	699	2374
+79	the dust	45	2
+80	the ear	81	1247
+81	the earth (soil)	40	1228
+82	the earthworm	363	2350
+83	the egg	450	744
+84	the eye	79	1248
+85	the father	218	1217
+86	the feather	299	1201
+87	the fire	18	221
+88	the fish	351	227
+89	the flea	355	232
+90	the flower	377	239
+91	the fog	16	249
+92	the foot	103	1301
+93	the forest	50	420
+94	the fox	325	1312
+95	the frog	349	503
+96	the front (front side)	712	2194
+97	the frost	14	2034
+98	the fruit	378	1507
+99	the goat	276	1502
+100	the grass	436	606
+101	the hail	13	609
+102	the hair (of the head)	75	1040
+103	the hand	107	1277
+104	the head	74	1256
+105	the heart	144	1223
+106	the hoof	264	152
+107	the horn (keratinized skin)	263	1393
+108	the horse	268	615
+109	the house	494	1252
+110	the husband	247	1200
+111	the ice	17	617
+112	the knee	101	1371
+113	the lake	31	624
+114	the leaf	376	628
+115	the lip (the lips)	85	478
+116	the liver	145	1224
+117	the louse	356	1392
+118	the lung	143	688
+119	the man (male human)	173	2106
+120	the meat	443	634
+121	the moon	4	1313
+122	the mosquito	360	1509
+123	the mother	219	1216
+124	the mountain	23	639
+125	the mouse or rat	320	2139
+126	the mouth	84	674
+127	the mud	46	640
+128	the nail (fingernail or claw)	113	2128
+129	the name	687	1405
+130	the neck	89	1333
+131	the needle (for sewing)	578	1382
+132	the nit	357	267
+133	the nose	80	1221
+134	the otter	317	15
+135	the pig	284	1337
+136	the rain	10	658
+137	the rainbow	11	1733
+138	the rice plant	439	2026
+139	the river	30	666
+140	the road	38	667
+141	the root	375	670
+142	the rope	619	1218
+143	the salt	61	1274
+144	the sand	44	671
+145	the sea	32	1474
+146	the seed	405	714
+147	the sheep	275	1331
+148	the shit	151	676
+149	the shoulder	90	1482
+150	the sickle	624	341
+151	the skin	120	763
+152	the sky	1	1732
+153	the smoke	19	778
+154	the snake	347	730
+155	the snow	12	784
+156	the son	220	1620
+157	the sparrow	336	1854
+158	the spider	361	843
+159	the star	5	1430
+160	the stick	586	1295
+161	the stone (a piece of)	379	857
+162	the sun	2	1343
+163	the tail	267	1220
+164	the thigh	100	800
+165	the thunder	8	1150
+166	the tiger	304	846
+167	the tongue	139	1205
+168	the tooth (front)	137	1380
+169	the tree	372	906
+170	the water	47	948
+171	the wheat	410	1077
+172	the wife	248	1199
+173	the wind	9	960
+174	the wing	298	1257
+175	the wolf	324	522
+176	the woman	174	962
+177	the wood (material)	511	1803
+178	the year	777	1226
+179	there	950	1937
+180	thick	980	1244
+181	thin (object)	981	2307
+182	this	942	1214
+183	thou [second person singular]	931	1215
+184	three	799	492
+185	to be alive	1087	1422
+186	to bite	1753	1403
+187	to blow (of wind)	1738	175
+188	to burn [intransitive]	1269	1428
+189	to buy	1516	1869
+190	to chew	1424	321
+191	to come	1491	1446
+192	to count	1640	1420
+193	to cry (weep)	1485	1420
+194	to die	1651	1494
+195	to dig	1698	1418
+196	to drink	1370	1401
+197	to eat	1198	1336
+198	to fight	1234	1423
+199	to float	1553	1574
+200	to flow	1502	2003
+201	to fly (move through air)	1318	1441
+202	to forget	1704	1523
+203	to give	1345	1447
+204	to hear	1682	1408
+205	to hide (conceal)	1169	602
+206	to hold	1709	1448
+207	to hunt	1230	1435
+208	to kill	1602	1417
+209	to knead	1594	274
+210	to know (something)	1398	1410
+211	to laugh	1735	1355
+212	to learn	1742	504
+213	to lick	1674	319
+214	to lie down	1661	215
+215	to marry (a man marries a woman)	1578	2164
+216	to plant (vegetals, rice)	1774	1486
+217	to play	1703	1413
+218	to pull	1568	1455
+219	to push	1689	1452
+220	to reside (live)	1452	1099
+221	to run	1544	1519
+222	to scratch	1530	1436
+223	to see	1471	1409
+224	to shoot (an arrow)	1611	1172
+225	to sing	1184	1261
+226	to sleep	1646	1585
+227	to smell (perceive odor) [transitive]	1707	1586
+228	to sow (broadcast, scatter seeds)	1597	748
+229	to spit	1688	1440
+230	to stand	1784	1442
+231	to steal	1686	713
+232	to think (reflect)	1726	1415
+233	to throw	1687	1456
+234	to vomit	1535	1278
+235	to walk	1815	1443
+236	to wipe	1163	1454
+237	today	738	1283
+238	tomorrow	742	1329
+239	twenty	816	1710
+240	two	798	1498
+241	we [first person plural inclusive]	930	1131
+242	wet	1029	1726
+243	what	954	1236
+244	where	955	1237
+245	white	1006	1335
+246	who	953	1235
+247	yellow	1008	1424
+248	yesterday	739	1174
+249	you [second person plural]	933	1213
+250	young	1059	1207
