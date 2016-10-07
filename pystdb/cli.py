@@ -14,4 +14,6 @@ def main():
         download(target)
     if 'history' in argv:
         history(limit)
+    if 'coverage' in argv:
+        concept_coverage()
 

@@ -10,10 +10,11 @@ from urllib import request
 import zlib
 from .data import url
 
+
 def load_concepticon():
 
     concepticon = dict([
-        (line['ID'], line) for line in Concepticon().conceptsets()
+        (line.id, line) for line in Concepticon().conceptsets.values()
         ])
 
     return concepticon
@@ -46,7 +47,7 @@ def stdb_concepts():
     for line in data[1:]:
         if line[1] in concepts:
             print(line[1])
-        concepts[line[1]] = OrderedDict(zip(data[0], data[1:]))
+        concepts[line[1]] = OrderedDict(zip([h.lower() for h in data[0]], line))
     return concepts
     
 def backup(target='url'):
@@ -81,3 +82,14 @@ def history(limit):
         data = f.read().decode('utf-8')
         for line in data.split('\n'):
             print(line)
+
+
+def concept_coverage():
+
+    concepts = [h['concepticon_id'] for h in stdb_concepts().values()]
+    concepticon = Concepticon()
+    lists = ['Blust-2008-210', 'Comrie-1977-207', 'Matisoff-1978-200']
+    for l in lists:
+        cids = [c.concepticon_id for c in concepticon.conceptlists[l].concepts.values()]
+        olap = len([x for x in concepts if x in cids])
+        print('*', l, olap)
