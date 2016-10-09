@@ -31,8 +31,7 @@ mcon = stdb_concepts()
 
 txt1 = ''
 concepts = sorted(set([db[k,'concept'] for k in db]))
-preselected_taxa = ["Bai_Jianchuan","Bokar","Daofu","Darang_Taraon","Dulong","Japhug","Jingpho","Khaling","Limbu","Lisu","Naxi","Old_Chinese","Pumi_Lanping","Tibetan_Written","Tujia",
-        'Old_Burmese']
+preselected_taxa="""Bai_Jianchuan|Bokar|Daofu|Darang_Taraon|Dulong|Japhug|Jingpho|Khaling|Limbu|Lisu|Motuo_Menba|Naxi|Old_Burmese|Old_Chinese|Pumi_Lanping|Qiang_Mawo|rGyalrong_Maerkang|Tibetan_Written|Tujia|Yidu|Xumi|Lyuzu|Zhaba_Daofu_County""".split('|')
 visited = []
 for c in concepts:
     visited += [c]
