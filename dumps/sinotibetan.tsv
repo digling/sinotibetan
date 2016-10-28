@@ -5,8 +5,8 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 101	Japhug	all	tʰamtɕɤt	tʰ a m tɕ ɤ t		tib[tʰams.tɕad]	全部	3682	凡
 313	Japhug	bad	ŋɤn	ŋ ɤ n		tib[ŋan]	坏	1277	
 419	Japhug	to be alive	sɯsu	s ɯ s u			活的	1330	
-456	Khaling	the belly	mupu	m u p u	doubtful		肚子	4063	肚
-457	Limbu	the belly	sappok	s a pp o k			肚子	4063	肚
+456	Khaling	the belly	mupu	m u p u	doubtful		肚子	4900	肚
+457	Limbu	the belly	sappok	s a pp o k			肚子	4900	肚
 472	Japhug	the belly	tɯ-xtu	t ɯ ◦ x t u			肚子	1296	肚
 525	Japhug	below, under	ɯ-pa	ɯ ◦ p a				1297	
 562	Khaling	big	ghoɔ̄lpɛ	gʰ o ɔ̄ l p ɛ			大	1305	大
@@ -156,9 +156,9 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 5295	Japhug	the knee	tɯ-χpɯm	t ɯ ◦ χ p ɯ m			膝	1972	膝
 5332	Khaling	to know (something)	tsikt-	ts i k t ◦			知道	1986	知
 5333	Limbu	to know (something)	nis-	n i s ◦			知道	1985	知
-5348	Japhug	to know (something)	sɯz	s ɯ z			知道	1981	知
+5348	Japhug	to know (something)	sɯz	s ɯ z			知道	4963	知
 5401	Japhug	the lake	mtsʰu	m tsʰ u		tib[mtsʰo]	湖	1994	
-5454	Japhug	to laugh	nɤre	n ɤ r e			笑	2001	
+5454	Japhug	to laugh	nɤre	n ɤ r e			笑	4216	
 5491	Khaling	the leaf	sāːphʌm	s āː pʰ ʌ m			叶子	2018	葉
 5492	Limbu	the leaf	tɛtla	t ɛ t l a			叶子	2017	葉
 5507	Japhug	the leaf	tɤ-jwaʁ	t ɤ ◦ j w a ʁ			叶子	2010	葉
@@ -426,7 +426,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 14991	Tibetan_Written	the mountain	ri	r i				2118	
 14992	Xumi	to sleep	lɛ³³ʐe⁵⁵	l ɛ ³³ ◦ ʐ e ⁵⁵				2514	
 14994	Xumi	to die	lɛ³³ɕɛ⁵³	l ɛ ³³ ◦ ɕ ɛ ⁵³				1486	
-14995	Xumi	to die	na³³ɕu⁵³	n a ³³ ◦ ɕ u ⁵³				0	
+14995	Xumi	to die	na³³ɕu⁵³	n a ³³ ◦ ɕ u ⁵³				1486	
 14996	Xumi	to lie down	miæ³³ʐe⁵⁵	m i æ ³³ ◦ ʐ e ⁵⁵				4637	
 14998	Tibetan_Written	the child (young human)	phru gu	ph r u _ g u				3105	
 14999	Tibetan_Written	the child (young human)	bjis pa	b j i s _ p a				3106	
@@ -435,8 +435,8 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 15006	Xumi	the leaf	sĩ⁵⁵jyæ³³	s ĩ ∼ ⁵⁵ ◦ j y æ ³³				4632	
 15007	Tujia	the nose	ən³⁵tɕhi⁵⁵	ə n ³⁵ ◦ tɕh i ⁵⁵				2203	
 15008	Xumi	to hear	ma³⁵	m a ³⁵				4592	
-15009	Xumi	to steal	qhuɛ⁵³	qh u ɛ ⁵³				0	
-15010	Xumi	to throw	tɕa⁵⁵wu⁵⁵	tɕ a ⁵⁵ ◦ w u ⁵⁵				4755	
+15009	Xumi	to steal	qhuɛ⁵³	qh u ɛ ⁵³				2611	
+15010	Xumi	to throw	tɕa⁵⁵wu⁵⁵	tɕ a ⁵⁵ ◦ w u ⁵⁵				5003	
 15012	Xumi	to push	ȵõ⁵³	ȵ õ ∼ ⁵³				4671	
 15014	Tibetan_Written	the river	tɕhu bo	tɕh u _ b o				2324	
 15015	Xumi	to dig	phɛ³⁵	ph ɛ ³⁵				4546	
@@ -450,7 +450,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 15033	Tibetan_Written	the father	ʔ a pha	ʔ _ a _ ph a				1608	
 15034	Tibetan_Written	the mother	ma	m a				2109	
 15036	Tibetan_Written	the son	bu	b u				3135	
-15037	Xumi	to laugh	ra³³be⁵⁵	r a ³³ ◦ b e ⁵⁵				2001	
+15037	Xumi	to laugh	ra³³be⁵⁵	r a ³³ ◦ b e ⁵⁵				4216	
 15039	Xumi	to blow (of wind)	tɕhyɛ³³	tɕh y ɛ ³³				1388	
 15043	Xumi	to learn	tsõ⁵⁵ɦõ⁵⁵	ts õ ∼ ⁵⁵ ◦ ɦ õ ∼ ⁵⁵				4794	
 15047	Bai_Jianchuan	here	ɑ⁵⁵tɑ̱³³	ɑ ⁵⁵ ◦ t ɑ̱ ³³				1861	
@@ -471,15 +471,15 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 15102	Tibetan_Written	the forest	nags	n a g s	!			1703	
 15104	Tibetan_Written	the feather	sgro	s g r o	!			1617	
 15105	Lyuzu	the sky	na³³nkhæ⁵³mu³⁵	n a ³³ ◦ nkh æ ⁵³ ◦ m u ³⁵	!			2511	
-15106	Lyuzu	the sun	ȵi³³mi⁵³	ȵ i ³³ ◦ m i ⁵³		Tibetan[ɲi.ma]		0	
-15107	Lyuzu	the sun	ȵi³³me⁵³	ȵ i ³³ ◦ m e ⁵³		Tibetan[ɲi.ma]		0	
+15106	Lyuzu	the sun	ȵi³³mi⁵³	ȵ i ³³ ◦ m i ⁵³		Tibetan[ɲi.ma]		2660	
+15107	Lyuzu	the sun	ȵi³³me⁵³	ȵ i ³³ ◦ m e ⁵³		Tibetan[ɲi.ma]		2660	
 15108	Yidu	thou [second person singular]	ȵo³⁵	ȵ o ³⁵				2759	
 15109	Lyuzu	the moon	ɬæ³³phe⁵³	ɬ æ ³³ ◦ ph e ⁵³				0	
 15110	Lyuzu	the star	kəʴ³⁵	k ə ʴ ³⁵				4341	
 15112	Lyuzu	the cloud	tɕe⁵³	tɕ e ⁵³				1438	
 15113	Lyuzu	the thunder	me⁵³gi⁵³	m e ⁵³ ◦ g i ⁵³				2784	
 15114	Lyuzu	the wind	me⁵⁵le⁵³	m e ⁵⁵ ◦ l e ⁵³				2942	
-15115	Lyuzu	the rain	ɣuæ³⁵	ɣ u æ ³⁵				4674	
+15115	Lyuzu	the rain	ɣuæ³⁵	ɣ u æ ³⁵				2270	
 15120	Lyuzu	the dew	hĩ³³ʂu⁵³	h ĩ ∼ ³³ ◦ ʂ u ⁵³				4787	
 15121	Lyuzu	the fog	tɕe⁵³	tɕ e ⁵³				4574	
 15122	Lyuzu	the ice	(n) phi³⁵	ph i ³⁵	!			1956	
@@ -487,7 +487,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 15125	Tibetan_Written	the mouse or rat	bji ba	b j i _ b a				2276	
 15128	Tibetan_Written	the wolf	spjaŋ khu	s p j a ŋ _ kh u	!			3161	
 15129	Tibetan_Written	the fox	wa	w a				3170	
-15130	Tibetan_Written	the bird	bja	b j a				1356	
+15130	Tibetan_Written	the bird	bja	b j a				4897	
 15131	Tibetan_Written	the bird	bjeɦu	b j e ɦ u	!			1311	
 15132	Lyuzu	the river	dʐu³⁵	dʐ u ³⁵				4685	
 15133	Lyuzu	the river	dʐu³³mæ⁵³	dʐ u ³³ ◦ m æ ⁵³				4685	
@@ -528,7 +528,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 15185	Lyuzu	the thigh	tʂhu³³phiæ⁵³	tʂh u ³³ ◦ ph i æ ⁵³				4797	
 15186	Lyuzu	the knee	pi⁵³nbi⁵³	p i ⁵³ ◦ nb i ⁵³	?!			4628	
 15187	Yidu	the flower	ɑ⁵⁵pe⁵⁵	ɑ ⁵⁵ ◦ p e ⁵⁵				4152	
-15188	Lyuzu	the foot	li³³phiæ⁵³	l i ³³ ◦ ph i æ ⁵³				0	
+15188	Lyuzu	the foot	li³³phiæ⁵³	l i ³³ ◦ ph i æ ⁵³				4922	
 15190	Xumi	to run	dzõ³³dzõ⁵⁵	dz õ ∼ ³³ ◦ dz õ ∼ ⁵⁵				3407	
 15192	Tibetan_Written	the seed	son	s o n				2419	
 15193	Tibetan_Written	the seed	sa bon	s a _ b o n				2419	
@@ -536,14 +536,14 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 15196	Tibetan_Written	the wheat	gro	g r o				3237	
 15197	Tibetan_Written	the barley (tibetan or highland)	nas	n a s				3247	
 15198	Lyuzu	the skin	ngaʴ³³pi⁵³	n g a ʴ ³³ ◦ p i ⁵³	!			4719	
-15201	Lyuzu	the blood	ʂu³⁵	ʂ u ³⁵				0	
+15201	Lyuzu	the blood	ʂu³⁵	ʂ u ³⁵				1380	
 15203	Lyuzu	the bone	əʴ³³khuo⁵³	ə ʴ ³³ ◦ kh u o ⁵³	!			1397	
-15205	Lyuzu	the tooth (front)	fu³⁵	f u ³⁵				0	
+15205	Lyuzu	the tooth (front)	fu³⁵	f u ³⁵				2800	
 15207	Motuo_Menba	the ant	khaŋ dʑi la	kh a ŋ _ dʑ i _ l a				4442	
 15209	Tibetan_Written	the grass	rtswa	r ts w a	!			1772	
 15210	Lyuzu	the heart	ti⁵³mi⁵³	t i ⁵³ ◦ m i ⁵³				4596	
-15211	Lyuzu	the liver	tsha³⁵	tsh a ³⁵				0	
-15212	Tibetan_Written	the rice plant	ɦbras	ɦ b r a s	!			3255	
+15211	Lyuzu	the liver	tsha³⁵	tsh a ³⁵				2040	
+15212	Tibetan_Written	the rice plant	ɦbras	ɦ b r a s	!			4932	
 15213	Tibetan_Written	the meat	ɕa	ɕ a				2084	
 15216	Tibetan_Written	the egg	sgo ŋa	s g o _ ŋ a	!			1580	
 15218	Lisu	shy	ɕuɑ³³to³³	ɕ u ɑ ³³ ◦ t o ³³				2478	
@@ -564,15 +564,15 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 15275	Lyuzu	the husband	li³³gu⁵³	l i ³³ ◦ g u ⁵³				4621	
 15276	Lyuzu	the wife	tʂæ³³mæ⁵³	tʂ æ ³³ ◦ m æ ⁵³				4775	
 15278	Darang_Taraon	the horn (keratinized skin)	ɹɑu⁵⁵	ɹ ɑ u ⁵⁵				1906	
-15289	Lyuzu	the horn (keratinized skin)	əʴ³³bu⁵³	ə ʴ ³³ ◦ b u ⁵³	!			0	
+15289	Lyuzu	the horn (keratinized skin)	əʴ³³bu⁵³	ə ʴ ³³ ◦ b u ⁵³	!			1906	
 15290	Lyuzu	the hoof	ŋu⁵⁵khua⁵³	ŋ u ⁵⁵ ◦ kh u a ⁵³				4810	
 15294	Lyuzu	the horse	nboʴ³⁵	nb oʴ ³⁵	?!			0	
-15301	Lyuzu	the sheep	ȵu³⁵	ȵ u ³⁵				0	
+15301	Lyuzu	the sheep	ȵu³⁵	ȵ u ³⁵				3614	
 15302	Lyuzu	the goat	tshe³⁵	tsh e ³⁵				3620	
 15311	Lyuzu	the pig	ɣu³⁵	ɣ u ³⁵				3156	
-15312	Lyuzu	the pig	pha³¹	ph a ³¹		tib phag		0	
+15312	Lyuzu	the pig	pha³¹	ph a ³¹		tib phag		3156	
 15321	Tibetan_Written	the armpit	mtɕhan khuŋ	m tɕh a n _ kh u ŋ	!			3280	
-15337	Lyuzu	the otter	ʂe³⁵	ʂ e ³⁵				0	
+15337	Lyuzu	the otter	ʂe³⁵	ʂ e ³⁵				3632	
 15338	Lyuzu	the mouse or rat	ɣuo³³ju̵⁵³	ɣ u o ³³ ◦ j u̵ ⁵³				4677	
 15341	Lyuzu	the wolf	de³³nbaʴ⁵³	d e ³³ ◦ nb a ʴ ⁵³	?!			4812	
 15342	Tibetan_Written	the belly	grod pa	g r o d _ p a				1292	
@@ -596,7 +596,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 15379	Lyuzu	the flower	mi³³tɕu⁵³	m i ³³ ◦ tɕ u ⁵³				4572	
 15380	Lyuzu	the flower	mi³³tuo⁵³	m i ³³ ◦ t u o ⁵³		tib[me.tog]		1672	
 15381	Lyuzu	the fruit	se³³sɿ⁵³	s e ³³ ◦ s ɿ ⁵³				1720	
-15384	Xumi	the dream	ʑɛ³³mo⁵⁵	ʑ ɛ ³³ ◦ m o ⁵⁵	ʑɯβ+jmŋo			0	
+15384	Xumi	the dream	ʑɛ³³mo⁵⁵	ʑ ɛ ³³ ◦ m o ⁵⁵	ʑɯβ+jmŋo			1516	
 15388	Lyuzu	the bamboo	n̥i⁵³	n̥ i ⁵³				4823	
 15397	Lyuzu	the seed	ɣɯʴ³³zɿ⁵³	ɣ ɯ ʴ ³³ ◦ z ɿ ⁵³	!			4703	
 15400	Lyuzu	the wheat	ʂæ⁵³	ʂ æ ⁵³				3238	
@@ -635,7 +635,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 15465	Tibetan_Written	eight	brgjad	b r g j a d	!			1588	
 15466	Tibetan_Written	nine	dgu	d g u	!			4259	
 15467	Tibetan_Written	ten	btɕu	b tɕ u	!			4354	
-15473	Lyuzu	firewood	se³⁵	s e ³⁵				0	
+15473	Lyuzu	firewood	se³⁵	s e ³⁵				4850	
 15475	Lisu	to run	tɯ³⁵	t ɯ ³⁵				3788	
 15476	Tibetan_Written	hundred	brgja	b r g j a	!			3718	
 15484	Lyuzu	knife	nbo³³tuo⁵³	nb o ³³ ◦ t u o ⁵³	?!			4851	
@@ -716,20 +716,20 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 15651	Tibetan_Written	hot	tsha gdug	tsh a _ g d u g	!			3488	
 15652	Tibetan_Written	cold (of temperature)	graŋ mo	g r a ŋ _ m o				1441	
 15658	Tibetan_Written	salty	tshwa khu	tsh w a _ kh u				3465	
-15659	Lyuzu	one	te³¹	t e ³¹				0	
-15660	Lyuzu	two	ne³⁵	n e ³⁵				0	
-15661	Lyuzu	three	ɕi⁵³	ɕ i ⁵³				0	
+15659	Lyuzu	one	te³¹	t e ³¹				2220	
+15660	Lyuzu	two	ne³⁵	n e ³⁵				4376	
+15661	Lyuzu	three	ɕi⁵³	ɕ i ⁵³				2762	
 15662	Lyuzu	four	ʐu³⁵	ʐ u ³⁵				4579	
 15663	Lyuzu	five	ŋa⁵³	ŋ a ⁵³				0	
-15664	Lyuzu	six	tʂhu̵⁵³	tʂh u̵ ⁵³				0	
+15664	Lyuzu	six	tʂhu̵⁵³	tʂh u̵ ⁵³				2497	
 15665	Tibetan_Written	dirty	btsog pa	b ts o g _ p a				1503	
-15666	Lyuzu	eight	dʑi³⁵	dʑ i ³⁵				0	
-15667	Lyuzu	nine	ngɯ³⁵	ng ɯ ³⁵	?!			0	
+15666	Lyuzu	eight	dʑi³⁵	dʑ i ³⁵				1588	
+15667	Lyuzu	nine	ngɯ³⁵	ng ɯ ³⁵	?!			4259	
 15668	Lyuzu	ten	tɕhe⁵³tɕhe⁵³	tɕh e ⁵³ ◦ tɕh e ⁵³				2676	
 15673	Lyuzu	twenty	ne³³tshɿ⁵³	n e ³³ ◦ tsh ɿ ⁵³				2812	
 15675	Bokar	the bone	loŋ poŋ	l o ŋ _ p o ŋ				1392	
 15677	Bokar	the heart	ɦoŋ puk	ɦ o ŋ _ p u k				1850	
-15679	Lyuzu	hundred	(te³³) ʑæ⁵³	ʑ æ ⁵³	!			0	
+15679	Lyuzu	hundred	(te³³) ʑæ⁵³	ʑ æ ⁵³	!			3718	
 15682	Bokar	to spit	tɕu raŋ	tɕ u _ r a ŋ				2586	
 15691	Daofu	we [first person plural inclusive]	ŋa ji	ŋ a _ j i				2856	
 15697	Tibetan_Written	the woman	bud med	b u d _ m e d				2966	
@@ -754,7 +754,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 15767	Lyuzu	big	kɯ⁵³kɯ⁵³	k ɯ ⁵³ ◦ k ɯ ⁵³				4526	
 15768	Lyuzu	small	ji³³ji⁵³	j i ³³ ◦ j i ⁵³				4721	
 15772	Daofu	he or she [third person singular]	thə	th ə				1810	
-15773	Lyuzu	long	ʂa⁵³ʂa⁵³	ʂ a ⁵³ ◦ ʂ a ⁵³				0	
+15773	Lyuzu	long	ʂa⁵³ʂa⁵³	ʂ a ⁵³ ◦ ʂ a ⁵³				2043	
 15774	Lyuzu	short	da⁵³da⁵³	d a ⁵³ ◦ d a ⁵³				2457	
 15775	Lyuzu	far	əʴ³³ʂa³⁵	ə ʴ ³³ ◦ ʂ a ³⁵	!			4555	
 15776	Lyuzu	near	əʴ³³ȵi⁵³	ə ʴ ³³ ◦ ȵ i ⁵³	!			2168	
@@ -864,7 +864,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 16125	Tibetan_Written	to learn	sbjaŋ	s b j a ŋ	!			3075	
 16126	Tibetan_Written	to learn	slob sbjoŋ bjed	s l o b _ s b j o ŋ _ b j e d	!			3074	
 16127	Lyuzu	to float	gæ³³gæ⁵³	g æ ³³ ◦ g æ ⁵³				4567	
-16128	Xumi	six	tɕhu⁵⁵ (ku⁵³)	tɕh u ⁵⁵	!			0	
+16128	Xumi	six	tɕhu⁵⁵ (ku⁵³)	tɕh u ⁵⁵	!			2497	
 16129	rGyalrong_Maerkang	the wolf	spjɑŋ kə	s p j ɑ ŋ _ k ə	!	tib[spʲaŋ.ki]		3161	
 16145	Lyuzu	to marry (a man marries a woman)	khe⁵³ʂu⁵³	kh e ⁵³ ◦ ʂ u ⁵³				4793	
 16146	Jingpho	eight	mă³¹|tsa̱t⁵⁵	m ă ³¹ ◦ ts a̱ t ⁵⁵	!			1588	
@@ -875,7 +875,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 16155	Lyuzu	to kill	ntʂhɿ⁵³	ntʂh ɿ ⁵³	!			4624	
 16158	Tibetan_Written	the tail	gʑug gu	g ʑ u g _ g u	!			2669	
 16159	Xumi	to see	dõ³³ (sɿ⁵⁵)	d õ ∼ ³³	!			2408	
-16162	Tibetan_Written	to know (something)	ɕes	ɕ e s				1981	
+16162	Tibetan_Written	to know (something)	ɕes	ɕ e s				4963	
 16163	Tibetan_Written	to know (something)	rtog	r t o g	!			1983	
 16166	Daofu	what	a tɕhə	a _ tɕh ə		tib[tɕʰi		2876	
 16170	Xumi	big	mɛ³³duɛ⁵³	m ɛ ³³ ◦ d u ɛ ⁵³				1306	
@@ -898,7 +898,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 16269	Lyuzu	to bite	ne³³tʂɿ⁵³	n e ³³ ◦ tʂ ɿ ⁵³				4528	
 16283	Motuo_Menba	the sickle	so ra	s o _ r a		tib		3290	
 16284	Lyuzu	to plant (vegetals, rice)	khe³³gu⁵³	kh e ³³ ◦ g u ⁵³				4664	
-16304	Lyuzu	to know (something)	hũ³³sɿ⁵³	h ũ ∼ ³³ ◦ s ɿ ⁵³				1981	
+16304	Lyuzu	to know (something)	hũ³³sɿ⁵³	h ũ ∼ ³³ ◦ s ɿ ⁵³				4963	
 16311	Lyuzu	the sky	muo³⁵	m u o ³⁵				2511	
 16315	Xumi	the hair (of the head)	ʁᴜ³³mõ⁵⁵	ʁ ᴜ ³³ ◦ m õ ∼ ⁵⁵				1789	
 16317	Lyuzu	to walk	fu³³fu⁵³	f u ³³ ◦ f u ⁵³				4762	
@@ -914,7 +914,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 16342	Jingpho	the smoke	wan³¹khut³¹	w a n ³¹ ◦ kh u t ³¹				4332	
 16343	Tibetan_Written	the tiger	stag	s t a g	!			3564	
 16345	Jingpho	the mountain	pum³¹	p u m ³¹				2125	
-16346	Xumi	eight	ɕi⁵⁵ (ku⁵³)	ɕ i ⁵⁵	!			0	
+16346	Xumi	eight	ɕi⁵⁵ (ku⁵³)	ɕ i ⁵⁵	!			1588	
 16348	Jingpho	the river	khaʔ³¹	kh a ʔ ³¹				2329	
 16349	Jingpho	the lake	noŋ⁵⁵	n o ŋ ⁵⁵				1996	
 16350	Jingpho	the sea	pa̱ŋ³³lai³³	p a̱ ŋ ³³ ◦ l a i ³³				3123	
@@ -943,7 +943,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 16396	Jingpho	the shoulder	kă³¹phaʔ³¹	k ă ³¹ ◦ ph a ʔ ³¹				2464	
 16400	Jingpho	the breast (female)	tʃu̱ʔ⁵⁵kă³¹paŋ³³	tʃ u̱ ʔ ⁵⁵ ◦ k ă ³¹ ◦ p a ŋ ³³	!			1413	
 16402	Jingpho	the belly	ka̱n³³	k a̱ n ³³				1295	
-16403	Lyuzu	the fire	me³⁵	m e ³⁵				0	
+16403	Lyuzu	the fire	me³⁵	m e ³⁵				1639	
 16404	Jingpho	the thigh	mă³¹kji³³	m ă ³¹ ◦ k j i ³³				3087	
 16405	Jingpho	the knee	lă³¹phut³¹	l ă ³¹ ◦ ph u t ³¹				1973	
 16407	Jingpho	the foot	lă³¹ko³³	l ă ³¹ ◦ k o ³³				1697	
@@ -1014,7 +1014,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 16573	Motuo_Menba	the blood	ji	j i				4080	
 16574	Jingpho	the wolf	tʃa̱³³|khjon³³	tʃ a̱ ³³ ◦ kh j o n ³³	!			3166	
 16575	Jingpho	the fox	ka⁵⁵kui³¹	k a ⁵⁵ ◦ k u i ³¹				3176	
-16576	Jingpho	the bird	u³¹nam³¹tʃi³³	u ³¹ ◦ n a m ³¹ ◦ tʃ i ³³				1308	
+16576	Jingpho	the bird	u³¹nam³¹tʃi³³	u ³¹ ◦ n a m ³¹ ◦ tʃ i ³³				4070	
 16577	Motuo_Menba	the bone	khaŋ	kh a ŋ				4085	
 16580	Motuo_Menba	the tooth (front)	ɕa	ɕ a				2800	
 16582	Motuo_Menba	the tongue	le	l e				2794	
@@ -1143,7 +1143,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 16816	Pumi_Lanping	to vomit	tə⁵⁵fphɛ¹³	t ə ⁵⁵ ◦ f ph ɛ ¹³	!			2820	
 16819	Jingpho	yesterday	mă⁵⁵ni⁵⁵	m ă ⁵⁵ ◦ n i ⁵⁵				3372	
 16820	Jingpho	tomorrow	phot⁵⁵ni⁵⁵	ph o t ⁵⁵ ◦ n i ⁵⁵				3381	
-16822	Motuo_Menba	firewood	ɕiŋ	ɕ i ŋ				3641	
+16822	Motuo_Menba	firewood	ɕiŋ	ɕ i ŋ				4850	
 16824	Jingpho	morning	tʃă³¹phot³¹	tʃ ă ³¹ ◦ ph o t ³¹				3607	
 16825	Jingpho	noon	ʃă³¹ni⁵⁵ kă³¹a³³	ʃ ă ³¹ ◦ n i ⁵⁵ _ k ă ³¹ ◦ a ³³	!			3393	
 16838	Bokar	to count	kɯː	k ɯː				1479	
@@ -1282,9 +1282,9 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 17208	Motuo_Menba	old (of person)	gat bu	g a t _ b u		tib rgad po		2208	
 17212	Motuo_Menba	hot	tsha lo	tsh a _ l o				3488	
 17213	Motuo_Menba	cold (of temperature)	per bu	p e r _ b u				4100	
-17218	Daofu	the rice plant	mdʐe	m dʐ e	!	tib[ɴbras]		3255	
+17218	Daofu	the rice plant	mdʐe	m dʐ e	!	tib[ɴbras]		4932	
 17221	Qiang_Mawo	noon	dzɛj	dz ɛ j				4464	
-17222	Yidu	good	pɹɑ⁵⁵	p ɹ ɑ ⁵⁵				4169	
+17222	Yidu	good	pɹɑ⁵⁵	p ɹ ɑ ⁵⁵				1753	
 17223	Motuo_Menba	salty	ʔin tɕa kha lu	ʔ i n _ tɕ a _ kh a _ l u				3467	
 17226	Motuo_Menba	dirty	tsok pa	ts o k _ p a		tib btsog		1503	
 17229	Bai_Jianchuan	to die	ɕi³³	ɕ i ³³		Ch		1486	
@@ -1294,7 +1294,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 17241	Yidu	bad	e⁵⁵lieŋ⁵⁵	e ⁵⁵ ◦ l i e ŋ ⁵⁵				4061	
 17246	Naxi	to come	lɯ³³	l ɯ ³³	doubtful			1452	
 17249	Naxi	the seed	lɚ⁵⁵	l ɚ ⁵⁵				2422	
-17251	Lyuzu	the daughter	zu̵³³ju⁵³	z u̵ ³³ ◦ j u ⁵³				0	
+17251	Lyuzu	the daughter	zu̵³³ju⁵³	z u̵ ³³ ◦ j u ⁵³				5034	
 17252	Jingpho	to give	ja³³	j a ³³				1746	
 17258	Bokar	to blow (of wind)	(ta nap) ɦəŋ ŋaŋ	ɦ ə ŋ _ ŋ a ŋ	!			1385	
 17268	Jingpho	shy	kă³¹jaʔ³¹	k ă ³¹ ◦ j a ʔ ³¹				2479	
@@ -1345,7 +1345,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 17360	rGyalrong_Maerkang	the mud	tɑ tʂo	t ɑ _ tʂ o				4031	
 17361	rGyalrong_Maerkang	the water	tə ȶʃi	t ə _ ȶʃ i				2844	
 17363	rGyalrong_Maerkang	the forest	ʃə khɑ	ʃ ə _ kh ɑ				3985	
-17364	Tibetan_Written	firewood	ɦbud ɕiŋ	ɦ b u d _ ɕ i ŋ	!			3641	
+17364	Tibetan_Written	firewood	ɦbud ɕiŋ	ɦ b u d _ ɕ i ŋ	!			4850	
 17366	Jingpho	to buy	mă³¹|ʒi³³	m ă ³¹ ◦ ʒ i ³³	!			1415	
 17370	rGyalrong_Maerkang	the salt	tshɐ	tsh ɐ		tib[tsʰa]		2382	
 17372	Bai_Jianchuan	good	ɕo²¹	ɕ o ²¹				1751	
@@ -1417,7 +1417,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 17492	Dulong	this	jɑ⁵⁵	j ɑ ⁵⁵				2757	
 17494	Jingpho	to play	kă³¹sup⁵⁵tʃa̱i³³	k ă ³¹ ◦ s u p ⁵⁵ ◦ tʃ a̱ i ³³				2244	
 17495	Jingpho	to forget	mă³¹|lap³¹	m ă ³¹ ◦ l a p ³¹	!			3550	
-17496	Darang_Taraon	the branch	xɑ³¹ɹɑ⁵³	x ɑ ³¹ ◦ ɹ ɑ ⁵³				1406	
+17496	Darang_Taraon	the branch	xɑ³¹ɹɑ⁵³	x ɑ ³¹ ◦ ɹ ɑ ⁵³				4090	
 17498	Jingpho	to smell (perceive odor) [transitive]	mă³¹nam⁵⁵	m ă ³¹ ◦ n a m ⁵⁵				2533	
 17499	Bai_Jianchuan	salty	tshõ̱²¹	tsh õ̱ ∼ ²¹				3473	
 17500	Jingpho	to hold	tʃum³³	tʃ u m ³³				1899	
@@ -1437,7 +1437,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 17530	Daofu	the wood (material)	ndʐɛ mɛ	n dʐ ɛ _ m ɛ	!			2978	
 17532	rGyalrong_Maerkang	the pig	pɑk	p ɑ k				3156	
 17534	Motuo_Menba	the bird	kha	kh a				4071	
-17535	Motuo_Menba	to steal	dʐo pen ʔa	dʐ o _ p e n _ ʔ a				0	
+17535	Motuo_Menba	to steal	dʐo pen ʔa	dʐ o _ p e n _ ʔ a				4994	
 17536	rGyalrong_Maerkang	the dog	khə nɑ	kh ə _ n ɑ				1511	
 17538	Jingpho	to bite	kă³¹wa⁵⁵	k ă ³¹ ◦ w a ⁵⁵				1365	
 17539	Motuo_Menba	to dig	bak	b a k				4118	
@@ -1470,7 +1470,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 17602	rGyalrong_Maerkang	the leaf	tɐi wɐk	t ɐ i _ w ɐ k				2010	
 17603	rGyalrong_Maerkang	the flower	mən tok	m ə n _ t o k		tib[me.tog]		1672	
 17604	rGyalrong_Maerkang	the fruit	ʃəŋ tok	ʃ ə ŋ _ t o k		Tibetan[ɕiŋ tog]		1717	
-17609	Motuo_Menba	to know (something)	se	s e				1981	
+17609	Motuo_Menba	to know (something)	se	s e				4963	
 17613	rGyalrong_Maerkang	the bamboo	ɟjo	ɟ j o				3220	
 17614	Lyuzu	the wing	du³³ly⁵³	d u ³³ ◦ l y ⁵³				2954	
 17616	Lyuzu	the feather	mu⁵³	m u ⁵³				1616	
@@ -1492,7 +1492,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 17655	Qiang_Mawo	the sea	ʂu bɹɛ	ʂ u _ b ɹ ɛ				4428	
 17656	rGyalrong_Maerkang	the grass	kɑ tsɑ	k ɑ _ ts ɑ				4174	
 17658	rGyalrong_Maerkang	the rice plant	khri	kh r i				4038	
-17659	Daofu	firewood	mə si	m ə _ s i				3641	
+17659	Daofu	firewood	mə si	m ə _ s i				4850	
 17660	Qiang_Mawo	the road	guːʴ	g uː ʴ	!			4294	
 17661	rGyalrong_Maerkang	the meat	ʃɑ	ʃ ɑ				2084	
 17662	Qiang_Mawo	the earth (soil)	khiɑ	kh i ɑ				4131	
@@ -1515,7 +1515,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 17722	Qiang_Mawo	the hand	jə pɑ	j ə _ p ɑ				4180	
 17725	Zhaba_Daofu_County	to hide (conceal)	ka³³sə⁵⁵	k a ³³ ◦ s ə ⁵⁵				4604	
 17728	Qiang_Mawo	the nail (fingernail or claw)	ɤrəs	ɤ r ə s	!			4249	
-17737	rGyalrong_Maerkang	firewood	ʃᴇ	ʃ ᴇ				3641	
+17737	rGyalrong_Maerkang	firewood	ʃᴇ	ʃ ᴇ				4850	
 17738	Daofu	knife	pə rzi	p ə _ r z i	!			3645	
 17741	Qiang_Mawo	the blood	sɑ	s ɑ				1380	
 17744	Qiang_Mawo	the bone	əʴ pɑtʂ	ə ʴ _ p ɑ tʂ	!			1397	
@@ -1580,7 +1580,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 17876	rGyalrong_Maerkang	morning	tɑ nɑp	t ɑ _ n ɑ p				4051	
 17877	rGyalrong_Maerkang	noon	sɐk sə	s ɐ k _ s ə				4041	
 17878	rGyalrong_Maerkang	noon	tə mtso	t ə _ m ts o	!			4042	
-17879	Lyuzu	the louse	ʂu³³mæ⁵³	ʂ u ³³ ◦ m æ ⁵³				0	
+17879	Lyuzu	the louse	ʂu³³mæ⁵³	ʂ u ³³ ◦ m æ ⁵³				4966	
 17881	Qiang_Mawo	the sparrow	ʁuɑj	ʁ u ɑ j				4493	
 17888	Qiang_Mawo	the snake	bəs(1); bɹɛ gɛ (2)	b ə s  b ɹ ɛ _ g ɛ	make two entries. 1 is k.o. large snake			2553	
 17889	Qiang_Mawo	the frog	dzu piɛ	dz u _ p i ɛ				3181	
@@ -1621,7 +1621,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 17975	rGyalrong_Maerkang	he or she [third person singular]	mə	m ə				3988	
 17976	rGyalrong_Maerkang	he or she [third person singular]	wə jo	w ə _ j o				1817	
 17979	Qiang_Mawo	the wood (material)	luəʴ mu	l u ə ʴ _ m u	!			4406	
-17980	Xumi	firewood	sĩ⁵³	s ĩ ∼ ⁵³				3641	
+17980	Xumi	firewood	sĩ⁵³	s ĩ ∼ ⁵³				4850	
 17982	rGyalrong_Maerkang	this	ʃtə	ʃ t ə	!			4022	
 17984	rGyalrong_Maerkang	here	ʃtəi	ʃ t ə i	!			3989	
 17986	rGyalrong_Maerkang	that	wu tə	w u _ t ə				4018	
@@ -1753,7 +1753,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 18283	Qiang_Mawo	where	tɕɑː	tɕ ɑː				4391	
 18284	Naxi	the father	ə²¹bɑ³³	ə ²¹ ◦ b ɑ ³³				4564	
 18285	Naxi	the head	kv̩³³	k v̩ ³³				1821	
-18286	Naxi	the head	ku³³|ly³³	k u ³³ ◦ l y ³³	!			3923	
+18286	Naxi	the head	ku³³|ly³³	k u ³³ ◦ l y ³³	!			1821	
 18287	Naxi	the hair (of the head)	kv̩³³fv̩³³	k v̩ ³³ ◦ f v̩ ³³	!			1797	
 18289	Qiang_Mawo	all	ji tɕhɛ	j i _ tɕh ɛ	!			4056	
 18291	Qiang_Mawo	big	bɹɛ	b ɹ ɛ				4068	
@@ -1768,7 +1768,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 18301	Naxi	the armpit	lɑ²¹ko⁵⁵	l ɑ ²¹ ◦ k o ⁵⁵				3289	
 18302	Qiang_Mawo	near	guɛʴ ȵɛ	g u ɛ ʴ _ ȵ ɛ	!			2168	
 18303	Naxi	the breast (female)	ə⁵⁵po²¹	ə ⁵⁵ ◦ p o ²¹				1411	
-18304	Qiang_Mawo	narrow	tshɛ	tsh ɛ	!			0	
+18304	Qiang_Mawo	narrow	tshɛ	tsh ɛ	!			2157	
 18305	Naxi	the belly	dv̩²¹me³³	d v̩ ²¹ ◦ m e ³³				1293	
 18307	Qiang_Mawo	thick	liɛ	l i ɛ				2713	
 18308	Naxi	the thigh	phi²¹	ph i ²¹				3084	
@@ -1842,7 +1842,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 18473	Naxi	the mouse or rat	fv̩⁵⁵	f v̩ ⁵⁵				2282	
 18474	Naxi	the wolf	phɑ²¹khɯ³³	ph ɑ ²¹ ◦ kh ɯ ³³				3168	
 18475	Naxi	the fox	dæ³³	d æ ³³				3173	
-18476	Naxi	the bird	v̩⁵⁵zi³³	v̩ ⁵⁵ ◦ z i ³³				1308	
+18476	Naxi	the bird	v̩⁵⁵zi³³	v̩ ⁵⁵ ◦ z i ³³				4070	
 18477	rGyalrong_Maerkang	to hear	kɑ msɑm	k ɑ _ m s ɑ m	!			1835	
 18478	Pumi_Lanping	the sheep	ʒɑ̃u⁵⁵	ʒ ɑ̃ u ∼ ⁵⁵				3614	
 18479	rGyalrong_Maerkang	to steal	kɑ nə ʃmo	k ɑ _ n ə _ ʃ m o				4014	
@@ -1874,7 +1874,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 18517	Naxi	the leaf	phiə⁵⁵	ph i ə ⁵⁵				2010	
 18518	Naxi	the flower	bɑ²¹	b ɑ ²¹				1674	
 18519	Naxi	the fruit	dzɚ²¹ly³³	dz ɚ ²¹ ◦ l y ³³				1721	
-18521	rGyalrong_Maerkang	to laugh	kɑ nɑ ri	k ɑ _ n ɑ _ r i				2001	
+18521	rGyalrong_Maerkang	to laugh	kɑ nɑ ri	k ɑ _ n ɑ _ r i				4216	
 18522	rGyalrong_Maerkang	to blow (of wind)	tə ʃnɐm kɑ snɑr	t ə _ ʃ n ɐ m _ k ɑ _ s n ɑ r				3973	
 18523	Naxi	the fire	mi³³	m i ³³				1639	
 18524	rGyalrong_Maerkang	to learn	kɐ slɐp	k ɐ _ s l ɐ p		tib[slob]		3074	
@@ -1894,7 +1894,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 18547	Naxi	the grass	zɿ³³	z ɿ ³³				1771	
 18548	Xumi	he or she [third person singular]	thi⁵³	th i ⁵³				1810	
 18549	Naxi	the rice plant	tʂhuɑ³³	tʂh u ɑ ³³				3256	
-18550	rGyalrong_Maerkang	to know (something)	kɐ ʃə	k ɐ _ ʃ ə				1981	
+18550	rGyalrong_Maerkang	to know (something)	kɐ ʃə	k ɐ _ ʃ ə				4963	
 18551	Bai_Jianchuan	the mud	ni⁴²ua⁵⁵	n i ⁴² u a ⁵⁵	ua⁵⁵ < 汚 ?	Ch 泥		3067	
 18552	Naxi	the meat	ʂɿ³³	ʂ ɿ ³³				2084	
 18553	Naxi	the egg	kv̩³³	k v̩ ³³				1583	
@@ -1939,7 +1939,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 18598	Jingpho	to think (reflect)	mjit³¹	m j i t ³¹				2735	
 18600	Xumi	knife	əʴ⁵⁵tʂhɿ³³	ə ʴ ⁵⁵ ◦ tʂh ɿ ³³	!			4852	
 18608	Darang_Taraon	he or she [third person singular]	tɕe⁵⁵	tɕ e ⁵⁵				1815	
-18609	Naxi	firewood	sɚ³³	s ɚ ³³				3641	
+18609	Naxi	firewood	sɚ³³	s ɚ ³³				4850	
 18611	Xumi	the lake	ɦu⁵³	ɦ u ⁵³				1992	
 18612	Daofu	the head	ʁə	ʁ ə				1821	
 18613	Daofu	the hair (of the head)	ʁə rmi	ʁ ə _ r m i	!			1789	
@@ -1954,7 +1954,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 18625	Daofu	the shoulder	lva poŋ	l v a _ p o ŋ	!			2464	
 18626	Daofu	the armpit	phjɛ kə və	ph j ɛ _ k ə _ v ə				3278	
 18628	Daofu	the breast (female)	nu nu	n u _ n u				1202	
-18629	Daofu	the belly	vo	v o				4063	
+18629	Daofu	the belly	vo	v o				4900	
 18631	Daofu	the thigh	blɛ	b l ɛ		tib[brla]		3082	
 18632	Daofu	the knee	rŋə mo	r ŋ ə _ m o	!			1971	
 18633	Daofu	the knee	rŋə	r ŋ ə	!			1971	
@@ -2078,7 +2078,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 18875	Naxi	I [first person singular]	ŋə²¹	ŋ ə ²¹				1955	
 18878	Naxi	thou [second person singular]	u³³	u ³³				2761	
 18879	Naxi	thou [second person singular]	nv̩²¹	n v̩ ²¹				2759	
-18880	Qiang_Mawo	to know (something)	nə	n ə				0	
+18880	Qiang_Mawo	to know (something)	nə	n ə				1985	
 18881	Daofu	the meat	bjoŋ noŋ	b j o ŋ _ n o ŋ				2088	
 18882	Naxi	he or she [third person singular]	thɯ³³	th ɯ ³³				1810	
 18888	Daofu	the egg	zgə ŋa	z g ə _ ŋ a	!	Tibetan[sgoŋa]		1580	
@@ -2230,7 +2230,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 19065	Darang_Taraon	black	mɑŋ⁵³	m ɑ ŋ ⁵³	=Ch, Limbu ?			3686	
 19066	Dulong	the armpit	ɹɑʔ⁵⁵li⁵⁵	ɹ ɑ ʔ ⁵⁵ ◦ l i ⁵⁵				3286	
 19067	Dulong	the breast (female)	nuŋ⁵⁵	n u ŋ ⁵⁵				1202	
-19069	Dulong	the belly	pɯ³¹wɑ⁵⁵	p ɯ ³¹ ◦ w ɑ ⁵⁵				1290	
+19069	Dulong	the belly	pɯ³¹wɑ⁵⁵	p ɯ ³¹ ◦ w ɑ ⁵⁵				4064	
 19070	Daofu	the name	mȵoŋ	m ȵ o ŋ	!			4251	
 19071	Dulong	the thigh	mɯ³¹tɕi⁵³	m ɯ ³¹ ◦ tɕ i ⁵³				3088	
 19072	Dulong	the knee	pɑŋ³¹pɯt⁵⁵	p ɑ ŋ ³¹ ◦ p ɯ t ⁵⁵				1973	
@@ -2255,7 +2255,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 19094	Daofu	inside	noŋ	n o ŋ		tib[naŋ]		3340	
 19095	Pumi_Lanping	the goat	tshɤ⁵⁵	tsh ɤ ⁵⁵				3620	
 19096	Dulong	the bone	ɑŋ⁵⁵ɹɯ⁵⁵	ɑ ŋ ⁵⁵ ◦ ɹ ɯ ⁵⁵				1397	
-19097	Yidu	the leaf	nɑŋ³⁵	n ɑ ŋ ³⁵				4219	
+19097	Yidu	the leaf	nɑŋ³⁵	n ɑ ŋ ³⁵				2014	
 19098	Dulong	the tooth (front)	sɑ⁵³	s ɑ ⁵³				2800	
 19101	Pumi_Lanping	the pig	phʃɑ¹³	ph ʃ ɑ ¹³	!			3156	
 19103	Dulong	the lung	zɯ³¹sɯ⁵⁵	z ɯ ³¹ ◦ s ɯ ⁵⁵				3099	
@@ -2343,7 +2343,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 19210	Lisu	the leaf	si³⁵ve̱³³	s i ³⁵ ◦ v e̱ ³³				2010	
 19212	Dulong	the wolf	dzɯʔ⁵⁵	dz ɯ ʔ ⁵⁵				3165	
 19213	rGyalrong_Maerkang	the hand	tɐ jɐk	t ɐ _ j ɐ k	!			1802	
-19214	Dulong	the bird	pɯ³¹tɕiʔ⁵⁵	p ɯ ³¹ ◦ tɕ i ʔ ⁵⁵				1308	
+19214	Dulong	the bird	pɯ³¹tɕiʔ⁵⁵	p ɯ ³¹ ◦ tɕ i ʔ ⁵⁵				4070	
 19215	Jingpho	to pull	tun³³	t u n ³³				2252	
 19216	Yidu	the wheat	kɑ⁵⁵lie⁵⁵	k ɑ ⁵⁵ ◦ l i e ⁵⁵				3235	
 19218	Dulong	the sparrow	gɹɑp³¹tsit⁵⁵	g ɹ ɑ p ³¹ ◦ ts i t ⁵⁵				3597	
@@ -2372,7 +2372,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 19263	Daofu	high / tall	gɛ cçhɛ	g ɛ _ cçh ɛ				3411	
 19267	Dulong	the fox	lɑŋ⁵⁵gɯɹ⁵³	l ɑ ŋ ⁵⁵ ◦ g ɯ ɹ ⁵³				3178	
 19268	Naxi	to scratch	zɿ²¹	z ɿ ²¹				2398	
-19269	Pumi_Lanping	firewood	siɛ̃¹³	s i ɛ̃ ∼ ¹³				3641	
+19269	Pumi_Lanping	firewood	siɛ̃¹³	s i ɛ̃ ∼ ¹³				4850	
 19270	Daofu	short	lji lje	l j i _ l j e				2454	
 19271	Daofu	far	gɛ tɕe dʑi	g ɛ _ tɕ e _ dʑ i				1596	
 19272	Daofu	near	nthɑ ne	n th ɑ _ n e	!	Tibetan[thag ɲe]		2168	
@@ -2418,7 +2418,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 19343	Dulong	the son	ɑ³¹tɕɑn⁵³pɑi⁵³	ɑ ³¹ ◦ tɕ ɑ n ⁵³ ◦ p ɑ i ⁵³	ɑ³¹tɕɑn⁵³ 'child'; pɑi⁵³ 'male'			3130	
 19344	Bai_Jianchuan	to come	ɣə³⁵	ɣ ə ³⁵		Ch		1251	
 19347	Naxi	to count	ʐuɑ²¹	ʐ u ɑ ²¹				1474	
-19349	Daofu	correct (right)	ŋi ŋi	ŋ i _ ŋ i	doubtful			1465	
+19349	Daofu	correct (right)	ŋi ŋi	ŋ i _ ŋ i	doubtful	tibetan ŋes		1465	
 19352	Naxi	to sleep	i⁵⁵	i ⁵⁵				2514	
 19354	Dulong	the house	cim⁵³	c i m ⁵³				1908	
 19355	rGyalrong_Maerkang	the tooth (front)	tə swɑ	t ə _ s w ɑ				2800	
@@ -2438,7 +2438,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 19379	Naxi	to spit	phi⁵⁵	ph i ⁵⁵				2590	
 19380	Naxi	to push	my⁵⁵	m y ⁵⁵				2262	
 19381	Naxi	to cry (weep)	ŋv̩²¹	ŋ v̩ ²¹				1485	
-19382	Dulong	firewood	ɕiŋ⁵⁵	ɕ i ŋ ⁵⁵				3641	
+19382	Dulong	firewood	ɕiŋ⁵⁵	ɕ i ŋ ⁵⁵				4850	
 19384	Daofu	dirty	mi xtsoŋ	m i _ x ts o ŋ		Tibetan[mi.gtsaŋ]		1509	
 19386	Naxi	to dig	dv̩³³	d v̩ ³³				1490	
 19388	Jingpho	to kill	sat³¹	s a t ³¹				1966	
@@ -2507,7 +2507,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 19602	Dulong	twenty	ɑ³¹ni⁵⁵sɑn⁵⁵	ɑ ³¹ ◦ n i ⁵⁵ ◦ s ɑ n ⁵⁵				2812	
 19604	Bai_Jianchuan	to run	phõ³³	ph õ ∼ ³³				3402	
 19605	Daofu	shy	mə ka cçhɛ	m ə _ k a _ cçh ɛ				2477	
-19606	Yidu	the house	oŋ³⁵	o ŋ ³⁵				4199	
+19606	Yidu	the house	oŋ³⁵	o ŋ ³⁵				1912	
 19607	Pumi_Lanping	all	i¹³xa⁵⁵	i ¹³ ◦ x a ⁵⁵				1319	
 19609	Pumi_Lanping	big	ta⁵⁵	t a ⁵⁵				1347	
 19610	Pumi_Lanping	small	qa¹³tsɛ¹³	q a ¹³ ◦ ts ɛ ¹³				2522	
@@ -2556,7 +2556,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 19713	Dulong	big	tɑi⁵³	t ɑ i ⁵³				1302	
 19714	Dulong	small	tiŋ⁵³	t i ŋ ⁵³				2531	
 19715	Dulong	high / tall	mɹɑŋ⁵³	m ɹ ɑ ŋ ⁵³				3409	
-19718	Dulong	short	tɯi⁵³	t ɯ i ⁵³				2451	
+19718	Dulong	short	tɯi⁵³	t ɯ i ⁵³				4987	
 19719	Dulong	far	mɹɑŋ⁵³	m ɹ ɑ ŋ ⁵³				1605	
 19720	Dulong	near	tɯi⁵³	t ɯ i ⁵³				2171	
 19722	Dulong	narrow	ɑŋ³¹puʔ⁵⁵tɕiŋ⁵³	ɑ ŋ ³¹ ◦ p u ʔ ⁵⁵ ◦ tɕ i ŋ ⁵³				2166	
@@ -2707,7 +2707,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 20255	Xumi	the sickle	ɕu⁵³ʁu³³	ɕ u ⁵³ ◦ ʁ u ³³				3303	
 20256	Lisu	tomorrow	ɕɑ⁵⁵gɯ̱³³	ɕ ɑ ⁵⁵ ◦ g ɯ̱ ³³				3378	
 20258	Yidu	salty	kɑ⁵⁵	k ɑ ⁵⁵				3467	
-20259	Yidu	the belly	khɹɑ³¹poŋ³⁵	kh ɹ ɑ ³¹ ◦ p o ŋ ³⁵				4063	
+20259	Yidu	the belly	khɹɑ³¹poŋ³⁵	kh ɹ ɑ ³¹ ◦ p o ŋ ³⁵				4900	
 20262	Dulong	to stand	ɹɛp⁵⁵	ɹ ɛ p ⁵⁵				2597	
 20263	Jingpho	to come	sa³³	s a ³³				1455	
 20266	Dulong	knife	ɕɑm⁵³	ɕ ɑ m ⁵³				3649	
@@ -2765,7 +2765,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 20575	Qiang_Mawo	the mountain	ʁuəʴ pu	ʁ u ə ʴ _ p u	!			4243	
 20579	Bai_Jianchuan	the blood	suɑ̱³³	s u ɑ̱ ³³				1380	
 20592	Naxi	to chew	gɯ³³	g ɯ ³³				1427	
-20604	Naxi	to know (something)	sɿ³³	s ɿ ³³				1981	
+20604	Naxi	to know (something)	sɿ³³	s ɿ ³³				4963	
 20607	Qiang_Mawo	the river	tsə wɛʴ	ts ə _ w ɛ ʴ	!			4292	
 20633	Lyuzu	heavy	de³³de⁵³	d e ³³ ◦ d e ⁵³				4599	
 20636	Daofu	young	lo tɕhoŋ	l o _ tɕh o ŋ		Tib[lo.tɕʰuŋ]		3851	
@@ -2785,7 +2785,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 20703	Lisu	the smoke	mu³¹khu³¹	m u ³¹ ◦ kh u ³¹				4332	
 20706	Lyuzu	smooth	hĩ⁵³hĩ⁵³la³³la⁵³	h ĩ ∼ ⁵³ ◦ h ĩ ∼ ⁵³ ◦ l a ³³ ◦ l a ⁵³				4724	
 20708	Tibetan_Written	the stick	rgjug pa	r g j u g _ p a	!			2621	
-20713	Bai_Jianchuan	to know (something)	sẽ³³	s ẽ ∼ ³³				1981	
+20713	Bai_Jianchuan	to know (something)	sẽ³³	s ẽ ∼ ³³				4963	
 20715	Pumi_Lanping	eight	ʂuɛ¹³	ʂ u ɛ ¹³				1588	
 20734	Tujia	the ant	si⁵⁵ȵi²¹ka²¹	s i ⁵⁵ ◦ ȵ i ²¹ ◦ k a ²¹				3213	
 20774	Pumi_Lanping	twenty	nə¹³Go⁵⁵	n ə ¹³ ◦ ɢ o ⁵⁵	?			4759	
@@ -2864,7 +2864,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 21162	Zhaba_Daofu_County	the head	gu³³po⁵⁵lo³³	g u ³³ ◦ p o ⁵⁵ ◦ l o ³³				1821	
 21163	Zhaba_Daofu_County	the hair (of the head)	gu³tshɪ⁵⁵	g u ³ ◦ tsh ɪ ⁵⁵				4588	
 21164	Xumi	the goat	tshɿ⁵³	tsh ɿ ⁵³				3620	
-21165	Zhaba_Daofu_County	the eye	ȵa⁵⁵	ȵ a ⁵⁵				0	
+21165	Zhaba_Daofu_County	the eye	ȵa⁵⁵	ȵ a ⁵⁵				1591	
 21166	Zhaba_Daofu_County	the nose	ȵu³³cçu⁵⁵	ȵ u ³³ ◦ cç u ⁵⁵	!			2205	
 21167	Zhaba_Daofu_County	the ear	ȵ̥ʌ³³ʐa⁵⁵	ȵ̥ ʌ ³³ ◦ ʐ a ⁵⁵				1556	
 21170	Zhaba_Daofu_County	the mouth	ji¹³	j i ¹³				4649	
@@ -2915,7 +2915,6 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 21262	Motuo_Menba	to spit	ɕek	ɕ e k				4339	
 21273	Darang_Taraon	the lake	tɯ³¹wi⁵⁵	t ɯ ³¹ ◦ w i ⁵⁵				1998	
 21278	Pumi_Lanping	this	di¹³	d i ¹³				2749	
-21279	Zhaba_Daofu_County	the father	pa⁵⁵pa⁵⁵	p a ⁵⁵ ◦ p a ⁵⁵				4557	
 21281	Zhaba_Daofu_County	the mother	ma⁵⁵ma⁵⁵	m a ⁵⁵ ◦ m a ⁵⁵				4645	
 21282	Zhaba_Daofu_County	the mother	a⁵⁵me⁵⁵	a ⁵⁵ ◦ m e ⁵⁵				2109	
 21283	Zhaba_Daofu_County	the son	zɿ¹³pʌ³³ɟjʌ⁵⁵	z ɿ ¹³ ◦ p ʌ ³³ ◦ ɟ j ʌ ⁵⁵	?			4806	
@@ -2945,7 +2944,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 21312	Darang_Taraon	the breast (female)	ȵi⁵⁵khɑ³¹bi³⁵	ȵ i ⁵⁵ ◦ kh ɑ ³¹ ◦ b i ³⁵				1202	
 21313	Zhaba_Daofu_County	the body hair (hair or fur)	shu¹³	sh u ¹³				3558	
 21314	Darang_Taraon	the belly	kɯ³¹jɯŋ⁵⁵	k ɯ ³¹ ◦ j ɯ ŋ ⁵⁵				1337	
-21315	Zhaba_Daofu_County	the horse	mdʐo¹³	m dʐ o ¹³	!			0	
+21315	Zhaba_Daofu_County	the horse	mdʐo¹³	m dʐ o ¹³	!			3151	
 21316	Zhaba_Daofu_County	the horse	mbʐo¹³	m b ʐ o ¹³	!			3151	
 21317	Darang_Taraon	the thigh	xɑ⁵⁵	x ɑ ⁵⁵				3089	
 21318	Darang_Taraon	the knee	phɑ³¹bɯm⁵⁵	ph ɑ ³¹ ◦ b ɯ m ⁵⁵				1972	
@@ -2972,7 +2971,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 21352	Tibetan_Written	to reside (live)	sdod	s d o d	!			2303	
 21357	Zhaba_Daofu_County	the wolf	piɛ̃⁵⁵nkhu⁵⁵	p i ɛ̃ ∼ ⁵⁵ ◦ n kh u ⁵⁵	!	tib[spʲaŋ.khu]		3161	
 21358	Zhaba_Daofu_County	the fox	cçʌ⁵⁵kʌ⁵⁵mi³³	cç ʌ ⁵⁵ ◦ k ʌ ⁵⁵ ◦ m i ³³	!			4813	
-21359	Zhaba_Daofu_County	the bird	ptsia³³ptsi⁵⁵	p ts i a ³³ ◦ p ts i ⁵⁵				1308	
+21359	Zhaba_Daofu_County	the bird	ptsia³³ptsi⁵⁵	p ts i a ³³ ◦ p ts i ⁵⁵				4070	
 21365	Zhaba_Daofu_County	the sparrow	və⁵⁵zə⁵⁵	v ə ⁵⁵ ◦ z ə ⁵⁵				3599	
 21366	Darang_Taraon	the child (young human)	ɑ⁵⁵	ɑ ⁵⁵				4425	
 21367	Dulong	hundred	ɕɑ⁵⁵	ɕ ɑ ⁵⁵				3718	
@@ -2980,7 +2979,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 21370	Darang_Taraon	the woman	me³⁵jɑ⁵³ɑ³¹	m e ³⁵ ◦ j ɑ ⁵³ ◦ ɑ ³¹	!			2972	
 21376	Zhaba_Daofu_County	the snake	tʂʌ³³ (p) tʂɿ⁵⁵|	tʂ ʌ ³³ _ tʂ ɿ ⁵⁵	!			2553	
 21379	Zhaba_Daofu_County	the fish	dʑy¹³	dʑ y ¹³				1644	
-21383	Zhaba_Daofu_County	the flea	sʌ³³phi⁵⁵	s ʌ ³³ ◦ ph i ⁵⁵				0	
+21383	Zhaba_Daofu_County	the flea	sʌ³³phi⁵⁵	s ʌ ³³ ◦ ph i ⁵⁵				5026	
 21384	Zhaba_Daofu_County	the louse	ɕha¹³	ɕh a ¹³				4639	
 21385	Zhaba_Daofu_County	the nit	sʌ³³tsi⁵⁵	s ʌ ³³ ◦ ts i ⁵⁵				4830	
 21387	Zhaba_Daofu_County	the mosquito	pho³³mɛ⁵⁵	ph o ³³ ◦ m ɛ ⁵⁵				4644	
@@ -3007,7 +3006,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 21448	Darang_Taraon	the horse	mɑ³¹|ɹoŋ⁵⁵	m ɑ ³¹ ◦ ɹ o ŋ ⁵⁵	!			3151	
 21449	Dulong	to spit	duʔ⁵⁵	d u ʔ ⁵⁵				2584	
 21450	Zhaba_Daofu_County	the grass	tʂᴜ¹³	tʂ ᴜ ¹³				4586	
-21452	Zhaba_Daofu_County	the rice plant	mdʐe¹³	m dʐ e ¹³	!	tib[ɴbras]		3255	
+21452	Zhaba_Daofu_County	the rice plant	mdʐe¹³	m dʐ e ¹³	!	tib[ɴbras]		4932	
 21453	Darang_Taraon	the goat	kɯ³¹tɕi⁵³	k ɯ ³¹ ◦ tɕ i ⁵³				3626	
 21454	Bokar	long	jaːro	j aː r o	!			2052	
 21456	Zhaba_Daofu_County	the meat	( n) thei¹³	th e i ¹³	-ei to *-Vm			2086	
@@ -3019,7 +3018,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 21469	Darang_Taraon	the feather	m̩⁵⁵	m̩ ⁵⁵				1616	
 21470	Daofu	to wipe	ɕə ɕɛ	ɕ ə _ ɕ ɛ				3506	
 21472	Darang_Taraon	the sheep	kɯ³¹joŋ³⁵	k ɯ ³¹ ◦ j o ŋ ³⁵				3614	
-21474	Zhaba_Daofu_County	the rice plant	mbʐe¹³	m b ʐ e ¹³	!	tib[ɴbras]		3255	
+21474	Zhaba_Daofu_County	the rice plant	mbʐe¹³	m b ʐ e ¹³	!	tib[ɴbras]		4932	
 21477	Pumi_Lanping	many	ʒə⁵⁵	ʒ ə ⁵⁵				2077	
 21479	Darang_Taraon	the otter	xɑ³¹ɹɯŋ³⁵	x ɑ ³¹ ◦ ɹ ɯ ŋ ³⁵				3632	
 21480	Darang_Taraon	the mouse or rat	kɑ³¹tɕi⁵⁵	k ɑ ³¹ ◦ tɕ i ⁵⁵				2284	
@@ -3030,7 +3029,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 21487	Zhaba_Daofu_County	the house	jɪ¹³	j ɪ ¹³				1911	
 21490	Darang_Taraon	the sparrow	kɯ³¹pɹɑi⁵³	k ɯ ³¹ ◦ p ɹ ɑ i ⁵³				3598	
 21492	Darang_Taraon	the snake	tɑ³¹bu³⁵	t ɑ ³¹ ◦ b u ³⁵				2552	
-21493	Zhaba_Daofu_County	the wood (material)	ndʐɿ⁵⁵	n dʐ ɿ ⁵⁵	!			0	
+21493	Zhaba_Daofu_County	the wood (material)	ndʐɿ⁵⁵	n dʐ ɿ ⁵⁵	!			5015	
 21494	Zhaba_Daofu_County	the wood (material)	shɛ¹³	sh ɛ ¹³				2974	
 21495	Darang_Taraon	the fish	tɑ³¹ŋɑŋ⁵³	t ɑ ³¹ ◦ ŋ ɑ ŋ ⁵³				1646	
 21496	Tibetan_Written	to cry (weep)	ŋu	ŋ u				1485	
@@ -3074,7 +3073,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 21567	Jingpho	the hoof	lă³¹khʒuʔ³¹	l ă ³¹ ◦ kh ʒ u ʔ ³¹	!			3142	
 21572	Darang_Taraon	the wood (material)	mɑ³¹sɯŋ⁵³	m ɑ ³¹ ◦ s ɯ ŋ ⁵³				2974	
 21575	Darang_Taraon	the sea	tɯ³¹ɹɯi⁵³dɯ³¹ɹɯŋ⁵⁵	t ɯ ³¹ ◦ ɹ ɯ i ⁵³ ◦ d ɯ ³¹ ◦ ɹ ɯ ŋ ⁵⁵				3120	
-21578	Darang_Taraon	firewood	mɑ³¹sɯŋ⁵³	m ɑ ³¹ ◦ s ɯ ŋ ⁵³				3641	
+21578	Darang_Taraon	firewood	mɑ³¹sɯŋ⁵³	m ɑ ³¹ ◦ s ɯ ŋ ⁵³				4850	
 21580	Zhaba_Daofu_County	the name	mẽ¹³	m ẽ ∼ ¹³				4251	
 21585	Pumi_Lanping	to plant (vegetals, rice)	xə¹³tiu⁵⁵	x ə ¹³ ◦ t i u ⁵⁵				2223	
 21587	Darang_Taraon	knife	tɑ³¹ɹɑ⁵⁵	t ɑ ³¹ ◦ ɹ ɑ ⁵⁵				3648	
@@ -3106,7 +3105,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 21625	Darang_Taraon	the sickle	dzɑ³¹wɑ⁵⁵	dz ɑ ³¹ ◦ w ɑ ⁵⁵				3295	
 21626	Yidu	early	e⁵⁵nɑ⁵⁵	e ⁵⁵ ◦ n ɑ ⁵⁵				3311	
 21629	Zhaba_Daofu_County	the year	wo⁵⁵	w o ⁵⁵				2991	
-21632	Yidu	sharp	ɹɑ⁵⁵	ɹ ɑ ⁵⁵				4312	
+21632	Yidu	sharp	ɹɑ⁵⁵	ɹ ɑ ⁵⁵				4893	
 21636	Yidu	outside	kɑŋ⁵⁵ bɑŋ⁵⁵	k ɑ ŋ ⁵⁵ _ b ɑ ŋ ⁵⁵				3333	
 21641	Zhaba_Daofu_County	two	nɛ¹³	n ɛ ¹³				4376	
 21642	Tibetan_Written	to scratch	ɦphrugs	ɦ ph r u g s	!			2395	
@@ -3119,7 +3118,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 21650	Zhaba_Daofu_County	ten	tshɿ⁵⁵	tsh ɿ ⁵⁵				2676	
 21652	Pumi_Lanping	the name	ma⁵⁵	m a ⁵⁵				4251	
 21656	Lisu	the horn (keratinized skin)	tʃhi̱³³bu̱³¹	tʃh i̱ ³³ ◦ b u̱ ³¹				1906	
-21657	Xumi	the star	tɕɛ⁵³	tɕ ɛ ⁵³				0	
+21657	Xumi	the star	tɕɛ⁵³	tɕ ɛ ⁵³				2605	
 21658	Zhaba_Daofu_County	hundred	ɟji¹³	ɟ j i ¹³	?			3718	
 21659	Yidu	dry	ɕɑŋ³⁵	ɕ ɑ ŋ ³⁵				4123	
 21660	Darang_Taraon	the name	ɑ³¹mɯŋ⁵⁵	ɑ ³¹ ◦ m ɯ ŋ ⁵⁵				4251	
@@ -3138,7 +3137,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 21694	Darang_Taraon	morning	ɑ³¹nɑŋ⁵³	ɑ ³¹ ◦ n ɑ ŋ ⁵³				3605	
 21695	Darang_Taraon	noon	n̥n⁵³thɯ³¹boŋ³⁵	n̥ n ⁵³ ◦ th ɯ ³¹ ◦ b o ŋ ³⁵				3395	
 21697	rGyalrong_Maerkang	outside	wu phji	w u _ ph j i		tib[pʰʲi]		3331	
-21699	Darang_Taraon	the earth (soil)	khɯ³¹lɑi³⁵	kh ɯ ³¹ ◦ l ɑ i ³⁵				1562	
+21699	Darang_Taraon	the earth (soil)	khɯ³¹lɑi³⁵	kh ɯ ³¹ ◦ l ɑ i ³⁵				3912	
 21709	Tibetan_Written	the goat	ra	r a				3621	
 21710	Darang_Taraon	the year	kɯ³¹nɯŋ⁵⁵	k ɯ ³¹ ◦ n ɯ ŋ ⁵⁵				2992	
 21711	Lyuzu	today	tæ³³ȵu̵⁵³	t æ ³³ ◦ ȵ u̵ ⁵³				4844	
@@ -3245,7 +3244,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 21860	Darang_Taraon	short	kɯ³¹tioŋ⁵³	k ɯ ³¹ ◦ t i o ŋ ⁵³				2462	
 21861	Bai_Jianchuan	the breast (female)	pɑ̱²¹tɕi̱³³	p ɑ̱ ²¹ ◦ tɕ i̱ ³³				1238	
 21862	Darang_Taraon	near	gɑ⁵⁵ɑ⁵⁵	g ɑ ⁵⁵ ◦ ɑ ⁵⁵	!			2170	
-21863	Bai_Jianchuan	the belly	fu̱³³	f u̱ ³³		Ch		4063	
+21863	Bai_Jianchuan	the belly	fu̱³³	f u̱ ³³		Ch		4900	
 21864	Darang_Taraon	narrow	ɑ⁵⁵ɑ⁵⁵	ɑ ⁵⁵ ◦ ɑ ⁵⁵	!			2160	
 21866	Bai_Jianchuan	the thigh	khua²¹pi⁵⁵	kh u a ²¹ ◦ p i ⁵⁵		股髀 (B1 layer, recent)		3083	
 21867	Bai_Jianchuan	the knee	kua³³tiə⁴²ka̱³³	k u a ³³ ◦ t i ə ⁴² ◦ k a̱ ³³				1975	
@@ -3266,7 +3265,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 21887	Darang_Taraon	light (of weight)	ɑŋ⁵⁵ɑŋ⁵⁵	ɑ ŋ ⁵⁵ ◦ ɑ ŋ ⁵⁵	!			3456	
 21888	Motuo_Menba	young	ȵiŋ ze mo	ȵ i ŋ _ z e _ m o				4473	
 21889	Darang_Taraon	late	ɑ³¹miu³⁵ɕɑ⁵³	ɑ ³¹ ◦ m i u ³⁵ ◦ ɕ ɑ ⁵³				3426	
-21890	Darang_Taraon	sharp	ɹɑ⁵⁵	ɹ ɑ ⁵⁵				2435	
+21890	Darang_Taraon	sharp	ɹɑ⁵⁵	ɹ ɑ ⁵⁵				4893	
 21891	Bai_Jianchuan	the bone	kuɑ̱³³tiə⁴²	k u ɑ̱ ³³ ◦ t i ə ⁴²	S1	Ch		1236	
 21895	Darang_Taraon	dry	ɕoŋ³⁵	ɕ o ŋ ³⁵				1540	
 21896	Bai_Jianchuan	the tongue	tse̱²¹	ts e̱ ²¹				2792	
@@ -3333,7 +3332,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 22011	Bai_Jianchuan	the tiger	lo⁴²	l o ⁴²				3576	
 22012	Motuo_Menba	the river	ri	r i				2327	
 22013	Darang_Taraon	to drink	tim³⁵	t i m ³⁵				1525	
-22014	Xumi	to know (something)	sɛ⁵³	s ɛ ⁵³				1981	
+22014	Xumi	to know (something)	sɛ⁵³	s ɛ ⁵³				4963	
 22017	Tibetan_Written	to shoot (an arrow)	(mdaɦ) ɦphen	m d a ɦ _ ɦ ph e n	!			2442	
 22018	Zhaba_Daofu_County	to fly (move through air)	tə⁵⁵mdzɪ⁵⁵	t ə ⁵⁵ ◦ m dz ɪ ⁵⁵	!			1679	
 22020	Bai_Jianchuan	the otter	ɕy³³tɕhɑ̱³³tiə⁴²	ɕ y ³³ ◦ tɕh ɑ̱ ³³ ◦ t i ə ⁴²		Chinese		3633	
@@ -3408,7 +3407,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 22123	Lisu	the fruit	e⁵⁵ni³⁵mɑ³³	e ⁵⁵ ◦ n i ³⁵ ◦ m ɑ ³³				1722	
 22124	Darang_Taraon	to think (reflect)	we⁵⁵tiɯŋ⁵³	w e ⁵⁵ ◦ t i ɯ ŋ ⁵³				2743	
 22125	Zhaba_Daofu_County	to cry (weep)	phu³³ko⁵⁵	ph u ³³ ◦ k o ⁵⁵				3786	
-22126	Darang_Taraon	to laugh	mɑ³¹ɹɑ⁵⁵	m ɑ ³¹ ◦ ɹ ɑ ⁵⁵	doubtful			2001	
+22126	Darang_Taraon	to laugh	mɑ³¹ɹɑ⁵⁵	m ɑ ³¹ ◦ ɹ ɑ ⁵⁵	doubtful			4216	
 22128	Xumi	to flow	lɛ⁵⁵ji⁵⁵	l ɛ ⁵⁵ ◦ j i ⁵⁵				1664	
 22130	Zhaba_Daofu_County	to come	vʌ¹³	v ʌ ¹³				4539	
 22131	Zhaba_Daofu_County	to come	vʌ⁵³	v ʌ ⁵³				4539	
@@ -3436,7 +3435,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 22209	Yidu	tomorrow	ɑ³¹nɑ⁵⁵jɑ⁵⁵	ɑ ³¹ ◦ n ɑ ⁵⁵ ◦ j ɑ ⁵⁵				4461	
 22210	Zhaba_Daofu_County	to knead	kʌ³³ʂtʂə⁵⁵	k ʌ ³³ ◦ ʂ tʂ ə ⁵⁵	!			4798	
 22213	Tibetan_Written	the wing	gɕog pa	g ɕ o g _ p a	!			2960	
-22214	Zhaba_Daofu_County	to kill	kʌ³³ she⁵⁵	k ʌ ³³ _ sh e ⁵⁵				0	
+22214	Zhaba_Daofu_County	to kill	kʌ³³ she⁵⁵	k ʌ ³³ _ sh e ⁵⁵				1966	
 22215	Zhaba_Daofu_County	to kill	she⁵⁵	sh e ⁵⁵				1966	
 22219	Tujia	the mosquito	ma⁵⁵khu²¹li²¹	m a ⁵⁵ ◦ kh u ²¹ ◦ l i ²¹				2096	
 22220	Zhaba_Daofu_County	to shoot (an arrow)	(mda³³) ʑi¹³	ʑ i ¹³	!			4706	
@@ -3502,7 +3501,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 22338	Yidu	morning	o⁵⁵ nɑ⁵⁵mɑ⁵⁵	o ⁵⁵ _ n ɑ ⁵⁵ ◦ m ɑ ⁵⁵				3605	
 22339	Motuo_Menba	to be alive	son po	s o n _ p o		tib gson.po		1330	
 22340	Bokar	to come	oŋ	o ŋ				1449	
-22341	Zhaba_Daofu_County	to know (something)	sɿ⁵⁵sɿ⁵⁵	s ɿ ⁵⁵ ◦ s ɿ ⁵⁵				1981	
+22341	Zhaba_Daofu_County	to know (something)	sɿ⁵⁵sɿ⁵⁵	s ɿ ⁵⁵ ◦ s ɿ ⁵⁵				4963	
 22342	Dulong	salty	dʑɯm⁵³	dʑ ɯ m ⁵³				3473	
 22345	Bai_Jianchuan	one	ji̱³³	j i̱ ³³				2221	
 22346	Bai_Jianchuan	two	kõ³³	k õ ∼ ³³				2817	
@@ -3624,7 +3623,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 22704	Dulong	to hide (conceal)	mɑ⁵⁵	m ɑ ⁵⁵				1881	
 22705	Daofu	to hold	khrə	kh r ə				1894	
 22707	Pumi_Lanping	the son	tsy⁵⁵	ts y ⁵⁵				3127	
-22708	Qiang_Mawo	firewood	sə	s ə				3641	
+22708	Qiang_Mawo	firewood	sə	s ə				4850	
 22709	Bai_Jianchuan	to fly (move through air)	fa⁵⁵	f a ⁵⁵				1680	
 22710	Daofu	to reside (live)	ndzu	n dz u	!			2298	
 22711	Yidu	the stick	ɑ³¹tio⁵⁵boŋ⁵³	ɑ ³¹ ◦ t i o ⁵⁵ ◦ b o ŋ ⁵³				4343	
@@ -3707,7 +3706,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 22968	Jingpho	salty	ʃum³³	ʃ u m ³³				3473	
 22971	Bai_Jianchuan	to laugh	so²¹	s o ²¹				2002	
 22974	Bai_Jianchuan	to blow (of wind)	xə̃³³	x ə̃ ∼ ³³				1385	
-22978	Yidu	to know (something)	kɑ³¹sɑ⁵³	k ɑ ³¹ ◦ s ɑ ⁵³				1981	
+22978	Yidu	to know (something)	kɑ³¹sɑ⁵³	k ɑ ³¹ ◦ s ɑ ⁵³				4963	
 22980	Yidu	to forget	ʔoŋ⁵⁵ti⁵⁵ni⁵⁵liɑ⁵⁵po⁵⁵	ʔ o ŋ ⁵⁵ ◦ t i ⁵⁵ ◦ n i ⁵⁵ ◦ l i ɑ ⁵⁵ ◦ p o ⁵⁵				4486	
 22981	Qiang_Mawo	the hail	zu	z u				4412	
 22986	Bai_Jianchuan	to bite	ŋɑ̱³³	ŋ ɑ̱ ³³				1231	
@@ -3813,7 +3812,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 23140	Tujia	the skin	tha⁵⁵pha²¹	th a ⁵⁵ ◦ ph a ²¹				2499	
 23141	Bokar	the armpit	kɯŋ rum	k ɯ ŋ _ r u m				3284	
 23142	Bokar	the breast (female)	a tɕuː	a _ tɕ uː				1413	
-23143	Bokar	the belly	kiː◦poŋ	k iː p o ŋ	!			4063	
+23143	Bokar	the belly	kiː◦poŋ	k iː p o ŋ	!			4900	
 23145	Lyuzu	to hear	the³³dʐɿ⁵³	th e ³³ ◦ dʐ ɿ ⁵³				4591	
 23146	Bokar	the thigh	la jək	l a _ j ə k				3090	
 23147	Lisu	the woman	zɑ̱³¹mɯ̱³¹zɑ̱³¹	z ɑ̱ ³¹ ◦ m ɯ̱ ³¹ ◦ z ɑ̱ ³¹				2969	
@@ -3993,7 +3992,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 23436	Lisu	the sickle	e³³dɑ³¹mɯ³¹ʑi³³	e ³³ ◦ d ɑ ³¹ ◦ m ɯ ³¹ ◦ ʑ i ³³				3302	
 23437	Darang_Taraon	one	khɯn⁵⁵	kh ɯ n ⁵⁵				2222	
 23438	Darang_Taraon	the sky	tɯm⁵⁵	t ɯ m ⁵⁵				2511	
-23441	Bokar	firewood	ɯ ɕɯŋ	ɯ _ ɕ ɯ ŋ				3641	
+23441	Bokar	firewood	ɯ ɕɯŋ	ɯ _ ɕ ɯ ŋ				4850	
 23442	Dulong	to drink	ɑʔ⁵⁵	ɑ ʔ ⁵⁵				1524	
 23443	Zhaba_Daofu_County	he or she [third person singular]	tᴜ³³ʐᴜ⁵⁵	t ᴜ ³³ ◦ ʐ ᴜ ⁵⁵				4590	
 23444	Pumi_Lanping	the sea	xɯ⁵⁵ta¹³	x ɯ ⁵⁵ ◦ t a ¹³				3117	
@@ -4393,7 +4392,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 24215	Tujia	the nail (fingernail or claw)	tɕie³⁵mi⁵⁵thi²¹kho⁵⁵tha⁵⁵	tɕ i e ³⁵ ◦ m i ⁵⁵ ◦ th i ²¹ ◦ kh o ⁵⁵ ◦ th a ⁵⁵				2148	
 24218	Bokar	to die	ɕiː	ɕ iː				1486	
 24219	Bokar	to die	keː	k eː				1488	
-24220	Lisu	to know (something)	sɯ⁵⁵	s ɯ ⁵⁵				1981	
+24220	Lisu	to know (something)	sɯ⁵⁵	s ɯ ⁵⁵				4963	
 24221	Bokar	five	o ŋo	o _ ŋ o				1647	
 24226	Bokar	to lie down	ɦeːdaː	ɦ eː d aː	!			2036	
 24229	Bokar	seven	kɯ nɯ|	k ɯ _ n ɯ	!			2427	
@@ -4449,7 +4448,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 24375	Yidu	the sea	tu⁵⁵wi⁵⁵	t u ⁵⁵ ◦ w i ⁵⁵				4429	
 24377	Qiang_Mawo	thou [second person singular]	kə	k ə				2762	
 24378	Yidu	the road	ɑ³¹lioŋ³⁵	ɑ ³¹ ◦ l i o ŋ ³⁵				4294	
-24379	Yidu	the earth (soil)	khɯ³¹lɑi⁵³	kh ɯ ³¹ ◦ l ɑ i ⁵³				4130	
+24379	Yidu	the earth (soil)	khɯ³¹lɑi⁵³	kh ɯ ³¹ ◦ l ɑ i ⁵³				3912	
 24380	Yidu	the sand	ɑ⁵⁵pi⁵⁵	ɑ ⁵⁵ ◦ p i ⁵⁵				4305	
 24382	Naxi	the water	dʑi²¹	dʑ i ²¹				2844	
 24383	Yidu	the water	mɑ⁵⁵tɕi⁵⁵	m ɑ ⁵⁵ ◦ tɕ i ⁵⁵				2851	
@@ -4538,7 +4537,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 24603	Zhaba_Daofu_County	salty	tshɿ⁵⁵ zo³³zo⁵⁵	tsh ɿ ⁵⁵ _ z o ³³ ◦ z o ⁵⁵				4867	
 24604	Tujia	small	pi³⁵	p i ³⁵				2524	
 24605	Yidu	the ant	pɑ³¹si⁵⁵	p ɑ ³¹ ◦ s i ⁵⁵				4443	
-24607	Pumi_Lanping	to know (something)	ma¹³sə⁵⁵	m a ¹³ ◦ s ə ⁵⁵				1981	
+24607	Pumi_Lanping	to know (something)	ma¹³sə⁵⁵	m a ¹³ ◦ s ə ⁵⁵				4963	
 24608	Yidu	the branch	hɑ⁵⁵ɹo⁵³	h ɑ ⁵⁵ ◦ ɹ o ⁵³				4090	
 24617	Bokar	knife	o jok	o _ j o k				3647	
 24619	Yidu	the bamboo	ɑ³¹bɹɑ³⁵liɑ⁵⁵	ɑ ³¹ ◦ b ɹ ɑ ³⁵ ◦ l i ɑ ⁵⁵				3224	
@@ -4594,7 +4593,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 24735	Xumi	the frost	põ⁵³mũ⁵⁵	p õ ∼ ⁵³ ◦ m ũ ∼ ⁵⁵				4785	
 24736	Xumi	the dew	pɑ̃³⁵	p ɑ̃ ∼ ³⁵				4788	
 24737	Xumi	the fog	tĩ⁵⁵rõ³³	t ĩ ∼ ⁵⁵ ◦ r õ ∼ ³³				4574	
-24739	Xumi	the fire	ȵɛ³⁵	ȵ ɛ ³⁵				0	
+24739	Xumi	the fire	ȵɛ³⁵	ȵ ɛ ³⁵				1639	
 24740	Xumi	the smoke	ȵɛ³³khuɛ⁵³	ȵ ɛ ³³ ◦ kh u ɛ ⁵³				0	
 24742	Dulong	to steal	kɯ⁵³	k ɯ ⁵³				2611	
 24743	Xumi	the mountain	ndʑũ⁵⁵	ndʑ ũ ∼ ⁵⁵	!			2129	
@@ -4611,10 +4610,10 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 24776	Xumi	the salt	tshɛ⁵³	tsh ɛ ⁵³				2382	
 24779	Darang_Taraon	the frost	tɑ³¹pɹɯ³⁵	t ɑ ³¹ ◦ p ɹ ɯ ³⁵				3039	
 24783	Yidu	the rope	ɑ⁵⁵tɕe⁵⁵ mbɹɑŋ³⁵	ɑ ⁵⁵ ◦ tɕ e ⁵⁵ _ mb ɹ ɑ ŋ ³⁵	!			4692	
-24786	Lyuzu	the hand	le³³pi⁵³	l e ³³ ◦ p i ⁵³				0	
+24786	Lyuzu	the hand	le³³pi⁵³	l e ³³ ◦ p i ⁵³				4956	
 24789	Xumi	the eye	ȵɛ³³jĩ⁵⁵	ȵ ɛ ³³ ◦ j ĩ ∼ ⁵⁵				1591	
-24790	Xumi	the nose	ȵɛ⁵³qõ³³	ȵ ɛ ⁵³ ◦ q õ ∼ ³³				0	
-24791	Xumi	the ear	ɬɛ⁵⁵jy⁵³	ɬ ɛ ⁵⁵ ◦ j y ⁵³				0	
+24790	Xumi	the nose	ȵɛ⁵³qõ³³	ȵ ɛ ⁵³ ◦ q õ ∼ ³³				2205	
+24791	Xumi	the ear	ɬɛ⁵⁵jy⁵³	ɬ ɛ ⁵⁵ ◦ j y ⁵³				1556	
 24792	Darang_Taraon	to eat	thɑ⁵³	th ɑ ⁵³		doubtful		1575	
 24793	Xumi	the mouth	qhuɛ⁵⁵pu⁵³	qh u ɛ ⁵⁵ ◦ p u ⁵³				4650	
 24795	Xumi	the neck	ʁɛ̃³⁵	ʁ ɛ̃ ∼ ³⁵				4656	
@@ -4632,7 +4631,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 24824	Naxi	the liver	sɚ⁵⁵	s ɚ ⁵⁵				2040	
 24825	Darang_Taraon	tomorrow	ɑ³¹su⁵³n̥n⁵³	ɑ ³¹ ◦ s u ⁵³ ◦ n̥ n ⁵³				3382	
 24827	Jingpho	the tail	mai³¹	m a i ³¹				2672	
-24828	Xumi	the blood	sæ⁵³	s æ ⁵³				0	
+24828	Xumi	the blood	sæ⁵³	s æ ⁵³				1380	
 24831	Motuo_Menba	the hair (of the head)	tsham	tsh a m				1800	
 24832	Yidu	the name	ɑ⁵⁵mu⁵⁵	ɑ ⁵⁵ ◦ m u ⁵⁵				4251	
 24834	Xumi	the tooth (front)	wuɛ⁵³	w u ɛ ⁵³				2800	
@@ -4665,7 +4664,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 24889	Xumi	the father	a⁵⁵ba⁵¹	a ⁵⁵ ◦ b a ⁵¹				1608	
 24890	Xumi	the father	a⁵⁵dɛ̃⁵³	a ⁵⁵ ◦ d ɛ̃ ∼ ⁵³				4558	
 24891	Xumi	the mother	a⁵⁵jĩ⁵⁵	a ⁵⁵ ◦ j ĩ ∼ ⁵⁵				4647	
-24892	Xumi	the mother	a⁵⁵ma⁵⁵	a ⁵⁵ ◦ m a ⁵⁵				0	
+24892	Xumi	the mother	a⁵⁵ma⁵⁵	a ⁵⁵ ◦ m a ⁵⁵				2108	
 24893	Yidu	the year	i⁵⁵nu⁵⁵	i ⁵⁵ ◦ n u ⁵⁵				2992	
 24894	Xumi	the son	zõ³⁵	z õ ∼ ³⁵				3134	
 24895	Xumi	the son	a³³ju⁵⁵	a ³³ ◦ j u ⁵⁵				4807	
@@ -4691,7 +4690,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 24932	Xumi	the horse	rõ³⁵	r õ ∼ ³⁵				3151	
 24933	rGyalrong_Maerkang	the barley (tibetan or highland)	wə rjɐk	w ə _ r j ɐ k				4037	
 24938	Xumi	the sheep	ʔɛ̃⁵³	ʔ ɛ̃ ∼ ⁵³				3614	
-24939	Dulong	to laugh	ɛt⁵⁵	ɛ t ⁵⁵				2001	
+24939	Dulong	to laugh	ɛt⁵⁵	ɛ t ⁵⁵				4216	
 24946	Xumi	the pig	bi³⁵	b i ³⁵				3156	
 24947	Naxi	the woman	mi⁵⁵	m i ⁵⁵				2964	
 24949	Xumi	the dog	khuɛ⁵³ȵi³³	kh u ɛ ⁵³ ◦ ȵ i ³³				0	
@@ -4706,7 +4705,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 24975	Lyuzu	to hide (conceal)	the³³ȵæ⁵³əɹ⁵³dʐu̵³³	th e ³³ ◦ ȵ æ ⁵³ ◦ ə ɹ ⁵³ ◦ dʐ u̵ ³³	!			4606	
 24976	Xumi	the wolf	la³³tsɿ⁵³	l a ³³ ◦ ts ɿ ⁵³				4811	
 24977	Xumi	the fox	dæ⁵⁵	d æ ⁵⁵				3173	
-24978	Xumi	the bird	dʑyæ⁵³	dʑ y æ ⁵³				0	
+24978	Xumi	the bird	dʑyæ⁵³	dʑ y æ ⁵³				4898	
 24980	Motuo_Menba	to pull	rik	r i k				4273	
 24993	Motuo_Menba	seven	zum	z u m				4311	
 24995	Xumi	the frog	pᴜ⁵⁵mi³³	p ᴜ ⁵⁵ ◦ m i ³³				3181	
@@ -4814,7 +4813,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 25217	Daofu	the earthworm	ɕhɑ ndʑu	ɕh ɑ _ n dʑ u	!			3209	
 25219	Yidu	to marry (a man marries a woman)	ɑ³¹ diɑu⁵⁵	ɑ ³¹ _ d i ɑ u ⁵⁵				3531	
 25221	Zhaba_Daofu_County	to give	tʌ³³khɪ⁵⁵	t ʌ ³³ ◦ kh ɪ ⁵⁵				1742	
-25222	Xumi	the name	ma⁵⁵	m a ⁵⁵				0	
+25222	Xumi	the name	ma⁵⁵	m a ⁵⁵				4251	
 25226	Yidu	to kill	mu⁵⁵	m u ⁵⁵				4209	
 25227	Dulong	the body hair (hair or fur)	mɯn⁵⁵	m ɯ n ⁵⁵				3557	
 25229	Yidu	to shoot (an arrow)	i⁵⁵ li⁵⁵ pɹɑ⁵⁵o⁵³	i ⁵⁵ _ l i ⁵⁵ _ p ɹ ɑ ⁵⁵ ◦ o ⁵³	!			4314	
@@ -4840,7 +4839,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 25259	Yidu	to dig	uɑ⁵⁵	u ɑ ⁵⁵				4115	
 25260	Bai_Jianchuan	the fish	ŋo⁵⁵	ŋ o ⁵⁵				1646	
 25261	Yidu	to play	e⁵⁵ɹoŋ⁵⁵gɑ³¹	e ⁵⁵ ◦ ɹ o ŋ ⁵⁵ ◦ g ɑ ³¹				4272	
-25263	Yidu	to smell (perceive odor) [transitive]	nu⁵⁵	n u ⁵⁵				0	
+25263	Yidu	to smell (perceive odor) [transitive]	nu⁵⁵	n u ⁵⁵				2533	
 25264	Xumi	morning	xu³³wɛ⁵⁵	x u ³³ ◦ w ɛ ⁵⁵				4866	
 25265	Yidu	to hold	ɑ⁵⁵tio⁵⁵	ɑ ⁵⁵ ◦ t i o ⁵⁵				4197	
 25266	Qiang_Mawo	the sickle	sɛt	s ɛ t				4452	
@@ -4850,18 +4849,18 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 25271	Yidu	to learn	tʂhu⁵⁵	tʂh u ⁵⁵				4420	
 25273	Jingpho	long	kă³¹lu³¹	k ă ³¹ ◦ l u ³¹				2048	
 25274	Yidu	to bite	ɑ⁵⁵koŋ⁵⁵	ɑ ⁵⁵ ◦ k o ŋ ⁵⁵				4073	
-25275	Lyuzu	to laugh	əɹ³⁵	ə ɹ ³⁵				2001	
+25275	Lyuzu	to laugh	əɹ³⁵	ə ɹ ³⁵				4216	
 25276	rGyalrong_Maerkang	to kill	kɑ sɑt	k ɑ _ s ɑ t				1966	
 25281	Xumi	the year	khu⁵⁵	kh u ⁵⁵				2991	
 25283	Yidu	to stand	de⁵⁵	d e ⁵⁵				2601	
 25295	Zhaba_Daofu_County	the ice	nphei⁵⁵	n ph e i ⁵⁵	-ei to *-Vm			1956	
 25296	Yidu	to walk	tɕho⁵³	tɕh o ⁵³				4380	
 25300	Xumi	two	ȵa³³ (ku⁵³)	ȵ a ³³	!			0	
-25301	Xumi	three	sɛ⁵⁵ (ku³³)	s ɛ ⁵⁵	!			0	
+25301	Xumi	three	sɛ⁵⁵ (ku³³)	s ɛ ⁵⁵	!			2762	
 25302	Xumi	four	ʑyɛ³³ (ku⁵³)	ʑ y ɛ ³³	!			4579	
-25303	Xumi	five	ɦõ⁵⁵ (ku⁵³)	ɦ õ ∼ ⁵⁵	!			0	
+25303	Xumi	five	ɦõ⁵⁵ (ku⁵³)	ɦ õ ∼ ⁵⁵	!			1647	
 25305	Xumi	seven	ʂa⁵⁵ (ku⁵³)	ʂ a ⁵⁵	!			4704	
-25309	Qiang_Mawo	the belly	pu	p u				4063	
+25309	Qiang_Mawo	the belly	pu	p u				4900	
 25310	Xumi	the snake	bə³³ru⁵³|	b ə ³³ ◦ r u ⁵³	!			2553	
 25313	Xumi	twenty	na³³ʁa⁵⁵	n a ³³ ◦ ʁ a ⁵⁵				4759	
 25320	rGyalrong_Maerkang	to shoot (an arrow)	kə pᴇ kɐ lɐt	k ə _ p ᴇ _ k ɐ _ l ɐ t				2443	
@@ -4878,12 +4877,12 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 25379	Bai_Jianchuan	the fruit	ɕy⁵⁵li³³tɑ⁴²xə³³	ɕ y ⁵⁵ ◦ l i ³³ ◦ t ɑ ⁴² ◦ x ə ³³				1716	
 25391	Xumi	I [first person singular]	ŋa⁵⁵	ŋ a ⁵⁵				1955	
 25393	Xumi	we [first person plural inclusive]	ŋa⁵⁵rɛ̃⁵⁵	ŋ a ⁵⁵ ◦ r ɛ̃ ∼ ⁵⁵				2856	
-25394	Xumi	thou [second person singular]	ni³⁵	n i ³⁵				0	
+25394	Xumi	thou [second person singular]	ni³⁵	n i ³⁵				2759	
 25403	Xumi	this	ha⁵⁵	h a ⁵⁵				4753	
 25405	Xumi	here	ha³³nõ⁵⁵	h a ³³ ◦ n õ ∼ ⁵⁵				4602	
 25406	Dulong	three	ɑ³¹sɯm⁵³	ɑ ³¹ ◦ s ɯ m ⁵³				2762	
 25410	Xumi	there	thɛ³³nõ⁵⁵	th ɛ ³³ ◦ n õ ∼ ⁵⁵				4745	
-25412	Xumi	who	ȵi⁵⁵	ȵ i ⁵⁵				0	
+25412	Xumi	who	ȵi⁵⁵	ȵ i ⁵⁵				2918	
 25413	Xumi	what	tɕhi⁵⁵hã⁵³	tɕh i ⁵⁵ ◦ h ã ∼ ⁵³				4767	
 25414	Xumi	where	zɑo³⁵	z ɑ o ³⁵				4769	
 25417	Xumi	all	nõ³³thi⁵⁵	n õ ∼ ³³ ◦ th i ⁵⁵				4513	
@@ -4932,7 +4931,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 25520	Xumi	dirty	mu⁵⁵ʂõ⁵⁵	m u ⁵⁵ ◦ ʂ õ ∼ ⁵⁵				4548	
 25521	Xumi	to be alive	ji³⁵	j i ³⁵				4519	
 25535	Xumi	the house	dʑõ³³hõ⁵⁵	dʑ õ ∼ ³³ ◦ h õ ∼ ⁵⁵				1915	
-25538	Lyuzu	the lung	ntshu̵⁵³	ntsh u̵ ⁵³	!			0	
+25538	Lyuzu	the lung	ntshu̵⁵³	ntsh u̵ ⁵³	!			3095	
 25557	Bokar	the thunder	doŋ gum	d o ŋ _ g u m				2789	
 25558	Pumi_Lanping	the nit	skhi⁵⁵tə¹³	s kh i ⁵⁵ ◦ t ə ¹³	!			4052	
 25560	Darang_Taraon	to shoot (an arrow)	o⁵³ jɑ³¹	o ⁵³ _ j ɑ ³¹				2448	
@@ -4950,7 +4949,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 25624	Xumi	to burn [intransitive]	(ȵɛ⁵³) nga³¹	ng a ³¹	!			4877	
 25625	Pumi_Lanping	the spider	bɐ¹³dʒõ⁵⁵	b ɐ ¹³ ◦ dʒ õ ∼ ⁵⁵				2572	
 25644	Naxi	twenty	ȵi³³tsɚ²¹	ȵ i ³³ ◦ ts ɚ ²¹				2812	
-25645	rGyalrong_Maerkang	the belly	tə pok	t ə _ p o k	!			4063	
+25645	rGyalrong_Maerkang	the belly	tə pok	t ə _ p o k	!			4900	
 25650	rGyalrong_Maerkang	to smell (perceive odor) [transitive]	kɐ nɐ ŋkhsə ŋkhsət	k ɐ _ n ɐ _ ŋ kh s ə _ ŋ kh s ə t	!			4011	
 25652	Pumi_Lanping	the earthworm	bu¹³dɑ⁵⁵	b u ¹³ ◦ d ɑ ⁵⁵				3199	
 25653	Naxi	to eat	dzɿ³³	dz ɿ ³³				1574	
@@ -4993,7 +4992,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 25782	Yidu	you [second person plural]	ȵo³⁵ ɑ³¹loŋ³⁵	ȵ o ³⁵ _ ɑ ³¹ ◦ l o ŋ ³⁵				4410	
 25783	Zhaba_Daofu_County	you [second person plural]	ȵø⁵⁵	ȵ ø ⁵⁵				3007	
 25786	Japhug	early	ʑatsa	ʑ a ts a				3309	
-25787	Japhug	firewood	sɯɴɢoʁ	s ɯ ɴ ɢ o ʁ				3641	
+25787	Japhug	firewood	sɯɴɢoʁ	s ɯ ɴ ɢ o ʁ				4850	
 25788	Japhug	to forget	jmɯt	j m ɯ t				3547	
 25789	Japhug	hard	rko	r k o				3474	
 25790	Japhug	the horse	mbro	m b r o				3151	
@@ -5098,7 +5097,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 30369	Limbu	the husband	japmi 	j a p m i 				1954	
 30370	Khaling	the lake	dhi	dh i				1999	
 30371	Limbu	the lake	warɔk	w a r ɔ k				2000	
-30372	Khaling	to laugh	ret	r e t				2001	
+30372	Khaling	to laugh	ret	r e t				4216	
 30373	Khaling	left	pēŋ	p e ŋ				3775	
 30374	Limbu	left	phɛŋwa	ph ɛ ŋ w a				3775	
 30375	Limbu	to lie down	lɛks	l ɛ k s				2035	
@@ -5233,7 +5232,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 30507	Limbu	the wheat	masi	m a s i				3243	
 30508	Limbu	the barley (tibetan or highland)	hɔksi	h ɔ k s i				3254	
 30510	Khaling	the rice plant	bheŋsi	bh e ŋ s i				3259	
-30511	Japhug	the rice plant	mbrɤz	mb r ɤ z		tib[ɴbras]		3255	
+30511	Japhug	the rice plant	mbrɤz	mb r ɤ z		tib[ɴbras]		4932	
 30512	Japhug	the lip (the lips)	tɯ-mtɕhi	t ɯ   m tɕh i		tib[mtɕʰu]		3265	
 30513	Khaling	the lip (the lips)	koɔ̄mtʌtoɔr	k oɔ̄ m t ʌ t oɔ r				3276	
 30514	Limbu	the lip (the lips)	murase	m u r a s e				3277	
@@ -5304,7 +5303,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 30626	Bai_Jianchuan	thin (object)	po̱²¹	p o̱ ²¹		薄		3966	
 30628	rGyalrong_Maerkang	to sow (broadcast, scatter seeds)	(tə rpi) kɐ ktor	◦ ( t ə _ r p i ) _ k ɐ _ k t o r		Tib[gtor]		3884	
 30630	Lisu	the shit	khi³¹	kh i ³¹				3892	
-30635	Lyuzu	thin (object)	bi⁵³bi⁵³	b i ⁵³ ◦ b i ⁵³				0	
+30635	Lyuzu	thin (object)	bi⁵³bi⁵³	b i ⁵³ ◦ b i ⁵³				3964	
 30636	Dulong	thin (object)	bɑ⁵³	b ɑ ⁵³				3964	
 30638	Bai_Jianchuan	the stone (a piece of)	tso̱²¹khue⁵⁵	ts o̱ ²¹ ◦ kh u e ⁵⁵				3742	
 30639	Dulong	the shit	ni⁵⁵	n i ⁵⁵				3894	
@@ -5314,7 +5313,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 30651	Zhaba_Daofu_County	to sow (broadcast, scatter seeds)	kə⁵⁵ tu³³	k ə ⁵⁵ _ t u ³³				4886	
 30652	Bokar	to sow (broadcast, scatter seeds)	tor	t o r		Tib[gtor]		3884	
 30654	Darang_Taraon	thin (object)	bɑ⁵⁵ɑ⁵⁵	b ɑ ⁵⁵ ɑ ⁵⁵				3964	
-30655	Bokar	the shit	eː	eː				3896	
+30655	Bokar	the shit	eː	eː				3891	
 30657	Zhaba_Daofu_County	the shit	cça⁵⁵pa⁵⁵	c ç a ⁵⁵ ◦ p a ⁵⁵		tib skʲag.pa		3890	
 30661	Jingpho	the stone (a piece of)	n³¹luŋ³¹	n ³¹ ◦ l u ŋ ³¹				3739	
 30662	Jingpho	the shit	khji⁵⁵	kh j i ⁵⁵				3892	
@@ -5379,9 +5378,8 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 30761	Old_Chinese	the armpit	ɢᴀk	ɢ ᴀ k			腋窩	3286	腋
 30762	Old_Chinese	bad	ʔˤak	ʔˤ a k	WT ag-po 'bad'		坏	339	惡
 30763	Old_Chinese	the bamboo	truk	t r u k			竹子	3223	竹
-30764	Old_Chinese	the barley (tibetan or highland)					大麦	0	
 30765	Old_Chinese	to be alive	sreŋ	s r e ŋ			活着	1332	生
-30766	Old_Chinese	the belly	puk	p u k			肚子	4063	腹
+30766	Old_Chinese	the belly	puk	p u k			肚子	4900	腹
 30767	Old_Chinese	below, under	gˤraʔ	gˤ r a ʔ	WT rga-ba		下面	130	下
 30768	Old_Chinese	big	lˤat←s	lˤ a t ← s			大	336	大
 30769	Old_Chinese	the bird	tˤiwʔ	tˤ i w ʔ			鸟	3694	鳥
@@ -5434,7 +5432,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 30816	Old_Chinese	the feather	ɢʷaʔ	ɢʷ a ʔ			羽毛	1617	羽
 30817	Old_Chinese	to fight	tˤok←s	tˤ o k ← s			打架	3698	鬥
 30818	Old_Chinese	the fire	qʷʰˤəjʔ	qʷʰˤ ə j ʔ			火	1638	火
-30819	Old_Chinese	firewood	sin	s i n			柴	3641	薪
+30819	Old_Chinese	firewood	sin	s i n			柴	4850	薪
 30820	Old_Chinese	the fish	rŋa	r ŋ a			鱼	1646	魚
 30821	Old_Chinese	five	Cŋˤaʔ	C ŋˤ a ʔ			五	1647	五
 30822	Old_Chinese	the flea	tsˤuʔ	tsˤ u ʔ			跳蚤	3712	蚤
@@ -5451,7 +5449,6 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 30834	Old_Chinese	four	slij←s	s l i j ← s			四	4579	四
 30835	Old_Chinese	the fox	gʷˤa	gʷˤ a			狐狸	3170	狐
 30836	Old_Chinese	the frog	qʷˤre	qʷˤ r e			青蛙	3830	鼃
-30837	Old_Chinese	the front (front side)					額頭	0	
 30838	Old_Chinese	the frost	sraŋ	s r a ŋ			霜	3037	霜
 30839	Old_Chinese	the fruit	məlit	m ə l i t			水果	1714	實
 30840	Old_Chinese	full	leŋ	l e ŋ			满	3697	盈
@@ -5547,7 +5544,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 30930	Old_Chinese	nine	kuʔ	k u ʔ			九	4259	九
 30931	Old_Chinese	the nit					虱卵	0	
 30932	Old_Chinese	noon	mqʰˤaʔ	m qʰˤ a ʔ			中午	3841	午
-30933	Old_Chinese	the nose	m→bit←s	m → b i t ← s			鼻子	2204	鼻
+30933	Old_Chinese	the nose	m→bit←s	m → b i t ← s			鼻子	4973	鼻
 30934	Old_Chinese	old (of person)	Crˤuʔ	C rˤ u ʔ			老	2214	老
 30935	Old_Chinese	one	ʔit	ʔ i t			一	2221	一
 30936	Old_Chinese	the otter	r̥ˤat	r̥ˤ a t	also perhaps *[m-r̥]ˤat		水獭	3633	獺
@@ -5587,7 +5584,6 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 30970	Old_Chinese	to shoot (an arrow)	Cəlᴀk←s	C ə l ᴀ k ← s			射	2445	射
 30971	Old_Chinese	short	tˤorʔ	tˤ o r ʔ			短	2451	短
 30972	Old_Chinese	the shoulder	kˤen	kˤ e n			肩膀	2472	肩
-30973	Old_Chinese	shy					害羞	0	
 30974	Old_Chinese	the sickle	rem	r e m			鐮刀	3293	鎌
 30975	Old_Chinese	to sing	kˤaj	kˤ a j			唱	3734	歌
 30976	Old_Chinese	six	kruk	k r u k			六	2497	六
@@ -5731,7 +5727,7 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 31114	Old_Burmese	the ant	pu◦ro₁k◦chip	p u ◦ r o₁ k ◦ ch i p				3212	
 31115	Old_Burmese	the armpit	khyo₁ṅḥ	kh y o₁ ṅ ḥ				3834	
 31116	Old_Burmese	the bamboo	vāḥ	v ā ḥ				3229	
-31117	Old_Burmese	the belly	po₂k	p o₂ k				4063	
+31117	Old_Burmese	the belly	po₂k	p o₂ k				4900	
 31118	Old_Burmese	the bird	ṅhak	ṅh a k				1355	
 31119	Old_Burmese	the blood	suyḥ	s u y ḥ				1380	
 31120	Old_Burmese	the body hair (hair or fur)	muyḥ	m u y ḥ				3557	
@@ -5857,8 +5853,8 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 31240	Old_Burmese	to hold	ko₂ṅ	k o₂ ṅ				3930	
 31241	Old_Burmese	to kill	sat	s a t				1966	
 31242	Old_Burmese	to knead	nay	n a y				3539	
-31243	Old_Burmese	to know (something)	siʔ	s i ʔ				1981	
-31244	Old_Burmese	to laugh	ray	r a y				2001	
+31243	Old_Burmese	to know (something)	siʔ	s i ʔ				4963	
+31244	Old_Burmese	to laugh	ray	r a y				4216	
 31245	Old_Burmese	to learn	saṅ	s a ṅ				3077	
 31246	Old_Burmese	to lick	lyak	l y a k				2654	
 31247	Old_Burmese	to lie down	lai	l ai				3937	
@@ -5913,15 +5909,252 @@ ID	DOCULECT	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	HANZI
 31296	Japhug	to sow (broadcast, scatter seeds)	χtɤr	χ t ɤ r		Tib[gtor]		3884	
 31297	Japhug	the shit	tɯ-qe	t ɯ q e				3891	
 31298	Limbu	bad	tɛp_phɛːm-ba	t ɛ p _ ph ɛː m- b a				3967	
-31299	Limbu	firewood	siŋ	s i ŋ				3641	
+31299	Limbu	firewood	siŋ	s i ŋ				4850	
 31300	Limbu	four		l i s i				4579	
 31301	Limbu	five	ŋasi	ŋ a s i				1647	
 31302	Japhug	dry	rom	r o m				1541	
 31303	Japhug	smooth	mnu	m n u				4012	
 31304	Japhug	noon	saχsɯ	s a χ s ɯ				4041	
-31305	Limbu	high / tall	candzaŋba	c a ŋ dz a ŋ b a				4043	
+31305	Limbu	high / tall	candzaŋba	c a ŋ dz a ŋ b a				4891	
 31306	Japhug	late	maqʰu	m a qʰ u				4044	
 31307	Tibetan_Written	to give	sbyin	s b y i n				1738	
 31308	Tibetan_Written	to hunt	rŋon	r ŋ o n				1922	
 31309	Japhug	dry	spɯ	s p ɯ				1532	
 31310	Japhug	to hide (conceal)	nɤtsɯ	n ɤ ts ɯ				1885	
+31312	Khaling	bad	mʌbʌ̄ŋpɛ	m ʌ b ʌ ŋ p ɛ				4888	
+31313	Khaling	firewood	sʌ̄ŋ	s ʌ ŋ				4850	
+31314	Khaling	four		bh ɛ̂ l				4579	
+31315	Hakha	to think (reflect)	ʔɑ.ruɑ	ʔ ɑ r uɑ				5000	
+31316	Hakha	the pig	voʔ	v o ʔ				0	
+31317	Hakha	the mountain	tlɑŋ	t l ɑ ŋ				4970	
+31318	Hakha	eight	pə.riɑ	p ə r iɑ				1588	
+31319	Hakha	the moon	tʰlɑ.pɑ	tʰ l ɑ p ɑ				0	
+31320	Hakha	ten	pə.r̥ɑ	p ə r̥ ɑ				4996	
+31321	Hakha	seven	pə.sə.ri	p ə s ə r i				2427	
+31322	Hakha	the shoulder	liɑn	l iɑ n				4988	
+31323	Hakha	that	mɑ.kʰi	m ɑ kʰ i				4997	
+31324	Hakha	thin (object)	pən	p ə n				4935	
+31325	Hakha	the man (male human)	pɑ.kliŋ	p ɑ k l i ŋ				4967	
+31326	Hakha	round	pum	p u m				4982	
+31327	Hakha	noon	sʰuŋ	sʰ u ŋ				4892	
+31328	Hakha	small	ʔɑ.m̥en	ʔ ɑ m̥ e n				4915	
+31329	Hakha	the dust	le.diʔ	l e d i ʔ				4907	
+31330	Hakha	to hunt	rɑm.ʔɑ.vɑ	r ɑ m ʔ ɑ v ɑ				0	
+31331	Hakha	the fog	ti.ʃuŋ	t i ʃ u ŋ				4923	
+31332	Hakha	you [second person plural]	nɑŋ.mɑ	n ɑ ŋ m ɑ				3007	
+31333	Hakha	the spider	mɑi.mɔʔ	m ɑi m ɔ ʔ				4990	
+31334	Hakha	the foot	ke	k e				4921	
+31335	Hakha	to count	rel	r e l				3909	
+31336	Hakha	the bone	ru	r u				1397	
+31337	Hakha	the tongue	lei	l ei				5005	
+31338	Hakha	dark	ʔɑ.mui	ʔ ɑ m ui				5031	
+31339	Hakha	the mud	le.se	l e s e				5019	
+31340	Hakha	tomorrow	tʰɑi.ziŋ	tʰ ɑi z i ŋ				5030	
+31341	Hakha	the earthworm	sɑŋ.sel	s ɑ ŋ s e l				4920	
+31342	Hakha	long	ʔɑ.sɑu	ʔ ɑ s ɑu				2040	
+31343	Hakha	high / tall	ʔɑ.sɑŋ	ʔ ɑ s ɑ ŋ				4891	
+31344	Hakha	to fly (move through air)	jwɑŋ	j w ɑ ŋ				4950	
+31345	Hakha	the snake	rul	r u l				2553	
+31346	Hakha	the rice plant	fə.sɑŋ.kuŋ	f ə s ɑ ŋ k u ŋ				4931	
+31347	Hakha	the thigh	pʰe	pʰ e				5020	
+31348	Hakha	knife	nɑm	n ɑ m				0	
+31349	Hakha	the fish	ŋɑ	ŋ ɑ				1646	
+31350	Hakha	the child (young human)	nŋɑ.ʃɑr	n ŋ ɑ ʃ ɑ r				5021	
+31351	Hakha	to spit	ʔɑ.ʃɑʔ	ʔ ɑ ʃ ɑ ʔ				4990	
+31352	Hakha	to float	ʔɑ.vun	ʔ ɑ v u n				4937	
+31353	Hakha	black	ʔɑ.nɑ	ʔ ɑ n ɑ				1374	
+31354	Hakha	the skin	tʃuɑ	t ʃ uɑ				0	
+31355	Hakha	to vomit	ʔɑ.luɑʔ	ʔ ɑ l uɑ ʔ				0	
+31356	Hakha	the river	və.pi	v ə p i				4981	
+31357	Hakha	the sea	rə.li	r ə l i				5023	
+31358	Hakha	to stand	ʔɑ.dir	ʔ ɑ d i r				4991	
+31359	Hakha	to burn [intransitive]	mei.ʔɑ.duɑ	m ei ʔ ɑ d uɑ				5035	
+31360	Hakha	to scratch	Ɂɑ.kʰeu	Ɂ ɑ kʰ eu				4985	
+31361	Hakha	the egg	ʔɑ.ti	ʔ ɑ t i				1578	
+31362	Hakha	I [first person singular]	ke.mɑ	k e m ɑ				4961	
+31363	Hakha	the forest	tu.pi	t u p i				4951	
+31364	Hakha	to die	tʰi	tʰ i				1486	
+31365	Hakha	the bamboo	rə.tɔi	r ə t ɔi				5028	
+31366	Hakha	straight	ʔɑ.diŋ	ʔ ɑ d i ŋ				4995	
+31367	Hakha	the name	min	m i n				0	
+31368	Hakha	to see	ʔɑ.m̥u	ʔ ɑ m̥ u				2415	
+31369	Hakha	the mouse or rat	ju	j u				2276	
+31370	Hakha	the smoke	mei.kʰu	m ei kʰ u				4332	
+31371	Hakha	the wind	kʰli.tu	kʰ l i t u				5013	
+31372	Hakha	twenty	pə.kul	p ə k u l				2813	
+31373	Hakha	to shoot (an arrow)	kɑ	k ɑ				0	
+31374	Hakha	red	seŋ	s e ŋ				4980	
+31375	Hakha	the eye	miʔ	m i ʔ				0	
+31376	Hakha	dirty	tʰo.nɔn	tʰ o n ɔ n				4905	
+31377	Hakha	the branch	tʰiŋ.ŋɛ	tʰ i ŋŋ ɛ				4917	
+31378	Hakha	the sky	vɑŋ.suŋ	v ɑ ŋ s u ŋ				4913	
+31379	Hakha	wet	tʃin	t ʃ i n				5009	
+31380	Hakha	to know (something)	ʔɑ.ŋəl	ʔ ɑ ŋ ə l				4964	
+31381	Hakha	many	tɑm.pi	t ɑ m p i				4968	
+31382	Hakha	the body hair (hair or fur)	m̥ɯl	m̥ ɯ l				3557	
+31383	Hakha	to sing	ɬɑ.ʔɑ.sɑ	ɬ ɑ ʔ ɑ s ɑ				4912	
+31384	Hakha	the earth (soil)	və.le	v ə l e				3912	
+31385	Hakha	to flow	ʔɑ.lwɑŋ	ʔ ɑ l w ɑ ŋ				4948	
+31386	Hakha	the feather	vɑ.m̥ɔi	v ɑ m̥ ɔi				1616	
+31387	Hakha	three	pə.tʰuŋ	p ə tʰ u ŋ				0	
+31388	Hakha	the neck	hŋɔŋ	h ŋ ɔ ŋ				4256	
+31389	Hakha	the meat	ʔɑ.sʰɑ	ʔ ɑ sʰ ɑ				2084	
+31390	Hakha	the root	tʰiŋ.r̥ɑm	tʰ i ŋ r̥ ɑ m				2344	
+31391	Hakha	what	ze.dɑ	z e d ɑ				5010	
+31392	Hakha	the woman	nu.kliŋ	n u k l i ŋ				5014	
+31393	Hakha	the tiger	sə.ke	s ə k e				5036	
+31394	Hakha	narrow	bir	b i r				4971	
+31395	Hakha	to kill	tʰɑ	tʰ ɑ				0	
+31396	Hakha	the flower	pɑŋ.pɑr	p ɑ ŋ p ɑ r				4949	
+31397	Hakha	yesterday	ni.jɑŋ.nɑ	n i j ɑ ŋ n ɑ				5029	
+31398	Hakha	the needle (for sewing)	tʰim	tʰ i m				4972	
+31399	Hakha	to plant (vegetals, rice)	tʃin	t ʃ i n				4976	
+31400	Hakha	hundred	zə.kʰɑ	z ə kʰ ɑ				4959	
+31401	Hakha	far	ʔɑ.ɬɑ	ʔ ɑ ɬ ɑ				4908	
+31402	Hakha	the nose	n̥ɑ	n̥ ɑ				2205	
+31403	Hakha	to steal	fi	f i				4993	
+31404	Hakha	the cloud	kʰɔ.dɔm	kʰ ɔ d ɔ m				4903	
+31405	Hakha	the water	ti	t i				2843	
+31406	Hakha	white	ʔɑ.rɑŋ	ʔ ɑ r ɑ ŋ				5012	
+31407	Hakha	smooth	ʔɑ.mel	ʔ ɑ m e l				4989	
+31408	Hakha	the road	lɑm	l ɑ m				2337	
+31409	Hakha	the horn (keratinized skin)	ki	k i				4958	
+31410	Hakha	the salt	si.te	s i t e				4983	
+31411	Hakha	to cry (weep)	tɑʔ	t ɑ ʔ				4904	
+31412	Hakha	to forget	pʰil	pʰ i l				5022	
+31413	Hakha	to smell (perceive odor) [transitive]	ʔɑ.n̥i	ʔ ɑ n̥ i				0	
+31414	Hakha	one	mi.pə.kʰə	m i p ə kʰ ə				4975	
+31415	Hakha	the father	kɑ.pɑ	k ɑ p ɑ				1608	
+31416	Hakha	firewood	tʰeiŋ	tʰ ei ŋ				4850	
+31417	Hakha	full	kʰə	kʰ ə				4952	
+31418	Hakha	the wife	nu.pi	n u p i				0	
+31419	Hakha	the blood	tʰi	tʰ i				1380	
+31420	Hakha	left	kɛ.le	k ɛ l e				4965	
+31421	Hakha	the armpit	zɑ.tɑŋ	z ɑ t ɑ ŋ				5027	
+31422	Hakha	the thunder	kʰuɑ.ʔɑ.ri	kʰ uɑ ʔ ɑ r i				5004	
+31423	Hakha	hard	ʔɑ.hɑ	ʔ ɑ h ɑ				5032	
+31424	Hakha	the wing	ʔɑ.tʰlɑ	ʔ ɑ tʰ l ɑ				2953	
+31425	Hakha	new	tʰɑr	tʰ ɑ r				2194	
+31426	Hakha	the hair (of the head)	sʰɑɱ	sʰ ɑ ɱ				1800	
+31427	Hakha	the rainbow	sʰuŋ.sʰɑ	sʰ u ŋ sʰ ɑ				5018	
+31428	Hakha	the house	iŋ	i ŋ				1908	
+31429	Hakha	soft	ʔɑ.nem	ʔ ɑ n e m				5033	
+31430	Hakha	dry	ɑ.ro	ɑ r o				4906	
+31431	Hakha	the liver	tʰiŋ	tʰ i ŋ				2040	
+31432	Hakha	the tooth (front)	hɑ	h ɑ				0	
+31433	Hakha	four	pə.li	p ə l i				4579	
+31434	Hakha	we [first person plural inclusive]	kɑŋ.mɑ	k ɑ ŋ m ɑ				5008	
+31435	Hakha	the leaf	n̥ɑ	n̥ ɑ				4938	
+31436	Hakha	the shit	e	e				3891	
+31437	Hakha	the fruit	tʰiŋ.tʰei	tʰ i ŋ tʰ ei				0	
+31438	Hakha	the heart	luŋ	l u ŋ				1854	
+31439	Hakha	the tail	ʔɑ.mei	ʔ ɑ m ei				0	
+31440	Hakha	big	ʔɑ.ŋɑn	ʔ ɑ ŋ ɑ n				4896	
+31441	Hakha	the otter	sɑi.r̥em	s ɑi r̥ e m				3632	
+31442	Hakha	the belly	pɔ	p ɔ				4900	
+31443	Hakha	to fight	ʔɑ.ne.vel	ʔ ɑ n e v e l				4909	
+31444	Hakha	correct (right)	ɑ.m̥ɑn	ɑ m̥ ɑ n		burmese?		3908	
+31445	Hakha	to eat	ʔɑ.e	ʔ ɑ e				4133	
+31446	Hakha	the head	lu	l u				3923	
+31447	Hakha	the stone (a piece of)	luŋ	l u ŋ				0	
+31448	Hakha	this	mɑ.hi	m ɑ h i				5001	
+31449	Hakha	the husband	vɑ.pɑ	v ɑ p ɑ				4960	
+31450	Hakha	bad	sʰiɑ	sʰ iɑ				4889	
+31451	Hakha	the son	fɑ.pɑ	f ɑ p ɑ				5024	
+31452	Hakha	the ear	n̥ɑ.kʰɔ	n̥ ɑ kʰ ɔ				1556	
+31453	Hakha	the dog	ui	ui				1511	
+31454	Hakha	the dream	mɑŋ.ʔɑ.mɑ	m ɑ ŋ ʔ ɑ m ɑ				1516	
+31455	Hakha	near	nɑi	n ɑi				2168	
+31456	Hakha	the seed	mu	m u				4986	
+31457	Hakha	the grass	rɑm	r ɑ m				4953	
+31458	Hakha	all	ʔɑ.zɑ.pi	ʔ ɑ z ɑ p i				4890	
+31459	Hakha	to dig	tʃɔ	t ʃ ɔ				0	
+31460	Hakha	the sand	tʰe.set	tʰ e s e t				4984	
+31461	Hakha	to laugh	ʔɑ.ni	ʔ ɑ n i				2006	
+31462	Hakha	to hide (conceal)	tʰoʔ	tʰ o ʔ				0	
+31463	Hakha	six	pə.ru	p ə r u				0	
+31464	Hakha	short	ʔɑ.tɔi	ʔ ɑ t ɔi				4987	
+31465	Hakha	to throw	ʃɛ	ʃ ɛ				5002	
+31466	Hakha	morning	jin.kɑ	j i n k ɑ				0	
+31467	Hakha	to push	ʔɑ.nɑm	ʔ ɑ n ɑ m				4979	
+31468	Hakha	to hear	tʰei	tʰ ei				0	
+31469	Hakha	green	r̥iŋ	r̥ i ŋ				4954	
+31470	Hakha	two	pə.n̥i	p ə n̥ i				5006	
+31471	Hakha	the louse	r̥iek	r̥ ie k				0	
+31472	Hakha	five	pə.ŋɑ	p ə ŋ ɑ				0	
+31473	Hakha	to buy	ʔɑ.sɔ	ʔ ɑ s ɔ				4902	
+31474	Hakha	to come	rɑ	r ɑ				1251	
+31475	Hakha	the mouth	kɑ	k ɑ				2137	
+31476	Hakha	who	ʔɑ.ho	ʔ ɑ h o				4394	
+31477	Hakha	to bite	se	s e				4899	
+31478	Hakha	yellow	r̥e	r̥ e				5017	
+31479	Hakha	the rain	ruɑ	r uɑ				2270	
+31480	Hakha	the year	kuɱ	k u ɱ				5016	
+31481	Hakha	the mosquito	fiʔ.fɑ	f i ʔ f ɑ				4929	
+31482	Hakha	to drink	dim	d i m				1525	
+31483	Hakha	the sun	ni.kɑ	n i k ɑ				2660	
+31484	Hakha	thick	sʰɑ	sʰ ɑ				4998	
+31485	Hakha	the tree	tʰiŋ.kun	tʰ i ŋ k u n				0	
+31486	Hakha	heavy	ʔɑ.riʔ	ʔ ɑ r i ʔ				1855	
+31487	Hakha	to run	kli	k l i				4939	
+31488	Hakha	to pull	ʔɑ.doʔ	ʔ ɑ d o ʔ				4978	
+31489	Hakha	to walk	lɑm.len	l ɑ m l e n				5007	
+31490	Hakha	the star	ʔɑ.fi	ʔ ɑ f i				4992	
+31491	Hakha	the nail (fingernail or claw)	tin	t i n				2146	
+31492	Hakha	the bird	vɑ	v ɑ				4897	
+31493	Hakha	he or she [third person singular]	ʔɑ.mɑ	ʔ ɑ m ɑ				4957	
+31494	Hakha	to play	li.ti.ʔɑ.se	l i t i ʔ ɑ s e				4977	
+31495	Hakha	thou [second person singular]	nɑŋ.mɑ	n ɑ ŋ m ɑ				0	
+31496	Hakha	hot	ʔɑ.sʰɑ	ʔ ɑ sʰ ɑ				3488	
+31497	Hakha	to give	peʔ	p e ʔ				1738	
+31498	Hakha	the fire	mei	m ei				0	
+31499	Hakha	the ant	ŋɛ.te	ŋ ɛ t e				4918	
+31500	Hakha	old (of person)	ʔɑ.tɑ	ʔ ɑ t ɑ				4974	
+31501	Hakha	the mother	kɑ.nu	k ɑ n u				4969	
+31502	Hakha	sharp	hɑr	h ɑ r				4894	
+31503	Hakha	the knee	kʰuʔ	kʰ u ʔ				4962	
+31504	Hakha	light (of weight)	ɑ.jɑŋ	ɑ j ɑ ŋ				3456	
+31505	Hakha	the hand	bɑŋ	b ɑ ŋ				4955	
+31506	Hakha	to lick	ljɑ	l j ɑ				2654	
+31507	Hakha	to wipe	n̥ɔ	n̥ ɔ				4944	
+31508	Hakha	to sleep	ieʔ	ie ʔ				4914	
+31509	Hakha	nine	pə.kuɑ	p ə k uɑ				0	
+31510	Hakha	where	kʰɔi.kɑ.ʔɑ	kʰ ɔi k ɑ ʔ ɑ				5011	
+31511	Hakha	to blow (of wind)	sʰem	sʰ e m				4901	
+31512	Hakha	the frog	uʔ.tlɑʔ	u ʔ t l ɑ ʔ				5025	
+31513	Hakha	good	tʰɑ	tʰ ɑ				1753	
+31514	Khaling	high / tall	sōŋpɛ	s ō ŋ p ɛ				4891	
+31516	Limbu	sharp	ha_sukma	h a - s u k m a				4895	
+31517	Khaling	sharp	reçpɛ	r e ç p ɛ				2435	
+31518	Limbu	shy	nuːnt	n uː n t 				4910	
+31519	Khaling	shy	khak-si	kh a k - s i				4911	
+31520	Khaling	the barley (tibetan or highland)	rʌbusi	r ʌ b u s i				4916	
+31521	Khaling	the branch	ghrēm	gh r ē m					
+31522	Limbu	the ant	sikcemba	s i k c e m p a				4919	
+31523	Khaling	the father	pɛpp	p ɛ p p				1608	
+31524	Limbu	the father	pa	p a					
+31525	Khaling	the fog	kɵ̂msɛm	k ɵ̂ m s ɛ m				4924	
+31526	Limbu	the fog	tuŋhik	t u ŋ h i k				4925	
+31527	Limbu	the front (front side)	tɔgaŋ	t ɔ g a ŋ				4926	
+31528	Limbu	the shit	hi	h i				3892	
+31529	Khaling	the shit	khli	kh l i				3892	
+31530	Khaling	the frost	sit	s i t				4928	
+31531	Limbu	the frost	seʔwa	s e ʔ w a				4928	
+31532	Japhug	the frost	tɯɣur	t ɯ ɣ u r				4927	
+31534	Limbu	the lung	som	s o m				4930	
+31535	Limbu	the rice plant	yaʔ	y a ʔ				4932	
+31536	Khaling	to count	khritt	kh r i t t				4933	
+31537	Khaling	to fight	ki	k i				4947	
+31538	Limbu	to fight	thɔkt	th ɔ k t					
+31539	Limbu	thin (object)	paːm-paːm	p aː m - p aː m				4999	
+31540	Limbu	to count	kha=niːtt	kh a  ̩ n iː t t				4936	
+31541	Khaling	to float	kuʔɛ thent	th e n t					
+31542	Limbu	to laugh	ett	e t t				4216	
+31543	Khaling	to run	ghur	gh u r				4941	
+31544	Limbu	to run	lokt	l o k t 				4940	
+31545	Khaling	to sow (broadcast, scatter seeds)	phett	ph e t t				4943	
+31546	Limbu	to sow (broadcast, scatter seeds)	heˀr	h eˀ r				4942	
+31547	Khaling	to wipe	dhek	dh e k				4946	
+31548	Limbu	to wipe	tuːk	t uː k				4945	
+31549	Tibetan_Written	good	bzaŋ	b z a ŋ				3768	
+31550	Hakha	to know (something)	ʔɑ.tʰei	ʔ ɑ tʰ ei 				4963	
