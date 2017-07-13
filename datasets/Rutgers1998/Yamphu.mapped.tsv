@@ -1,0 +1,326 @@
+NUMBER	ENGLISH	CONCEPTICON_ID	TBL_ID	SRCID	SRCGLOSS
+29	I [first person singular]	1209	928		???
+1	above	1741	731		???
+2	all	98	962		???
+3	bad	1292	1053		???
+4	below, under	1485	732		???
+5	big	1202	964	499819	big, flat rock (n)
+#<<<
+6	black	163	1005	499740	black (adj)
+6	black	163	1005	500023	black, largish bee (n)
+#>>>
+7	cold (of temperature)	1287	1063		???
+8	correct (right)	1725	1045		???
+9	dark	706	1013		???
+10	dirty	1230	1086		???
+11	dry	1398	1028		???
+12	early	672	1018		???
+13	eight	1705	804	499539	eight (OBSOLETE) (num)
+14	far	1406	974		???
+15	firewood	10	534		???
+16	five	493	801	499792	five (num)
+17	four	1500	800	499876	four (num)
+18	full	1429	984		???
+19	good	1035	1052	499956	pond; well; deep part in a river or stream, pool (n)
+20	green	1425	1009		???
+21	hard	1884	1034		???
+22	he or she [third person singular]	262	934		???
+23	heavy	1210	1014		???
+24	here	136	944		???
+25	high / tall	1265	968		???
+26	horizontal	2376	1001		???
+27	hot	1286	1062		???
+28	hundred	1634	824		???
+30	inside	1606	715		???
+31	knife	1352	549		???
+32	late	477	1019		???
+33	left	244	710		???
+34	light (of weight)	1052	1052		???
+35	long	1203	972		???
+36	many	1198	987		???
+37	middle	1093	708		???
+38	morning	1339	749	499717	morning (n)
+39	narrow	1267	977		???
+40	near	1942	975		???
+41	new	1231	1050		???
+42	nine	1483	805	499808	nine (num)
+43	noon	12	750	499775	noon (time when sun is at its peak) (n)
+44	old (of person)	2112	1058		???
+45	one	1493	797		???
+46	outside	762	714		???
+47	red	156	1007		???
+48	right	1019	711		???
+49	round	1395	990		???
+50	salty	1091	1076		???
+51	seven	1704	803	499601	seven (OBSOLETE) (num)
+52	sharp	1396	1020		???
+53	short	1645	973		???
+54	shy	487	1365		???
+55	six	1703	802		???
+56	small	1246	965	499548	small (adj)
+57	smooth	1234	1037		???
+58	soft	1856	1035		???
+59	straight	1404	1003		???
+60	ten	1515	806		???
+61	that	78	947		???
+62	the ant	587	365		???
+63	the armpit	1886	92	499697	armpit (n)
+64	the bamboo	1927	389	499546	bamboo (or shaft/patch of bamboo) (n)
+65	the barley (tibetan or highland)	932	411		???
+66	the belly	1251	96	499882	stomach (n)
+67	the bird	937	326	499940	bird (n)
+68	the blood	946	129	499605	blood (n)
+69	the body hair (hair or fur)	189	266	500003	body hair, moustache (n)
+70	the bone	1394	133	499914	bone (n)
+71	the branch	1531	374		???
+72	the breast (female)	1402	94	499807	breast(s) (n)
+#<<<
+73	the child (young human)	1304	169	499817	child (n)
+73	the child (young human)	1304	169	499829	child, offspring (n)
+73	the child (young human)	1304	169	499854	child, offspring (bound morph, only used with pronominal prefixes (n)
+#>>>
+74	the cloud	1489	7	499671	cloud, mist, haze (n)
+75	the daughter	1357	222	499744	daughter (n)
+76	the dew	1977	15	499936	dew (n)
+77	the dog	2009	289	499624	dog (n)
+78	the dream	2374	699		???
+79	the dust	2	45	499760	dirt on the body, dust or dirtiness (n)
+80	the ear	1247	81	499796	ear (n)
+#<<<
+81	the earth (soil)	1228	40	499526	earth, soil, ground (n)
+81	the earth (soil)	1228	40	499647	earth, soil (n)
+81	the earth (soil)	1228	40	499712	earth, ground, land (n)
+#>>>
+82	the earthworm	2350	363		???
+83	the egg	744	450	499989	egg (n)
+84	the eye	1248	79	499751	eye (n)
+85	the father	1217	218	499834	father (n)
+86	the feather	1201	299		???
+87	the fire	221	18	499746	fire (n)
+88	the fish	227	351	499763	fish (n)
+89	the flea	232	355	499721	flea (n)
+#<<<
+90	the flower	239	377	499549	blossom, to flower (v)
+90	the flower	239	377	499556	flower, blossom (n)
+90	the flower	239	377	499977	flower (n)
+#>>>
+91	the fog	249	16	499671	cloud, mist, haze (n)
+92	the foot	1301	103		???
+#<<<
+93	the forest	420	50	499560	forest; jungle (n)
+93	the forest	420	50	499770	woods, forest (n)
+#>>>
+94	the fox	1312	325	499935	fox (n)
+95	the frog	503	349		???
+96	the front (front side)	2194	712		???
+97	the frost	2034	14		???
+98	the fruit	1507	378		???
+#<<<
+99	the goat	1502	276	499743	goat (n)
+99	the goat	1502	276	500016	goat (n)
+#>>>
+100	the grass	606	436	499655	grass (n)
+101	the hail	609	13	499816	hail (n)
+102	the hair (of the head)	1040	75		???
+103	the hand	1277	107		???
+104	the head	1256	74	499800	head (n)
+105	the heart	1223	144		???
+106	the hoof	152	264	499684	claw of a bird; hoof (n)
+107	the horn (keratinized skin)	1393	263	499887	horn (n)
+108	the horse	615	268		???
+109	the house	1252	494	499669	house (n)
+110	the husband	1200	247	499971	old man; husband (n)
+111	the ice	617	17		???
+#<<<
+112	the knee	1371	101	499538	ankle, knee, or elbow joints (n)
+112	the knee	1371	101	499962	knee (n)
+#>>>
+113	the lake	624	31	499986	water, usually more specifically pool, pond, lake, tank, sea (n)
+114	the leaf	628	376		???
+115	the lip (the lips)	478	85		???
+116	the liver	1224	145	499883	liver (n)
+117	the louse	1392	356	499926	louse (n)
+118	the lung	688	143	499939	lungs (n)
+119	the man (male human)	2106	173	500011	man, person (n)
+120	the meat	634	443	499885	meat, flesh (n)
+#<<<
+121	the moon	1313	4	499687	moon (n)
+121	the moon	1313	4	499806	shine (said of sun or moon) (v)
+#>>>
+122	the mosquito	1509	360		???
+#<<<
+123	the mother	1216	219	499709	mother (bound morph) (n)
+123	the mother	1216	219	499736	mother, mom (n)
+#>>>
+124	the mountain	639	23		???
+125	the mouse or rat	2139	320	499934	mouse or rat (n)
+126	the mouth	674	84	499998	mouth; opening, entrance (n)
+127	the mud	640	46		???
+128	the nail (fingernail or claw)	2128	113	499921	fingernail (n)
+129	the name	1405	687		???
+#<<<
+130	the neck	1333	89	499597	neck (n)
+130	the neck	1333	89	499839	neck, throat (n)
+#>>>
+131	the needle (for sewing)	1382	578		???
+132	the nit	267	357		???
+133	the nose	1221	80	499791	nose (n)
+134	the otter	15	317		???
+#<<<
+135	the pig	1337	284	499527	pig (n)
+135	the pig	1337	284	499615	pig, hog (n)
+#>>>
+136	the rain	658	10	499700	wet from dew or rain (adj)
+137	the rainbow	1733	11		???
+138	the rice plant	2026	439		???
+#<<<
+139	the river	666	30	499617	stream, rivulet (n)
+139	the river	666	30	499956	pond; well; deep part in a river or stream, pool (n)
+#>>>
+140	the road	667	38		???
+141	the root	670	375		???
+142	the rope	1218	619		???
+143	the salt	1274	61		???
+144	the sand	671	44		???
+145	the sea	1474	32	499986	water, usually more specifically pool, pond, lake, tank, sea (n)
+#<<<
+146	the seed	714	405	499566	seed (n)
+146	the seed	714	405	499989	egg (n)
+#>>>
+147	the sheep	1331	275		???
+148	the shit	676	151		???
+#<<<
+149	the shoulder	1482	90	499523	shoulder (n)
+149	the shoulder	1482	90	499554	back (i.e. the body part) (n)
+#>>>
+150	the sickle	341	624		???
+151	the skin	763	120	499912	skin (n)
+152	the sky	1732	1	499773	firmament, sky (n)
+153	the smoke	778	19	499741	smoke (n)
+154	the snake	730	347	499855	snake (n)
+155	the snow	784	12	499785	snow (n)
+#<<<
+156	the son	1620	220	499788	son or daughter's mother-in-law (n)
+156	the son	1620	220	499789	son or daughter's father-in-law (n)
+#>>>
+157	the sparrow	1854	336		???
+158	the spider	843	361	500005	spider (n)
+159	the star	1430	5	499898	star (n)
+160	the stick	1295	586	499957	stick (n)
+161	the stone (a piece of)	857	379		???
+162	the sun	1343	2	499767	sun, sunshine (n)
+163	the tail	1220	267	499756	tail (n)
+164	the thigh	800	100	499923	thigh (n)
+165	the thunder	1150	8		???
+166	the tiger	846	304	499638	tiger (n)
+167	the tongue	1205	139	499703	tongue (n)
+168	the tooth (front)	1380	137		???
+#<<<
+169	the tree	906	372	499525	tree (Pilea wightii) (n)
+169	the tree	906	372	499930	tree; tree trunk (n)
+#>>>
+#<<<
+170	the water	948	47	499986	water, usually more specifically pool, pond, lake, tank, sea (n)
+170	the water	948	47	500020	water (n)
+#>>>
+171	the wheat	1077	410		???
+#<<<
+172	the wife	1199	248	499784	wife or husband's elder sister; elder brother's wife's elder sister (n)
+172	the wife	1199	248	499797	wife or husband's younger brother (n)
+172	the wife	1199	248	499798	wife or husband's younger sister (n)
+172	the wife	1199	248	499973	old woman; wife (n)
+172	the wife	1199	248	499976	wife or husband's elder brother; elder brother's wife's elder brother (n)
+#>>>
+173	the wind	960	9	499613	wind, air (n)
+#<<<
+174	the wing	1257	298	499694	wing (n)
+174	the wing	1257	298	499695	wing (n)
+#>>>
+175	the wolf	522	324	499603	wolf (n)
+176	the woman	962	174	499745	woman (n)
+177	the wood (material)	1803	511	499770	woods, forest (n)
+178	the year	1226	777	499801	year (bound morph) (n)
+179	there	1937	950		???
+180	thick	1244	980		???
+181	thin (object)	2307	981		???
+182	this	1214	942		???
+183	thou [second person singular]	1215	931		???
+184	three	492	799	499944	three (num)
+185	to be alive	1422	1087		???
+186	to bite	1403	1753		???
+187	to blow (of wind)	175	1738		???
+#<<<
+188	to burn [intransitive]	1428	1269	499713	burn (v.i., v.t.) (v)
+188	to burn [intransitive]	1428	1269	499980	light, burn (v)
+#>>>
+189	to buy	1869	1516		???
+190	to chew	321	1424		???
+191	to come	1446	1491		???
+192	to count	1420	1640		???
+193	to cry (weep)	1420	1485		???
+194	to die	1494	1651		???
+195	to dig	1418	1698		???
+#<<<
+196	to drink	1401	1370	499986	water, usually more specifically pool, pond, lake, tank, sea (n)
+196	to drink	1401	1370	500020	water (n)
+#>>>
+197	to eat	1336	1198		???
+198	to fight	1423	1234		???
+199	to float	1574	1553		???
+200	to flow	2003	1502		???
+#<<<
+201	to fly (move through air)	1441	1318	499755	fly (insect) (n)
+201	to fly (move through air)	1441	1318	499841	fly (v)
+#>>>
+202	to forget	1523	1704		???
+203	to give	1447	1345		???
+204	to hear	1408	1682		???
+205	to hide (conceal)	602	1169		???
+206	to hold	1448	1709		???
+207	to hunt	1435	1230		???
+208	to kill	1417	1602		???
+209	to knead	274	1594		???
+210	to know (something)	1410	1398		???
+211	to laugh	1355	1735		???
+212	to learn	504	1742		???
+213	to lick	319	1674		???
+214	to lie down	215	1661		???
+215	to marry (a man marries a woman)	2164	1578		???
+#<<<
+216	to plant (vegetals, rice)	1486	1774	499852	plant (n)
+216	to plant (vegetals, rice)	1486	1774	499878	plant (seedlings) (v)
+#>>>
+217	to play	1413	1703		???
+218	to pull	1455	1568		???
+219	to push	1452	1689		???
+220	to reside (live)	1099	1452		???
+221	to run	1519	1544		???
+222	to scratch	1436	1530	499921	fingernail (n)
+223	to see	1409	1471		???
+224	to shoot (an arrow)	1172	1611	499542	shoot (e.g. arrows, bullets) (v)
+225	to sing	1261	1184		???
+226	to sleep	1585	1646		???
+227	to smell (perceive odor) [transitive]	1586	1707		???
+228	to sow (broadcast, scatter seeds)	748	1597	499566	seed (n)
+229	to spit	1440	1688	499582	spit (v)
+230	to stand	1442	1784		???
+231	to steal	713	1686		???
+232	to think (reflect)	1415	1726		???
+233	to throw	1456	1687		???
+234	to vomit	1278	1535	499596	vomit, throw up (v)
+235	to walk	1443	1815		???
+236	to wipe	1454	1163		???
+237	today	1283	738		???
+238	tomorrow	1329	742	499984	tomorrow (adv)
+239	twenty	1710	816	499805	twenty (num)
+240	two	1498	798	499804	two (num)
+241	we [first person plural inclusive]	1131	930		???
+242	wet	1726	1029	499699	wet (adj)
+243	what	1236	954		???
+244	where	1237	955		???
+245	white	1335	1006		???
+246	who	1235	953		???
+247	yellow	1424	1008	499842	yellow (adj)
+248	yesterday	1174	739		???
+249	you [second person plural]	1213	933		???
+250	young	1207	1059	500000	young, unmarried woman (n)

@@ -1,0 +1,649 @@
+NUMBER	ENGLISH	CONCEPTICON_ID	TBL_ID	SRCID	SRCGLOSS
+#<<<
+29	I [first person singular]	1209	928	121975	I (pron)
+29	I [first person singular]	1209	928	122277	firefly (an, i)
+#>>>
+1	above	1741	731	122881	above, up (adv)
+2	all	98	962		???
+3	bad	1292	1053		???
+#<<<
+4	below, under	1485	732	122278	under, below (n, pp)
+4	below, under	1485	732	122879	below (adv)
+#>>>
+5	big	1202	964	122043	big (adj)
+6	black	163	1005	121786	black (adj)
+7	cold (of temperature)	1287	1063	122157	cold (n)
+8	correct (right)	1725	1045	122159	right (side) (adj)
+9	dark	706	1013	122222	at night (adv)
+10	dirty	1230	1086	122077	infested, dirty (be v.)
+#<<<
+11	dry	1398	1028	122280	dry (vi)
+11	dry	1398	1028	122840	dry (vi)
+11	dry	1398	1028	122887	dry, spread to dry (vt)
+#>>>
+12	early	672	1018		???
+13	eight	1705	804	121723	eight (num)
+14	far	1406	974	121948	uphill, upstairs, far (adv)
+15	firewood	10	534		???
+16	five	493	801	122041	five (num)
+17	four	1500	800	122703	four (num)
+18	full	1429	984		???
+#<<<
+19	good	1035	1052	122642	well, thoroughly (adv)
+19	good	1035	1052	122641	good-looking, good (be v.)
+#>>>
+20	green	1425	1009	121945	green (adj)
+21	hard	1884	1034		???
+#<<<
+22	he or she [third person singular]	262	934	121700	he, she (pron v.)
+22	he or she [third person singular]	262	934	121687	this, he, she (demon)
+22	he or she [third person singular]	262	934	121703	he [ERGATIVE] (pron)
+#>>>
+23	heavy	1210	1014		???
+#<<<
+24	here	136	944	121685	this way, here (adv)
+24	here	136	944	121691	here, towards here (adv)
+24	here	136	944	121679	here (adv)
+#>>>
+25	high / tall	1265	968		???
+26	horizontal	2376	1001		???
+#<<<
+27	hot	1286	1062	122484	heat (n)
+27	hot	1286	1062	122141	hot, warm (feeling) (be v.)
+27	hot	1286	1062	122116	warm, cosy (adj)
+#>>>
+28	hundred	1634	824		???
+30	inside	1606	715	122015	inside (n)
+31	knife	1352	549	122472	knife (n)
+32	late	477	1019		???
+#<<<
+33	left	244	710	121985	hand (n)
+33	left	244	710	122371	left-hand
+#>>>
+34	light (of weight)	1052	1052		???
+35	long	1203	972	122173	long (be v.)
+36	many	1198	987		???
+#<<<
+37	middle	1093	708	122736	middle, between (n loc)
+37	middle	1093	708	122750	midst, middle (n loc)
+#>>>
+38	morning	1339	749		???
+#<<<
+39	narrow	1267	977	121922	close, lock up (vt)
+39	narrow	1267	977	122762	lock / close (door or window) (v)
+39	narrow	1267	977	122103	close (vt)
+#>>>
+#<<<
+40	near	1942	975	121922	close, lock up (vt)
+40	near	1942	975	122410	next to, near (n, pp)
+40	near	1942	975	122762	lock / close (door or window) (v)
+40	near	1942	975	122103	close (vt)
+#>>>
+41	new	1231	1050	122314	new (adj)
+42	nine	1483	805	122017	nine (num)
+43	noon	12	750		???
+#<<<
+44	old (of person)	2112	1058	122030	elder (e.g. a-ŋaːtsa hopo 'my elder/eldest brother' (n)
+44	old (of person)	2112	1058	122582	old, old age (adj)
+44	old (of person)	2112	1058	121748	brother, elder; elder sibling (n)
+#>>>
+45	one	1493	797	121810	one (num)
+#<<<
+46	outside	762	714	121766	outside (adv)
+46	outside	762	714	122213	outside (n, pp)
+#>>>
+47	red	156	1007	122722	red (adj)
+#<<<
+48	right	1019	711	121985	hand (n)
+48	right	1019	711	122159	right (side) (adj)
+#>>>
+49	round	1395	990		???
+50	salty	1091	1076	121737	salt (n)
+51	seven	1704	803	122082	seven (num)
+52	sharp	1396	1020	122867	sharp (of a blade) (be v.)
+53	short	1645	973		???
+54	shy	487	1365		???
+55	six	1703	802	122680	six (num)
+#<<<
+56	small	1246	965	121690	little (adv df.)
+56	small	1246	965	121678	a little (adv df.)
+56	small	1246	965	121681	a little (adv df.)
+56	small	1246	965	121692	small (adj)
+#>>>
+57	smooth	1234	1037		???
+#<<<
+58	soft	1856	1035	122909	boiled, cooked, soft (be v.)
+58	soft	1856	1035	122729	soft, tender (adv)
+#>>>
+59	straight	1404	1003		???
+60	ten	1515	806	122313	ten (num)
+#<<<
+61	that	78	947	122575	that (dem)
+61	that	78	947	122892	that (one) (dem pro)
+#>>>
+62	the ant	587	365	121962	ant (n)
+63	the armpit	1886	92		???
+#<<<
+64	the bamboo	1927	389	121876	bamboo (n df.)
+64	the bamboo	1927	389	122208	bamboo (n df.)
+64	the bamboo	1927	389	122387	bamboo (n)
+64	the bamboo	1927	389	122634	bamboo (n df.)
+64	the bamboo	1927	389	122813	bamboo (n df.)
+#>>>
+65	the barley (tibetan or highland)	932	411		???
+66	the belly	1251	96	121833	stomach (n)
+#<<<
+67	the bird	937	326	122119	bird or flying insect ? (n df.)
+67	the bird	937	326	121864	bird (n df.)
+67	the bird	937	326	121912	bird (n df.)
+67	the bird	937	326	122002	bird (n df.)
+67	the bird	937	326	122049	bird (n)
+67	the bird	937	326	122763	a bird (n df.)
+#>>>
+68	the blood	946	129	122903	blood (n)
+#<<<
+69	the body hair (hair or fur)	189	266	122849	body hair, down (n)
+69	the body hair (hair or fur)	189	266	122416	undo (e.g. a knot, the hair) (vt)
+69	the body hair (hair or fur)	189	266	122086	hair (of the head) (n)
+69	the body hair (hair or fur)	189	266	122621	wash (the head or hair) (vt)
+#>>>
+70	the bone	1394	133	122690	bone (n)
+71	the branch	1531	374		???
+72	the breast (female)	1402	94		???
+73	the child (young human)	1304	169		???
+74	the cloud	1489	7	121840	cloud (n)
+#<<<
+75	the daughter	1357	222	122194	daughter (n)
+75	the daughter	1357	222	122593	eldest female of a sib, eldest sister or daughter (n)
+#>>>
+76	the dew	1977	15		???
+77	the dog	2009	289	121929	dog (n)
+78	the dream	2374	699	122035	dream (n)
+#<<<
+79	the dust	2	45	122012	dust (n)
+79	the dust	2	45	122457	dust, sweepings (n)
+#>>>
+#<<<
+80	the ear	1247	81	122779	noise, disturbance (n)
+80	the ear	1247	81	122344	ear (n)
+80	the ear	1247	81	122803	ear (n)
+#>>>
+#<<<
+81	the earth (soil)	1228	40	122174	jump down, land, alight (v)
+81	the earth (soil)	1228	40	121889	earth, soil (n)
+81	the earth (soil)	1228	40	121772	fields, land (n)
+81	the earth (soil)	1228	40	121887	the earth (n)
+#>>>
+82	the earthworm	2350	363	121743	earthworm (n)
+83	the egg	744	450	122549	egg (n)
+84	the eye	1248	79	122568	eye (n)
+#<<<
+85	the father	1217	218	122384	father (n)
+85	the father	1217	218	122398	father, male (n)
+#>>>
+#<<<
+86	the feather	1201	299	122465	feather (n)
+86	the feather	1201	299	122086	hair (of the head) (n)
+86	the feather	1201	299	122621	wash (the head or hair) (vt)
+#>>>
+#<<<
+87	the fire	221	18	122484	heat (n)
+87	the fire	221	18	122565	fire (n)
+#>>>
+88	the fish	227	351	122026	fish (n)
+89	the flea	232	355		???
+90	the flower	239	377	122451	flower (n)
+91	the fog	249	16		???
+92	the foot	1301	103	121917	foot (n)
+93	the forest	420	50	122796	forest (n)
+94	the fox	1312	325		???
+95	the frog	503	349	121866	frog (n)
+96	the front (front side)	2194	712	122032	front (khim a-ŋanla 'in front of the house') (n)
+97	the frost	2034	14	122459	frost (n)
+#<<<
+98	the fruit	1507	378	122510	fruit, Phyllanthus emblica (n df.)
+98	the fruit	1507	378	122772	break (e.g. rope, thread), pick (flower or fruit) (vt)
+98	the fruit	1507	378	122359	fruit (n df.)
+98	the fruit	1507	378	122601	fruit (n df.)
+98	the fruit	1507	378	122756	fruit (n)
+98	the fruit	1507	378	122463	fruit, Nep. kāphal (n df.)
+#>>>
+99	the goat	1502	276	122815	goat (n)
+100	the grass	606	436		???
+#<<<
+101	the hail	609	13	122512	call, hail (vt)
+101	the hail	609	13	122605	hail (n)
+#>>>
+#<<<
+102	the hair (of the head)	1040	75	122416	undo (e.g. a knot, the hair) (vt)
+102	the hair (of the head)	1040	75	122086	hair (of the head) (n)
+102	the hair (of the head)	1040	75	122621	wash (the head or hair) (vt)
+#>>>
+103	the hand	1277	107	121985	hand (n)
+#<<<
+104	the head	1256	74	122356	head (n)
+104	the head	1256	74	122036	head, top, upper (e.g. of a valley, storey) (n)
+#>>>
+#<<<
+105	the heart	1223	144	122250	heart, feelings (n)
+105	the heart	1223	144	122251	heart (n)
+#>>>
+106	the hoof	152	264	121951	hoof (n)
+107	the horn (keratinized skin)	1393	263	121997	horn (n)
+108	the horse	615	268		???
+109	the house	1252	494	121875	house (n)
+#<<<
+110	the husband	1200	247	122351	with (pp)
+110	the husband	1200	247	121759	husband (n)
+#>>>
+111	the ice	617	17		???
+#<<<
+112	the knee	1371	101	122395	knee (n)
+112	the knee	1371	101	121838	bend (vt)
+#>>>
+113	the lake	624	31		???
+114	the leaf	628	376	122817	leaf (n)
+115	the lip (the lips)	478	85		???
+116	the liver	1224	145	122256	liver (n)
+117	the louse	1392	356	122636	louse (n)
+118	the lung	688	143	122825	lung (n)
+#<<<
+119	the man (male human)	2106	173	122623	man (n)
+119	the man (male human)	2106	173	121751	man, male (n)
+119	the man (male human)	2106	173	122398	father, male (n)
+#>>>
+120	the meat	634	443		???
+121	the moon	1313	4		???
+122	the mosquito	1509	360	122854	biting fly, mosquito (n df.)
+#<<<
+123	the mother	1216	219	122589	mother (n)
+123	the mother	1216	219	122607	female, mother (n)
+#>>>
+124	the mountain	639	23		???
+125	the mouse or rat	2139	320	121740	mouse (n)
+126	the mouth	674	84	122822	mouth (n)
+127	the mud	640	46		???
+#<<<
+128	the nail (fingernail or claw)	2128	113	122516	claw, scratch (vt)
+128	the nail (fingernail or claw)	2128	113	121952	nail, claw (n)
+#>>>
+129	the name	1405	687	122308	name (n)
+#<<<
+130	the neck	1333	89	122710	neck (n)
+130	the neck	1333	89	122844	neck (n)
+#>>>
+131	the needle (for sewing)	1382	578	122749	needle (n)
+132	the nit	267	357		???
+133	the nose	1221	80	122343	nose (n)
+134	the otter	15	317		???
+135	the pig	1337	284	122393	pig (n)
+136	the rain	658	10	122649	rain (n)
+137	the rainbow	1733	11	122053	rainbow (n)
+138	the rice plant	2026	439		???
+139	the river	666	30	121984	river (n)
+140	the road	667	38	122720	road (n)
+141	the root	670	375	122776	root (n)
+142	the rope	1218	619	121992	rope (n)
+143	the salt	1274	61	121737	salt (n)
+144	the sand	671	44		???
+145	the sea	1474	32		???
+#<<<
+146	the seed	714	405	121755	seed (n)
+146	the seed	714	405	122549	egg (n)
+#>>>
+147	the sheep	1331	275	121896	sheep (n)
+#<<<
+148	the shit	676	151	121927	excrement (n)
+148	the shit	676	151	121773	defecate (v)
+#>>>
+#<<<
+149	the shoulder	1482	90	122205	shoulder (n)
+149	the shoulder	1482	90	122051	back (n)
+#>>>
+150	the sickle	341	624	121986	sickle (n)
+#<<<
+151	the skin	763	120	121825	skin, bark (n)
+151	the skin	763	120	121940	hide (vt)
+151	the skin	763	120	121941	hide (oneself) (vr)
+151	the skin	763	120	121712	peel (with the hands), shell, skin (vt)
+#>>>
+152	the sky	1732	1	122414	thunder, lightning strike (n)
+153	the smoke	778	19	121850	smoke (n)
+154	the snake	730	347	122508	snake or worm ?? (n)
+155	the snow	784	12	122456	snow (n)
+156	the son	1620	220	122188	son (n)
+157	the sparrow	1854	336		???
+158	the spider	843	361	122548	spider (n)
+159	the star	1430	5	122836	star (n)
+#<<<
+160	the stick	1295	586	121823	stick (n)
+160	the stick	1295	586	121921	stick, stick together, (v)
+160	the stick	1295	586	122755	wood (n)
+160	the stick	1295	586	122070	rot (of stone or wood) (v)
+160	the stick	1295	586	122560	stick (sth. on sth.), patch (vt)
+#>>>
+161	the stone (a piece of)	857	379	122741	stone (n)
+162	the sun	1343	2		???
+163	the tail	1220	267	122579	tail (n)
+164	the thigh	800	100		???
+165	the thunder	1150	8	122414	thunder, lightning strike (n)
+166	the tiger	846	304	122581	tiger (n)
+167	the tongue	1205	139	122711	tongue (n)
+168	the tooth (front)	1380	137	121938	tooth (n)
+#<<<
+169	the tree	906	372	122065	tree, Eurya acuminata (n df.)
+169	the tree	906	372	122172	tree, Bokehmeria rugulosa (n df.)
+169	the tree	906	372	121918	tree (n df.)
+169	the tree	906	372	122264	tree (n)
+169	the tree	906	372	122295	tree (n)
+169	the tree	906	372	122364	tree (n df.)
+169	the tree	906	372	122569	tree (n df.)
+169	the tree	906	372	122816	tree (n df.)
+169	the tree	906	372	122390	tree, Bauhinia purpurea (n df.)
+169	the tree	906	372	122809	tree, Lyonia ovalifolia (n df.)
+169	the tree	906	372	122584	tree, Callicarpa arborea (n df.)
+169	the tree	906	372	122592	tree, Bœhmeria platyphylla (n df.)
+169	the tree	906	372	122865	tree, Nep. paḍ, bark (?) used to make tumplines (n df.)
+169	the tree	906	372	122107	tree, Engelhardtia spicata (n df.)
+169	the tree	906	372	122114	tree, Schima wallichii (n df.)
+169	the tree	906	372	122137	tree, Nep. sahaj (n df.)
+169	the tree	906	372	122808	tree, Shorea robusta (n df.)
+169	the tree	906	372	122724	tree, Alstonia sp. (n df.)
+169	the tree	906	372	122814	tree, Nep. Harrā (n df.)
+169	the tree	906	372	122105	tree, Nep. kābro (n df.)
+169	the tree	906	372	122523	tree (?= broŋk Berchemia floribunda) (n df.)
+169	the tree	906	372	122140	tree, Bauhinia variegata (n)
+169	the tree	906	372	122562	tree, Nep mowa (n df.)
+#>>>
+#<<<
+170	the water	948	47	121797	water (baby talk) (n)
+170	the water	948	47	122559	water (n)
+#>>>
+171	the wheat	1077	410	122112	wheat (n)
+172	the wife	1199	248	122566	wife (n)
+173	the wind	960	9	122156	wind (n)
+174	the wing	1257	298		???
+175	the wolf	522	324		???
+176	the woman	962	174	122571	woman (n)
+#<<<
+177	the wood (material)	1803	511	122755	wood (n)
+177	the wood (material)	1803	511	122070	rot (of stone or wood) (v)
+#>>>
+178	the year	1226	777	122241	year (bound m)
+#<<<
+179	there	1937	950	121834	on the other side, there (adv)
+179	there	1937	950	122889	there, over there (adv)
+#>>>
+180	thick	1244	980	122192	thick (v)
+181	thin (object)	2307	981		???
+#<<<
+182	this	1214	942	121687	this, he, she (demon)
+182	this	1214	942	121688	these (demon)
+#>>>
+#<<<
+183	thou [second person singular]	1215	931	121970	you (sg.) (pron)
+183	thou [second person singular]	1215	931	121973	you (pl.) (pron)
+183	thou [second person singular]	1215	931	121828	you (pron)
+183	thou [second person singular]	1215	931	121972	you (du.); we (di) (pron)
+#>>>
+184	three	492	799	122799	three (num)
+#<<<
+185	to be alive	1422	1087	122528	live (v)
+185	to be alive	1422	1087	122769	alive (with pronoun prefix) (adj)
+185	to be alive	1422	1087	122373	demolish, to (vt)
+185	to be alive	1422	1087	122715	to, towards (pp)
+#>>>
+#<<<
+186	to bite	1403	1753	121862	bite (v)
+186	to bite	1403	1753	122373	demolish, to (vt)
+186	to bite	1403	1753	122715	to, towards (pp)
+#>>>
+#<<<
+187	to blow (of wind)	175	1738	122616	blow (vt)
+187	to blow (of wind)	175	1738	121873	blow (of wind) (v)
+#>>>
+#<<<
+188	to burn [intransitive]	1428	1269	121777	burn (of food) (vi)
+188	to burn [intransitive]	1428	1269	122289	burn (v)
+188	to burn [intransitive]	1428	1269	122901	burn (vi)
+#>>>
+189	to buy	1869	1516	122147	buy (vt)
+190	to chew	321	1424	122339	chew (vt)
+#<<<
+191	to come	1446	1491	122662	come, ? come back (vi)
+191	to come	1446	1491	122355	come (on the same level) (vi)
+191	to come	1446	1491	122009	exit, come or go out, cross a river (vi)
+191	to come	1446	1491	122171	arrive (vi)
+191	to come	1446	1491	122373	demolish, to (vt)
+191	to come	1446	1491	122715	to, towards (pp)
+#>>>
+192	to count	1420	1640	122861	count (vt)
+193	to cry (weep)	1420	1485	122861	count (vt)
+#<<<
+194	to die	1494	1651	122475	die (v)
+194	to die	1494	1651	122870	die (v)
+194	to die	1494	1651	122789	kill (vt)
+194	to die	1494	1651	122373	demolish, to (vt)
+194	to die	1494	1651	122715	to, towards (pp)
+#>>>
+195	to dig	1418	1698	122454	dig (? what) (v)
+#<<<
+196	to drink	1401	1370	121797	water (baby talk) (n)
+196	to drink	1401	1370	122559	water (n)
+196	to drink	1401	1370	122373	demolish, to (vt)
+196	to drink	1401	1370	122715	to, towards (pp)
+#>>>
+#<<<
+197	to eat	1336	1198	122145	eat (vi)
+197	to eat	1336	1198	122546	eat (except for cooked grain or soup) (vt)
+197	to eat	1336	1198	121891	eat (curries, not grain) (vt)
+197	to eat	1336	1198	122373	demolish, to (vt)
+197	to eat	1336	1198	122715	to, towards (pp)
+197	to eat	1336	1198	122895	eat (soup, etc.) (vt)
+#>>>
+198	to fight	1423	1234	122608	fight (v)
+199	to float	1574	1553		???
+200	to flow	2003	1502		???
+#<<<
+201	to fly (move through air)	1441	1318	122479	fly (v)
+201	to fly (move through air)	1441	1318	122842	fly (n df.)
+201	to fly (move through air)	1441	1318	122373	demolish, to (vt)
+201	to fly (move through air)	1441	1318	122715	to, towards (pp)
+#>>>
+202	to forget	1523	1704	122424	forget (vt)
+#<<<
+203	to give	1447	1345	121776	birth, give (vt)
+203	to give	1447	1345	121943	give, permit (vt)
+203	to give	1447	1345	122373	demolish, to (vt)
+203	to give	1447	1345	122715	to, towards (pp)
+#>>>
+#<<<
+204	to hear	1408	1682	122373	demolish, to (vt)
+204	to hear	1408	1682	122715	to, towards (pp)
+#>>>
+#<<<
+205	to hide (conceal)	602	1169	121940	hide (vt)
+205	to hide (conceal)	602	1169	122373	demolish, to (vt)
+205	to hide (conceal)	602	1169	122715	to, towards (pp)
+205	to hide (conceal)	602	1169	121941	hide (oneself) (vr)
+#>>>
+206	to hold	1448	1709	122169	catch, hold (vt)
+#<<<
+207	to hunt	1435	1230	121916	drive (cattle) (vt)
+207	to hunt	1435	1230	122124	chase (vt)
+#>>>
+208	to kill	1417	1602	122789	kill (vt)
+209	to knead	274	1594	122345	knead, trample mud or (vt)
+#<<<
+210	to know (something)	1410	1398	122373	demolish, to (vt)
+210	to know (something)	1410	1398	122715	to, towards (pp)
+210	to know (something)	1410	1398	122154	know (v)
+210	to know (something)	1410	1398	122217	know (vt)
+210	to know (something)	1410	1398	122777	know, recognize (vt)
+#>>>
+#<<<
+211	to laugh	1355	1735	122373	demolish, to (vt)
+211	to laugh	1355	1735	122715	to, towards (pp)
+211	to laugh	1355	1735	122645	laugh (vr)
+#>>>
+212	to learn	504	1742	122067	learn (vr)
+#<<<
+213	to lick	319	1674	122373	demolish, to (vt)
+213	to lick	319	1674	122715	to, towards (pp)
+213	to lick	319	1674	122214	lick (v)
+#>>>
+#<<<
+214	to lie down	215	1661	122101	lie, tell lies (v)
+214	to lie down	215	1661	122702	lie (falsehood) (n)
+214	to lie down	215	1661	122004	lie down, recline (vi)
+214	to lie down	215	1661	122883	lie, cheat (v)
+#>>>
+215	to marry (a man marries a woman)	2164	1578		???
+#<<<
+216	to plant (vegetals, rice)	1486	1774	121709	plant, Colebrookia oppositifolia (n df.)
+216	to plant (vegetals, rice)	1486	1774	122678	plant (Comppositae) (n df.)
+216	to plant (vegetals, rice)	1486	1774	122485	grow (vi)
+216	to plant (vegetals, rice)	1486	1774	122746	plant, Melastoma normale (n df.)
+216	to plant (vegetals, rice)	1486	1774	121836	plant, Macaranga pustulata (n df.)
+216	to plant (vegetals, rice)	1486	1774	122587	plant, Viburnum stellulatum (n df.)
+216	to plant (vegetals, rice)	1486	1774	122094	plant, Bep. ameli (n df.)
+216	to plant (vegetals, rice)	1486	1774	122648	plant, Nep. bilāune (n df.)
+216	to plant (vegetals, rice)	1486	1774	121750	plant, Alstonia sp. (n df.)
+216	to plant (vegetals, rice)	1486	1774	122233	plant, Saurauja nepalensis (n df.)
+216	to plant (vegetals, rice)	1486	1774	121787	plant: burr (n df.)
+216	to plant (vegetals, rice)	1486	1774	122039	plant, Hedychium sp. (n df.)
+216	to plant (vegetals, rice)	1486	1774	121926	plant or drive a stake (vt)
+216	to plant (vegetals, rice)	1486	1774	122138	plant, Leucosceptrum canum (n df.)
+216	to plant (vegetals, rice)	1486	1774	122521	plant, Berchemia floribunda (n df.)
+216	to plant (vegetals, rice)	1486	1774	122409	plant , stalk (n)
+216	to plant (vegetals, rice)	1486	1774	121758	plant (n df.)
+216	to plant (vegetals, rice)	1486	1774	121768	plant (n df.)
+216	to plant (vegetals, rice)	1486	1774	121774	plant (n df.)
+216	to plant (vegetals, rice)	1486	1774	121779	plant (n df.)
+216	to plant (vegetals, rice)	1486	1774	121789	plant (n df.)
+216	to plant (vegetals, rice)	1486	1774	121881	plant (n df.)
+216	to plant (vegetals, rice)	1486	1774	121904	plant (n df.)
+216	to plant (vegetals, rice)	1486	1774	122037	plant (n df.)
+216	to plant (vegetals, rice)	1486	1774	122058	plant (n df.)
+216	to plant (vegetals, rice)	1486	1774	122183	plant (vt)
+216	to plant (vegetals, rice)	1486	1774	122257	plant (n df.)
+216	to plant (vegetals, rice)	1486	1774	122407	plant (n df.)
+216	to plant (vegetals, rice)	1486	1774	122501	plant (n df.)
+216	to plant (vegetals, rice)	1486	1774	122517	plant (n df.)
+216	to plant (vegetals, rice)	1486	1774	122535	plant (n df.)
+216	to plant (vegetals, rice)	1486	1774	122596	plant (n df.)
+216	to plant (vegetals, rice)	1486	1774	122661	plant (n df.)
+216	to plant (vegetals, rice)	1486	1774	122709	plant (n df.)
+216	to plant (vegetals, rice)	1486	1774	122761	plant (n df.)
+216	to plant (vegetals, rice)	1486	1774	122835	plant, Nep. bhimsenpātī, Wendlandia puberula (n df.)
+216	to plant (vegetals, rice)	1486	1774	122056	plant, Callicarpa arborea (n df.)
+216	to plant (vegetals, rice)	1486	1774	122673	plant, Anaphalis sp. (n df.)
+216	to plant (vegetals, rice)	1486	1774	122837	plant; the leaves are used to make black dye, Hypericum uralum (n df.)
+216	to plant (vegetals, rice)	1486	1774	121813	plant, Jatropha curcas (n df.)
+#>>>
+#<<<
+217	to play	1413	1703	122088	play (vr)
+217	to play	1413	1703	122450	play (cymbals) (vt)
+#>>>
+218	to pull	1455	1568	122827	pull, drag (esp. by the nape) (v)
+#<<<
+219	to push	1452	1689	122324	push (v)
+219	to push	1452	1689	122373	demolish, to (vt)
+219	to push	1452	1689	122715	to, towards (pp)
+#>>>
+220	to reside (live)	1099	1452		???
+221	to run	1519	1544	121707	run (v)
+#<<<
+222	to scratch	1436	1530	122516	claw, scratch (vt)
+222	to scratch	1436	1530	122864	scrape, whittle, peel off strips of bamboo (vt)
+222	to scratch	1436	1530	122551	scratch (vt)
+222	to scratch	1436	1530	122552	scratch (oneself) (vr)
+222	to scratch	1436	1530	121902	scrape, shave, shear, cultivate (vt)
+#>>>
+#<<<
+223	to see	1409	1471	122373	demolish, to (vt)
+223	to see	1409	1471	122715	to, towards (pp)
+#>>>
+#<<<
+224	to shoot (an arrow)	1172	1611	122436	shoot (vt)
+224	to shoot (an arrow)	1172	1611	122701	sprout (n)
+224	to shoot (an arrow)	1172	1611	121698	shoot, throw a projectile (vt)
+#>>>
+225	to sing	1261	1184		???
+#<<<
+226	to sleep	1585	1646	121682	sleep (v)
+226	to sleep	1585	1646	122373	demolish, to (vt)
+226	to sleep	1585	1646	122715	to, towards (pp)
+226	to sleep	1585	1646	122004	lie down, recline (vi)
+#>>>
+#<<<
+227	to smell (perceive odor) [transitive]	1586	1707	122373	demolish, to (vt)
+227	to smell (perceive odor) [transitive]	1586	1707	122715	to, towards (pp)
+#>>>
+228	to sow (broadcast, scatter seeds)	748	1597	121755	seed (n)
+#<<<
+229	to spit	1440	1688	121930	spit, saliva (n)
+229	to spit	1440	1688	122206	saliva, spit (n)
+229	to spit	1440	1688	122178	spit, empty the mouth of spit (v)
+229	to spit	1440	1688	122373	demolish, to (vt)
+229	to spit	1440	1688	122715	to, towards (pp)
+#>>>
+#<<<
+230	to stand	1442	1784	122664	stand (vr)
+230	to stand	1442	1784	122665	stand (vr)
+230	to stand	1442	1784	122373	demolish, to (vt)
+230	to stand	1442	1784	122715	to, towards (pp)
+#>>>
+231	to steal	713	1686	121845	steal (v)
+#<<<
+232	to think (reflect)	1415	1726	122373	demolish, to (vt)
+232	to think (reflect)	1415	1726	122715	to, towards (pp)
+#>>>
+233	to throw	1456	1687	122466	throw (esp. stones at so.) (vt)
+#<<<
+234	to vomit	1278	1535	122573	vomit (v)
+234	to vomit	1278	1535	122574	vomit (n)
+#>>>
+#<<<
+235	to walk	1443	1815	122373	demolish, to (vt)
+235	to walk	1443	1815	122715	to, towards (pp)
+235	to walk	1443	1815	121967	walk (vi)
+235	to walk	1443	1815	122254	go (vi)
+#>>>
+236	to wipe	1454	1163	122429	sweep, wipe (vt)
+237	today	1283	738	121694	today (adv)
+238	tomorrow	1329	742	122260	tomorrow (adv)
+239	twenty	1710	816		???
+240	two	1498	798	122307	two (num)
+#<<<
+241	we [first person plural inclusive]	1131	930	121971	we (pi) (pron)
+241	we [first person plural inclusive]	1131	930	121979	we (pi)
+241	we [first person plural inclusive]	1131	930	121977	we (di) (pron)
+241	we [first person plural inclusive]	1131	930	121976	we (de) (pron)
+241	we [first person plural inclusive]	1131	930	121972	you (du.); we (di) (pron)
+241	we [first person plural inclusive]	1131	930	121978	we (pe) (pron)
+#>>>
+#<<<
+242	wet	1726	1029	122611	get wet, soaked (v)
+242	wet	1726	1029	122166	get wet (vr)
+#>>>
+243	what	1236	954	122590	what? (interr)
+#<<<
+244	where	1237	955	122164	put, place (v)
+244	where	1237	955	121956	where, which side (interr)
+244	where	1237	955	121958	where? (interr)
+#>>>
+245	white	1335	1006	122497	white (adj)
+246	who	1235	953	122850	who? (interr)
+#<<<
+247	yellow	1424	1008	121706	yellow (n)
+247	yellow	1424	1008	121708	yellow (of plants) (v)
+#>>>
+248	yesterday	1174	739	122788	yesterday (adv)
+#<<<
+249	you [second person plural]	1213	933	121970	you (sg.) (pron)
+249	you [second person plural]	1213	933	121973	you (pl.) (pron)
+249	you [second person plural]	1213	933	121828	you (pron)
+249	you [second person plural]	1213	933	121972	you (du.); we (di) (pron)
+#>>>
+250	young	1207	1059		???

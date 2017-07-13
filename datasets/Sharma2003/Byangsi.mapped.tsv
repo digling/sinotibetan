@@ -1,0 +1,257 @@
+NUMBER	ENGLISH	CONCEPTICON_ID	TBL_ID	SRCID	SRCGLOSS
+29	I [first person singular]	1209	928	541874	1sg, I, me (pro.)
+1	above	1741	731	542635	above (adv.)
+2	all	98	962	541979	all (adv.)
+3	bad	1292	1053	542623	bad (adj.)
+4	below, under	1485	732	542651	below, down (adv.)
+5	big	1202	964	542222	big (adj.)
+6	black	163	1005	542607	black (adj.)
+7	cold (of temperature)	1287	1063	541948	cold (adj.)
+8	correct (right)	1725	1045		
+9	dark	706	1013		
+10	dirty	1230	1086	541952	dirty (adj.)
+11	dry	1398	1028	542265	dry (from the state of being wet) (adj.)
+12	early	672	1018		
+13	eight	1705	804	541872	eight (num.)
+14	far	1406	974	542613	longer path, far away (adv.)
+15	firewood	10	534		
+16	five	493	801	542159	five (num.)
+17	four	1500	800	542220	four (num.)
+18	full	1429	984	542569	full (adj.)
+19	good	1035	1052	541728	beautiful (adj.)
+20	green	1425	1009	542466	green (literally green grass) (adj.)
+21	hard	1884	1034	541904	hard (adj.)
+22	he or she [third person singular]	262	934		542615
+23	heavy	1210	1014	542039	heavy (adj.)
+24	here	136	944	541531	here (adv.)
+24	here	136	944	541520	here (adv.)
+25	high / tall	1265	968	542504	height, high (adj.)
+26	horizontal	2376	1001		
+27	hot	1286	1062	542020	hot, heat (adj.)
+28	hundred	1634	824	542353	hundred (num.)
+28	hundred	1634	824	542284	hundred (num.)
+30	inside	1606	715	541615	inside (adv.)
+31	knife	1352	549		
+32	late	477	1019	542653	late (adv.)
+33	left	244	710	542431	
+34	light (of weight)	1052	1052	542141	light (in weight) (adj.)
+35	long	1203	972	541584	tall, long (adj.)
+36	many	1198	987	542061	many (adv.)
+37	middle	1093	708	541801	
+38	morning	1339	749	541563	morning (adv.)
+39	narrow	1267	977	541877	narrow (adj.)
+40	near	1942	975	542142	near (adv.)
+41	new	1231	1050	542137	new (adj.)
+42	nine	1483	805	541792	nine (num.)
+43	noon	12	750	542180	noon (adv.)
+44	old (of person)	2112	1058	542390	old (person) (adj.)
+45	one	1493	797	542461	one (num.)
+46	outside	762	714	542200	outside (adv.)
+47	red	156	1007	542048	red (adj.)
+48	right	1019	711	542441	
+49	round	1395	990		
+50	salty	1091	1076	541738	
+51	seven	1704	803	542132	seven (num.)
+52	sharp	1396	1020	542568	sharp (instrument) (adj.)
+53	short	1645	973	542546	short (adj.)
+54	shy	487	1365	542323	
+55	six	1703	802	542540	six (num.)
+56	small	1246	965	542064	small (adj.)
+57	smooth	1234	1037	541737	smooth (adj.)
+58	soft	1856	1035	542106	soft (adj.)
+59	straight	1404	1003	542027	straight (adj.)
+60	ten	1515	806	541624	ten (num.)
+61	that	78	947	541541	
+62	the ant	587	365	542136	ant (n.)
+63	the armpit	1886	92	541631	armpit (n.)
+64	the bamboo	1927	389	542642	bamboo (n.)
+65	the barley (tibetan or highland)	932	411		
+66	the belly	1251	96	541695	belly (n.)
+67	the bird	937	326	541618	bird (n.)
+68	the blood	946	129	542398	blood (n.)
+69	the body hair (hair or fur)	189	266	541892	
+70	the bone	1394	133	542300	bone (n.)
+71	the branch	1531	374	541720	
+72	the breast (female)	1402	94	542402	breast (n.)
+73	the child (young human)	1304	169	542394	child (n.)
+74	the cloud	1489	7	541910	cloud (n.)
+75	the daughter	1357	222	542565	girl, daughter (n.)
+76	the dew	1977	15	542400	
+77	the dog	2009	289	542176	dog (n.)
+78	the dream	2374	699	542052	dream (n.)
+79	the dust	2	45	542359	dust (n.)
+80	the ear	1247	81	542324	ear (n.)
+81	the earth (soil)	1228	40	542346	soil (n.)
+82	the earthworm	2350	363		
+83	the egg	744	450	542436	egg (n.)
+84	the eye	1248	79	542091	eye (n.)
+85	the father	1217	218	541568	father (term of reference) (n.)
+86	the feather	1201	299	542295	feather (n.)
+87	the fire	221	18	542066	fire (n.)
+88	the fish	227	351	542182	fish (n.)
+89	the flea	232	355	542095	flea (n.)
+90	the flower	239	377	541613	flower (n.)
+91	the fog	249	16	541823	fog (n.)
+92	the foot	1301	103	542006	foot (n.)
+93	the forest	420	50	542365	forest (n.)
+94	the fox	1312	325	541786	fox (n.)
+95	the frog	503	349	542196	frog (n.)
+96	the front (front side)	2194	712	542329	in front, before (adv.)
+97	the frost	2034	14	542100	frost (n.)
+98	the fruit	1507	378	542004	fruit (n.)
+99	the goat	1502	276	542043	sheep or goat (generic term) (n.)
+100	the grass	606	436	542571	grass (n.)
+101	the hail	609	13	542360	
+102	the hair (of the head)	1040	75	542242	
+103	the hand	1277	107	541975	hand (n.)
+104	the head	1256	74	542241	head (n.)
+105	the heart	1223	144	542416	heart (n.)
+106	the hoof	152	264		
+107	the horn (keratinized skin)	1393	263	542319	corner (inside the house); horn (n.)
+108	the horse	615	268	542327	horse (n.)
+108	the horse	615	268	542263	horse (n.)
+109	the house	1252	494		
+110	the husband	1200	247	542340	husband (n.)
+111	the ice	617	17	542463	ice (n.)
+112	the knee	1371	101	542237	knee (n.)
+113	the lake	624	31	541677	lake (n.)
+114	the leaf	628	376	542193	leaf (n.)
+115	the lip (the lips)	478	85	541527	lips (n.)
+116	the liver	1224	145	541671	liver (n.)
+117	the louse	1392	356	542074	louse (n.)
+118	the lung	688	143	542019	lungs (n.)
+119	the man (male human)	2106	173		
+120	the meat	634	443	542425	
+121	the moon	1313	4	542037	
+122	the mosquito	1509	360		
+123	the mother	1216	219	542174	mother (n.)
+124	the mountain	639	23	542647	mountain,  a type of flour (n.)
+125	the mouse or rat	2139	320	541706	rat (n.)
+125	the mouse or rat	2139	320	542131	mouse (n.)
+126	the mouth	674	84	541548	mouth (n.)
+127	the mud	640	46	541890	mud (n.)
+128	the nail (fingernail or claw)	2128	113	541983	nail (n.)
+129	the name	1405	687	542098	name (adj.)
+130	the neck	1333	89	541920	back of skull, neck (n.)
+131	the needle (for sewing)	1382	578		
+132	the nit	267	357		
+133	the nose	1221	80	542156	nose (n.)
+134	the otter	15	317		
+135	the pig	1337	284		
+136	the rain	658	10		
+137	the rainbow	1733	11		
+138	the rice plant	2026	439	542257	
+139	the river	666	30	542631	river (n.)
+140	the road	667	38		
+141	the root	670	375	541865	root (n.)
+142	the rope	1218	619	541863	rope (n.)
+143	the salt	1274	61	542577	salt (n.)
+144	the sand	671	44	541554	sand (n.)
+145	the sea	1474	32	542356	sea (n)
+146	the seed	714	405	542213	seed (n.)
+147	the sheep	1331	275	542044	sheep (n.)
+148	the shit	676	151		
+149	the shoulder	1482	90	542309	shoulder (n.)
+150	the sickle	341	624	541526	sickle (n.)
+151	the skin	763	120	541571	skin (n.)
+152	the sky	1732	1	542464	sky; blue (n.)
+153	the smoke	778	19	541969	smoke (n.)
+154	the snake	730	347	541939	snake (n.)
+155	the snow	784	12	542343	snow (n.)
+156	the son	1620	220	542411	boy, son (n.)
+157	the sparrow	1854	336		
+158	the spider	843	361		
+159	the star	1430	5	541907	star (n.)
+160	the stick	1295	586	541702	stick (n.)
+161	the stone (a piece of)	857	379	542595	stone (n.)
+162	the sun	1343	2	542181	sun (n.)
+163	the tail	1220	267	542239	tail (n.)
+164	the thigh	800	100	541984	thigh (n.)
+165	the thunder	1150	8	542089	
+166	the tiger	846	304	542599	tiger (n.)
+167	the tongue	1205	139	541857	tongue (n.)
+168	the tooth (front)	1380	137	542370	tooth (n.)
+169	the tree	906	372		
+170	the water	948	47	542459	water (n.)
+171	the wheat	1077	410	542288	wheat (n.)
+172	the wife	1199	248	542339	wife (n.)
+173	the wind	960	9	542123	wind (n.)
+174	the wing	1257	298		
+175	the wolf	522	324		
+176	the woman	962	174		
+177	the wood (material)	1803	511	542409	wood (n.)
+178	the year	1226	777	542497	
+179	there	1937	950	541536	there (adv.)
+179	there	1937	950	541534	there (adv.)
+180	thick	1244	980	542270	thick (liquid) (adj.)
+181	thin (object)	2307	981	541985	
+182	this	1214	942	541521	these (used for human beings) (adv.)
+183	thou [second person singular]	1215	931	541771	
+184	three	492	799	542381	three (num.)
+185	to be alive	1422	1087	542529	alive (adj.)
+186	to bite	1403	1753	541607	pinch, bite (vt.)
+187	to blow (of wind)	175	1738		
+188	to burn [intransitive]	1428	1269	541622	burn, ignite (vt.)
+189	to buy	1869	1516	542479	stop; understand; buy (vt.)
+190	to chew	321	1424	542194	chew (something which is something hard) (vt.)
+191	to come	1446	1491	542280	come (vi.)
+192	to count	1420	1640	541840	count (vt.)
+193	to cry (weep)	1420	1485	541840	count (vt.)
+194	to die	1494	1651	541825	die, be extinguished (vi.)
+195	to dig	1418	1698	541929	dig, scratch (vt.)
+196	to drink	1401	1370	542487	drink (vt.)
+197	to eat	1336	1198	541736	eat (vt.)
+198	to fight	1423	1234	541689	fight (vi.)
+199	to float	1574	1553	541841	float (vi.)
+200	to flow	2003	1502	541578	flow, be opened (vi.)
+201	to fly (move through air)	1441	1318	542252	fly (vi.)
+202	to forget	1523	1704	542015	forget (vi.)
+203	to give	1447	1345	541688	give (vt.)
+204	to hear	1408	1682	542316	hear, agree, accept (vi.)
+205	to hide (conceal)	602	1169	541638	hide (vt.)
+206	to hold	1448	1709		
+207	to hunt	1435	1230		
+208	to kill	1417	1602	542355	kill, extinguish (vt.)
+209	to knead	274	1594	541705	knead (vt.)
+210	to know (something)	1410	1398	541989	lick; know (vt.)
+211	to laugh	1355	1735	541838	laugh (vi.)
+212	to learn	504	1742	542031	learn (vi.)
+213	to lick	319	1674	541989	lick; know (vt.)
+214	to lie down	215	1661		
+215	to marry (a man marries a woman)	2164	1578		
+216	to plant (vegetals, rice)	1486	1774		
+217	to play	1413	1703	541994	play (vi.)
+218	to pull	1455	1568	542135	pull (vt.)
+219	to push	1452	1689	542547	strike a match; push (vt.)
+220	to reside (live)	1099	1452	542126	
+221	to run	1519	1544	541861	run (vi.)
+222	to scratch	1436	1530	541929	dig, scratch (vt.)
+223	to see	1409	1471	542468	see, be found (vi.)
+224	to shoot (an arrow)	1172	1611		
+225	to sing	1261	1184	542476	sing (vt.)
+226	to sleep	1585	1646	542621	sleep (vi.)
+227	to smell (perceive odor) [transitive]	1586	1707	542154	smell (vi.)
+228	to sow (broadcast, scatter seeds)	748	1597	542640	sow (vt.)
+229	to spit	1440	1688	542490	spit (vi.)
+230	to stand	1442	1784	542622	stand (vi.)
+231	to steal	713	1686	541960	steal (vt.)
+232	to think (reflect)	1415	1726	541621	think (vi.)
+233	to throw	1456	1687	541935	throw (stone, etc.) (vt.)
+234	to vomit	1278	1535	542013	vomit (vt.)
+235	to walk	1443	1815	541712	go (vi.)
+235	to walk	1443	1815	542645	walk (vi.)
+236	to wipe	1454	1163	542403	apply something, wipe (vt.)
+237	today	1283	738	542511	today (adv.)
+238	tomorrow	1329	742	541653	tomorrow (adv.)
+239	twenty	1710	816	542120	twenty (num.)
+240	two	1498	798	542116	two (num.)
+241	we [first person plural inclusive]	1131	930	541874	
+242	wet	1726	1029	542509	wet, watery (adj.)
+243	what	1236	954		
+244	where	1237	955	542592	where (adv.)
+245	white	1335	1006	542399	white (adj.)
+246	who	1235	953	542593	who (pro.)
+247	yellow	1424	1008	542025	yellow (adj.)
+248	yesterday	1174	739	542140	yesterday (adv.)
+249	you [second person plural]	1213	933	541768	
+250	young	1207	1059		

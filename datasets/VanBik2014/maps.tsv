@@ -1,0 +1,259 @@
+ID	ENGLISH	SEMANTIC_TAG	TBL_ID	CONCEPTICON_ID	VANBIK_ID	VANBIK_GLOSS	SIMILARITY
+1	above	location, adjective or noun	731	1741	40	above (prep.)	4
+2	all	characterisation, quantity	962	98	335	all (adj.)	4
+3	the ant	animal	365	587	17713	ant (n.)	3
+3	the ant	animal	365	587	466	ant (n.)	3
+4	the armpit	body	92	1886	596	armpit (n.)	3
+5	bad	characterisation, character	1053	1292	795	bad (adj.)	4
+6	the bamboo	plant, food	389	1927	826	bamboo (n.)	3
+7	the barley (tibetan or highland)	plant	411	932	874	barley (n.)	3
+8	to be alive	process	1087	1422	334	alive (adj.)	4
+9	the belly	body	96	1251	1028	belly (n.)	3
+10	below, under	location, adjective or noun	732	1485	1032	below (prep.)	4
+11	big	characterisation, quantity	964	1202	1109	big (adj.)	4
+12	the bird	animal	326	937	1133	bird (n.)	3
+13	to bite	action	1753	1403	1147	bite (v.)	3
+14	black	characterization, color	1005	163	1153	black (adj.)	4
+15	the blood	body	129	946	1212	blood (n.)	3
+16	to blow (of wind)	process	1738	175	1228	blow (v.)	3
+17	the body hair (hair or fur)	body, animal	266	189	5306	fur (n.)	3
+18	the bone	body	133	1394	1281	bone (n.)	3
+18	the bone	body	133	1394	2185	bone (n.)	3
+19	the branch	body, plant	374	1531	1367	branch (n.)	3
+20	the breast (female)	body	94	1402	1388	breast (n.)	3
+21	to burn [intransitive]	process	1269	1428	1537	burn (v.)	3
+22	to buy	action	1516	1869	1565	buy (v.)	3
+23	to chew	action	1424	321	1945	chew (v.)	3
+24	the child (young human)	kinship	169	1304	1953	child (n.)	3
+25	the cloud	nature	7	1489	2120	cloud (n.)	3
+26	cold (of temperature)	characterization, weather	1063	1287	2178	cold (adj.)	4
+27	to come	action	1491	1446	2216	come (v.)	3
+28	correct (right)	characterization, character	1045	1725	2631	correct (adj.)	4
+29	to count	action	1640	1420	2668	count (v.)	3
+30	to cry (weep)	action	1485	1839	2823	cry (v.)	3
+31	dark	characterisation, state	1013	706	2919	dark (adj.)	4
+32	the daughter	kinship	222	1357	2932	daughter (n.)	3
+33	the dew	nature	15	1977	3285	dew (n.)	3
+34	to die	process	1651	1494	3320	die (v.)	3
+35	to dig	action	1698	1418	3335	dig (v.)	3
+36	dirty	characterisation, state	1086	1230	3388	dirty (adj.)	4
+37	the dog	nature	289	2009	3618	dog (n.)	3
+38	the dream	mind	699	2374	3716	dream (n.)	3
+39	to drink	action	1370	1401	3734	drink (v.)	3
+40	dry	characterisation, state	1028	1398	3769	dry (adj.)	4
+42	the ear	body	81	1247	3834	ear (n.)	3
+43	early	time	1018	672	3838	early (adv.)	4
+44	the earth (soil)	nature	40	1228	3850	earth (n.)	3
+45	the earthworm	animal	363	2350	3854	earthworm (n.)	3
+46	to eat	action	1198	1336	3868	eat (v.)	3
+47	the egg	animal, product	450	744	3919	egg (n.)	3
+48	eight	number	804	1705	3926	eight (num.)	4
+49	the eye	body	79	1248	4525	eye (n.)	3
+50	far	characterisation, location	974	1406	4618	far (adv.)	4
+51	the father	kinship	218	1217	4661	father (n.)	3
+52	the feather	animal, product	299	1201	4705	feather (n.)	3
+53	to fight	action	1234	1423	4805	fight (v.)	3
+54	the fire	nature	18	221	4846	fire (n.)	3
+55	firewood	object, utility	534	10	17906	wood (n.)	
+56	the fish	animal	351	227	4869	fish (n.)	3
+57	five	number	801	493	4884	five (num.)	4
+58	the flea	animal	355	232	4927	flea (n.)	3
+59	to float	process	1553	1574	4957	float (v.)	3
+60	to flow	process	1502	2003	4975	flow (v.)	3
+61	the flower	plant	377	239	4977	flower (n.)	3
+62	to fly (move through air)	action	1318	1441	4996	fly (v.)	3
+63	the fog	nature	16	249	5012	fog (n.)	3
+64	the foot	body	103	1301	5041	foot (n.)	3
+65	the forest	nature	50	420	5085	forest (n.)	3
+66	to forget	action	1704	1523	5104	forget (v.)	3
+67	four	number	800	1500	5163	four (num.)	4
+68	the fox	animal	325	1312	5172	fox (n.)	3
+69	the frog	animal	349	503	5249	frog (n.)	3
+70	the front (front side)	location	712	2194	5254	front (n.)	3
+71	the frost	nature	14	2034	5257	frost (n.)	3
+72	the fruit	nature, food	378	1507	5268	fruit (n.)	3
+72	the fruit	nature, food	378	1507	7540	fruit (n.)	3
+73	full	characterisation, state	984	1429	5282	full (adj.)	4
+74	to give	action	1345	1447	5503	give (v.)	3
+75	the goat	animal	276	1502	5585	goat (n.)	3
+76	good	characterisation, character	1052	1035	5614	good (adj.)	4
+77	the grass	nature	436	606	5696	grass (n.)	3
+78	green	characterization, color	1009	1425	5742	green (adj.)	4
+79	the hail	nature	13	609	5903	hail (n.)	3
+80	the hair (of the head)	body	75	1040	5906	hair (n.)	3
+81	the hand	body	107	1277	5945	hand (n.)	3
+81	the hand	body	107	1277	7955	hand (n.)	3
+82	hard	characterisation, form	1034	1884	5988	hard (adj.)	4
+83	he or she [third person singular]	pronoun	934	262	13441	she (pron.)	4
+83	he or she [third person singular]	pronoun	934	262	6063	he (pron.)	4
+84	the head	body	74	1256	6064	head (n.)	3
+85	to hear	action	1682	1408	6085	hear (v.)	3
+86	the heart	body	144	1223	6088	heart (n.)	3
+87	heavy	characterisation, quantity	1014	1210	6104	heavy (adj.)	4
+88	here	location, pronoun	944	136	6162	here (adv.)	4
+89	to hide (conceal)	action	1169	602	6205	hide (v.)	3
+90	high / tall	characterisation, quantity	968	1265	6212	high (adj.)	4
+90	high / tall	characterisation, quantity	968	1265	15439	tall (adj.)	4
+91	to hold	action	1709	1448	6286	hold (v.)	3
+92	the hoof	body	264	152	6346	hoof (n.)	3
+93	horizontal	location	1001	2376	6361	horizontal (adj.)	4
+94	the horn (keratinized skin)	body, animal	263	1393	6363	horn (n.)	3
+95	the horse	animal	268	615	6371	horse (n.)	3
+96	hot	characterisation, temperature	1062	1286	6398	hot (adj.)	4
+97	the house	residence	494	1252	13852	house (n.)	3
+98	hundred	number	824	1634	6481	hundred (num.)	4
+99	to hunt	action	1230	1435	6490	hunt (v.)	3
+100	the husband	kinship	247	1200	6505	husband (n.)	3
+101	I [first person singular]	pronoun	928	1209	6543	I (pron.)	4
+102	the ice	nature	17	617	6546	ice (n.)	3
+103	inside	location	715	1606	7195	inside (adv.)	4
+104	to kill	action	1602	1417	7697	kill (v.)	3
+105	to knead	action	1594	274	7736	knead (v.)	3
+106	the knee	body	101	1371	7737	knee (n.)	3
+107	knife	object, tool	549	1352	7741	knife (n.)	4
+108	to know (something)	action	1798	1410	7751	know (v.)	3
+109	the lake	nature	31	624	7799	lake (n.)	3
+110	late	time	1019	477	7856	late (adj.)	4
+111	to laugh	action	1735	1355	7872	laugh (v.)	3
+112	the leaf	body, animal	376	628	7912	leaf (n.)	3
+113	to learn	action	1742	504	7927	learn (v.)	3
+114	left	characterization, location	710	244	7953	left (adj.)	4
+115	to lick	action	1674	319	8047	lick (v.)	3
+116	to lie down	action	1661	215	8049	lie (v.)	
+117	light (of weight)	characterisation, quantity	1052	1052	8067	light (adj.)	4
+118	the lip (the lips)	body part	85	478	8122	lip (n.)	3
+119	the liver	body	145	1224	8160	liver (n.)	3
+120	long	characterization, quantity	972	1203	8230	long (adj.)	4
+121	the louse	animal	356	1392	8278	louse (n.)	3
+122	the lung	body part	143	688	8333	lung (n.)	3
+123	the man (male human)	human being	173	2106	8444	man (n.)	3
+123	the man (male human)	human being	173	2106	1253	man (n.)	3
+124	many	characterization, quantity	987	1198	8494	many (adj.)	4
+125	to marry (a man marries a woman)	action	1578	2164	8527	marry (v.)	3
+126	the meat	body, animal	443	634	8637	meat (n.)	3
+127	middle	location	708	1093	8765	middle (adj.)	4
+128	the moon	nature, object	4	1313	9041	moon (n.)	3
+129	morning	time	749	1339	9066	morning (n.)	4
+130	the mosquito	animal	360	1509	9087	mosquito (n.)	3
+131	the mother	kinship	219	1216	9092	mother (n.)	3
+132	the mountain	nature, geography	23	639	9111	mountain (n.)	3
+133	the mouse or rat	animal	320	2139	11765	rat (n.)	3
+133	the mouse or rat	animal	320	2139	17494	rat (n.)	3
+134	the mouth	body	84	674	9119	mouth (n.)	3
+135	the mud	nature	46	640	9134	mud (n.)	3
+136	the nail (fingernail or claw)	body	113	2128	2070	claw (n.)	3
+137	the name	human being	687	1405	16081	name (n.)	3
+137	the name	human being	687	1405	9232	name (n.)	3
+138	narrow	characterization, quantity	977	1267	9245	narrow (adj.)	4
+139	near	characterization, quantity	975	1942	9288	near (adv.)	4
+140	the neck	body	89	1333	9299	neck (n.)	3
+141	the needle (for sewing)	object, tool	578	1382	9308	needle (n.)	3
+142	new	characterization, state	1050	1231	9369	new (adj.)	4
+143	nine	number	805	1483	9400	nine (num.)	4
+145	noon	time	750	12	9456	noon (n.)	4
+146	the nose	body	80	1221	9473	nose (n.)	3
+147	old (of person)	characterization, state	1058	2112	9675	old (adj.)	4
+148	one	number	797	1493	20000	one (num.)	
+149	the otter	animal	317	15	9842	otter (n.)	3
+150	outside	location	714	762	9878	outside (adv.)	4
+151	the pig	animal	284	1337	10570	pig (n.)	3
+152	to plant (vegetals, rice)	action	1774	1486	10668	plant (v.)	3
+153	to play	action	1703	1413	10688	play (v.)	3
+154	to pull	action	1568	1455	11446	pull (v.)	3
+155	to push	action	1689	1452	11526	push (v.)	3
+156	the rain	nature, phenomenon	10	658	11696	rain (n.)	3
+157	the rainbow	nature	11	1733	11699	rainbow (n.)	3
+158	red	characterization, color	1007	156	11974	red (adj.)	4
+159	to reside (live)	action	1452	1099	12310	reside (v.)	3
+160	the rice plant	object, food	439	2026	12484	rice (n.)	
+161	right	characterization, location	711	1019	12510	right (adj.)	4
+162	the river	nature, geography	30	666	12551	river (n.)	3
+163	the road	object, geography	38	667	12556	road (n.)	3
+164	the root	body, animal	375	670	12604	root (n.)	3
+165	the rope	object, tool	619	1218	12607	rope (n.)	3
+166	round	characterization, form	990	1395	12638	round (adj.)	4
+167	to run	action	1544	1519	12699	run (v.)	3
+168	the salt	object, food	61	1274	12798	salt (n.)	3
+169	salty	characterisation, taste	1076	1091	12802	salty (adj.)	4
+170	the sand	nature, substance	44	671	12828	sand (n.)	3
+171	to scratch	action	1530	1436	13047	scratch (v.)	3
+172	the sea	nature, geography	32	1474	13090	sea (n.)	3
+173	to see	action	1471	1409	13170	see (v.)	3
+174	the seed	object, food	405	714	13172	seed (n.)	3
+175	seven	number	803	1704	13366	seven (num.)	4
+176	sharp	characterization, form	1020	1396	13432	sharp (adj.)	4
+177	the sheep	animal	275	1331	13452	sheep (n.)	3
+178	to shoot (an arrow)	action	1611	1172	13533	shoot (v.)	3
+179	short	characterization, quantity	973	1645	13549	short (n., adj.)	4
+180	the shoulder	body	90	1482	13568	shoulder (n.)	3
+181	shy	characterization, character	1365	487	13624	shy (adj.)	4
+182	the sickle	object, tool	624	341	13635	sickle (n.)	3
+183	to sing	action	1184	1261	13726	sing (v.)	3
+184	six	number	802	1703	13770	six (num.)	4
+185	the skin	body	120	763	13807	skin (n.)	3
+186	the sky	nature, geography	1	1732	13821	sky (n.)	3
+187	to sleep	action	1646	1585	13870	sleep (v.)	3
+188	small	characterization, quantity	965	1246	13949	small (adj.)	4
+189	to smell (perceive odor) [transitive]	action	1707	1586	13958	smell (v.)	3
+190	the smoke	nature	19	778	13970	smoke (n.)	3
+191	smooth	characterization, form	1037	1234	13972	smooth (adj.)	4
+192	the snake	animal	347	730	13991	snake (n.)	3
+193	the snow	nature, object	12	784	14027	snow (n.)	3
+194	soft	characterisation, form	1035	1856	14084	soft (adj.)	4
+195	the son	kinship	220	1620	14149	son (n.)	3
+196	the sparrow	animal	336	1854	14257	sparrow (n.)	3
+197	the spider	animal	361	843	14340	spider (n.)	3
+198	to spit	action	1688	1440	14381	spit (v.)	3
+199	to stand	action	1784	1442	14576	stand (v.)	3
+200	the star	nature, geography	5	1430	9067	star (n.)	3
+201	to steal	action	1686	713	14652	steal (v.)	3
+202	the stick	object, tool	586	1295	14714	stick (n.)	3
+203	the stone (a piece of)	nature, substance	43	857	14780	stone (n.)	3
+204	straight	characterization, form	1003	1404	14821	straight (adv.)	4
+205	the sun	object, geography	2	1343	15134	sun (n.)	3
+206	the tail	body, animal	267	1220	15423	tail (n.)	3
+207	ten	number	806	1515	15585	ten (num.)	4
+208	that	pronoun	947	78	15676	that (pron.)	4
+209	there	location	950	1937	15713	there (pron.)	4
+210	thick	characterization, quantity	980	1244	15737	thick (adj.)	4
+211	the thigh	body	100	800	15750	thigh (n.)	3
+212	thin (object)	characterization, form	981	2307	15752	thin (adj.)	4
+213	to think (reflect)	action	1726	1415	15755	think (v.)	3
+214	this	pronoun	942	1214	15765	this (pron.)	4
+215	thou [second person singular]	pronoun	931	1215	15780	thou (pron.)	4
+216	three	number	799	492	15798	three (num.)	4
+217	to throw	action	1687	1456	15822	throw (v.)	3
+218	the thunder	object, phenomenon	8	1150	15832	thunder (n.)	3
+219	the tiger	animal	304	846	15869	tiger (n.)	3
+220	today	time	738	1283	15942	today (adv.)	4
+221	tomorrow	time	742	1329	15976	tomorrow (n., adv.)	4
+222	the tongue	body	139	1205	15982	tongue (n.)	3
+223	the tooth (front)	body	137	1380	15996	tooth (n.)	3
+223	the tooth (front)	body	137	1380	17830	tooth (n.)	3
+224	the tree	nature, object	372	906	16207	tree (n.)	3
+225	twenty	number	816	1710	16411	twenty (num.)	4
+226	two	number	798	1498	16427	two (num.)	4
+227	to vomit	action	1535	1278	17345	vomit (v.)	3
+228	to walk	action	1815	1443	17408	walk (v.)	3
+229	the water	nature, substance	47	948	17489	water (n.)	3
+230	we [first person plural inclusive]	pronoun	930	1131	17538	we (pron.)	4
+231	wet	characterisation, state	1029	1726	17633	wet (adj.)	4
+232	what	pronoun, question	954	1236	17643	what (pron.)	4
+233	the wheat	object, food	410	1077	17648	wheat (n.)	3
+234	where	pronoun, question	955	1237	17661	where (adv.)	4
+235	white	characterisation, color	1006	1335	17712	white (adj.)	4
+236	who	pronoun, question	953	1235	17729	who (pron.)	4
+237	the wife	kinship	248	1199	17767	wife (n.)	3
+238	the wind	nature, phenomenon	9	960	17796	wind (n.)	3
+239	the wing	body, animal	298	1257	17811	wing (n.)	3
+240	to wipe	action	1163	1454	17823	wipe (v.)	3
+241	the wolf	animal	324	522	17880	wolf (n.)	3
+242	the woman	human being	174	962	17885	woman (n.)	3
+243	the wood (material)	plant, substance	511	1803	17906	wood (n.)	3
+244	to sow (broadcast, scatter seeds)	action	1597	748	14233	sow (v.)	3
+245	the year	time	777	1226	18055	year (n.)	3
+246	yellow	characterisation, color	1008	1424	18063	yellow (adj.)	4
+247	yesterday	time	739	1174	18070	yesterday (n., adv.)	4
+248	you [second person plural]	pronoun	933	1213	18089	you (pron.)	4
+249	young	characterisation, age	1059	1207	18091	young (adj.)	4
+250	the shit	body, substance	151	676	4381	excrement (n.)	

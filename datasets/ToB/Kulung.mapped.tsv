@@ -1,0 +1,261 @@
+NUMBER	ENGLISH	CONCEPTICON_ID	TBL_ID	SRCID	SRCGLOSS
+29	I [first person singular]	1209	928	922	I (pron.)
+1	above	1741	731	658	above, up (adv.)
+2	all	98	962	660	all (adv.)
+2	all	98	962	1228	all, every (adv.)
+3	bad	1292	1053	1001	bad, useless, worthless. (adj.)
+4	below, under	1485	732		
+5	big	1202	964	677	big, fat (adj.)
+6	black	163	1005	1147	black (adj.)
+7	cold (of temperature)	1287	1063	232	cold, cool (adj.)
+8	correct (right)	1725	1045		
+9	dark	706	1013	
+10	dirty	1230	1086		
+11	dry	1398	1028	1279	be dry (grains, leaves, grass, etc.). (vi-1 [1: har-])
+12	early	672	1018	519	soon, early
+13	eight	1705	804		
+14	far	1406	974	1082	far, distant (adv.)
+15	firewood	10	534	326	firewood (n.)
+16	five	493	801	544	five (num.)
+17	four	1500	800	933	four.
+18	full	1429	984		
+19	good	1035	1052	461	good (adj.)
+20	green	1425	1009	864	blue, green, young (of firewood), unripe, uncooked (adj.)
+21	hard	1884	1034	1077	be hard (not soft) (vi-3 [1: chɔk- 2: chɔ:-])
+22	he or she [third person singular]	262	934	475	he, this one (dem.)
+23	heavy	1210	1014	298	be heavy
+24	here	136	944	191	here (adv.)
+25	high / tall	1265	968	789	tall, high (adj.)
+26	horizontal	2376	1001	1287	horizontal, level (adv.)
+27	hot	1286	1062	408	be warm (of clothes), be cosy. (vi-3 [1: hɔk- 2: hɔ:-])
+28	hundred	1634	824		
+30	inside	1606	715	869	inside (n.)
+31	knife	1352	549		
+32	late	477	1019	302	be late (vi-3 [1: chus- 2: chu-])
+33	left	244	710	62	leftside (West) of the house (n)
+34	light (of weight)	1052	1052	1269	be light (vi-1 [1: ham-])
+35	long	1203	972	1441	long (adj.)
+35	long	1203	972	1445	long (adj.)
+36	many	1198	987		
+37	middle	1093	708		
+38	morning	1339	749	1009	morning (n.)
+39	narrow	1267	977	1083	narrow (adj.)
+40	near	1942	975	233	close (vt-4 [1: chi:- 2: chi:y- 3: chi-])
+41	new	1231	1050		
+42	nine	1483	805	1310	nine.
+43	noon	12	750		
+44	old (of person)	2112	1058	353	old, worn out (adj.)
+45	one	1493	797	761	one.
+46	outside	762	714	883	outside, out (adv.)
+47	red	156	1007	1162	red, pink, orange, purple (adj.)
+47	red	156	1007	1164	red, pink, orange, purple (adj.)
+48	right	1019	711	1366	rightside
+49	round	1395	990	1259	round, spherical (adj.)
+49	round	1395	990	1358	round, cirular (adj.)
+50	salty	1091	1076		
+51	seven	1704	803		
+52	sharp	1396	1020	274	sharp (adj.)
+53	short	1645	973	314	short (adj.)
+54	shy	487	1365	959	be ashamed (vi-7 [1: lɔi- 2: lɔ- 3: lǝi- 4: lǝ-])
+55	six	1703	802	804	six.
+56	small	1246	965	202	little (adv.)
+56	small	1246	965	203	small (adj.)
+57	smooth	1234	1037	1141	smooth, flat, even (adj.)
+58	soft	1856	1035	290	soft (adj.)
+59	straight	1404	1003	386	straight (adj.)
+60	ten	1515	806	592	ten (preceded by the numeral 'one' ) (num.)
+61	that	78	947	1372	he, that one (dem.)
+62	the ant	587	365	1092	black ant
+63	the armpit	1886	92	847	armpit (also with haplology: bayam) (n.)
+64	the bamboo	1927	389	844	bamboo (n.)
+65	the barley (tibetan or highland)	932	411	1073	barley, Hordeum vulgare (n.)
+66	the belly	1251	96	752	belly (n.)
+67	the bird	937	326	1080	bird (n.)
+68	the blood	946	129	1217	blood (n.)
+69	the body hair (hair or fur)	189	266	523	body hair (n.)
+70	the bone	1394	133	818	bone (n.)
+71	the branch	1531	374	271	branch of a tree (n)
+72	the breast (female)	1402	94	220	female breast (n.)
+73	the child (young human)	1304	169	372	child, offspring, son, daughter. (n.)
+74	the cloud	1489	7	1120	cloud (n.)
+75	the daughter	1357	222	377	daughter (n.)
+76	the dew	1977	15	145	dew.
+77	the dog	2009	289	705	dog (n.)
+78	the dream	2374	699	1058	dream (n.)
+79	the dust	2	45	631	flour, dust (n.)
+80	the ear	1247	81	477	ear (n.)
+81	the earth (soil)	1228	40	754	mud, earth (n.)
+82	the earthworm	2350	363	826	earthworm (n.)
+83	the egg	744	450	135	egg (of a chicken) (n.)
+84	the eye	1248	79	527	eye, sepal of a flower (n.)
+85	the father	1217	218	881	father (n.)
+86	the feather	1201	299	129	feather (n.)
+87	the fire	221	18	1302	fire (n.)
+88	the fish	227	351	543	fish (n.)
+89	the flea	232	355	317	human flea, Pulex irritans
+90	the flower	239	377	84	flower (n.)
+91	the fog	249	16	627	mist (n.)
+92	the foot	1301	103	942	leg, foot (n.)
+93	the forest	420	50	149	forest (n.)
+94	the fox	1312	325		
+95	the frog	503	349	1314	frog, toad
+96	the front (front side)	2194	712	41	front (n.)
+97	the frost	2034	14	250	frost (n.)
+98	the fruit	1507	378	1052	fruit (n.)
+99	the goat	1502	276	247	goat (n.)
+100	the grass	606	436	1062	grass, where a broom is made of. (n.)
+101	the hail	609	13	535	hail (n.)
+102	the hair (of the head)	1040	75	300	grow (crops, hair), begin to sprout (vi-1 [1: lim-])
+103	the hand	1277	107		
+104	the head	1256	74	643	head (n.)
+105	the heart	1223	144	219	heart (n.)
+106	the hoof	152	264		
+107	the horn (keratinized skin)	1393	263	586	horn (n.)
+108	the horse	615	268		
+109	the house	1252	494	1363	house (n.)
+110	the husband	1200	247	817	husband (n.)
+111	the ice	617	17	507	snow, ice (n.)
+112	the knee	1371	101	809	knee (n.)
+113	the lake	624	31		
+114	the leaf	628	376	330	leaf (n.)
+115	the lip (the lips)	478	85	958	lip (n.)
+116	the liver	1224	145	1460	liver (n.)
+117	the louse	1392	356	14	louse (n.)
+118	the lung	688	143		
+119	the man (male human)	2106	173	728	male (n.)
+120	the meat	634	443	178	meat, flesh
+121	the moon	1313	4	618	moon (n.)
+122	the mosquito	1509	360		
+123	the mother	1216	219	993	mother (n.)
+124	the mountain	639	23	87	mountain (n.)
+125	the mouse or rat	2139	320	312	mouse, rat (n.)
+126	the mouth	674	84	957	mouth (n.)
+127	the mud	640	46	754	mud, earth
+128	the nail (fingernail or claw)	2128	113	1057	fingernail (of the fingers and toes) (n.)
+129	the name	1405	687	468	name (n.)
+130	the neck	1333	89	587	neck (n.)
+131	the needle (for sewing)	1382	578	380	needle (n.)
+132	the nit	267	357		
+133	the nose	1221	80	833	nose (n.)
+134	the otter	15	317		
+135	the pig	1337	284	1309	pig (black species) (n.)
+136	the rain	658	10	578	rain (n.)
+137	the rainbow	1733	11	164	rainbow (n.)
+137	the rainbow	1733	11	446	rainbow (n.)
+138	the rice plant	2026	439	781	paddy, rice in the field, Oryza sativa L.
+139	the river	666	30	118	river (n.)
+140	the road	667	38	255	thoroughfare, way (n.)
+141	the root	670	375	1334	root (n.)
+142	the rope	1218	619	794	rope, cord. (n.)
+143	the salt	1274	61	171	salt (n.)
+144	the sand	671	44	1063	sand (n.)
+145	the sea	1474	32		
+146	the seed	714	405	92	seed (n.)
+147	the sheep	1331	275		
+148	the shit	676	151		
+149	the shoulder	1482	90	1316	shoulder (as seen from behind), shoulder blades (n.)
+150	the sickle	341	624	850	sickle (n.)
+151	the skin	763	120	340	skin (n.)
+152	the sky	1732	1	554	sky, sun, weather
+153	the smoke	778	19	1305	smoke (n.)
+154	the snake	730	347	600	snake (n.)
+155	the snow	784	12	507	snow, ice
+156	the son	1620	220	372	child, offspring, son, daughter. (n.)
+157	the sparrow	1854	336		
+158	the spider	843	361	1256	spider (n.)
+159	the star	1430	5	144	star (n.)
+160	the stick	1295	586		
+161	the stone (a piece of)	857	379	1465	stone, rock
+162	the sun	1343	2	554	sky, sun, weather
+163	the tail	1220	267	1293	tail (n.)
+164	the thigh	800	100	622	thigh (n.)
+165	the thunder	1150	8	1326	thunder (n.)
+166	the tiger	846	304	33	tusk (of elephant), fang (of snake, pig, tiger) (n.)
+167	the tongue	1205	139	281	tongue (n.)
+168	the tooth (front)	1380	137	698	tooth (n.)
+169	the tree	906	372	331	tree (n.)
+170	the water	948	47	24	water (n.)
+171	the wheat	1077	410	429	wheat, Triticum sativum (n.)
+172	the wife	1199	248	119	wife (n.)
+172	the wife	1199	248	654	wife (n.)
+173	the wind	960	9	1219	wind (n.)
+174	the wing	1257	298	54	wing (n.)
+175	the wolf	522	324		
+176	the woman	962	174	1343	Kulung woman
+176	the woman	962	174	151	young woman
+177	the wood (material)	1803	511	234	sweep (with a broom or piece of wood), wipe off, blow one's nose (vt-4 [1: chis- 2: chiss- 3: chi-])
+178	the year	1226	777	434	year (always preceded by a numeral) (n.)
+179	there	1937	950	1301	there, in there (adv.)
+180	thick	1244	980		
+181	thin (object)	2307	981	449	thin
+182	this	1214	942		
+183	thou [second person singular]	1215	931		
+184	three	492	799	352	three..
+185	to be alive	1422	1087	59	live, survive (vi-4 [1: let- 2: lei- 3: len-])
+186	to bite	1403	1753	78	sting, bite, chew (vt-8 [1: khɔi- 2: khɔ- 3: khǝi- 4: khǝ- 5: khui- 6: khu- 7: kha- 8: khɔk-])
+187	to blow (of wind)	175	1738	493	1. pound, crush, knock, forge, blow (on a horn or flute) 2. lam dumma drive cattle (vt-4 [1: dup- 2: dupp- 3: dum-])
+188	to burn [intransitive]	1428	1269	1199	burn (of fire or light) (vi-4 [1: tit- 2: ti:- 3: tin-])
+189	to buy	1869	1516	708	buy (vt-5 [1: khet- 2: khett- 3: khei- 4: khen- 5: khe:-])
+190	to chew	321	1424	1100	chew (vt-4 [1: kham- 2: khamm- 3: kham-])
+191	to come	1446	1491	1169	come (from whatever direction) (vi-7 [1: tɔi- 2: tɔ- 3: tai- 4: ta-])
+192	to count	1420	1640	471	count (vt-1 [1: Nir- ])
+193	to cry (weep)	1420	1485	471	count (vt-1 [1: Nir- ])
+194	to die	1494	1651	321	die (vi-3 [1: si:- 2: si-])
+195	to dig	1418	1698	432	dig (vt-8 [1: dɔi- 2: dɔ- 3: dǝi- 4: dǝ- 5: dui- 6: du- 7: da- 8: dɔk-])
+196	to drink	1401	1370	495	drink (vt-4 [1: duN- 2: duNN- 3: du:-])
+197	to eat	1336	1198	93	eat (vt-7 [1: cɔi- 2: cɔ- 3: cǝi- 4: cǝ- 5: cai- 6: ca-])
+198	to fight	1423	1234	710	quarrel, fight (vi-3 [1: khei- 2: khe-])
+199	to float	1574	1553		
+200	to flow	2003	1502	1029	flow (of a river) (vi-1 [1: el-])
+201	to fly (move through air)	1441	1318	1127	fly (vi-1 [1: per-])
+202	to forget	1523	1704	994	forget (vt-5 [1: mat- 2: matt- 3: mai- 4: man- 5: ma:-])
+203	to give	1447	1345	640	give (vt-4 [1: pi:- 2: pi:y- 3: pi-])
+204	to hear	1408	1682	1403	hear (vt-2 [1: yen- 2: ye:-])
+205	to hide (conceal)	602	1169	347	hide, conceal (vt-4 [1: sul- 2: sull- 3: sul-])
+206	to hold	1448	1709	46	grab, hold, catch, seize, grasp, khalamba lamma catch a cold (vt-4 [1: lap- 2: lapp- 3: lam-])
+207	to hunt	1435	1230	34	chase, pursue, drive off (cattle, people), push, follow, take a road (vt-4 [1: kǝl- 2: kǝll- 3: kǝl-])
+208	to kill	1417	1602	1053	kill, extinguish (fire), put off (vt-5 [1: set- 2: sett- 3: sei- 4: sen- 5: se:-])
+209	to knead	274	1594	216	knead (vt-3 [1: cǝk- 2: cɔ:- 3: cɔk-])
+210	to know (something)	1410	1398	253	know (a fact, person, way), recognize (vt-5 [1: chet- 2: chett- 3: chei- 4: cen- 5: ce:-])
+211	to laugh	1355	1735	272	laugh (vi-3 [1: ges- 2: ge-])
+212	to learn	504	1742	198	learn (vr [1: i- 2: it-])
+212	to learn	504	1742	1012	learn (vt-5 [1: dǝt- 2: dǝtt- 3: dǝi- 4: dǝn- 5: dǝ:-])
+213	to lick	319	1674	1451	lick (vt-3 [1: lɔk- 2: lɔ:- 3: lɔk-])
+214	to lie down	215	1661	564	lie down, fall, topple (vi-6 [1: ut- 2: ui- 3: utt- 4: un- 5: u:-])
+215	to marry (a man marries a woman)	2164	1578		
+216	to plant (vegetals, rice)	1486	1774	60	plant, pour out (vt-5 [1: let- 2: lett- 3: lei- 4: len- 5: le:-])
+217	to play	1413	1703	293	feel itself, play (vi-7 [1: lɔi- 2: lɔ- 3: lǝi- 4: lǝ-])
+218	to pull	1455	1568		
+219	to push	1452	1689	385	push, shove (vt-4 [1: tǝl- 2: tǝll- 3: tǝl-])
+220	to reside (live)	1099	1452		
+221	to run	1519	1544	1325	run (vi-3 [1: buls- 2: bul-])
+222	to scratch	1436	1530	563	scratch (vt-5 [1: ui- 2: uiy- 3: ui- 4: un- 5: u:-])
+223	to see	1409	1471	1233	see (vt-4 [1: khɔN- 2: khɔNN- 3: khɔ:-])
+224	to shoot (an arrow)	1172	1611	1432	shoot
+225	to sing	1261	1184	695	make noise, shout, squeal (pig, goat), sing (of a bird), rumble (of one's belly) (vi-7 [1: kɔi- 2: kɔ- 3: kai- 4: ka-])
+226	to sleep	1585	1646	195	sleep (vi-3 [1: ims- 2: im-])
+227	to smell (perceive odor) [transitive]	1586	1707	821	smell, sniff (vt-2 [1: naps- 2: nam-])
+228	to sow (broadcast, scatter seeds)	748	1597	629	sow (vt-5 [1: phui- 2: phuiy- 3: phui- 4: phun- 5: phu:-])
+229	to spit	1440	1688	439	throw, spit (vt-2 [1: dɔks- 2: dɔ:-])
+230	to stand	1442	1784	1422	stand (vi-3 [1: thɔ rep- 2: thɔ rem-])
+231	to steal	713	1686	1368	steal (vt-4 [1: khus- 2: khuss- 3: khu-])
+232	to think (reflect)	1415	1726	1112	think (vi-3 [1: min- 2: mi:-])
+233	to throw	1456	1687	409	throw, throw away (vt-2 [1: hɔks- 2: hɔ:-])
+234	to vomit	1278	1535	889	vomit (vi-3 [1: pas- 2: pa-])
+235	to walk	1443	1815	44	walk (vi-1 [1: lam dum-])
+236	to wipe	1454	1163	1243	wipe, wipe up (vt-5 [1: khui- 2: khuiy- 3: khui- 4: khun- 5: khu:-])
+237	today	1283	738	1034	today (adv.)
+238	tomorrow	1329	742	1008	tomorrow (adv.)
+239	twenty	1710	816	1090	score, e.g. ik-khal twenty. (num.)
+240	two	1498	798	473	two (num.)
+241	we [first person plural inclusive]	1131	930	21	we (pron.)
+241	we [first person plural inclusive]	1131	930	22	we (pron.)
+242	wet	1726	1029	319	be wet (vi-3 [1: ci:- 2: ci-])
+243	what	1236	954	575	with what?, what? (erg) (pron.)
+244	where	1237	955	1276	where? (pron.)
+245	white	1335	1006	969	white (adj.)
+246	who	1235	953	1437	who (pron.)
+247	yellow	1424	1008	856	yellow (adj.)
+248	yesterday	1174	739	1036	yesterday (adv.)
+249	you [second person plural]	1213	933	1403	hear (vt-2 [1: yen- 2: ye:-])
+250	young	1207	1059	864	blue, green, young (of firewood), unripe, uncooked (adj.)

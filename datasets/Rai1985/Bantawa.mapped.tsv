@@ -1,0 +1,585 @@
+NUMBER	ENGLISH	CONCEPTICON_ID	TBL_ID	SRCID	SRCGLOSS
+29	I [first person singular]	1209	928	343997	I
+#<<<
+1	above	1741	731	344234	above / on
+1	above	1741	731	344402	on / over / upon
+1	above	1741	731	343522	over, be
+#>>>
+2	all	98	962	344322	all (adj)
+3	bad	1292	1053	343991	bad
+4	below, under	1485	732		???
+#<<<
+5	big	1202	964	343372	big, be
+5	big	1202	964	343559	big, be
+5	big	1202	964	343864	big, be
+5	big	1202	964	344361	big (adj)
+5	big	1202	964	344372	big (adj)
+5	big	1202	964	344927	leaf, big, for use
+#>>>
+6	black	163	1005	343508	black, be
+#<<<
+7	cold (of temperature)	1287	1063	343466	cold, be
+7	cold (of temperature)	1287	1063	344101	flu / cold
+#>>>
+8	correct (right)	1725	1045		???
+9	dark	706	1013		???
+10	dirty	1230	1086		???
+#<<<
+11	dry	1398	1028	344406	dark, very (adv/adj)
+11	dry	1398	1028	344427	dark, very (adv/adj)
+11	dry	1398	1028	343694	dry, get
+11	dry	1398	1028	344887	person who cannot be moved by words or physical pu (n/adj)
+11	dry	1398	1028	344452	vulgar (n/adj)
+11	dry	1398	1028	343650	dry (putting in the smoke) (v)
+11	dry	1398	1028	344828	sweet (n/adj)
+11	dry	1398	1028	343467	dry, be
+11	dry	1398	1028	343771	dry, be
+11	dry	1398	1028	344824	dry, very (place) (adj)
+11	dry	1398	1028	344453	deliberately (n/adj)
+11	dry	1398	1028	344922	fruit (sour) (n/adj)
+#>>>
+12	early	672	1018		???
+13	eight	1705	804		???
+14	far	1406	974		???
+15	firewood	10	534		???
+16	five	493	801		???
+17	four	1500	800		???
+18	full	1429	984		???
+#<<<
+19	good	1035	1052	344094	beautiful / nice / good-looking
+19	good	1035	1052	344480	good
+19	good	1035	1052	343850	well, be
+#>>>
+20	green	1425	1009	344232	bamboo, green, to carry the dead body
+#<<<
+21	hard	1884	1034	344780	hard (very) (adj)
+21	hard	1884	1034	343477	hard, be
+21	hard	1884	1034	344206	solid
+#>>>
+22	he or she [third person singular]	262	934	344127	he / she / that (ref.)
+#<<<
+23	heavy	1210	1014	344817	heavy (very) (adj)
+23	heavy	1210	1014	343640	heavy, be
+#>>>
+#<<<
+24	here	136	944	343985	here (particularly)
+24	here	136	944	343984	here
+#>>>
+25	high / tall	1265	968		???
+26	horizontal	2376	1001		???
+#<<<
+27	hot	1286	1062	344836	hot, very (liquid)
+27	hot	1286	1062	343531	warm, be
+27	hot	1286	1062	343623	heat (v)
+27	hot	1286	1062	343656	heat (v)
+27	hot	1286	1062	344771	heat (n)
+27	hot	1286	1062	343345	warm, make
+#>>>
+28	hundred	1634	824		???
+#<<<
+30	inside	1606	715	344766	worm, kind of, usually found in potato field or in
+30	inside	1606	715	344969	inside
+30	inside	1606	715	51083	mind / inside
+30	inside	1606	715	343433	insert on / in (v)
+#>>>
+31	knife	1352	549		???
+32	late	477	1019		???
+33	left	244	710		???
+34	light (of weight)	1052	1052		???
+35	long	1203	972	343430	long, be
+#<<<
+36	many	1198	987	344582	more / many (adj/adv)
+36	many	1198	987	344501	many / much (n)
+#>>>
+37	middle	1093	708		???
+38	morning	1339	749		???
+#<<<
+39	narrow	1267	977	344641	bamboo basket, narrow, to carry chickens and pigs
+39	narrow	1267	977	343545	close (teeth) (v)
+#>>>
+#<<<
+40	near	1942	975	343545	close (teeth) (v)
+40	near	1942	975	344241	near
+40	near	1942	975	344248	near (at)
+#>>>
+41	new	1231	1050	344482	new
+42	nine	1483	805		???
+43	noon	12	750		???
+#<<<
+44	old (of person)	2112	1058	344416	brother, elder, of father
+44	old (of person)	2112	1058	344449	sister, elder
+44	old (of person)	2112	1058	344413	sister, elder, of mother
+#>>>
+#<<<
+45	one	1493	797	343992	one (adv)
+45	one	1493	797	343994	one (adv)
+#>>>
+#<<<
+46	outside	762	714	344534	outside (n)
+46	outside	762	714	344966	outside (adv)
+#>>>
+47	red	156	1007	344963	red (adj)
+48	right	1019	711		???
+49	round	1395	990		???
+#<<<
+50	salty	1091	1076	344760	salt (n)
+50	salty	1091	1076	344762	salty (adj)
+#>>>
+51	seven	1704	803		???
+52	sharp	1396	1020	343666	sharp, very, be
+53	short	1645	973		???
+54	shy	487	1365		???
+55	six	1703	802		???
+#<<<
+56	small	1246	965	344551	house-like place, small, where dieties are kept an
+56	small	1246	965	344531	bamboo, small, kind of
+56	small	1246	965	344230	small
+56	small	1246	965	343469	small, be
+56	small	1246	965	344814	lizard, small, kind of
+56	small	1246	965	344216	a little (adj)
+56	small	1246	965	344219	a little (adj)
+#>>>
+57	smooth	1234	1037		???
+58	soft	1856	1035	343421	soft, be
+59	straight	1404	1003		???
+60	ten	1515	806		???
+#<<<
+61	that	78	947	344127	he / she / that (ref.)
+61	that	78	947	344753	that (downward)
+61	that	78	947	344730	that (pron)
+#>>>
+62	the ant	587	365		???
+63	the armpit	1886	92		???
+#<<<
+64	the bamboo	1927	389	344531	bamboo, small, kind of
+64	the bamboo	1927	389	344232	bamboo, green, to carry the dead body
+64	the bamboo	1927	389	344649	bamboo, kind of
+64	the bamboo	1927	389	344606	bamboo
+64	the bamboo	1927	389	344257	bamboo, kind of fine variety of, used for preparin
+64	the bamboo	1927	389	344811	bamboo (kind of)
+#>>>
+65	the barley (tibetan or highland)	932	411	344293	barley
+66	the belly	1251	96	344653	pain, stomach, gastric-like
+#<<<
+67	the bird	937	326	344294	bird
+67	the bird	937	326	344888	bird, spring, kind of
+67	the bird	937	326	344028	bird, kind of
+67	the bird	937	326	344034	bird, kind of
+67	the bird	937	326	344365	bird, kind of
+67	the bird	937	326	344597	bird, kind of
+#>>>
+68	the blood	946	129	51176	blood
+69	the body hair (hair or fur)	189	266		???
+70	the bone	1394	133	51153	bone
+71	the branch	1531	374		???
+72	the breast (female)	1402	94		???
+73	the child (young human)	1304	169	344254	child / baby
+74	the cloud	1489	7		???
+#<<<
+75	the daughter	1357	222	344913	daughter (youngest)
+75	the daughter	1357	222	344915	daughter (youngest)
+75	the daughter	1357	222	344181	father-in-law of son / daughter
+75	the daughter	1357	222	344182	mother-in-law of son / daughter
+75	the daughter	1357	222	344255	son / daughter
+75	the daughter	1357	222	344289	brother's son / daughter
+#>>>
+76	the dew	1977	15		???
+77	the dog	2009	289	344032	dog
+78	the dream	2374	699	344932	dream (n)
+79	the dust	2	45	344592	dust (of soil)
+#<<<
+80	the ear	1247	81	343494	pierce (nose, ears)
+80	the ear	1247	81	51127	ear
+#>>>
+#<<<
+81	the earth (soil)	1228	40	343480	land (birds, planes, etc.) (v)
+81	the earth (soil)	1228	40	344591	soil (n)
+81	the earth (soil)	1228	40	344497	land (n)
+81	the earth (soil)	1228	40	344971	earth
+81	the earth (soil)	1228	40	344868	land / field
+#>>>
+82	the earthworm	2350	363		???
+#<<<
+83	the egg	744	450	51119	egg
+83	the egg	744	450	344906	nit, egg, of louse
+#>>>
+84	the eye	1248	79	51141	eye
+#<<<
+85	the father	1217	218	343921	father
+85	the father	1217	218	344533	father
+85	the father	1217	218	344539	father
+#>>>
+86	the feather	1201	299	51168	quill / feather
+#<<<
+87	the fire	221	18	344712	fire (n)
+87	the fire	221	18	343680	fire (arms) (v)
+87	the fire	221	18	343623	heat (v)
+87	the fire	221	18	343656	heat (v)
+87	the fire	221	18	344771	heat (n)
+#>>>
+88	the fish	227	351	344177	fish (n)
+89	the flea	232	355	344019	flea
+#<<<
+90	the flower	239	377	343804	bloom (v)
+90	the flower	239	377	344623	flower
+#>>>
+91	the fog	249	16		???
+92	the foot	1301	103	344567	feet
+#<<<
+93	the forest	420	50	344130	forest
+93	the forest	420	50	344307	forest
+93	the forest	420	50	344786	forest
+#>>>
+94	the fox	1312	325		???
+95	the frog	503	349	344677	frog
+96	the front (front side)	2194	712	344632	front (pp)
+97	the frost	2034	14	344447	frost
+#<<<
+98	the fruit	1507	378	344483	root / fruit, kind of poisonous
+98	the fruit	1507	378	344569	fruit, sour, kind of
+98	the fruit	1507	378	344710	fruit, sour, kind of
+98	the fruit	1507	378	344300	fruit, kind of
+98	the fruit	1507	378	344390	fruit, kind of
+98	the fruit	1507	378	344574	fruit, kind of
+98	the fruit	1507	378	344642	fruit, kind of
+98	the fruit	1507	378	344900	fruit
+98	the fruit	1507	378	344918	fruit
+98	the fruit	1507	378	344857	fruit, wild, kind of, used for pickle
+#>>>
+99	the goat	1502	276	344283	goat
+100	the grass	606	436		???
+101	the hail	609	13		???
+102	the hair (of the head)	1040	75		???
+103	the hand	1277	107	51105	hand
+#<<<
+104	the head	1256	74	51111	head
+104	the head	1256	74	344336	head (of a group or family)
+#>>>
+105	the heart	1223	144	51161	heart
+106	the hoof	152	264		???
+107	the horn (keratinized skin)	1393	263	344904	horn
+108	the horse	615	268	344046	horse
+#<<<
+109	the house	1252	494	344097	house, small thatched, used by witch doctors
+109	the house	1252	494	344139	house, small additional, to keep things
+109	the house	1252	494	344110	house (n)
+#>>>
+#<<<
+110	the husband	1200	247	344340	husband (n)
+110	the husband	1200	247	344341	husband (n)
+110	the husband	1200	247	344472	with (part)
+110	the husband	1200	247	343357	be with
+#>>>
+111	the ice	617	17		???
+#<<<
+112	the knee	1371	101	343458	bend (v)
+112	the knee	1371	101	343624	bend (v)
+#>>>
+113	the lake	624	31	344852	lake
+#<<<
+114	the leaf	628	376	344607	leaf (small)
+114	the leaf	628	376	344927	leaf, big, for use
+114	the leaf	628	376	344868	land / field
+#>>>
+115	the lip (the lips)	478	85	51122	lip
+116	the liver	1224	145		???
+117	the louse	1392	356	344905	louse
+118	the lung	688	143		???
+#<<<
+119	the man (male human)	2106	173	344694	witch doctor, male
+119	the man (male human)	2106	173	344513	male (n)
+#>>>
+120	the meat	634	443	344165	meat
+#<<<
+121	the moon	1313	4	343614	set (sun, moon, etc.) (v)
+121	the moon	1313	4	344799	moon (n)
+#>>>
+#<<<
+122	the mosquito	1509	360	344044	mosquito
+122	the mosquito	1509	360	344355	mosquito
+#>>>
+#<<<
+123	the mother	1216	219	343929	mother
+123	the mother	1216	219	344686	mother
+123	the mother	1216	219	344705	mother
+#>>>
+124	the mountain	639	23		???
+125	the mouse or rat	2139	320	344253	rat / mouse
+#<<<
+126	the mouth	674	84	51121	mouth
+126	the mouth	674	84	344316	mouth
+#>>>
+127	the mud	640	46		???
+128	the nail (fingernail or claw)	2128	113		???
+129	the name	1405	687		???
+130	the neck	1333	89	51131	neck
+131	the needle (for sewing)	1382	578	344816	needle
+132	the nit	267	357	344906	nit, egg, of louse
+#<<<
+133	the nose	1221	80	51125	nose
+133	the nose	1221	80	343700	smell (v)
+#>>>
+134	the otter	15	317		???
+135	the pig	1337	284	344586	pig
+#<<<
+136	the rain	658	10	344320	rain (n)
+136	the rain	658	10	344842	rain (n)
+#>>>
+137	the rainbow	1733	11		???
+#<<<
+138	the rice plant	2026	439	344576	rice, beaten
+138	the rice plant	2026	439	344111	rice, sweetened
+138	the rice plant	2026	439	344202	rice, uncooked
+138	the rice plant	2026	439	344201	rice, fried
+#>>>
+139	the river	666	30	344976	river
+140	the road	667	38	344802	road / path
+#<<<
+141	the root	670	375	344483	root / fruit, kind of poisonous
+141	the root	670	375	344668	root (n)
+141	the root	670	375	344867	root, ginger-like, used by witch doctors
+#>>>
+142	the rope	1218	619		???
+143	the salt	1274	61	344760	salt (n)
+144	the sand	671	44		???
+145	the sea	1474	32	344743	sea
+#<<<
+146	the seed	714	405	344669	seed, kind of medicinal herbal, used for pickle
+146	the seed	714	405	344906	nit, egg, of louse
+146	the seed	714	405	344654	seed, kind of mustard-like, used for pickle
+#>>>
+147	the sheep	1331	275		???
+148	the shit	676	151	344684	manure
+149	the shoulder	1482	90	51134	shoulder
+150	the sickle	341	624	344051	sickle (with blade)
+151	the skin	763	120	51175	skin / bark
+#<<<
+152	the sky	1732	1	344379	thunder (n)
+152	the sky	1732	1	344720	storm (n)
+152	the sky	1732	1	344457	sky
+#>>>
+153	the smoke	778	19	344713	smoke (n)
+154	the snake	730	347	344560	snake
+155	the snow	784	12		???
+#<<<
+156	the son	1620	220	344255	son / daughter
+156	the son	1620	220	344911	son (youngest)
+#>>>
+157	the sparrow	1854	336		???
+158	the spider	843	361	344166	spider
+#<<<
+159	the star	1430	5	344489	star (n)
+159	the star	1430	5	344882	star (n)
+#>>>
+#<<<
+160	the stick	1295	586	344363	stick (n)
+160	the stick	1295	586	344362	stick, supporting, for a porter
+#>>>
+#<<<
+161	the stone (a piece of)	857	379	344933	stone, flat big (rock)
+161	the stone (a piece of)	857	379	344813	stone (n)
+#>>>
+162	the sun	1343	2	344454	sun (n)
+163	the tail	1220	267	51139	tail
+164	the thigh	800	100	344572	thigh
+165	the thunder	1150	8	344379	thunder (n)
+#<<<
+166	the tiger	846	304	344026	tiger
+166	the tiger	846	304	344880	tiger
+#>>>
+167	the tongue	1205	139	51162	tongue
+168	the tooth (front)	1380	137	51085	tooth
+#<<<
+169	the tree	906	372	344233	tree, kind of
+169	the tree	906	372	344292	tree, kind of
+169	the tree	906	372	344866	tree, kind of
+169	the tree	906	372	344845	tree, kind of (alnus Neplensis)
+#>>>
+#<<<
+170	the water	948	47	344212	water
+170	the water	948	47	344042	water (cooked rice)
+#>>>
+171	the wheat	1077	410		???
+#<<<
+172	the wife	1199	248	344339	wife
+172	the wife	1199	248	344311	wife / family
+#>>>
+173	the wind	960	9	344980	wind (n)
+174	the wing	1257	298	344800	wing (n)
+175	the wolf	522	324		???
+#<<<
+176	the woman	962	174	344685	woman
+176	the woman	962	174	344727	woman
+#>>>
+177	the wood (material)	1803	511	344941	wood
+178	the year	1226	777	344420	year
+179	there	1937	950	344731	there (adv)
+#<<<
+180	thick	1244	980	344135	thick
+180	thick	1244	980	344648	thick (liquid) / semi-liquid
+#>>>
+181	thin (object)	2307	981		???
+#<<<
+182	this	1214	942	343977	these (pron)
+182	this	1214	942	343983	these (pron)
+182	this	1214	942	343978	this (particular) (pron)
+182	this	1214	942	343974	this (pron)
+182	this	1214	942	343976	this (pron)
+182	this	1214	942	343979	these (particular) (pron)
+#>>>
+#<<<
+183	thou [second person singular]	1215	931	344091	you (dual)
+183	thou [second person singular]	1215	931	344090	you (sg.)
+#>>>
+184	three	492	799	344925	three (adj)
+#<<<
+185	to be alive	1422	1087	51130	body / life
+185	to be alive	1422	1087	51075	alive (be v.)
+#>>>
+#<<<
+186	to bite	1403	1753	51043	bite (v.)
+186	to bite	1403	1753	343820	bite (v)
+#>>>
+#<<<
+187	to blow (of wind)	175	1738	343362	blow (the fire)
+187	to blow (of wind)	175	1738	51059	blow / play (musical instrument)
+187	to blow (of wind)	175	1738	51045	blow (by mouth)
+#>>>
+188	to burn [intransitive]	1428	1269	343837	burn (v)
+189	to buy	1869	1516	343791	buy
+#<<<
+190	to chew	321	1424	51038	chew
+190	to chew	321	1424	51057	chew / munch
+#>>>
+#<<<
+191	to come	1446	1491	343843	come / arrive
+191	to come	1446	1491	343872	come (from the same level)
+#>>>
+192	to count	1420	1640	343348	count (v)
+193	to cry (weep)	1420	1485	343348	count (v)
+#<<<
+194	to die	1494	1651	51064	sick (be v.)
+194	to die	1494	1651	51069	die (v.)
+#>>>
+#<<<
+195	to dig	1418	1698	343849	dig (v)
+195	to dig	1418	1698	343573	dig (by snout)
+195	to dig	1418	1698	343498	dig (spade) (v)
+#>>>
+#<<<
+196	to drink	1401	1370	51073	drink
+196	to drink	1401	1370	51041	drink
+196	to drink	1401	1370	344042	water (cooked rice)
+#>>>
+197	to eat	1336	1198	51066	eat
+198	to fight	1423	1234		???
+199	to float	1574	1553	343697	float (v)
+200	to flow	2003	1502		???
+201	to fly (move through air)	1441	1318		???
+202	to forget	1523	1704		???
+203	to give	1447	1345	343858	give
+204	to hear	1408	1682		???
+205	to hide (conceal)	602	1169	343339	hide (v)
+206	to hold	1448	1709		???
+207	to hunt	1435	1230	343678	chase (v)
+208	to kill	1417	1602	343810	kill (v)
+209	to knead	274	1594	343839	squeeze / knead
+#<<<
+210	to know (something)	1410	1398	343617	know
+210	to know (something)	1410	1398	343662	know
+#>>>
+211	to laugh	1355	1735	51067	laugh (v.)
+212	to learn	504	1742		???
+213	to lick	319	1674	51065	lick
+214	to lie down	215	1661		???
+215	to marry (a man marries a woman)	2164	1578		???
+#<<<
+216	to plant (vegetals, rice)	1486	1774	344288	plant, kind of, which pricks causing itching
+216	to plant (vegetals, rice)	1486	1774	344328	plant, kind of, used by witch doctors
+216	to plant (vegetals, rice)	1486	1774	343456	plant (v)
+216	to plant (vegetals, rice)	1486	1774	344948	plant, kind of, whose seeds are used for extractin
+216	to plant (vegetals, rice)	1486	1774	344846	plant, kind of, whose seeds are used as beads
+216	to plant (vegetals, rice)	1486	1774	344327	plant / stem
+216	to plant (vegetals, rice)	1486	1774	344167	plant, kind of
+216	to plant (vegetals, rice)	1486	1774	344385	plant, kind of
+216	to plant (vegetals, rice)	1486	1774	344511	plant, kind of
+#>>>
+#<<<
+217	to play	1413	1703	343436	play (v)
+217	to play	1413	1703	51059	blow / play (musical instrument)
+#>>>
+218	to pull	1455	1568	343809	pull / drag
+219	to push	1452	1689	343548	push (v)
+220	to reside (live)	1099	1452		???
+221	to run	1519	1544		???
+#<<<
+222	to scratch	1436	1530	343442	scratch (v)
+222	to scratch	1436	1530	343553	scratch (v)
+222	to scratch	1436	1530	343654	scrape (v)
+222	to scratch	1436	1530	343692	scrape (v)
+#>>>
+#<<<
+223	to see	1409	1471	51072	see
+223	to see	1409	1471	51046	see
+#>>>
+#<<<
+224	to shoot (an arrow)	1172	1611	344777	sprout (of banana arum etc.) (n)
+224	to shoot (an arrow)	1172	1611	343765	shoot (v)
+#>>>
+225	to sing	1261	1184		???
+#<<<
+226	to sleep	1585	1646	51077	sleep
+226	to sleep	1585	1646	51056	sleep (v.)
+#>>>
+227	to smell (perceive odor) [transitive]	1586	1707	343700	smell (v)
+#<<<
+228	to sow (broadcast, scatter seeds)	748	1597	343446	sow (v)
+228	to sow (broadcast, scatter seeds)	748	1597	344589	sow (n)
+228	to sow (broadcast, scatter seeds)	748	1597	344669	seed, kind of medicinal herbal, used for pickle
+228	to sow (broadcast, scatter seeds)	748	1597	343501	plant / sow (v)
+228	to sow (broadcast, scatter seeds)	748	1597	344654	seed, kind of mustard-like, used for pickle
+#>>>
+229	to spit	1440	1688	51047	spit (v.)
+230	to stand	1442	1784		???
+231	to steal	713	1686	343673	steal (v)
+232	to think (reflect)	1415	1726	343873	think
+233	to throw	1456	1687		???
+234	to vomit	1278	1535	51054	vomit (v.)
+235	to walk	1443	1815	343846	walk (v)
+236	to wipe	1454	1163	343824	wipe
+237	today	1283	738	343894	today
+238	tomorrow	1329	742	344693	tomorrow (adv)
+239	twenty	1710	816		???
+240	two	1498	798	344982	two (adj)
+#<<<
+241	we [first person plural inclusive]	1131	930	344001	we (plural exclusive)
+241	we [first person plural inclusive]	1131	930	343999	we (dual inclusive)
+241	we [first person plural inclusive]	1131	930	343998	we (dual exclusive)
+241	we [first person plural inclusive]	1131	930	344000	we (plural inclusive)
+#>>>
+242	wet	1726	1029	344818	wet (thoroughly) (adj)
+#<<<
+243	what	1236	954	344396	what (pron)
+243	what	1236	954	344398	what (pron)
+243	what	1236	954	344399	what (pron)
+#>>>
+#<<<
+244	where	1237	955	344085	where / which side
+244	where	1237	955	344380	place / bed (n)
+244	where	1237	955	344086	where
+244	where	1237	955	344785	place (n)
+#>>>
+#<<<
+245	white	1335	1006	344291	white, very
+245	white	1335	1006	343683	white, be
+245	white	1335	1006	344284	spot, kind of, white, on the face
+#>>>
+246	who	1235	953	344068	who
+247	yellow	1424	1008	344841	berry, yellow, kind of
+248	yesterday	1174	739	343903	yesterday
+#<<<
+249	you [second person plural]	1213	933	344092	you (pl.)
+249	you [second person plural]	1213	933	344091	you (dual)
+249	you [second person plural]	1213	933	344090	you (sg.)
+#>>>
+250	young	1207	1059		???

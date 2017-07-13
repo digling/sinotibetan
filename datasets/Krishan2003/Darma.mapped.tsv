@@ -1,0 +1,254 @@
+NUMBER	ENGLISH	CONCEPTICON_ID	TBL_ID	SRCID	SRCGLOSS
+29	I [first person singular]	1209	928	543912	I (1sg pronoun)
+1	above	1741	731	543638	above
+2	all	98	962	543670	all
+3	bad	1292	1053	544574	bad
+4	below, under	1485	732	544220	behind, below
+5	big	1202	964	544247	big, large
+6	black	163	1005		
+7	cold (of temperature)	1287	1063	544409	cold
+8	correct (right)	1725	1045		
+9	dark	706	1013	543873	dark
+10	dirty	1230	1086	544570	dirty
+11	dry	1398	1028	544540	dry
+12	early	672	1018		
+13	eight	1705	804		
+14	far	1406	974	543882	far
+15	firewood	10	534	544403	fire-wood
+16	five	493	801		
+17	four	1500	800		
+18	full	1429	984	544518	full
+19	good	1035	1052	543802	good
+20	green	1425	1009	544446	green
+21	hard	1884	1034	544364	hard
+22	he or she [third person singular]	262	934	544194	
+23	heavy	1210	1014	544043	heavy
+24	here	136	944	544180	here
+25	high / tall	1265	968	543649	high
+26	horizontal	2376	1001		
+27	hot	1286	1062	544057	hot
+28	hundred	1634	824		
+30	inside	1606	715	543683	inside
+31	knife	1352	549		
+32	late	477	1019		
+33	left	244	710	543964	
+34	light (of weight)	1052	1052	544156	light (in weight)
+35	long	1203	972	543684	long, tall
+36	many	1198	987	543743	many
+37	middle	1093	708	543845	
+38	morning	1339	749	544148	morning
+39	narrow	1267	977	543939	narrow
+40	near	1942	975	544489	near
+40	near	1942	975	544154	near
+41	new	1231	1050	544174	new
+42	nine	1483	805		
+43	noon	12	750	543695	noon
+44	old (of person)	2112	1058	544563	old
+45	one	1493	797		
+46	outside	762	714		
+47	red	156	1007	544126	red
+48	right	1019	711		543719
+49	round	1395	990	543860	round
+50	salty	1091	1076		
+51	seven	1704	803		
+52	sharp	1396	1020	544526	sharp
+53	short	1645	973	544213	short
+54	shy	487	1365	544328	
+55	six	1703	802		
+56	small	1246	965	544089	small
+57	smooth	1234	1037	544120	smooth
+58	soft	1856	1035	544144	soft
+59	straight	1404	1003	544471	straight
+60	ten	1515	806		
+61	that	78	947	544551	that
+62	the ant	587	365	544104	ant
+63	the armpit	1886	92	543754	armpit
+64	the bamboo	1927	389	543666	bamboo
+65	the barley (tibetan or highland)	932	411	543906	barley
+66	the belly	1251	96	543811	belly
+67	the bird	937	326	544250	bird
+68	the blood	946	129	544392	blood
+69	the body hair (hair or fur)	189	266		
+70	the bone	1394	133	544302	bone
+71	the branch	1531	374	543784	branch
+72	the breast (female)	1402	94	544401	breast
+73	the child (young human)	1304	169	544390	child
+74	the cloud	1489	7	544099	cloud
+75	the daughter	1357	222	544522	daughter; brother's daughter
+76	the dew	1977	15	543679	dew
+77	the dog	2009	289	544005	dog
+78	the dream	2374	699		
+79	the dust	2	45		
+80	the ear	1247	81	544320	ear
+81	the earth (soil)	1228	40	544331	earth
+82	the earthworm	2350	363		
+83	the egg	744	450	544219	egg
+84	the eye	1248	79	544082	eye
+85	the father	1217	218	543656	father
+86	the feather	1201	299	544323	feather (wing)
+87	the fire	221	18	544138	fire
+88	the fish	227	351	544177	fish
+89	the flea	232	355		
+90	the flower	239	377	543711	flower
+91	the fog	249	16		
+92	the foot	1301	103	544044	foot
+93	the forest	420	50	544373	forest
+94	the fox	1312	325	543828	fox
+95	the frog	503	349	544215	frog
+96	the front (front side)	2194	712	544035	
+97	the frost	2034	14	544345	frost
+98	the fruit	1507	378	544046	fruit
+99	the goat	1502	276	544080	goat
+100	the grass	606	436	544515	grass
+101	the hail	609	13		
+102	the hair (of the head)	1040	75	544541	hair
+103	the hand	1277	107	544022	hand
+104	the head	1256	74	544222	head
+105	the heart	1223	144	544415	heart
+106	the hoof	152	264		
+107	the horn (keratinized skin)	1393	263	544316	horn
+108	the horse	615	268	544277	horse (male)
+108	the horse	615	268	544103	horse (female)
+109	the house	1252	494	543726	house
+110	the husband	1200	247	544342	husband
+111	the ice	617	17	544556	ice
+112	the knee	1371	101	544237	knee
+113	the lake	624	31	543770	lake, sea
+114	the leaf	628	376	544207	leaf
+115	the lip (the lips)	478	85	543650	lips
+116	the liver	1224	145	543767	liver
+117	the louse	1392	356	544333	louse
+118	the lung	688	143	544055	lungs
+119	the man (male human)	2106	173		
+120	the meat	634	443	544421	meat
+121	the moon	1313	4	544026	moon
+122	the mosquito	1509	360	544133	mosquito
+123	the mother	1216	219	544094	mother
+124	the mountain	639	23	544544	mountain
+125	the mouse or rat	2139	320	544253	mouse
+126	the mouth	674	84		
+127	the mud	640	46	543970	mud
+128	the nail (fingernail or claw)	2128	113	544033	
+129	the name	1405	687	544113	name
+130	the neck	1333	89	543698	neck
+131	the needle (for sewing)	1382	578	543778	needle
+132	the nit	267	357	544352	
+133	the nose	1221	80	544161	nose
+134	the otter	15	317		
+135	the pig	1337	284	544382	pig
+136	the rain	658	10	544140	rain
+137	the rainbow	1733	11		
+138	the rice plant	2026	439	544264	
+139	the river	666	30	544573	river
+140	the road	667	38	543644	
+141	the root	670	375	544326	root
+142	the rope	1218	619	543789	string (for yak)
+143	the salt	1274	61	543755	salt
+144	the sand	671	44	544360	sand
+145	the sea	1474	32	543770	lake, sea
+146	the seed	714	405	544221	seed
+147	the sheep	1331	275	544137	sheep
+148	the shit	676	151	544065	manure
+149	the shoulder	1482	90	544309	shoulder
+150	the sickle	341	624	544375	sickle
+151	the skin	763	120	543662	skin
+152	the sky	1732	1	544460	sky
+153	the smoke	778	19	543999	smoke
+154	the snake	730	347		
+155	the snow	784	12	544344	snow
+156	the son	1620	220	544414	son; brother's son
+157	the sparrow	1854	336		
+158	the spider	843	361	543806	spider
+159	the star	1430	5	544023	star
+160	the stick	1295	586	544404	stick
+161	the stone (a piece of)	857	379		
+162	the sun	1343	2	544159	sun
+163	the tail	1220	267	544066	tail
+164	the thigh	800	100	543752	thigh
+165	the thunder	1150	8		
+166	the tiger	846	304	544363	tiger
+167	the tongue	1205	139	543918	tongue
+168	the tooth (front)	1380	137	544387	tooth
+169	the tree	906	372	544405	tree
+170	the water	948	47	544443	water
+171	the wheat	1077	410	544319	wheat
+172	the wife	1199	248	543704	wife
+173	the wind	960	9	543884	wind
+174	the wing	1257	298		
+175	the wolf	522	324		
+176	the woman	962	174		
+177	the wood (material)	1803	511	544406	wood
+178	the year	1226	777	543702	year
+179	there	1937	950	544448	there (visible)
+179	there	1937	950	544449	there (invisible)
+180	thick	1244	980	544271	thick (liquid)
+181	thin (object)	2307	981		544025
+182	this	1214	942	544182	this
+183	thou [second person singular]	1215	931	543820	you (sg.)
+184	three	492	799		
+185	to be alive	1422	1087	544472	live (v.)
+186	to bite	1403	1753	543987	bite (meat) (v.)
+187	to blow (of wind)	175	1738	544273	blow (wind) (v.)
+188	to burn [intransitive]	1428	1269	543729	burn (vt.)
+189	to buy	1869	1516		
+190	to chew	321	1424	543955	chew (v.)
+191	to come	1446	1491	544329	come (v.)
+192	to count	1420	1640		
+193	to cry (weep)	1420	1485		
+194	to die	1494	1651	544393	die (v.)
+195	to dig	1418	1698	544009	dig (v.)
+196	to drink	1401	1370		544461
+197	to eat	1336	1198	543899	eat (v.)
+198	to fight	1423	1234	543783	fight (v.)
+199	to float	1574	1553		
+200	to flow	2003	1502		
+201	to fly (move through air)	1441	1318	544073	fly (v.)
+202	to forget	1523	1704	544040	forget (v.)
+203	to give	1447	1345	543781	give, offer (v.)
+204	to hear	1408	1682	544585	hear (v.)
+205	to hide (conceal)	602	1169	543746	hide (v.)
+206	to hold	1448	1709	543727	hold (v.)
+207	to hunt	1435	1230	544125	drive (cattle) (v.)
+208	to kill	1417	1602	544368	kill (v.)
+209	to knead	274	1594	544249	knead (v.)
+210	to know (something)	1410	1398	544210	know (v.)
+211	to laugh	1355	1735		
+212	to learn	504	1742		
+213	to lick	319	1674		
+214	to lie down	215	1661		
+215	to marry (a man marries a woman)	2164	1578		
+216	to plant (vegetals, rice)	1486	1774	543792	plant (v.)
+217	to play	1413	1703	544507	play (v.)
+218	to pull	1455	1568		
+219	to push	1452	1689	543813	push (v.)
+220	to reside (live)	1099	1452		???
+221	to run	1519	1544	543851	run (v.)
+222	to scratch	1436	1530	543771	scratch (v.)
+223	to see	1409	1471	544469	see (v.)
+224	to shoot (an arrow)	1172	1611	544366	shoot (v.)
+225	to sing	1261	1184	543664	sing (v.)
+226	to sleep	1585	1646	544569	sleep (v.)
+227	to smell (perceive odor) [transitive]	1586	1707	543660	smell
+228	to sow (broadcast, scatter seeds)	748	1597	544582	sow (v.)
+229	to spit	1440	1688		
+230	to stand	1442	1784	544474	stand (quite) (v.)
+231	to steal	713	1686	544000	steal (v.)
+232	to think (reflect)	1415	1726		
+233	to throw	1456	1687	544525	throw (v.)
+234	to vomit	1278	1535	544056	vomit (v.)
+235	to walk	1443	1815	543785	go (v.)
+236	to wipe	1454	1163		
+237	today	1283	738	544497	today
+238	tomorrow	1329	742	544012	tomorrow
+239	twenty	1710	816		
+240	two	1498	798		
+241	we [first person plural inclusive]	1131	930	544166	we (pl. incl.)
+242	wet	1726	1029	544485	wet
+243	what	1236	954	544013	what
+244	where	1237	955	544545	where
+245	white	1335	1006	544396	white
+246	who	1235	953	544014	who
+247	yellow	1424	1008		
+248	yesterday	1174	739	544165	yesterday
+249	you [second person plural]	1213	933	543861	you (pl.)
+250	young	1207	1059	543928	young

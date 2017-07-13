@@ -1,0 +1,489 @@
+462#	language	Hakha
+1	sky	vɑŋ.suŋ
+2	sun	ni.kɑ
+3	moon	tʰlɑ.pɑ
+4	star	ʔɑ.fi
+5	cloud	kʰɔ.dɔm
+6	mist, fog	ti.ʃuŋ
+7	rain	ruɑ
+8	rainbow	sʰuŋ.sʰɑ
+9	lightning	min.klɑu
+10	thunder	kʰuɑ.ʔɑ.ri
+11	shadow	ʔɑ.tʰlɑ
+12	wind	kʰli.tu
+13	night	zɑŋ
+14	day	ni
+15	morning	jin.kɑ
+16	noon	sʰuŋ
+17	yesterday	ni.jɑŋ.nɑ
+18	tomorrow	tʰɑi.ziŋ
+19	year	kuɱ
+20	east	ni.ʃuɑ.le
+21	west	ni.tlɑ
+22	water	ti
+23	to be hot (water)	ʔɑ.sʰɑ
+24	to be hot (person)	ʔɑ.liŋ
+25	to be warm(water)	ʔɑ.luŋ.tu
+26	to be cold (person)	ʔɑ.ki
+27	to be cold (water)	ʔɑ.kiʔ
+28	stream	və.te
+29	River	və.pi
+30	Sea	rə.li
+31	soil (earth)	və.le
+32	mud	le.se
+33	dust	le.diʔ
+34	stone	luŋ
+35	sand	tʰe.set
+36	lime	tʰuŋ
+37	gold	sʰui
+38	silver	ŋun
+39	iron	tʰir
+40	mountain	tlɑŋ
+41	cave	luŋ.kuɑ
+42	forest	tu.pi
+43	tree	tʰiŋ.kun
+44	branch	tʰiŋ.ŋɛ
+45	tree bark	hɑu
+46	thorn	ɬiŋ
+47	root	tʰiŋ.r̥ɑm
+48	leaf	n̥ɑ
+49	flower	pɑŋ.pɑr
+50	fruit	tʰiŋ.tʰei
+51	seed	mu
+52	grass	rɑm
+53	bamboo shoot	ruɑ
+54	mushroom	pɑ
+55	cane/	r̥i.pʰi
+56	kapok	tuŋ.pɑŋ
+57	sugercane	fu
+58	betel nut	kwɑn.tʰei
+59	opium	biŋ
+60	bamboo plant	rə.tɔi
+61	rice, millet beer	ju.pi
+62	banana	baŋ.ɬɑ
+63	mango	hɑi.tʰe
+64	egg plant	bɔŋ.bɑu
+65	soy bean	be.hrum
+66	ginger	ɑi.tʰiŋ
+67	garlic	kʰɑ.ʃwɑŋ.rɑŋ
+68	corn	fuŋ.vɔi
+69	red pepper	me.pʰɛ
+70	dry field	klɑŋ.lo
+71	wet rice field	le.kwɑŋ
+72	paddy rice	fə.sɑŋ
+73	rice seedling	fə.sɑŋ.kuŋ
+74	to be ripe	ʔɑ.m̥iʔ
+75	pounded rice	fuŋ.fɑ
+76	cooked rice	bu
+77	to winow	fɑ.sɑŋ.ʔɑ.jɑ
+78	to dry (rice)	pʰo
+79	to pound (rice)	suʔ
+80	to grind	riɑl
+81	to cook (rice)	ʃwɑŋ
+82	to boil	suɑ
+83	rice husk	fə.vei
+84	salt	si.te
+85	animal	sə.rɑŋ
+86	tiger	sə.ke
+87	pangolin	sʰə.pʰu
+88	bear	vɔɱ
+89	barking deer	ju.nem
+90	monkey	jɔn
+91	gibbon	hu.hɑu
+92	rabbit	sʰɑ.vei
+93	porcupine	sʰə.ku
+94	rat	ju
+95	dog	ui
+96	to bark	ʔɑ.bo
+97	to bite	se
+98	cat	ʃi.zɔʔ
+99	pig	voʔ
+100	cow	sɔ
+101	milk	sɔ.n̥o
+102	buffalo	nɑ
+103	horn (buffalo)	ki
+104	tail	ʔɑ.mei
+105	elephant	vui
+106	elephant task	vui.hɑu
+107	bird	vɑ
+108	pigeon	lɑi.lɑin
+109	birdʼs nest	vɑ.bu
+110	wing	ʔɑ.tʰlɑ
+111	feather	vɑ.m̥ɔi
+112	to fly	jwɑŋ
+113	egg	ʔɑ.ti
+114	chicken	ɑr
+115	crest	ʔɑ.ʃwɑŋ
+116	fish	ŋɑ
+117	snake	rul
+118	poison	sə.vɑi
+119	house lizard	bɔŋ.klə
+120	turtle	sʰuŋ.sʰe/
+121	crocodile	ti.sʰɑ.tlɑŋ
+122	otter	sɑi.r̥em
+123	frog	uʔ.tlɑʔ
+124	insect	ruŋ.sɔn
+125	spider	mɑi.mɔʔ
+126	spider web	mɑi.mɔʔ.bɔ
+127	louse (head)	r̥iek
+128	termite	twɑŋ.twɑn
+129	ant	ŋɛ.te
+130	cocroach	pʰi.ɬiʔ
+131	snail	se.kol
+132	mosquito	fiʔ.fɑ
+133	bee	kʰɔi
+134	fly	kliʔ
+135	butterfly	pe.le
+136	scorpion	klɑŋ.ŋai.kwɑn
+137	water leech	liʔ
+138	land leech	sɑŋ.veʔ
+139	earth worm	sɑŋ.sel
+140	head	lu
+141	face	m̥ɑi
+142	brain	ɬuɑ
+143	hair (head)	sʰɑɱ
+144	hair (body)	m̥ɯl
+145	forehead	sel
+146	eyebrow	miʔ.klɑŋ
+147	eye	miʔ
+148	eyelid	mi.swɑ
+149	nose	n̥ɑ
+150	cheek	bel
+151	ear	n̥ɑ.kʰɔ
+152	mouth	kɑ
+153	tongue	lei
+154	spit (N)	tʃel
+155	tooth	hɑ
+156	guᵐs	hə.ni
+157	chin	kʰɑ
+158	beard	kʰə.m̥ɔi
+159	to shave	riɑm
+160	neck	hŋɔŋ
+161	shoulder	liɑn
+162	back	kɑn
+163	belly	pɔ
+164	navel	lɑi
+165	heart	luŋ
+166	liver	tʰiŋ
+167	intestines	ril
+168	arm	bɑŋ
+169	elbow	kiu
+170	arᵐpit	zɑ.tɑŋ
+171	palm	zɑ.pe
+172	finger	ku.tʰe
+173	finger nail	tin
+174	leg	ke
+175	thigh	pʰe
+176	knee	kʰuʔ
+177	calf	tɑŋ.pɔr
+178	shin	ŋəl.sɑr
+179	heel	ke.dil
+180	bone	ru
+181	joint	ɬjɑ.sɑŋ
+182	marrow	ʔɑ.kleiʔ
+183	rib	n̥ɑ
+184	meat, flesh	ʔɑ.sʰɑ
+185	fat	tʰɑu
+186	skin	tʃuɑ
+187	blood	tʰi
+188	sweat	kʰlɑŋ
+189	pus	n̥ɑi
+190	excrement	e
+191	urine	juŋ
+192	man	pɑ.kliŋ
+193	woman	nu.kliŋ
+194	person	mi.nuŋ
+195	father	kɑ.pɑ
+196	mother	kɑ.nu
+197	to be old (person)	ʔɑ.tɑ
+198	child	nŋɑ.ʃɑr
+199	son	fɑ.pɑ
+200	son-in-law	tu
+201	husbanc	vɑ.pɑ
+202	wife	nu.pi
+203	widow	no.m̥e
+204	elder brother (of female)	kə.tɑ
+205	elder brother (of male)	u
+206	elder sister (of female)	u
+207	elder sister (of male)	kə.fɑ
+208	younger brother (of female)	kə.nɑu.pɑ
+209	younger brother (of male)	kə.nɑu
+210	younger sister (of female)	kɑ.nɑu
+211	younger sister (of male)	fər
+212	friend	hɔi.kɔm
+213	name	min
+214	village	kʰuɑ
+215	road	lɑm
+216	boat	lɑŋ
+217	house	iŋ
+218	door	in.kʰɑ
+219	roof	kʰluŋ
+220	area under house	iŋ.tɔi
+221	wall (house)	vɑŋ.pɑŋ
+222	sleeping area	i.nɑ.kʰeŋ
+223	mat	pʰer
+224	pillow	ʃɑn.kleŋ
+225	blanket	puɑn
+226	clothing	tʰil.pwɑn
+227	to weave	ʔɑ.tɑ
+228	to dye	bur
+229	sarong (M)	pɑ.n̥i
+230	sarong (F)	nu.n̥i
+231	trousers	tə.r̥ə.ɬwɑn
+232	to sew	tʰi
+233	needle	tʰim
+234	comb	sʰɑm.tʰi
+235	ring	ku.dɔn.r̥ɔ
+236	pot (cooking)	oŋ
+237	mortar	sʰuŋ
+238	pestle	sʰuŋ.kʰe
+239	spoon	keu
+240	plate	pɑ.kɑn
+241	firewood	tʰeiŋ
+242	fire	mei
+243	to burn something	mei.ʔɑ.duɑ
+244	to extinguish	mei.ʔɑ.m̥i
+245	ashes	vɯ.sɑŋ
+246	smoke	mei.kʰu
+247	drum	kʰwɑŋ
+248	gongs	bɔn.bɑŋ
+249	bow	seŋ.tiɑŋ
+250	crossbow	li.le.sɑŋ.tiɑŋ
+251	arrow	fe
+252	spear	fe.kɔ
+253	knife	nɑm
+254	to hear	tʰei
+255	to listen	nŋɑi
+256	to be smelly	ʔɑ.nɑŋ
+257	to smell (something)	ʔɑ.n̥i
+258	to see	ʔɑ.m̥u
+259	to look at	ʔɑ.jɑu
+260	to weep	tɑʔ
+261	to eat	ʔɑ.e
+262	to swallow	doʔ
+263	to be hungry	rɔi.tɑŋ
+264	to be full	ʔɑ.pɔ.ʔɑ.kʰim
+265	to be thirsty	kə.ti.hɑr
+266	to drink	dim
+267	to be drunk	ʔɑ.riʔ
+268	to vomit	ʔɑ.luɑʔ
+269	to spit	ʔɑ.ʃɑʔ
+270	to cough	kʰu
+271	to sneeze	hɑ.tʰeu
+272	to yarwn	hɑ.hɑm
+273	to breathe	tʰɔ.ʔɑ.dɔ
+274	to blow	sʰem
+275	to whistle	fi.fi.tuŋ
+276	to suck (milk)	ʔɑ.dim
+277	to lick	ljɑ
+278	to smile	mer
+279	to laugh	ʔɑ.ni
+280	to speak	ʔɑ.hɔ
+281	to tell about	ʔɑ.ʃin
+282	to shout	ʔɑ.ɑu
+283	to lie, fib	li.ʔɑ.ʃim
+284	to sing	ɬɑ.ʔɑ.sɑ
+285	to think	ʔɑ.ruɑ
+286	to know	ʔɑ.tʰei/ʔɑ.ŋəl
+287	to forget	pʰil
+288	to choose	ʔɑ.tʰim
+289	to love	dɔʔ
+290	to hate	huɑ
+291	to be ashamed	ʔɑ.niŋ.zɑ
+292	to wait	hŋɑ
+293	to count	rel
+294	to be afraid	ti
+295	to be angry	tʰiŋ.huŋ
+296	to sleep	ieʔ
+297	to snore	ʔɑ.mɔi
+298	to dream	mɑŋ.ʔɑ.mɑ
+299	to get up	ʔɑ.tʰo
+300	to be hurt	ʔɑ.fɑ
+301	medicine	sʰi
+302	to be itchy	ʔɑ.tʰɑʔ
+303	to scratch (self)	Ɂɑ.kʰeu
+304	to shiver	ʔɑ.tʰɛ
+305	to die	tʰi
+306	gost	mui.kʰlɑ
+307	to sit	ʔɑ.tʰu
+308	to stand (standing)	ʔɑ.dir
+309	to kneel	kʰu.bil
+310	to walk	lɑm.len
+311	to crowl	ʔɑ.lɔn
+312	to go	kɑl
+313	to come	rɑ
+314	to return	ʔɑ.rə.tʰɑŋ/ʔɑ.kil
+315	to run	kli
+316	to ascend	ʔɑ.kɑi
+317	to descend	ʔɑ.tum
+318	to enter	ʔɑ.luʔ
+319	to go out	ʃwɑ
+320	to push	ʔɑ.nɑm
+321	to pull	ʔɑ.doʔ
+322	to kick	ʔɑ.ʃui
+323	to throw	ʃɛ
+324	to fall	tlɑ
+325	to swim	ti.ʔɑ.leuʔ
+326	to float	ʔɑ.vun
+327	to submerge	ti.ʔɑ.ɑ.tlɑ
+328	to flow	ʔɑ.lwɑŋ
+329	to give	peʔ
+330	to tie	tim
+331	to wipe	n̥ɔ
+332	to rub, scrub	n̥ɔ
+333	to wash	ʔɑ.tɔl
+334	to wash (clothes)	suʔ
+335	to bathe	i.ɑ.kʰɔ
+336	to hit, beat	ʔɑ.toʔ
+337	to split	ʔɑ.tʰin
+338	to slice	tɑŋ
+339	to cut (hair)	riɑŋ
+340	to stab	sɔ
+341	to plant	tʃin
+342	to dig	tʃɔ
+343	to bury	vui
+344	to work	riɑn.ʔɑ.twɑn
+345	to play	li.ti.ʔɑ.se
+346	to dance	lɑŋ
+347	to shoot	kɑ
+348	to hunt	rɑm.ʔɑ.vɑ
+349	to kill	tʰɑ
+350	to fight	ʔɑ.ne.vel
+351	to buy	ʔɑ.sɔ
+352	to sell	juɑ
+353	to exchange	kʰlem
+354	to pay	ʔɑ.mɑŋ.ʔɑ.pei
+355	to steal	fi
+356	to hide(self)	tʰoʔ
+357	one	mi.pə.kʰə
+358	two	pə.n̥i
+359	three	pə.tʰuŋ
+360	four	pə.li
+361	five	pə.ŋɑ
+362	six	pə.ru
+363	seven	pə.sə.ri
+364	eight	pə.riɑ
+365	nine	pə.kuɑ
+366	ten	pə.r̥ɑ
+367	twenty	pə.kul
+368	hundred	zə.kʰɑ
+369	one thousand	tʰɔŋ.kʰɑʔ
+370	to be many	tɑm.pi
+371	all	ʔɑ.zɑ.pi
+372	some	ʔɑ.ʃeu.kʰɑ
+373	to be few	tlɔn
+374	half	ʃeu
+375	to be big	ʔɑ.ŋɑn
+376	to be small	ʔɑ.m̥en
+377	to be long	ʔɑ.sɑu
+378	to be short	ʔɑ.tɔi
+379	to be tall	ʔɑ.sɑŋ
+380	to be short	ʔɑ.niɑŋ
+381	to be thick	sʰɑ
+382	to be thin	pən
+383	to be fat	tʰɑu
+384	to be skiny	dɛr
+385	to be wide	kɑu
+386	to be narrow	bir
+387	to be deep	tʰu
+388	to be shallow	ʔɑ.piɑn
+389	to be round	pum
+390	to be full	kʰə
+391	right side	ɔr.le
+392	left side	kɛ.le
+393	to be straight	ʔɑ.diŋ
+394	to be far	ʔɑ.ɬɑ
+395	to be near	nɑi
+396	this	mɑ.hi
+397	that	mɑ.kʰi
+398	black	ʔɑ.nɑ
+399	white	ʔɑ.rɑŋ
+400	red	seŋ
+401	green	r̥iŋ
+402	yellow	r̥e
+403	to be dirty	tʰo.nɔn
+404	to be new	tʰɑr
+405	to be old	ɬwɔn
+406	to be dark	ʔɑ.mui
+407	to shine	seu
+408	to be the same	ʔɑ.kʰəʔ
+409	to be sweet	kʰluŋ
+410	to be sour	tʰɔr
+411	to be bitter	kʰɑr
+412	to be spicy	tʰɑʔ
+413	to be rotten	tʰu
+414	to be swollen	ɑ.pʰin
+415	to be dry	ɑ.ro
+416	to be wet	tʃin
+417	to be sharp	hɑr
+418	to be blunt	bilʔ/nɔ
+419	to be heavy	ʔɑ.riʔ
+420	to be light	ɑ.jɑŋ
+421	to be hard	ʔɑ.hɑ
+422	to be soft	ʔɑ.nem
+423	to be smooth	ʔɑ.mel
+424	to be rough	r̥ɑʔ
+425	to be fast	rɑŋ
+426	to be slow	nuɑ
+427	to be strong	tʰon
+428	to be weak	der
+429	to be tired	bɑ
+430	to be ill	jɔ
+431	to be blind	ʔɑ.mi.ʔɑ.sɔi
+432	to be deaf	n̥ɑ.ʃe
+433	to be bald	ʔɑ.lə.ŋɑu
+434	to be good	tʰɑ
+435	to be bad	sʰiɑ
+436	to be correct	ɑ.m̥ɑn
+437	to be wrong	pɑl
+438	when (past)	ze.ti.ʔɑ.kʰɑn
+439	when (future)	ze.ti.kʰɑ
+440	where	kʰɔi.kɑ.ʔɑ
+441	who	ʔɑ.ho
+442	what	ze.dɑ
+443	how many	ze.zɛ
+444	I	ke.mɑ
+445	you(S)	nɑŋ.mɑ
+446	he, she	ʔɑ.mɑ
+447	we (pl)	kɑŋ.mɑ
+448	you(pl)	nɑŋ.mɑ
+449	they	ʔɑŋ.mɑ
+450	to take	ʔɑ.lɑʔ
+451	to put, place	ʃiɑ
+452	to be lost	klau
+453	to bend	kɔi
+454	to lift	swae
+455	to do, make	ʔɑ.sʰə
+456	don't do it	ti.ɬɑ
+457	to be difficult	hɑr
+458	to be easy	fɔi
+459	to be loose	lɔn
+460	to be tight	ʔɑ.te
+461	to set free	ʔɑ.tʰlɑ
+462	to squeeze	ʔɑ.su
+from old lists	north	
+from old lists	south	
+from old lists	liquor	
+from old lists	duck	
+from old lists	paper	
+from old lists	to scratch something	
+from old lists	to be burning up (the house is burning)	
+from old lists	cold (person feels cold)	
+from old lists	enemy	
+from old lists	papaya (fruit)	
+from old lists	jackfruit (fruit)	
+from old lists	coconut (fruit)	
+from old lists	peanut	
+from old lists	lungs	
+from old lists	buttocks	
+from old lists	foot	
+from old lists	window	
+from old lists	coconutshell ladle	
+from old lists	candle	
+from old lists	to wink	
+from old lists	to answer	
+from old lists	to be different	
+from old lists	naked	
+from old lists	half a quantity	
+from old lists	disgusting	
+from old lists	to sharpen	

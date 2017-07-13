@@ -1,0 +1,650 @@
+NUMBER	ENGLISH	CONCEPTICON_ID	TBL_ID	SRCID	SRCGLOSS
+#<<<
+29	I [first person singular]	1209	928	120105	my, me (pron po)
+29	I [first person singular]	1209	928	120407	I, me, we, us (pron (1)
+#>>>
+#<<<
+1	above	1741	731	121456	up, up there, above (adv)
+1	above	1741	731	120115	above (pp)
+1	above	1741	731	120114	up, above (adv loc)
+#>>>
+2	all	98	962	121414	also, even, at all (negative contexts) (part)
+3	bad	1292	1053	121119	good, good loooking (adj)
+#<<<
+4	below, under	1485	732	121591	down, below (adv loc)
+4	below, under	1485	732	121592	down, below (adv)
+4	below, under	1485	732	120144	below (pp)
+4	below, under	1485	732	121287	below, down (adv)
+#>>>
+#<<<
+5	big	1202	964	120161	big, huge (adj)
+5	big	1202	964	121645	be big, become big; win (vi, vr)
+#>>>
+6	black	163	1005	120304	black (adj)
+7	cold (of temperature)	1287	1063	120635	cold (temperature) (n)
+8	correct (right)	1725	1045		???
+#<<<
+9	dark	706	1013	121295	night, at night (n, adv)
+9	dark	706	1013	120217	dark, darkness (adj)
+#>>>
+#<<<
+10	dirty	1230	1086	120542	dirt / filth (n)
+10	dirty	1230	1086	121129	be stained, soiled (vtt (im)
+#>>>
+#<<<
+11	dry	1398	1028	121432	dry (meat) (vtt)
+11	dry	1398	1028	121560	dry (of earth) (adj)
+11	dry	1398	1028	121178	dry (vt, vtt)
+#>>>
+12	early	672	1018	120877	soon, early (adv)
+13	eight	1705	804		???
+14	far	1406	974	121643	far (adv)
+15	firewood	10	534		???
+16	five	493	801		???
+#<<<
+17	four	1500	800	121181	four (num)
+17	four	1500	800	121183	four (not human) (num+cl)
+#>>>
+18	full	1429	984	120603	satisfied (be v.)
+#<<<
+19	good	1035	1052	121119	good, good loooking (adj)
+19	good	1035	1052	121120	good-looking, beautiful (of a woman) (adj)
+19	good	1035	1052	121051	be able (to do sth.), be well; cure (vr, vtt)
+19	good	1035	1052	120904	good (adj)
+#>>>
+20	green	1425	1009		???
+21	hard	1884	1034	120492	hard (be v.)
+#<<<
+22	he or she [third person singular]	262	934	120267	he, him (pron (3)
+22	he or she [third person singular]	262	934	121204	that, he (pron de)
+22	he or she [third person singular]	262	934	120117	this, he, etc. (dem)
+22	he or she [third person singular]	262	934	120102	his, its, him, it (pron po)
+#>>>
+23	heavy	1210	1014	121386	heavy (vr)
+24	here	136	944	120118	nearby, here (adj)
+25	high / tall	1265	968	120646	tall, high (be v.)
+26	horizontal	2376	1001	121539	horizontal (adj)
+#<<<
+27	hot	1286	1062	121550	warm, hot (adj)
+27	hot	1286	1062	120639	hot (be v.)
+27	hot	1286	1062	121528	heat (esp. in fire), roast (vt)
+27	hot	1286	1062	120107	heat, scald (esp. milk) (vt)
+#>>>
+28	hundred	1634	824		???
+#<<<
+30	inside	1606	715	121604	in, on, at; while (pp)
+30	inside	1606	715	121161	in, on, at (pp)
+#>>>
+31	knife	1352	549		???
+32	late	477	1019	120388	be late, delay (be v.)
+33	left	244	710	120429	hand (n)
+#<<<
+34	light (of weight)	1052	1052	120865	light, burn (of a flame) (vt, vtt)
+34	light (of weight)	1052	1052	121495	roast, light (a fire wit (vt)
+34	light (of weight)	1052	1052	120171	light (in weight) (adj)
+34	light (of weight)	1052	1052	120524	burn, light (by contact with fire) (vtt)
+34	light (of weight)	1052	1052	120802	light, daylight (n)
+34	light (of weight)	1052	1052	120834	light (a lamp, fire) (vt, vtt)
+#>>>
+35	long	1203	972	121066	long, lengthen, stretch (vi, vr, vtt)
+#<<<
+36	many	1198	987	121557	much, a lot (adv)
+36	many	1198	987	120349	much (adv)
+#>>>
+37	middle	1093	708		???
+38	morning	1339	749		???
+39	narrow	1267	977	120747	close, shut in; stop (vtt)
+#<<<
+40	near	1942	975	120747	close, shut in; stop (vtt)
+40	near	1942	975	120354	near (adv loc)
+40	near	1942	975	120360	near (adv)
+#>>>
+41	new	1231	1050	120916	new (adj)
+42	nine	1483	805		???
+43	noon	12	750		???
+44	old (of person)	2112	1058		???
+#<<<
+45	one	1493	797	120257	one (person) (num)
+45	one	1493	797	120271	one (num)
+#>>>
+46	outside	762	714	120727	outside (adv)
+47	red	156	1007	121265	red (adj)
+#<<<
+48	right	1019	711	120429	hand (n)
+48	right	1019	711	121615	proper, right (of an action) (be v.)
+#>>>
+#<<<
+49	round	1395	990	120231	round, spherical (adj)
+49	round	1395	990	120719	round, disk-shaped, rounded of (adj)
+49	round	1395	990	121003	circular, round (adj)
+#>>>
+#<<<
+50	salty	1091	1076	121547	salty (be v.)
+50	salty	1091	1076	120510	salt (n)
+#>>>
+51	seven	1704	803		???
+52	sharp	1396	1020	121299	sharp (of a blade) (vi)
+53	short	1645	973		???
+54	shy	487	1365	121653	shy, modest (be v.)
+55	six	1703	802		???
+56	small	1246	965	120833	small (adj)
+57	smooth	1234	1037	120889	soft, smooth (adj)
+#<<<
+58	soft	1856	1035	120177	soft, tender (adj)
+58	soft	1856	1035	120883	soft (n df.)
+58	soft	1856	1035	120887	soft (adj)
+#>>>
+#<<<
+59	straight	1404	1003	120713	flat (esp. of land), straight (adj)
+59	straight	1404	1003	121436	straight (adv)
+59	straight	1404	1003	120543	straight (adj)
+#>>>
+60	ten	1515	806		???
+61	that	78	947	121204	that, he (pron de)
+62	the ant	587	365	120499	ant (n)
+63	the armpit	1886	92		???
+#<<<
+64	the bamboo	1927	389	121096	bamboo (n)
+64	the bamboo	1927	389	120455	bamboo (n)
+#>>>
+65	the barley (tibetan or highland)	932	411	121480	barley (n)
+#<<<
+66	the belly	1251	96	121231	stomach (n)
+66	the belly	1251	96	121553	belly (n)
+#>>>
+#<<<
+67	the bird	937	326	120512	bird (general, excluding the largest species) (n)
+67	the bird	937	326	121169	bird, a kind of bulbul (n df.)
+67	the bird	937	326	120436	bird, a kind of bulbul (n df.)
+67	the bird	937	326	120848	bird, a kind of bulbul (n df.)
+67	the bird	937	326	120406	a bird (n df.)
+67	the bird	937	326	120240	bird, the bulbul (n df.)
+67	the bird	937	326	120504	pigeon, bird (n)
+67	the bird	937	326	121566	bird (n df.)
+#>>>
+#<<<
+68	the blood	946	129	121257	blood (n)
+68	the blood	946	129	120927	blood or mucus in the stool (n)
+#>>>
+#<<<
+69	the body hair (hair or fur)	189	266	121558	hair (n)
+69	the body hair (hair or fur)	189	266	120213	body hair (n)
+69	the body hair (hair or fur)	189	266	121555	hair, fur (n)
+#>>>
+70	the bone	1394	133	121340	bone (n)
+71	the branch	1531	374	120390	branch, sprout, grow (vi)
+72	the breast (female)	1402	94	120590	breast, nipple (n)
+73	the child (young human)	1304	169	120546	child (suff v)
+74	the cloud	1489	7	120272	cloud (n)
+75	the daughter	1357	222	120672	daughter (n)
+76	the dew	1977	15		???
+77	the dog	2009	289	120159	dog (n)
+78	the dream	2374	699		???
+#<<<
+79	the dust	2	45	120203	dust, dirt (n)
+79	the dust	2	45	120978	dust, dirt (n)
+#>>>
+#<<<
+80	the ear	1247	81	121476	noise, sound, shouting (n)
+80	the ear	1247	81	120920	ear (n)
+#>>>
+#<<<
+81	the earth (soil)	1228	40	120732	land, alight (vi)
+81	the earth (soil)	1228	40	120542	dirt / filth (n)
+81	the earth (soil)	1228	40	120247	earth, soil (n)
+81	the earth (soil)	1228	40	120203	dust, dirt (n)
+81	the earth (soil)	1228	40	120978	dust, dirt (n)
+#>>>
+82	the earthworm	2350	363		???
+#<<<
+83	the egg	744	450	120493	egg, eggshell, testicle (n)
+83	the egg	744	450	120219	egg (n)
+#>>>
+#<<<
+84	the eye	1248	79	120818	eye, get sthg in one's (vtt (im)
+84	the eye	1248	79	121235	eye / face (n)
+#>>>
+85	the father	1217	218	120149	father (n)
+#<<<
+86	the feather	1201	299	121558	hair (n)
+86	the feather	1201	299	121555	hair, fur (n)
+86	the feather	1201	299	121196	feather (n)
+#>>>
+#<<<
+87	the fire	221	18	121232	fire (n)
+87	the fire	221	18	121528	heat (esp. in fire), roast (vt)
+87	the fire	221	18	120107	heat, scald (esp. milk) (vt)
+87	the fire	221	18	120834	light (a lamp, fire) (vt, vtt)
+#>>>
+88	the fish	227	351	121611	fish (of the Kosi River) (n)
+89	the flea	232	355	121332	flea; ghost (n)
+#<<<
+90	the flower	239	377	120693	pick (leaves, flowers), comb (vt)
+90	the flower	239	377	121153	bloom (vi)
+90	the flower	239	377	120972	flower (n)
+#>>>
+91	the fog	249	16		???
+92	the foot	1301	103	121412	foot, leg (n)
+93	the forest	420	50	121277	burn (e.g. house, forest) (vtt)
+94	the fox	1312	325	121460	fox (n)
+95	the frog	503	349		???
+96	the front (front side)	2194	712	120150	ahead, in front, before (adv)
+97	the frost	2034	14		???
+#<<<
+98	the fruit	1507	378	121482	fruit (suff n)
+98	the fruit	1507	378	120696	fruit, Phyllanthus emblica (n df.)
+#>>>
+99	the goat	1502	276	120545	goat (n)
+#<<<
+100	the grass	606	436	121242	grass, weed (n)
+100	the grass	606	436	120396	a grass (n df.)
+#>>>
+#<<<
+101	the hail	609	13	121522	call out to, hail (vtt)
+101	the hail	609	13	121160	hail (n)
+101	the hail	609	13	121317	call, summon, hail (vtt)
+#>>>
+#<<<
+102	the hair (of the head)	1040	75	121558	hair (n)
+102	the hair (of the head)	1040	75	121555	hair, fur (n)
+#>>>
+103	the hand	1277	107	120429	hand (n)
+104	the head	1256	74	120974	head (n)
+105	the heart	1223	144	120762	heart (n)
+106	the hoof	152	264		???
+107	the horn (keratinized skin)	1393	263	121353	horn (of an animal) (n)
+108	the horse	615	268		???
+#<<<
+109	the house	1252	494	120245	house, home (n)
+109	the house	1252	494	121529	roof (a storey or a house) (vtt)
+#>>>
+#<<<
+110	the husband	1200	247	121365	husband (n)
+110	the husband	1200	247	120924	with, at (pp)
+#>>>
+111	the ice	617	17		???
+#<<<
+112	the knee	1371	101	120363	knee (n)
+112	the knee	1371	101	120408	bend (vt, vtt)
+112	the knee	1371	101	120220	bend / bow while bending (adv ?)
+#>>>
+113	the lake	624	31		???
+#<<<
+114	the leaf	628	376	121423	leaf (n)
+114	the leaf	628	376	121381	leaf or fiber of the vine Bauhinia valhii (n)
+#>>>
+115	the lip (the lips)	478	85	120225	lip (n)
+116	the liver	1224	145	120815	liver (n)
+117	the louse	1392	356	121536	louse (n)
+#<<<
+118	the lung	688	143	120648	lung (n)
+118	the lung	688	143	120819	lung (n)
+#>>>
+#<<<
+119	the man (male human)	2106	173	121462	person, male (derivational suffix) (suff n)
+119	the man (male human)	2106	173	121498	man, person (n)
+119	the man (male human)	2106	173	121405	man, male (n)
+#>>>
+120	the meat	634	443	120238	meat (n)
+121	the moon	1313	4	120556	moon (n)
+122	the mosquito	1509	360	120192	biting fly, mosquito (n)
+123	the mother	1216	219	120152	mother (n)
+124	the mountain	639	23	120561	hill, mountain (n)
+#<<<
+125	the mouse or rat	2139	320	121509	rodent (?shrew) (n df.)
+125	the mouse or rat	2139	320	120525	mouse (n)
+#>>>
+126	the mouth	674	84	121223	mouth, face (n)
+127	the mud	640	46		???
+#<<<
+128	the nail (fingernail or claw)	2128	113	121521	claw, pinch (vt, ?vt)
+128	the nail (fingernail or claw)	2128	113	120825	nail, claw (n)
+#>>>
+129	the name	1405	687	121214	name (n)
+#<<<
+130	the neck	1333	89	120373	neck (n)
+130	the neck	1333	89	120577	neck (n)
+#>>>
+131	the needle (for sewing)	1382	578	120531	needle (n)
+132	the nit	267	357		???
+#<<<
+133	the nose	1221	80	120882	smell (n df.)
+133	the nose	1221	80	120551	nose (n)
+133	the nose	1221	80	120627	emit an odor, smell (vtt (im)
+133	the nose	1221	80	120881	smell, sniff; stink (vtt (im)
+#>>>
+134	the otter	15	317		???
+135	the pig	1337	284	120982	pig (n)
+136	the rain	658	10	120879	rain (n)
+137	the rainbow	1733	11		???
+138	the rice plant	2026	439		???
+139	the river	666	30	120386	river (n)
+140	the road	667	38	121433	road (n)
+141	the root	670	375	121366	root (n)
+142	the rope	1218	619	120894	thread, string (vt, vtt)
+143	the salt	1274	61	120510	salt (n)
+144	the sand	671	44	120957	sand (n)
+145	the sea	1474	32		???
+#<<<
+146	the seed	714	405	120493	egg, eggshell, testicle (n)
+146	the seed	714	405	120219	egg (n)
+#>>>
+147	the sheep	1331	275		???
+#<<<
+148	the shit	676	151	120166	excrement (n)
+148	the shit	676	151	120871	defecate, urinate (unexpectedly); abort (n + vr)
+#>>>
+#<<<
+149	the shoulder	1482	90	121513	back / backbone (n)
+149	the shoulder	1482	90	120926	back / to the rear (adv)
+149	the shoulder	1482	90	121008	back (n)
+149	the shoulder	1482	90	121061	shoulder (n)
+#>>>
+150	the sickle	341	624	120261	sickle (n)
+#<<<
+151	the skin	763	120	120202	hide (vr)
+151	the skin	763	120	120214	skin, bark, husk, peel (n)
+151	the skin	763	120	120662	skin (vt, vtt)
+#>>>
+#<<<
+152	the sky	1732	1	121473	make a sound, thunder (vtt)
+152	the sky	1732	1	121059	lightning, thunder (n)
+#>>>
+#<<<
+153	the smoke	778	19	120228	smoke (n)
+153	the smoke	778	19	120962	suck, nurse, smoke (tobacco) (vt, vr)
+#>>>
+154	the snake	730	347	121631	snake (n)
+155	the snow	784	12		???
+156	the son	1620	220	120674	son (n)
+157	the sparrow	1854	336	120629	sparrow (n)
+#<<<
+158	the spider	843	361	121334	spider (n)
+158	the spider	843	361	120193	spider (n)
+#>>>
+159	the star	1430	5	121668	star (n)
+160	the stick	1295	586	121493	wood (n)
+161	the stone (a piece of)	857	379	121410	rock, stone (n)
+#<<<
+162	the sun	1343	2	121427	sun (n)
+162	the sun	1343	2	120935	sun (n)
+#>>>
+163	the tail	1220	267	121227	tail (n)
+164	the thigh	800	100	121083	thigh (n)
+#<<<
+165	the thunder	1150	8	121473	make a sound, thunder (vtt)
+165	the thunder	1150	8	121059	lightning, thunder (n)
+#>>>
+166	the tiger	846	304	121126	wild cat, tiger (n)
+167	the tongue	1205	139	121384	tongue (n)
+#<<<
+168	the tooth (front)	1380	137	121395	tooth (n)
+168	the tooth (front)	1380	137	120537	tooth (incisor) (n)
+168	the tooth (front)	1380	137	120374	tooth (molar, jaw) (n)
+#>>>
+#<<<
+169	the tree	906	372	120832	tree (Duabanga sonneratioides) (vt df.)
+169	the tree	906	372	120625	tree; the flowers are eaten (n df.)
+169	the tree	906	372	121075	tree, foot of a tree beginning (n)
+169	the tree	906	372	121241	a tree, Nep. həlləuɖe (n df.)
+169	the tree	906	372	120400	tree, Ligustrum sp. (n df.)
+169	the tree	906	372	121448	tree (n df.)
+169	the tree	906	372	121499	tree (n)
+169	the tree	906	372	121538	tree (n df.)
+169	the tree	906	372	121669	tree (n df.)
+169	the tree	906	372	120224	tree (n df.)
+169	the tree	906	372	120321	tree (n df.)
+169	the tree	906	372	120324	tree (n df.)
+169	the tree	906	372	120479	tree (n df.)
+169	the tree	906	372	120566	tree (n df.)
+169	the tree	906	372	120613	tree, Boehmeria rugulosa (n df.)
+#>>>
+#<<<
+170	the water	948	47	120676	water (n)
+170	the water	948	47	120678	water (n)
+#>>>
+171	the wheat	1077	410		???
+172	the wife	1199	248	121371	wife (n)
+#<<<
+173	the wind	960	9	121599	wind (n)
+173	the wind	960	9	120226	wind (n)
+#>>>
+174	the wing	1257	298		???
+175	the wolf	522	324		???
+176	the woman	962	174	121222	woman (n)
+177	the wood (material)	1803	511	121493	wood (n)
+178	the year	1226	777	120783	year (in time ordinals) (suffix)
+#<<<
+179	there	1937	950	120111	there, that way (away from speaker) (adv)
+179	there	1937	950	121209	there (adv)
+#>>>
+#<<<
+180	thick	1244	980	120731	thick (be v.)
+180	thick	1244	980	120297	thick (of liquid) (adj)
+180	thick	1244	980	121041	thick (of liquid) (adv)
+#>>>
+181	thin (object)	2307	981		???
+182	this	1214	942	120117	this, he, etc. (dem)
+#<<<
+183	thou [second person singular]	1215	931	120139	your , you (pron po)
+183	thou [second person singular]	1215	931	120431	you (pron (2)
+183	thou [second person singular]	1215	931	120147	your , you (PL) (pron po)
+#>>>
+#<<<
+184	three	492	799	120584	three (humans) (num (hu)
+184	three	492	799	120581	three (non-humans) (num (no)
+#>>>
+#<<<
+185	to be alive	1422	1087	120655	live (vi)
+185	to be alive	1422	1087	121394	for, to (pp)
+#>>>
+#<<<
+186	to bite	1403	1753	121394	for, to (pp)
+186	to bite	1403	1753	120496	bite (vt, vr)
+#>>>
+187	to blow (of wind)	175	1738	121621	blow, cure by blowing (vtt)
+#<<<
+188	to burn [intransitive]	1428	1269	121277	burn (e.g. house, forest) (vtt)
+188	to burn [intransitive]	1428	1269	120865	light, burn (of a flame) (vt, vtt)
+188	to burn [intransitive]	1428	1269	121590	burn (e.g. the hand) (? vtt,)
+188	to burn [intransitive]	1428	1269	120535	burn (of grain which sticks to pot) (vtt, v)
+188	to burn [intransitive]	1428	1269	120532	roast, cremate, burn (vt, vtt)
+188	to burn [intransitive]	1428	1269	120327	burn (food, in cooking) (vt, vr,)
+188	to burn [intransitive]	1428	1269	120524	burn, light (by contact with fire) (vtt)
+#>>>
+189	to buy	1869	1516	121262	buy (vt, vtt)
+#<<<
+190	to chew	321	1424	120917	chew (vt, vr)
+190	to chew	321	1424	121663	bite into, chew (vt, vr)
+#>>>
+#<<<
+191	to come	1446	1491	120475	undone, come; get untied (v + la)
+191	to come	1446	1491	120858	arrive (vi)
+191	to come	1446	1491	120849	undone, come / released (be v.)
+191	to come	1446	1491	121394	for, to (pp)
+191	to come	1446	1491	121063	come (on the same level) (vi)
+#>>>
+192	to count	1420	1640	121578	count, think (vtt)
+193	to cry (weep)	1420	1485	121578	count, think (vtt)
+#<<<
+194	to die	1494	1651	121512	kill (vtt)
+194	to die	1494	1651	121238	die (vi)
+194	to die	1494	1651	121394	for, to (pp)
+194	to die	1494	1651	121286	chop, kill (vtt)
+#>>>
+195	to dig	1418	1698	120843	dig (with a digging-stick), dig up (vt, vtt)
+#<<<
+196	to drink	1401	1370	121394	for, to (pp)
+196	to drink	1401	1370	120676	water (n)
+196	to drink	1401	1370	120678	water (n)
+196	to drink	1401	1370	120699	drink (except water) (vr, vt)
+#>>>
+#<<<
+197	to eat	1336	1198	120610	eat (vt, vr)
+197	to eat	1336	1198	121394	for, to (pp)
+#>>>
+198	to fight	1423	1234	120948	fight (vi, vr)
+199	to float	1574	1553		???
+200	to flow	2003	1502		???
+#<<<
+201	to fly (move through air)	1441	1318	121180	fly (vi, vr)
+201	to fly (move through air)	1441	1318	120615	fly (n df.)
+201	to fly (move through air)	1441	1318	121394	for, to (pp)
+#>>>
+202	to forget	1523	1704	121201	forget (vtt (?))
+203	to give	1447	1345	121394	for, to (pp)
+#<<<
+204	to hear	1408	1682	120741	hear, perceive, liste (vt, vtt)
+204	to hear	1408	1682	121394	for, to (pp)
+#>>>
+#<<<
+205	to hide (conceal)	602	1169	120202	hide (vr)
+205	to hide (conceal)	602	1169	121394	for, to (pp)
+#>>>
+206	to hold	1448	1709	120593	catch, hold (vt, vtt)
+#<<<
+207	to hunt	1435	1230	120729	chase, pursue, drive (vtt)
+207	to hunt	1435	1230	120694	strike on the end, drive (vtt)
+207	to hunt	1435	1230	121408	chase, cause to run (vtt)
+#>>>
+#<<<
+208	to kill	1417	1602	121512	kill (vtt)
+208	to kill	1417	1602	121286	chop, kill (vtt)
+#>>>
+209	to knead	274	1594	120458	knead (vt, vtt)
+#<<<
+210	to know (something)	1410	1398	120636	know, know how, understand (vi)
+210	to know (something)	1410	1398	121394	for, to (pp)
+210	to know (something)	1410	1398	121511	know (vt)
+#>>>
+#<<<
+211	to laugh	1355	1735	121271	laugh (vr)
+211	to laugh	1355	1735	121394	for, to (pp)
+#>>>
+212	to learn	504	1742	121385	teach, learn (refl.) (vtt, vr)
+#<<<
+213	to lick	319	1674	121025	lick (vt)
+213	to lick	319	1674	121042	lick (adv)
+213	to lick	319	1674	121394	for, to (pp)
+#>>>
+214	to lie down	215	1661	121139	lie, joke (n)
+215	to marry (a man marries a woman)	2164	1578		???
+#<<<
+216	to plant (vegetals, rice)	1486	1774	120191	plant, Boehmeria platyphylla (n)
+216	to plant (vegetals, rice)	1486	1774	120390	branch, sprout, grow (vi)
+216	to plant (vegetals, rice)	1486	1774	120663	plant !? (species) (n)
+216	to plant (vegetals, rice)	1486	1774	121406	plant, transplant (vtt)
+216	to plant (vegetals, rice)	1486	1774	120575	plant (Perilla frutescens) (n df.)
+216	to plant (vegetals, rice)	1486	1774	121127	plant, Hypericum uralum (n df.)
+216	to plant (vegetals, rice)	1486	1774	121595	plant, Oroxylum indicum (n df.)
+216	to plant (vegetals, rice)	1486	1774	121510	plant (buḍhi dhangeri) (n df.)
+216	to plant (vegetals, rice)	1486	1774	121093	plant (n df.)
+216	to plant (vegetals, rice)	1486	1774	121372	plant (n df.)
+216	to plant (vegetals, rice)	1486	1774	121516	plant (n df.)
+216	to plant (vegetals, rice)	1486	1774	120622	plant (n df.)
+216	to plant (vegetals, rice)	1486	1774	120709	plant (n df.)
+216	to plant (vegetals, rice)	1486	1774	120863	plant (n df.)
+216	to plant (vegetals, rice)	1486	1774	120908	plant (n df.)
+216	to plant (vegetals, rice)	1486	1774	121021	plant (n)
+#>>>
+#<<<
+217	to play	1413	1703	121572	play, amuse, cause to play, swim (vtt)
+217	to play	1413	1703	120733	hit, strike; play (an instrument) (vt)
+#>>>
+218	to pull	1455	1568	120331	pull, stretch, lead (vtt, vr)
+#<<<
+219	to push	1452	1689	121394	for, to (pp)
+219	to push	1452	1689	120753	push (vt)
+219	to push	1452	1689	120913	push (vt, vr)
+#>>>
+220	to reside (live)	1099	1452		???
+221	to run	1519	1544	121409	run (vr)
+#<<<
+222	to scratch	1436	1530	120206	scratch; scrape (e.g. the inside of a pot) (vt, vtt)
+222	to scratch	1436	1530	121090	scratch (vt, vr)
+222	to scratch	1436	1530	121326	scrape, whittle, peel (vt, vtt)
+#>>>
+#<<<
+223	to see	1409	1471	121296	see (vt)
+223	to see	1409	1471	121394	for, to (pp)
+#>>>
+#<<<
+224	to shoot (an arrow)	1172	1611	120390	branch, sprout, grow (vi)
+224	to shoot (an arrow)	1172	1611	121197	sprout, bud (n)
+224	to shoot (an arrow)	1172	1611	120175	shoot, shoot or throw at sth. (vt)
+224	to shoot (an arrow)	1172	1611	121392	sprout, germinate (vr)
+224	to shoot (an arrow)	1172	1611	120554	young (of an animal), shoot (of a plant) (n)
+#>>>
+225	to sing	1261	1184		???
+#<<<
+226	to sleep	1585	1646	121394	for, to (pp)
+226	to sleep	1585	1646	120130	sleep (vi, vr)
+226	to sleep	1585	1646	120132	sleep (n)
+#>>>
+#<<<
+227	to smell (perceive odor) [transitive]	1586	1707	120882	smell (n df.)
+227	to smell (perceive odor) [transitive]	1586	1707	121394	for, to (pp)
+227	to smell (perceive odor) [transitive]	1586	1707	120627	emit an odor, smell (vtt (im)
+227	to smell (perceive odor) [transitive]	1586	1707	120881	smell, sniff; stink (vtt (im)
+#>>>
+228	to sow (broadcast, scatter seeds)	748	1597	120592	sow (vt, vtt)
+#<<<
+229	to spit	1440	1688	121394	for, to (pp)
+229	to spit	1440	1688	120720	swallow, spit (vtt, vr)
+#>>>
+#<<<
+230	to stand	1442	1784	121276	stand; build, stand sth. up (vr, vt, vtt)
+230	to stand	1442	1784	121394	for, to (pp)
+#>>>
+231	to steal	713	1686		???
+#<<<
+232	to think (reflect)	1415	1726	121578	count, think (vtt)
+232	to think (reflect)	1415	1726	121394	for, to (pp)
+#>>>
+233	to throw	1456	1687		???
+#<<<
+234	to vomit	1278	1535	121055	vomit (n)
+234	to vomit	1278	1535	121393	return,  talk back, spit out, vomit (vtt, vr)
+#>>>
+#<<<
+235	to walk	1443	1815	120362	walk, leave, depart (vr)
+235	to walk	1443	1815	121267	turn, spin, wander (vr, vtt)
+235	to walk	1443	1815	121394	for, to (pp)
+235	to walk	1443	1815	121379	go; [passive or detrimental auxiliary] (vi, vr)
+#>>>
+#<<<
+236	to wipe	1454	1163	120586	wipe (the mouth, after eating) (vt, vtt)
+236	to wipe	1454	1163	121281	wipe (vt, vtt)
+#>>>
+#<<<
+237	today	1283	738	120689	today (adv)
+237	today	1283	738	120910	day, by day (n, adv)
+#>>>
+238	tomorrow	1329	742	120905	tomorrow, the next day (adv)
+239	twenty	1710	816		???
+#<<<
+240	two	1498	798	120869	two (human) (num)
+240	two	1498	798	120870	two (human) (vr)
+240	two	1498	798	120868	two (non-human) (num)
+#>>>
+241	we [first person plural inclusive]	1131	930	120407	I, me, we, us (pron (1)
+242	wet	1726	1029	120876	wet, be soaked (esp. by rain) (vtt (im)
+243	what	1236	954	121217	what? (adv int)
+#<<<
+244	where	1237	955	121573	where, wherever (adv int)
+244	where	1237	955	121575	where, wherever (adv int)
+#>>>
+#<<<
+245	white	1335	1006	120811	white (n (?))
+245	white	1335	1006	120812	white (adj)
+#>>>
+246	who	1235	953	121519	who? (pron in)
+247	yellow	1424	1008	121610	yellow (adj)
+248	yesterday	1174	739	120686	yesterday (adv)
+#<<<
+249	you [second person plural]	1213	933	120139	your , you (pron po)
+249	you [second person plural]	1213	933	120431	you (pron (2)
+249	you [second person plural]	1213	933	120147	your , you (PL) (pron po)
+249	you [second person plural]	1213	933	120433	you pl (pron (2)
+#>>>
+250	young	1207	1059	120554	young (of an animal), shoot (of a plant) (n)

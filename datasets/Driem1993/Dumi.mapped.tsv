@@ -1,0 +1,616 @@
+NUMBER	ENGLISH	CONCEPTICON_ID	TBL_ID	SRCID	SRCGLOSS
+29	I [first person singular]	1209	928	72471	I, me.
+#<<<
+1	above	1741	731	73708	above, up
+1	above	1741	731	73821	on top of, on, onto, above
+1	above	1741	731	148129	above, upward, in an upward direction.
+#>>>
+2	all	98	962	72897	all, everything, everyone.
+#<<<
+3	bad	1292	1053	72900	beautiful, comely, good, nice
+3	bad	1292	1053	73216	good, be alright, be fine (be v.)
+3	bad	1292	1053	148135	(of beer) good, full, aromatic, fragrant, strong, wholesome
+#>>>
+4	below, under	1485	732		???
+#<<<
+5	big	1202	964	72685	big, large
+5	big	1202	964	73705	large, wooden pestle
+5	big	1202	964	73044	large, edible frog
+5	big	1202	964	147888	whistling thrush, ;Myiophoneus caeruleus, a large (n)
+#>>>
+6	black	163	1005	72874	black
+#<<<
+7	cold (of temperature)	1287	1063	72669	cold (of liquids)
+7	cold (of temperature)	1287	1063	72899	cold, cough
+7	cold (of temperature)	1287	1063	72668	cold, chill
+#>>>
+8	correct (right)	1725	1045		???
+#<<<
+9	dark	706	1013	73180	sunset <evening,night>
+9	dark	706	1013	73543	night, nighttime, at night
+#>>>
+10	dirty	1230	1086		???
+11	dry	1398	1028		???
+12	early	672	1018		???
+13	eight	1705	804		???
+14	far	1406	974	148088	long (both spatially and temporally), far, far away, distant
+15	firewood	10	534	148056	wood, stick, log, lumber, timber, firewood, tree
+16	five	493	801		???
+#<<<
+17	four	1500	800	73645	four
+17	four	1500	800	72496	four
+#>>>
+18	full	1429	984	148135	(of beer) good, full, aromatic, fragrant, strong, wholesome
+#<<<
+19	good	1035	1052	72880	well [adv] <good>
+19	good	1035	1052	72900	beautiful, comely, good, nice
+19	good	1035	1052	73216	good, be alright, be fine (be v.)
+19	good	1035	1052	148135	(of beer) good, full, aromatic, fragrant, strong, wholesome
+#>>>
+20	green	1425	1009		???
+21	hard	1884	1034		???
+#<<<
+22	he or she [third person singular]	262	934	73659	he, she, this
+22	he or she [third person singular]	262	934	73127	he, she, it
+22	he or she [third person singular]	262	934	72784	he, she (human).
+22	he or she [third person singular]	262	934	72783	he, she (human).
+#>>>
+23	heavy	1210	1014	148051	mild, slightly sour, heavy, white and crumbly cheese, fabricated
+#<<<
+24	here	136	944	73660	here
+24	here	136	944	148110	here, over here (same altitude as point of reference)
+#>>>
+25	high / tall	1265	968		???
+26	horizontal	2376	1001		???
+#<<<
+27	hot	1286	1062	73885	hot (of fluids)
+27	hot	1286	1062	73884	hot (of fluids)
+27	hot	1286	1062	73614	hot (of liquids)
+27	hot	1286	1062	148193	hot (of the ambient air temperature)
+#>>>
+28	hundred	1634	824		???
+#<<<
+30	inside	1606	715	73914	at, in, with, at the house of
+30	inside	1606	715	72518	in, at, to
+30	inside	1606	715	72739	inside, within
+30	inside	1606	715	147720	inside (below point of reference)
+30	inside	1606	715	147721	inside (on the same plane as the point of reference)
+30	inside	1606	715	147724	inside (above point of reference)
+30	inside	1606	715	147728	inside, within; cf. hobi, hobɨ, hobu, hoptɨ; Nep.
+30	inside	1606	715	147914	in the middle of the day, halfway through the day, at noon, in
+30	inside	1606	715	147915	in the middle of the day, halfway through the day, at noon, in
+#>>>
+31	knife	1352	549	72530	dagger, knife
+32	late	477	1019		???
+33	left	244	710	147802	hand, lower arm (from elbow to fingertips); front paw
+34	light (of weight)	1052	1052	72675	light, lamp
+35	long	1203	972	148088	long (both spatially and temporally), far, far away, distant
+#<<<
+36	many	1198	987	72638	much, many
+36	many	1198	987	147684	most able, most skilled, most capable, wisest, most
+#>>>
+#<<<
+37	middle	1093	708	73832	middle, centre
+37	middle	1093	708	73826	middle, centre
+37	middle	1093	708	73155	middle, centre
+#>>>
+38	morning	1339	749	72532	morning
+39	narrow	1267	977		???
+40	near	1942	975	72538	short, near, nearby
+41	new	1231	1050		???
+42	nine	1483	805		???
+#<<<
+43	noon	12	750	147914	in the middle of the day, halfway through the day, at noon, in
+43	noon	12	750	147915	in the middle of the day, halfway through the day, at noon, in
+#>>>
+44	old (of person)	2112	1058	73583	old (of inanimate referents)
+#<<<
+45	one	1493	797	73677	one
+45	one	1493	797	73637	one
+45	one	1493	797	73636	one, a.
+#>>>
+46	outside	762	714	73285	outside
+47	red	156	1007	72727	red; Nep. rāto
+#<<<
+48	right	1019	711	147802	hand, lower arm (from elbow to fingertips); front paw
+48	right	1019	711	148192	<hearthstone> one of the three stones of the sɨptɨlu, the
+#>>>
+49	round	1395	990		???
+50	salty	1091	1076		???
+51	seven	1704	803		???
+52	sharp	1396	1020		???
+#<<<
+53	short	1645	973	72539	short, become short (be v.)
+53	short	1645	973	72538	short, near, nearby
+#>>>
+54	shy	487	1365		???
+55	six	1703	802		???
+#<<<
+56	small	1246	965	73629	little, few, a little bit
+56	small	1246	965	73623	small, little.
+#>>>
+57	smooth	1234	1037		???
+58	soft	1856	1035		???
+59	straight	1404	1003		???
+60	ten	1515	806		???
+61	that	78	947	73131	they, them, those
+62	the ant	587	365	73771	ant
+63	the armpit	1886	92	72712	armpit
+64	the bamboo	1927	389	147885	bamboo, any wild bamboo species.
+65	the barley (tibetan or highland)	932	411	73817	barley
+66	the belly	1251	96	73156	belly, abdomen
+67	the bird	937	326		???
+68	the blood	946	129	72721	blood
+#<<<
+69	the body hair (hair or fur)	189	266	148036	body hair, feathers, down, scales
+69	the body hair (hair or fur)	189	266	148037	body hair, feathers, down, scales
+#>>>
+70	the bone	1394	133	73487	bone
+#<<<
+71	the branch	1531	374	72792	branch
+71	the branch	1531	374	72773	branch; Nep. hā̃go.
+#>>>
+72	the breast (female)	1402	94		???
+73	the child (young human)	1304	169	148170	child, offspring, son, daughter
+74	the cloud	1489	7	72847	cloud, mist, fog; air
+75	the daughter	1357	222	148170	child, offspring, son, daughter
+76	the dew	1977	15		???
+#<<<
+77	the dog	2009	289	72915	dog, hound
+77	the dog	2009	289	72914	dog, hound
+#>>>
+78	the dream	2374	699	73602	dream; vision
+79	the dust	2	45		???
+80	the ear	1247	81	73245	ear
+#<<<
+81	the earth (soil)	1228	40	73326	clay, earth, soil, ground.
+81	the earth (soil)	1228	40	148019	<earth> soil (with implicit reference to the soil as the
+#>>>
+82	the earthworm	2350	363		???
+83	the egg	744	450		???
+84	the eye	1248	79		???
+#<<<
+85	the father	1217	218	73338	father
+85	the father	1217	218	73269	father
+#>>>
+#<<<
+86	the feather	1201	299	73348	feather, quill
+86	the feather	1201	299	148036	body hair, feathers, down, scales
+86	the feather	1201	299	148037	body hair, feathers, down, scales
+#>>>
+87	the fire	221	18		???
+88	the fish	227	351	73248	fish
+89	the flea	232	355	73779	flea, Pulex irritans
+#<<<
+90	the flower	239	377	73542	cause to bear fruit / to flower
+90	the flower	239	377	73337	flower
+90	the flower	239	377	73296	flower, bloom (of flowers)
+90	the flower	239	377	147941	pick (fruits, flowers), pick up
+#>>>
+91	the fog	249	16	72847	cloud, mist, fog; air
+#<<<
+92	the foot	1301	103	73375	foot
+92	the foot	1301	103	147973	foot, paw (of fowl, primates (inc. man) and quadrupeds)
+#>>>
+93	the forest	420	50		???
+94	the fox	1312	325		???
+95	the frog	503	349	72572	frog, toad
+#<<<
+96	the front (front side)	2194	712	72967	up front, in front
+96	the front (front side)	2194	712	147815	1) up front, in front; Nep. agāḍi; cf. yoː; 2) before
+#>>>
+97	the frost	2034	14		???
+98	the fruit	1507	378	72648	fruit
+99	the goat	1502	276	73721	goat
+100	the grass	606	436		???
+101	the hail	609	13		???
+102	the hair (of the head)	1040	75		???
+#<<<
+103	the hand	1277	107	72962	hand
+103	the hand	1277	107	147802	hand, lower arm (from elbow to fingertips); front paw
+103	the hand	1277	107	148054	wash up, e.g. one's face, hands / legs, but not one's whole (v.)
+#>>>
+#<<<
+104	the head	1256	74	72602	head
+104	the head	1256	74	148103	<old,chief> eldest, most knowledgeable, head, leader
+#>>>
+#<<<
+105	the heart	1223	144	73827	heart
+105	the heart	1223	144	72688	mind, feeling, heart, thought
+#>>>
+106	the hoof	152	264		???
+107	the horn (keratinized skin)	1393	263	72683	horn
+108	the horse	615	268		???
+109	the house	1252	494	72837	house
+#<<<
+110	the husband	1200	247	73914	at, in, with, at the house of
+110	the husband	1200	247	72636	husband
+#>>>
+111	the ice	617	17		???
+112	the knee	1371	101	72693	joint; knee
+113	the lake	624	31		???
+114	the leaf	628	376	73371	leaf, blade (of a leaf)
+#<<<
+115	the lip (the lips)	478	85	73812	lip
+115	the lip (the lips)	478	85	147757	lips (human); mouth (buccal cavity) and lips; beak, bill,
+115	the lip (the lips)	478	85	147758	lips (human); mouth (buccal cavity) and lips; beak, bill,
+115	the lip (the lips)	478	85	147759	lips (human); mouth (buccal cavity) and lips; beak, bill,
+#>>>
+116	the liver	1224	145	73058	liver; Nep. kalejo
+117	the louse	1392	356	73505	louse
+118	the lung	688	143	73700	lungs
+#<<<
+119	the man (male human)	2106	173	73105	man, mankind
+119	the man (male human)	2106	173	73012	man, male
+119	the man (male human)	2106	173	147945	grandmother (either paternal / maternal; male or female
+119	the man (male human)	2106	173	148172	grandfather (either paternal / maternal; male or female
+#>>>
+120	the meat	634	443		???
+121	the moon	1313	4		???
+122	the mosquito	1509	360		???
+123	the mother	1216	219		???
+124	the mountain	639	23		???
+125	the mouse or rat	2139	320	72793	mouse
+#<<<
+126	the mouth	674	84	72821	mouth
+126	the mouth	674	84	72820	mouth
+#>>>
+127	the mud	640	46		???
+#<<<
+128	the nail (fingernail or claw)	2128	113	73601	nail, claws, talon
+128	the nail (fingernail or claw)	2128	113	73458	nail, talon
+#>>>
+129	the name	1405	687	73212	name
+#<<<
+130	the neck	1333	89	73658	neck / throat
+130	the neck	1333	89	72998	throat; cf. toksɨ.
+#>>>
+131	the needle (for sewing)	1382	578	73830	needle
+132	the nit	267	357		???
+#<<<
+133	the nose	1221	80	73225	nose
+133	the nose	1221	80	73198	smell; sniff
+#>>>
+134	the otter	15	317		???
+135	the pig	1337	284	73331	pig, swine
+136	the rain	658	10		???
+137	the rainbow	1733	11	73176	rainbow
+#<<<
+138	the rice plant	2026	439	73599	rice (uncooked)
+138	the rice plant	2026	439	147693	rice; cooked grain, esp. cooked rice
+#>>>
+139	the river	666	30	72797	river
+#<<<
+140	the road	667	38	72980	road, way, path
+140	the road	667	38	72972	road, way, path
+#>>>
+141	the root	670	375		???
+#<<<
+142	the rope	1218	619	73420	rope
+142	the rope	1218	619	148044	"string (e.g. beads), thread (esp. puma ""flowers"" in making a"
+#>>>
+143	the salt	1274	61	73433	salt
+144	the sand	671	44		???
+145	the sea	1474	32	147786	<water> sea, ocean, fluid, liquid
+#<<<
+146	the seed	714	405	73092	seed, pit, grain, corn
+146	the seed	714	405	73444	semen, sperm, seed
+#>>>
+#<<<
+147	the sheep	1331	275	73168	sheep
+147	the sheep	1331	275	72458	ungulate, sheep, buffalo
+147	the sheep	1331	275	72457	ungulate, sheep, buffalo
+#>>>
+#<<<
+148	the shit	676	151	72910	shit, faeces <feces,excrement>
+148	the shit	676	151	72910	shit, faeces <feces,excrement>
+148	the shit	676	151	72674	shit, defecate
+148	the shit	676	151	72674	shit, defecate
+#>>>
+#<<<
+149	the shoulder	1482	90	73925	in back, behind
+149	the shoulder	1482	90	147649	shoulder (as seen from behind), shoulder blades
+149	the shoulder	1482	90	147803	shoulders (as seen from above), the upper surface of the
+#>>>
+150	the sickle	341	624		???
+151	the skin	763	120	148035	skin, hide, integument, bark, peel, rind, shell
+#<<<
+152	the sky	1732	1	72681	thunder, thunderstorm.
+152	the sky	1732	1	147769	thunderhead, nimbus cloud, gale winds, black clouds, thunder
+#>>>
+#<<<
+153	the smoke	778	19	73649	drink; smoke
+153	the smoke	778	19	73147	smoke
+#>>>
+154	the snake	730	347	72568	snake, serpent
+#<<<
+155	the snow	784	12	73411	snow (on the ground), ice.
+155	the snow	784	12	147916	<cat> forest leopard / panther, Panthera pardus, or snow
+#>>>
+156	the son	1620	220	148170	child, offspring, son, daughter
+157	the sparrow	1854	336		???
+158	the spider	843	361	72687	spider
+159	the star	1430	5		???
+#<<<
+160	the stick	1295	586	72817	stick, attach, glue
+160	the stick	1295	586	148056	wood, stick, log, lumber, timber, firewood, tree
+#>>>
+#<<<
+161	the stone (a piece of)	857	379	73056	rock, stone
+161	the stone (a piece of)	857	379	147855	stone / rock used as a hand-thrown projectile
+#>>>
+#<<<
+162	the sun	1343	2	73179	daylight, sun, sunshine
+162	the sun	1343	2	73208	sun, the sun-god
+162	the sun	1343	2	147902	sun (as a celestial orb / heavenly body)
+#>>>
+163	the tail	1220	267	73101	tail
+#<<<
+164	the thigh	800	100	73359	thigh
+164	the thigh	800	100	73349	thigh
+#>>>
+#<<<
+165	the thunder	1150	8	72681	thunder, thunderstorm.
+165	the thunder	1150	8	147769	thunderhead, nimbus cloud, gale winds, black clouds, thunder
+#>>>
+#<<<
+166	the tiger	846	304	73725	Panthera tigris, the tiger
+166	the tiger	846	304	148017	lord of the jungle, Panthera tigris, the tiger
+#>>>
+167	the tongue	1205	139	73006	tongue
+168	the tooth (front)	1380	137	73244	tooth / fang
+#<<<
+169	the tree	906	372	73854	tree <fig>
+169	the tree	906	372	72944	tree <fig>
+169	the tree	906	372	72875	tree <fig>
+169	the tree	906	372	72613	tree <fig>
+169	the tree	906	372	72509	tree <jackfruit>
+169	the tree	906	372	72508	tree <jackfruit>
+169	the tree	906	372	73301	tree <lapsi>
+169	the tree	906	372	73299	tree <lapsi>
+169	the tree	906	372	72994	tree <mowra-fat>
+169	the tree	906	372	72606	tree <near-chestnut>
+169	the tree	906	372	72731	tree <oak>
+169	the tree	906	372	73853	tree <pine>
+169	the tree	906	372	73858	tree
+169	the tree	906	372	73794	tree
+169	the tree	906	372	73541	tree
+169	the tree	906	372	73540	tree
+169	the tree	906	372	73270	tree
+169	the tree	906	372	73085	tree
+169	the tree	906	372	72938	tree
+169	the tree	906	372	72601	tree
+169	the tree	906	372	72600	tree
+169	the tree	906	372	72574	tree
+169	the tree	906	372	148056	wood, stick, log, lumber, timber, firewood, tree
+#>>>
+170	the water	948	47	72803	water, juice
+171	the wheat	1077	410	72628	wheat
+#<<<
+172	the wife	1199	248	73078	wife
+172	the wife	1199	248	72841	wife, mater familias.
+#>>>
+#<<<
+173	the wind	960	9	72847	cloud, mist, fog; air
+173	the wind	960	9	72730	wind
+173	the wind	960	9	147940	<tie,wind,roll up> wrap, spool (e.g., suːle thread),
+#>>>
+174	the wing	1257	298		???
+175	the wolf	522	324		???
+#<<<
+176	the woman	962	174	73104	female, woman
+176	the woman	962	174	73103	female, woman
+#>>>
+177	the wood (material)	1803	511	148056	wood, stick, log, lumber, timber, firewood, tree
+178	the year	1226	777	72935	year
+#<<<
+179	there	1937	950	73128	there
+179	there	1937	950	147817	on a level plane; there (at the same elevation as speaker)
+179	there	1937	950	147880	there, over there (same altitude as point of reference)
+#>>>
+180	thick	1244	980	72750	stupid, thick, oafish
+181	thin (object)	2307	981		???
+#<<<
+182	this	1214	942	73659	he, she, this
+182	this	1214	942	73664	they, them, these
+#>>>
+183	thou [second person singular]	1215	931		???
+#<<<
+184	three	492	799	73587	three
+184	three	492	799	73446	three
+#>>>
+#<<<
+185	to be alive	1422	1087	72518	in, at, to
+185	to be alive	1422	1087	147962	<purify> to become cleansed with the tears of mourning; to
+#>>>
+#<<<
+186	to bite	1403	1753	72518	in, at, to
+186	to bite	1403	1753	147962	<purify> to become cleansed with the tears of mourning; to
+#>>>
+187	to blow (of wind)	175	1738	72621	"blow (e.g. mi ""a fire"")"
+188	to burn [intransitive]	1428	1269	147719	"burn (+ inedible, e.g. sɨ ""firewood"")"
+189	to buy	1869	1516	72843	buy
+190	to chew	321	1424		???
+#<<<
+191	to come	1446	1491	72764	come, appear
+191	to come	1446	1491	72518	in, at, to
+191	to come	1446	1491	147688	"avalanche ;(with hoːtnɨ vi-3) ""come""/khotnɨ vi-3 ""go"")"
+191	to come	1446	1491	147949	come (along a horizontal plane)
+191	to come	1446	1491	147962	<purify> to become cleansed with the tears of mourning; to
+#>>>
+192	to count	1420	1640	72922	count
+193	to cry (weep)	1420	1485	72922	count
+#<<<
+194	to die	1494	1651	73102	die
+194	to die	1494	1651	72518	in, at, to
+194	to die	1494	1651	147962	<purify> to become cleansed with the tears of mourning; to
+194	to die	1494	1651	148120	"with saːyɨ ""life force"", become ill, die / be near death."
+#>>>
+195	to dig	1418	1698	72642	dig (e.g. a hole)
+#<<<
+196	to drink	1401	1370	73649	drink; smoke
+196	to drink	1401	1370	72518	in, at, to
+196	to drink	1401	1370	72803	water, juice
+196	to drink	1401	1370	147962	<purify> to become cleansed with the tears of mourning; to
+#>>>
+#<<<
+197	to eat	1336	1198	72518	in, at, to
+197	to eat	1336	1198	147962	<purify> to become cleansed with the tears of mourning; to
+#>>>
+198	to fight	1423	1234	72842	fight, quarrel
+199	to float	1574	1553		???
+200	to flow	2003	1502		???
+#<<<
+201	to fly (move through air)	1441	1318	72564	fly
+201	to fly (move through air)	1441	1318	72576	fly, midge
+201	to fly (move through air)	1441	1318	72518	in, at, to
+201	to fly (move through air)	1441	1318	147962	<purify> to become cleansed with the tears of mourning; to
+#>>>
+202	to forget	1523	1704	73737	forget
+#<<<
+203	to give	1447	1345	72533	birth, give (of non-humans) (v)
+203	to give	1447	1345	72528	give away, give (v.)
+203	to give	1447	1345	72524	give, hand over, proffer
+203	to give	1447	1345	72518	in, at, to
+203	to give	1447	1345	147962	<purify> to become cleansed with the tears of mourning; to
+#>>>
+#<<<
+204	to hear	1408	1682	73258	hear, listen to (v.)
+204	to hear	1408	1682	73257	hear, not be deaf.
+204	to hear	1408	1682	72518	in, at, to
+204	to hear	1408	1682	147962	<purify> to become cleansed with the tears of mourning; to
+#>>>
+#<<<
+205	to hide (conceal)	602	1169	73548	hide, conceal
+205	to hide (conceal)	602	1169	73547	hide, conceal
+205	to hide (conceal)	602	1169	72518	in, at, to
+205	to hide (conceal)	602	1169	147962	<purify> to become cleansed with the tears of mourning; to
+205	to hide (conceal)	602	1169	148035	skin, hide, integument, bark, peel, rind, shell
+#>>>
+206	to hold	1448	1709		???
+#<<<
+207	to hunt	1435	1230	72610	hunt; prey, game.
+207	to hunt	1435	1230	147947	<insert, poke> thrust, drive / stick into lengthwise
+#>>>
+208	to kill	1417	1602		???
+209	to knead	274	1594		???
+#<<<
+210	to know (something)	1410	1398	72518	in, at, to
+210	to know (something)	1410	1398	147962	<purify> to become cleansed with the tears of mourning; to
+210	to know (something)	1410	1398	148160	<know> understand (with inanimate patient), know, be familiar
+#>>>
+#<<<
+211	to laugh	1355	1735	72518	in, at, to
+211	to laugh	1355	1735	73425	laugh
+211	to laugh	1355	1735	147962	<purify> to become cleansed with the tears of mourning; to
+#>>>
+#<<<
+212	to learn	504	1742	73762	learn
+212	to learn	504	1742	147685	become aware of, learn, find out, come to know
+#>>>
+#<<<
+213	to lick	319	1674	72518	in, at, to
+213	to lick	319	1674	73069	lick
+213	to lick	319	1674	73068	lick
+213	to lick	319	1674	147962	<purify> to become cleansed with the tears of mourning; to
+#>>>
+#<<<
+214	to lie down	215	1661	73859	lie (untruth)
+214	to lie down	215	1661	73119	tell (a lie), lie
+#>>>
+215	to marry (a man marries a woman)	2164	1578		???
+#<<<
+216	to plant (vegetals, rice)	1486	1774	73001	plant, sow
+216	to plant (vegetals, rice)	1486	1774	147634	increase in size, augment, grow, swell, swell up.
+#>>>
+#<<<
+217	to play	1413	1703	73754	play
+217	to play	1413	1703	73753	play
+217	to play	1413	1703	148105	play (an instrument), ring (a bell), cause to sound
+#>>>
+218	to pull	1455	1568	73357	suck, draw (through a straw)
+#<<<
+219	to push	1452	1689	72518	in, at, to
+219	to push	1452	1689	147962	<purify> to become cleansed with the tears of mourning; to
+#>>>
+220	to reside (live)	1099	1452		???
+221	to run	1519	1544		???
+222	to scratch	1436	1530	147790	<scratch> scrape off of something, scrape, rout in the soil
+#<<<
+223	to see	1409	1471	72518	in, at, to
+223	to see	1409	1471	72630	see
+223	to see	1409	1471	147961	see
+223	to see	1409	1471	147962	<purify> to become cleansed with the tears of mourning; to
+#>>>
+224	to shoot (an arrow)	1172	1611	147839	sprout, shoot, bud; Nep. ṭusā, munā.
+225	to sing	1261	1184		???
+#<<<
+226	to sleep	1585	1646	72518	in, at, to
+226	to sleep	1585	1646	72766	sleep
+226	to sleep	1585	1646	147734	"sleep; abbreviated form of im­'si­nɨ vr. ""to sleep"" used as a"
+226	to sleep	1585	1646	147962	<purify> to become cleansed with the tears of mourning; to
+#>>>
+#<<<
+227	to smell (perceive odor) [transitive]	1586	1707	72518	in, at, to
+227	to smell (perceive odor) [transitive]	1586	1707	73198	smell; sniff
+227	to smell (perceive odor) [transitive]	1586	1707	147962	<purify> to become cleansed with the tears of mourning; to
+#>>>
+#<<<
+228	to sow (broadcast, scatter seeds)	748	1597	73001	plant, sow
+228	to sow (broadcast, scatter seeds)	748	1597	73092	seed, pit, grain, corn
+228	to sow (broadcast, scatter seeds)	748	1597	73254	sow (seed)
+228	to sow (broadcast, scatter seeds)	748	1597	73444	semen, sperm, seed
+#>>>
+#<<<
+229	to spit	1440	1688	72518	in, at, to
+229	to spit	1440	1688	72918	spittle, saliva, spit
+229	to spit	1440	1688	147962	<purify> to become cleansed with the tears of mourning; to
+#>>>
+#<<<
+230	to stand	1442	1784	72518	in, at, to
+230	to stand	1442	1784	73400	stand
+230	to stand	1442	1784	147962	<purify> to become cleansed with the tears of mourning; to
+230	to stand	1442	1784	147978	<stand> remain standing, be standing
+#>>>
+231	to steal	713	1686	72919	steal
+#<<<
+232	to think (reflect)	1415	1726	72518	in, at, to
+232	to think (reflect)	1415	1726	147962	<purify> to become cleansed with the tears of mourning; to
+#>>>
+233	to throw	1456	1687		???
+#<<<
+234	to vomit	1278	1535	73843	vomit
+234	to vomit	1278	1535	73842	vomit
+#>>>
+#<<<
+235	to walk	1443	1815	73687	descend, go / come down
+235	to walk	1443	1815	72518	in, at, to
+235	to walk	1443	1815	147962	<purify> to become cleansed with the tears of mourning; to
+235	to walk	1443	1815	148185	<insane,crazy> lose one's wits, be bewildered, go (temporarily)
+#>>>
+236	to wipe	1454	1163		???
+237	today	1283	738	72461	today
+238	tomorrow	1329	742		???
+239	twenty	1710	816		???
+#<<<
+240	two	1498	798	73450	two
+240	two	1498	798	73448	two
+240	two	1498	798	73451	two (human)
+240	two	1498	798	73449	two (non-human)
+240	two	1498	798	73214	two, the two of them, both
+240	two	1498	798	147896	1) elder sister; Nep. dīdī; cf. birma, wa, waːtto; 2)
+#>>>
+241	we [first person plural inclusive]	1131	930		???
+242	wet	1726	1029	72661	get wet, become wet
+243	what	1236	954	73158	what, any
+#<<<
+244	where	1237	955	72571	put, place, position, apply
+244	where	1237	955	147712	where, whither, whereto, which way
+244	where	1237	955	147907	"<wear> put, place; (with gu ""clothes"") get dressed, put on"
+#>>>
+245	white	1335	1006	72625	white
+246	who	1235	953	72449	who
+247	yellow	1424	1008		???
+248	yesterday	1174	739	72481	yesterday
+249	you [second person plural]	1213	933		???
+250	young	1207	1059		???

@@ -1,0 +1,442 @@
+# Wordlist
+
+# DATA
+ID	DOCULECT	CONCEPT	GLOSS_IN_SOURCE	IPA	TOKENS	SOURCE	COGID	TBL_ID	NOTE
+#
+1	Kulung	I [first person singular]	I (pron.)	kɔN	k ɔ ŋ	Tolsma1999	0	928	Nepali: ma. (Tolsma1999)
+#
+2	Kulung	above	above, up (adv.)	tɔ:ptɔ	t ɔ: p t ɔ	Tolsma1999	0	731	Nepali: māthi. (Tolsma1999)
+#
+3	Kulung	all	all (adv.)	tɔ:tɔ	t ɔ: t ɔ	Tolsma1999	0	962	Nepali: jammai. (Tolsma1999)
+4	Kulung	all	all, every (adv.)	khɔ:lɔ	kʰ ɔ: l ɔ	Tolsma1999	0	962	Nepali: sab. (Tolsma1999)
+#
+5	Kulung	bad	bad, useless, worthless. (adj.)	mannǝpa	m a n n ǝ p a	Tolsma1999	0	1053	
+#
+6	Kulung	big	big, fat (adj.)	depa	d e p a	Tolsma1999	0	964	Nepali: ṭhūlo, moṭo. (Tolsma1999)
+#
+7	Kulung	black	black (adj.)	gugurpa	g u g u r p a	Tolsma1999	0	1005	Nepali: kālo. (Tolsma1999)
+#
+8	Kulung	cold (of temperature)	cold, cool (adj.)	chikchilikpa	tsʰ i k tsʰ i l i k p a	Tolsma1999	0	1063	Nepali: ciso. (Tolsma1999)
+#
+9	Kulung	dry	be dry (grains, leaves, grass, etc.). (vi-1 [1: har-])	harma	h a r m a	Tolsma1999	0	1028	
+#
+10	Kulung	early	soon, early. (adv.)	nus	n u s	Tolsma1999	0	1018	
+#
+11	Kulung	far	far, distant (adv.)	chuburi	tsʰ u b u r i	Tolsma1999	0	974	Nepali: ṭāḍhā. (Tolsma1999)
+#
+12	Kulung	firewood	firewood (n.)	siN	s i ŋ	Tolsma1999	0	534	Nepali: dāurā. (Tolsma1999)
+#
+13	Kulung	five	five (num.)	Naci	ŋ a ts i	Tolsma1999	0	801	Nepali: pāṃc. (Tolsma1999)
+#
+14	Kulung	four	four. (num.)	li:ci	l i: ts i	Tolsma1999	0	800	
+#
+15	Kulung	good	good (adj.)	nǝpa	n ǝ p a	Tolsma1999	0	1052	Nepali: rāmro. (Tolsma1999)
+#
+16	Kulung	green	blue, green, young (of firewood), unripe, uncooked (adj.)	gigippa	g i g i p p a	Tolsma1999	0	1009	Nepali: hariyo, nilo, kāco. (Tolsma1999)
+#
+17	Kulung	hard	be hard (not soft) (vi-3 [1: chɔk- 2: chɔ:-])	chɔ:ma	tsʰ ɔ: m a	Tolsma1999	0	1034	Nepali: sāhro hunu. (Tolsma1999)
+#
+18	Kulung	he or she [third person singular]	he, this one (dem.)	Nkǝ	ŋ k ǝ	Tolsma1999	0	934	Nepali: yo. (Tolsma1999)
+#
+19	Kulung	heavy	be heavy (both physically and mentally). (vi-3 [1: lis- 2: li-])	lima	l i m a	Tolsma1999	0	1014	
+#
+20	Kulung	here	here (adv.)	ikhi	i kʰ i	Tolsma1999	0	944	Nepali: yahāṃ. (Tolsma1999)
+#
+21	Kulung	high / tall	tall, high (adj.)	repa	r e p a	Tolsma1999	0	968	Nepali: aglo. (Tolsma1999)
+#
+22	Kulung	horizontal	horizontal, level (adv.)	mbal	m b a l	Tolsma1999	0	1001	Nepali: terso. (Tolsma1999)
+#
+23	Kulung	hot	be warm (of clothes), be cosy. (vi-3 [1: hɔk- 2: hɔ:-])	hɔ:ma	h ɔ: m a	Tolsma1999	0	1062	
+#
+24	Kulung	inside	inside (n.)	gɔ:	g ɔ:	Tolsma1999	0	715	Nepali: bhitra. (Tolsma1999)
+#
+25	Kulung	late	be late (vi-3 [1: chus- 2: chu-])	chuma	tsʰ u m a	Tolsma1999	0	1019	Nepali: ḍhilo hunu. (Tolsma1999)
+#
+26	Kulung	left	leftside (West) of the house. (n.)	khimduwa	kʰ i m d u w a	Tolsma1999	0	710	
+#
+27	Kulung	light (of weight)	be light (vi-1 [1: ham-])	hamma	h a m m a	Tolsma1999	0	1052	Nepali: halukā hunu. (Tolsma1999)
+#
+28	Kulung	long	long (adj.)	babalpa	b a b a l p a	Tolsma1999	0	972	Nepali: lāmco. (Tolsma1999)
+29	Kulung	long	long (adj.)	baipa	b a i p a	Tolsma1999	0	972	Nepali: lāmo. (Tolsma1999)
+#
+30	Kulung	morning	morning (n.)	detcha	d e t tsʰ a	Tolsma1999	0	749	Nepali: bihān. (Tolsma1999)
+#
+31	Kulung	narrow	narrow (adj.)	chuchurpa	tsʰ u tsʰ u r p a	Tolsma1999	0	977	Nepali: saṃghuro. (Tolsma1999)
+#
+32	Kulung	near	close (vt-4 [1: chi:- 2: chi:y- 3: chi-])	chima	tsʰ i m a	Tolsma1999	0	975	Nepali: thunnu, lagāunu. (Tolsma1999)
+#
+33	Kulung	nine	nine. (num.)	bɔ:ci	b ɔ: ts i	Tolsma1999	0	805	
+#
+34	Kulung	old (of person)	old, worn out (adj.)	supe	s u p e	Tolsma1999	0	1058	Nepali: purāno. (Tolsma1999)
+#
+35	Kulung	one	one. (num.)	i:bum	i: b u m	Tolsma1999	0	797	
+#
+36	Kulung	outside	outside, out (adv.)	pakha	p a kʰ a	Tolsma1999	0	714	Nepali: bāhira. (Tolsma1999)
+#
+37	Kulung	red	red, pink, orange, purple (adj.)	halala:pa	h a l a l a: p a	Tolsma1999	0	1007	Nepali: rāto. (Tolsma1999)
+38	Kulung	red	red, pink, orange, purple (adj.)	halkya	h a l k j a	Tolsma1999	0	1007	Nepali: rāto. (Tolsma1999)
+#
+39	Kulung	right	rightside (East) of the house. (n.)	khimchini	kʰ i m tsʰ i n i	Tolsma1999	0	711	
+#
+40	Kulung	round	round, spherical (adj.)	pupulpa	p u p u l p a	Tolsma1999	0	990	Nepali: ḍalle. (Tolsma1999)
+41	Kulung	round	round, cirular (adj.)	khikhirpa	kʰ i kʰ i r p a	Tolsma1999	0	990	Nepali: golo. (Tolsma1999)
+#
+42	Kulung	sharp	sharp (adj.)	ge:pa	g e: p a	Tolsma1999	0	1020	Nepali: tīkho. (Tolsma1999)
+#
+43	Kulung	short	short (adj.)	cibaipa	ts i b a i p a	Tolsma1999	0	973	Nepali: choṭo. Cf. baipa elongi. (Tolsma1999)
+#
+44	Kulung	shy	be ashamed (vi-7 [1: lɔi- 2: lɔ- 3: lǝi- 4: lǝ-])	Nǝim lǝma	ŋ ǝ i m _ l ǝ m a	Tolsma1999	0	1365	
+#
+45	Kulung	six	six. (num.)	tukci	t u k ts i	Tolsma1999	0	802	
+#
+46	Kulung	small	little (adv.)	ci:cha	ts i: tsʰ a	Tolsma1999	0	965	Nepali: alikati. (Tolsma1999)
+47	Kulung	small	small (adj.)	ci:ma	ts i: m a	Tolsma1999	0	965	Nepali: sānu. (Tolsma1999)
+#
+48	Kulung	smooth	smooth, flat, even (adj.)	phemphempa	pʰ e m pʰ e m p a	Tolsma1999	0	1037	Nepali: cepṭo. (Tolsma1999)
+#
+49	Kulung	soft	soft (adj.)	lǝba lǝba	l ǝ b a _ l ǝ b a	Tolsma1999	0	1035	Nepali: kamalo. (Tolsma1999)
+#
+50	Kulung	straight	straight (adj.)	tǝntǝipa	t ǝ n t ǝ i p a	Tolsma1999	0	1003	Nepali: sīdhā. (Tolsma1999)
+#
+51	Kulung	ten	ten (preceded by the numeral 'one' ) (num.)	-pɔN	p ɔ ŋ	Tolsma1999	0	806	
+#
+52	Kulung	that	he, that one (dem.)	khuNkǝ	kʰ u ŋ k ǝ	Tolsma1999	0	947	Nepali: tyo. (Tolsma1999)
+#
+53	Kulung	the ant	black ant (n.)	khalem	kʰ a l e m	Tolsma1999	0	365	Nepali: kamilā. (Tolsma1999)
+#
+54	Kulung	the armpit	armpit (also with haplology: bayam) (n.)	bayayam	b a j a j a m	Tolsma1999	0	92	Nepali: kākhī. (Tolsma1999)
+#
+55	Kulung	the bamboo	bamboo (n.)	baphu	b a pʰ u	Tolsma1999	0	389	Nepali: bāṃs. (Tolsma1999)
+#
+56	Kulung	the barley (tibetan or highland)	barley, Hordeum vulgare (n.)	chɔN	tsʰ ɔ ŋ	Tolsma1999	0	411	Nepali: jau. (Tolsma1999)
+#
+57	Kulung	the belly	belly (n.)	bɔ	b ɔ	Tolsma1999	0	96	Nepali: peṭ. (Tolsma1999)
+#
+58	Kulung	the bird	bird (n.)	chɔwa	tsʰ ɔ w a	Tolsma1999	0	326	Nepali: carā. (Tolsma1999)
+#
+59	Kulung	the blood	blood (n.)	hi	h i	Tolsma1999	0	129	Nepali: ragat. (Tolsma1999)
+#
+60	Kulung	the body hair (hair or fur)	body hair (n.)	mui	m u i	Tolsma1999	0	266	Nepali: rauṃ. (Tolsma1999)
+#
+61	Kulung	the bone	bone (n.)	tupri	t u p r i	Tolsma1999	0	133	Nepali: hāḍ. (Tolsma1999)
+#
+62	Kulung	the branch	branch of a tree (n.)	gem	g e m	Tolsma1999	0	374	Nepali: hāṃgā. (Tolsma1999)
+#
+63	Kulung	the breast (female)	female breast (n.)	cu	ts u	Tolsma1999	0	94	Nepali: dudh. (Tolsma1999)
+#
+64	Kulung	the child (young human)	child, offspring, son, daughter. (n.)	cha	tsʰ a	Tolsma1999	0	169	
+#
+65	Kulung	the cloud	cloud (n.)	mɔm	m ɔ m	Tolsma1999	0	7	Nepali: bādal. (Tolsma1999)
+#
+66	Kulung	the daughter	daughter (n.)	cham	tsʰ a m	Tolsma1999	0	222	Nepali: chorī. (Tolsma1999)
+#
+67	Kulung	the dew	dew. (n.)	sɔNgerwa	s ɔ ŋ g e r w a	Tolsma1999	0	15	
+#
+68	Kulung	the dog	dog (n.)	kheba	kʰ e b a	Tolsma1999	0	289	Nepali: kukur. (Tolsma1999)
+#
+69	Kulung	the dream	dream (n.)	se:mɔ:	s e: m ɔ:	Tolsma1999	0	699	Nepali: sapanā. (Tolsma1999)
+#
+70	Kulung	the dust	flour, dust (n.)	phul	pʰ u l	Tolsma1999	0	45	Nepali: piṭho, dhūlo. (Tolsma1999)
+#
+71	Kulung	the ear	ear (n.)	nɔbɔ	n ɔ b ɔ	Tolsma1999	0	81	Nepali: kān. (Tolsma1999)
+#
+72	Kulung	the earth (soil)	mud, earth (n.)	bɔhɔ	b ɔ h ɔ	Tolsma1999	0	40	Nepali: hilo. (Tolsma1999)
+#
+73	Kulung	the earthworm	earthworm (n.)	nampuchɔ	n a m p u tsʰ ɔ	Tolsma1999	0	363	Nepali: gaṃḍyauṃlo. (Tolsma1999)
+#
+74	Kulung	the egg	egg (of a chicken) (n.)	wa:di	w a: d i	Tolsma1999	0	450	Nepali: phul. (Tolsma1999)
+#
+75	Kulung	the eye	eye, sepal of a flower (n.)	muksi	m u ks i	Tolsma1999	0	79	Nepali: āṃkhā. (Tolsma1999)
+#
+76	Kulung	the father	father (n.)	pa	p a	Tolsma1999	0	218	Nepali: buvā. (Tolsma1999)
+#
+77	Kulung	the feather	feather (n.)	walamma	w a l a m m a	Tolsma1999	0	299	Nepali: pvāṃkh. (Tolsma1999)
+#
+78	Kulung	the fire	fire (n.)	mi	m i	Tolsma1999	0	18	Nepali: āgo. (Tolsma1999)
+#
+79	Kulung	the fish	fish (n.)	Na	ŋ a	Tolsma1999	0	351	Nepali: māchā. (Tolsma1999)
+#
+80	Kulung	the flea	human flea, Pulex irritans (n.)	cikippa	ts i k i p p a	Tolsma1999	0	355	Nepali: upiyāṃ. (Tolsma1999)
+#
+81	Kulung	the flower	flower (n.)	buN	b u ŋ	Tolsma1999	0	377	Nepali: phūl. (Tolsma1999)
+#
+82	Kulung	the fog	mist (n.)	phuiki	pʰ u i k i	Tolsma1999	0	16	Nepali: kuiro. (Tolsma1999)
+#
+83	Kulung	the foot	leg, foot (n.)	lɔN	l ɔ ŋ	Tolsma1999	0	103	Nepali: khuṭṭā. (Tolsma1999)
+#
+84	Kulung	the forest	forest (n.)	sɔ:gɔ	s ɔ: g ɔ	Tolsma1999	0	50	Nepali: ban. (Tolsma1999)
+#
+85	Kulung	the frog	frog, toad (n.)	bɔrɔ	b ɔ r ɔ	Tolsma1999	0	349	Nepali: khasre, bhyāguto. (Tolsma1999)
+#
+86	Kulung	the front (front side)	front (n.)	lais	l a i s	Tolsma1999	0	712	
+#
+87	Kulung	the frost	frost (n.)	chawa	tsʰ a w a	Tolsma1999	0	14	Nepali: tusāro. (Tolsma1999)
+#
+88	Kulung	the fruit	fruit (n.)	se	s e	Tolsma1999	0	378	Nepali: phalphūl. (Tolsma1999)
+#
+89	Kulung	the goat	goat (n.)	chara	tsʰ a r a	Tolsma1999	0	276	Nepali: bākhro. (Tolsma1999)
+#
+90	Kulung	the grass	grass, where a broom is made of. (n.)	serbɔ	s e r b ɔ	Tolsma1999	0	436	
+#
+91	Kulung	the hail	hail (n.)	mulu	m u l u	Tolsma1999	0	13	Nepali: asinā. (Tolsma1999)
+#
+92	Kulung	the hair (of the head)	grow (crops, hair), begin to sprout (vi-1 [1: lim-])	limma	l i m m a	Tolsma1999	0	75	Nepali: umranu, palāunu. (Tolsma1999)
+#
+93	Kulung	the head	head (n.)	tɔN	t ɔ ŋ	Tolsma1999	0	74	Nepali: ṭāuko. (Tolsma1999)
+#
+94	Kulung	the heart	heart (n.)	cɔwa	ts ɔ w a	Tolsma1999	0	144	Nepali: muṭu. (Tolsma1999)
+#
+95	Kulung	the horn (keratinized skin)	horn (n.)	pittɔ	p i t t ɔ	Tolsma1999	0	263	Nepali: siŋ. (Tolsma1999)
+#
+96	Kulung	the house	house (n.)	khim	kʰ i m	Tolsma1999	0	494	Nepali: ghar. (Tolsma1999)
+#
+97	Kulung	the husband	husband (n.)	tuppɔ	t u p p ɔ	Tolsma1999	0	247	Nepali: logne. (Tolsma1999)
+#
+98	Kulung	the ice	snow, ice (n.)	nɔ:N	n ɔ: ŋ	Tolsma1999	0	17	Nepali: hiuṃ. (Tolsma1999)
+#
+99	Kulung	the knee	knee (n.)	tumchi	t u m tsʰ i	Tolsma1999	0	101	Nepali: ghuṃḍā. (Tolsma1999)
+#
+100	Kulung	the leaf	leaf (n.)	si:bɔ	s i: b ɔ	Tolsma1999	0	376	Nepali: pāt. (Tolsma1999)
+#
+101	Kulung	the lip (the lips)	lip (n.)	Nǝcǝsuwa	ŋ ǝ ts ǝ s u w a	Tolsma1999	0	85	Nepali: oṭh. (Tolsma1999)
+#
+102	Kulung	the liver	liver (n.)	luma	l u m a	Tolsma1999	0	145	Nepali: kalejo. (Tolsma1999)
+#
+103	Kulung	the louse	louse (n.)	si	s i	Tolsma1999	0	356	Nepali: jumrā. (Tolsma1999)
+#
+104	Kulung	the man (male human)	male (n.)	watcha	w a t tsʰ a	Tolsma1999	0	173	Nepali: logne-mānche. (Tolsma1999)
+#
+105	Kulung	the meat	meat, flesh (n.)	sa	s a	Tolsma1999	0	443	Nepali: māsu. (Tolsma1999)
+#
+106	Kulung	the moon	moon (n.)	la	l a	Tolsma1999	0	4	Nepali: jūn. (Tolsma1999)
+#
+107	Kulung	the mother	mother (n.)	ma	m a	Tolsma1999	0	219	Nepali: āmā. (Tolsma1999)
+#
+108	Kulung	the mountain	mountain (n.)	bur	b u r	Tolsma1999	0	23	Nepali: himāl. (Tolsma1999)
+#
+109	Kulung	the mouse or rat	mouse, rat (n.)	chuwi	tsʰ u w i	Tolsma1999	0	320	Nepali: muso. (Tolsma1999)
+#
+110	Kulung	the mouth	mouth (n.)	Nǝ	ŋ ǝ	Tolsma1999	0	84	Nepali: mukh. (Tolsma1999)
+#
+111	Kulung	the mud	mud, earth (n.)	bɔhɔ	b ɔ h ɔ	Tolsma1999	0	46	Nepali: hilo. (Tolsma1999)
+#
+112	Kulung	the nail (fingernail or claw)	fingernail (of the fingers and toes) (n.)	sen	s e n	Tolsma1999	0	113	Nepali: naŋ. (Tolsma1999)
+#
+113	Kulung	the name	name (n.)	niN	n i ŋ	Tolsma1999	0	687	Nepali: nām. (Tolsma1999)
+#
+114	Kulung	the neck	neck (n.)	pɔi	p ɔ i	Tolsma1999	0	89	Nepali: ghām. (Tolsma1999)
+#
+115	Kulung	the needle (for sewing)	needle (n.)	chamei	tsʰ a m e i	Tolsma1999	0	578	Nepali: siyo. (Tolsma1999)
+#
+116	Kulung	the nose	nose (n.)	nap	n a p	Tolsma1999	0	80	Nepali: nāk. (Tolsma1999)
+#
+117	Kulung	the pig	pig (black species) (n.)	bɔ:	b ɔ:	Tolsma1999	0	284	Nepali: suŋgur. (Tolsma1999)
+#
+118	Kulung	the rain	rain (n.)	wa	w a	Tolsma1999	0	10	Nepali: pānī. (Tolsma1999)
+#
+119	Kulung	the rainbow	rainbow (n.)	rɔktɔkhɔ:m	r ɔ k t ɔ kʰ ɔ: m	Tolsma1999	0	11	Nepali: indrenī (Tolsma1999)
+120	Kulung	the rainbow	rainbow (n.)	cu:khɔ:m	ts u: kʰ ɔ: m	Tolsma1999	0	11	
+#
+121	Kulung	the rice plant	paddy, rice in the field, Oryza sativa L. (n.)	ra	r a	Tolsma1999	0	439	Nepali: dhān. (Tolsma1999)
+#
+122	Kulung	the river	river (n.)	yɔwa	j ɔ w a	Tolsma1999	0	30	Nepali: kholā. (Tolsma1999)
+#
+123	Kulung	the road	thoroughfare, way (n.)	chelamdelam	tsʰ e l a m d e l a m	Tolsma1999	0	38	Nepali: bāṭo ghāṭo. (Tolsma1999)
+#
+124	Kulung	the root	root (n.)	sam	s a m	Tolsma1999	0	375	Nepali: jaro. (Tolsma1999)
+#
+125	Kulung	the rope	rope, cord. (n.)	ribɔ	r i b ɔ	Tolsma1999	0	619	
+#
+126	Kulung	the salt	salt (n.)	rum	r u m	Tolsma1999	0	61	Nepali: nūn.. (Tolsma1999)
+#
+127	Kulung	the sand	sand (n.)	serɔm	s e r ɔ m	Tolsma1999	0	44	Nepali: bāluvā. (Tolsma1999)
+#
+128	Kulung	the seed	seed (n.)	calei	ts a l e i	Tolsma1999	0	405	Nepali: bīu. (Tolsma1999)
+#
+129	Kulung	the shoulder	shoulder (as seen from behind), shoulder blades (n.)	bɔutɔ	b ɔ u t ɔ	Tolsma1999	0	90	Nepali: kum. (Tolsma1999)
+#
+130	Kulung	the sickle	sickle (n.)	belɔ	b e l ɔ	Tolsma1999	0	624	Nepali: haṃsiyā. (Tolsma1999)
+#
+131	Kulung	the skin	skin (n.)	sɔkɔwar	s ɔ k ɔ w a r	Tolsma1999	0	120	Nepali: chālā. (Tolsma1999)
+#
+132	Kulung	the sky	sky, sun, weather (n.)	nam	n a m	Tolsma1999	0	1	Nepali: ākās!, ghām. (Tolsma1999)
+#
+133	Kulung	the smoke	smoke (n.)	mikma	m i k m a	Tolsma1999	0	19	Nepali: dhūvāṃ. (Tolsma1999)
+#
+134	Kulung	the snake	snake (n.)	pu	p u	Tolsma1999	0	347	Nepali: sāṃp. (Tolsma1999)
+#
+135	Kulung	the snow	snow, ice (n.)	nɔ:N	n ɔ: ŋ	Tolsma1999	0	12	Nepali: hiuṃ. (Tolsma1999)
+#
+136	Kulung	the son	child, offspring, son, daughter. (n.)	cha	tsʰ a	Tolsma1999	0	220	
+#
+137	Kulung	the spider	spider (n.)	punchiri	p u n tsʰ i r i	Tolsma1999	0	361	Nepali: mākurā. (Tolsma1999)
+#
+138	Kulung	the star	star (n.)	sɔNger	s ɔ ŋ g e r	Tolsma1999	0	5	Nepali: tārā. (Tolsma1999)
+#
+139	Kulung	the stone (a piece of)	stone, rock (n.)	luN	l u ŋ	Tolsma1999	0	379	Nepali: ḍhuŋgā. (Tolsma1999)
+#
+140	Kulung	the sun	sky, sun, weather (n.)	nam	n a m	Tolsma1999	0	2	Nepali: ākās!, ghām. (Tolsma1999)
+#
+141	Kulung	the tail	tail (n.)	meri	m e r i	Tolsma1999	0	267	Nepali: pucchar. (Tolsma1999)
+#
+142	Kulung	the thigh	thigh (n.)	phila	pʰ i l a	Tolsma1999	0	100	Nepali: philā. (Tolsma1999)
+#
+143	Kulung	the thunder	thunder (n.)	bululuwa	b u l u l u w a	Tolsma1999	0	8	Nepali: caṭyāŋ parcha (Tolsma1999)
+#
+144	Kulung	the tiger	tusk (of elephant), fang (of snake, pig, tiger) (n.)	kǝl	k ǝ l	Tolsma1999	0	304	Nepali: dāhrā. (Tolsma1999)
+#
+145	Kulung	the tongue	tongue (n.)	lem	l e m	Tolsma1999	0	139	Nepali: jibhro. (Tolsma1999)
+#
+146	Kulung	the tooth (front)	tooth (n.)	kaN	k a ŋ	Tolsma1999	0	137	Nepali: dāṃt. (Tolsma1999)
+#
+147	Kulung	the tree	tree (n.)	si:chɔ	s i: tsʰ ɔ	Tolsma1999	0	372	Nepali: rūkh. (Tolsma1999)
+#
+148	Kulung	the water	water (n.)	kawa	k a w a	Tolsma1999	0	47	Nepali: pānī. (Tolsma1999)
+#
+149	Kulung	the wheat	wheat, Triticum sativum (n.)	dɔcer	d ɔ ts e r	Tolsma1999	0	410	Nepali: gahuṃ. (Tolsma1999)
+#
+150	Kulung	the wife	wife (n.)	yu	j u	Tolsma1999	0	248	Nepali: patnī. (Tolsma1999)
+151	Kulung	the wife	wife (n.)	tɔ:ma	t ɔ: m a	Tolsma1999	0	248	Nepali: svāsnī. (Tolsma1999)
+#
+152	Kulung	the wind	wind (n.)	hik	h i k	Tolsma1999	0	9	Nepali: hāvā. (Tolsma1999)
+#
+153	Kulung	the wing	wing (n.)	laptɔ	l a p t ɔ	Tolsma1999	0	298	Nepali: pakhetā. (Tolsma1999)
+#
+154	Kulung	the woman	Sherpa woman. (n.)	samme	s a m m e	Tolsma1999	0	174	
+155	Kulung	the woman	young woman (n.)	sɔ:lɔme	s ɔ: l ɔ m e	Tolsma1999	0	174	Nepali: tarunī. (Tolsma1999)
+#
+156	Kulung	the wood (material)	sweep (with a broom or piece of wood), wipe off, blow one's nose (vt-4 [1: chis- 2: chiss- 3: chi-])	chima	tsʰ i m a	Tolsma1999	0	511	Nepali: baḍārnu, kuco lāunu. (Tolsma1999)
+#
+157	Kulung	the year	year (always preceded by a numeral) (n.)	-dɔN	d ɔ ŋ	Tolsma1999	0	777	Nepali: varṣa. (Tolsma1999)
+#
+158	Kulung	there	there, in there (adv.)	mǝnpi	m ǝ n p i	Tolsma1999	0	950	Nepali: tyahāṃ. (Tolsma1999)
+#
+159	Kulung	thin (object)	thin (adj.)	cupkhaswa	ts u p kʰ a s w a	Tolsma1999	0	981	Nepali: dublo. (Tolsma1999)
+#
+160	Kulung	three	three.. (num.)	supci	s u p ts i	Tolsma1999	0	799	
+#
+161	Kulung	to be alive	live, survive (vi-4 [1: let- 2: lei- 3: len-])	leima	l e i m a	Tolsma1999	0	1087	Nepali: bāṃcnu. (Tolsma1999)
+#
+162	Kulung	to bite	sting, bite, chew (vt-8 [1: khɔi- 2: khɔ- 3: khǝi- 4: khǝ- 5: khui- 6: khu- 7: kha- 8: khɔk-])	khɔma	kʰ ɔ m a	Tolsma1999	0	1753	Nepali: ṭoknu. (Tolsma1999)
+#
+163	Kulung	to blow (of wind)	1. pound, crush, knock, forge, blow (on a horn or flute) 2. lam dumma drive cattle (vt-4 [1: dup- 2: dupp- 3: dum-])	dumma	d u m m a	Tolsma1999	0	1738	Nepali: 1. kuṭnu, piṭnu, bajāunu. 2. hiṃḍāunu. (Tolsma1999)
+#
+164	Kulung	to burn [intransitive]	burn (of fire or light) (vi-4 [1: tit- 2: ti:- 3: tin-])	ti:ma	t i: m a	Tolsma1999	0	1269	Nepali: balnu. (Tolsma1999)
+#
+165	Kulung	to buy	buy (vt-5 [1: khet- 2: khett- 3: khei- 4: khen- 5: khe:-])	kheima	kʰ e i m a	Tolsma1999	0	1516	Nepali: kinnu. (Tolsma1999)
+#
+166	Kulung	to chew	chew (vt-4 [1: kham- 2: khamm- 3: kham-])	khamma	kʰ a m m a	Tolsma1999	0	1424	Nepali: capāunu. (Tolsma1999)
+#
+167	Kulung	to come	come (from whatever direction) (vi-7 [1: tɔi- 2: tɔ- 3: tai- 4: ta-])	tama	t a m a	Tolsma1999	0	1491	Nepali: āunu. (Tolsma1999)
+#
+168	Kulung	to count	count (vt-1 [1: Nir- ])	Nirma	ŋ i r m a	Tolsma1999	0	1640	Nepali: gannu. (Tolsma1999)
+#
+169	Kulung	to cry (weep)	count (vt-1 [1: Nir- ])	Nirma	ŋ i r m a	Tolsma1999	0	1485	Nepali: gannu. (Tolsma1999)
+#
+170	Kulung	to die	die (vi-3 [1: si:- 2: si-])	sima	s i m a	Tolsma1999	0	1651	Nepali: marnu. (Tolsma1999)
+#
+171	Kulung	to dig	dig (vt-8 [1: dɔi- 2: dɔ- 3: dǝi- 4: dǝ- 5: dui- 6: du- 7: da- 8: dɔk-])	dɔma	d ɔ m a	Tolsma1999	0	1698	Nepali: khannu. (Tolsma1999)
+#
+172	Kulung	to drink	drink (vt-4 [1: duN- 2: duNN- 3: du:-])	du:ma	d u: m a	Tolsma1999	0	1370	Nepali: piunu. (Tolsma1999)
+#
+173	Kulung	to eat	eat (vt-7 [1: cɔi- 2: cɔ- 3: cǝi- 4: cǝ- 5: cai- 6: ca-])	cama	ts a m a	Tolsma1999	0	1198	Nepali: khānu. (Tolsma1999)
+#
+174	Kulung	to fight	quarrel, fight (vi-3 [1: khei- 2: khe-])	khema	kʰ e m a	Tolsma1999	0	1234	Nepali: jhagaḍā garnu. (Tolsma1999)
+#
+175	Kulung	to flow	flow (of a river) (vi-1 [1: el-])	elma	e l m a	Tolsma1999	0	1502	Nepali: bagnu. (Tolsma1999)
+#
+176	Kulung	to fly (move through air)	fly (vi-1 [1: per-])	perma	p e r m a	Tolsma1999	0	1318	Nepali: uḍnu. (Tolsma1999)
+#
+177	Kulung	to forget	forget (vt-5 [1: mat- 2: matt- 3: mai- 4: man- 5: ma:-])	maima	m a i m a	Tolsma1999	0	1704	Nepali: birsanu (Tolsma1999)
+#
+178	Kulung	to give	give (vt-4 [1: pi:- 2: pi:y- 3: pi-])	pima	p i m a	Tolsma1999	0	1345	Nepali: dinu. (Tolsma1999)
+#
+179	Kulung	to hear	hear (vt-2 [1: yen- 2: ye:-])	ye:ma	j e: m a	Tolsma1999	0	1682	Nepali: sunnu. (Tolsma1999)
+#
+180	Kulung	to hide (conceal)	hide, conceal (vt-4 [1: sul- 2: sull- 3: sul-])	sulma	s u l m a	Tolsma1999	0	1169	Nepali: lukāunu. (Tolsma1999)
+#
+181	Kulung	to hold	grab, hold, catch, seize, grasp, khalamba lamma catch a cold (vt-4 [1: lap- 2: lapp- 3: lam-])	lamma	l a m m a	Tolsma1999	0	1709	Nepali: samātnu, pakranu. (Tolsma1999)
+#
+182	Kulung	to hunt	chase, pursue, drive off (cattle, people), push, follow, take a road (vt-4 [1: kǝl- 2: kǝll- 3: kǝl-])	kǝlma	k ǝ l m a	Tolsma1999	0	1230	Nepali: dhapāunu, khednu, ghaceḍnu, pachyāunu. (Tolsma1999)
+#
+183	Kulung	to kill	kill, extinguish (fire), put off (vt-5 [1: set- 2: sett- 3: sei- 4: sen- 5: se:-])	seima	s e i m a	Tolsma1999	0	1602	Nepali: mārnu. (Tolsma1999)
+#
+184	Kulung	to knead	knead (vt-3 [1: cǝk- 2: cɔ:- 3: cɔk-])	cɔ:ma	ts ɔ: m a	Tolsma1999	0	1594	Nepali: muchnu. (Tolsma1999)
+#
+185	Kulung	to know (something)	know (a fact, person, way), recognize (vt-5 [1: chet- 2: chett- 3: chei- 4: cen- 5: ce:-])	cheima	tsʰ e i m a	Tolsma1999	0	1398	Nepali: cinnu. (Tolsma1999)
+#
+186	Kulung	to laugh	laugh (vi-3 [1: ges- 2: ge-])	gema	g e m a	Tolsma1999	0	1735	Nepali: hāṃsnu. (Tolsma1999)
+#
+187	Kulung	to learn	learn (vr [1: i- 2: it-])	incima	i n ts i m a	Tolsma1999	0	1742	Nepali: siknu (Tolsma1999)
+188	Kulung	to learn	learn (vt-5 [1: dǝt- 2: dǝtt- 3: dǝi- 4: dǝn- 5: dǝ:-])	dǝima	d ǝ i m a	Tolsma1999	0	1742	Nepali: siknu. (Tolsma1999)
+#
+189	Kulung	to lick	lick (vt-3 [1: lɔk- 2: lɔ:- 3: lɔk-])	lɔ:ma	l ɔ: m a	Tolsma1999	0	1674	Nepali: cāṭnu. (Tolsma1999)
+#
+190	Kulung	to lie down	lie down, fall, topple (vi-6 [1: ut- 2: ui- 3: utt- 4: un- 5: u:-])	uima	u i m a	Tolsma1999	0	1661	Nepali: ḍhalnu. (Tolsma1999)
+#
+191	Kulung	to plant (vegetals, rice)	plant, pour out (vt-5 [1: let- 2: lett- 3: lei- 4: len- 5: le:-])	leima	l e i m a	Tolsma1999	0	1774	Nepali: ropnu, khanyāunu. (Tolsma1999)
+#
+192	Kulung	to play	feel itself, play (vi-7 [1: lɔi- 2: lɔ- 3: lǝi- 4: lǝ-])	lǝma	l ǝ m a	Tolsma1999	0	1703	Nepali: lāgnu, khelnu (Tolsma1999)
+#
+193	Kulung	to push	push, shove (vt-4 [1: tǝl- 2: tǝll- 3: tǝl-])	tǝlma	t ǝ l m a	Tolsma1999	0	1689	Nepali: ghaceḍnu, (Tolsma1999)
+#
+194	Kulung	to run	run (vi-3 [1: buls- 2: bul-])	bulma	b u l m a	Tolsma1999	0	1544	Nepali: dagurnu. (Tolsma1999)
+#
+195	Kulung	to scratch	scratch (vt-5 [1: ui- 2: uiy- 3: ui- 4: un- 5: u:-])	uima	u i m a	Tolsma1999	0	1530	Nepali: cithornu. (Tolsma1999)
+#
+196	Kulung	to see	see (vt-4 [1: khɔN- 2: khɔNN- 3: khɔ:-])	khɔ:ma	kʰ ɔ: m a	Tolsma1999	0	1471	Nepali: dekhnu. (Tolsma1999)
+#
+197	Kulung	to shoot (an arrow)	1. shoot (e.g. with bow); 2. to break through (of sun) 3. jump over (e.g. rope) (vt-4 [1: ap- 2: app- 3: am-])	amma	a m m a	Tolsma1999	0	1611	Nepali: 2. jhulkinu. 3. hānnu. (Tolsma1999)
+#
+198	Kulung	to sing	make noise, shout, squeal (pig, goat), sing (of a bird), rumble (of one's belly) (vi-7 [1: kɔi- 2: kɔ- 3: kai- 4: ka-])	kama	k a m a	Tolsma1999	0	1184	Nepali: karāunu. (Tolsma1999)
+#
+199	Kulung	to sleep	sleep (vi-3 [1: ims- 2: im-])	imma	i m m a	Tolsma1999	0	1646	Nepali: sutnu. (Tolsma1999)
+#
+200	Kulung	to smell (perceive odor) [transitive]	smell, sniff (vt-2 [1: naps- 2: nam-])	namma	n a m m a	Tolsma1999	0	1707	Nepali: suṃghnu. (Tolsma1999)
+#
+201	Kulung	to sow (broadcast, scatter seeds)	sow (vt-5 [1: phui- 2: phuiy- 3: phui- 4: phun- 5: phu:-])	phuima	pʰ u i m a	Tolsma1999	0	1597	Nepali: charnu. (Tolsma1999)
+#
+202	Kulung	to spit	throw, spit (vt-2 [1: dɔks- 2: dɔ:-])	dɔ:ma	d ɔ: m a	Tolsma1999	0	1688	
+#
+203	Kulung	to stand	stand (vi-3 [1: thɔ rep- 2: thɔ rem-])	thɔ remma	tʰ ɔ _ r e m m a	Tolsma1999	0	1784	Nepali: ubhinu. (Tolsma1999)
+#
+204	Kulung	to steal	steal (vt-4 [1: khus- 2: khuss- 3: khu-])	khuma	kʰ u m a	Tolsma1999	0	1686	Nepali: cornu. (Tolsma1999)
+#
+205	Kulung	to think (reflect)	think (vi-3 [1: min- 2: mi:-])	mi:ma	m i: m a	Tolsma1999	0	1726	Nepali: socnu. (Tolsma1999)
+#
+206	Kulung	to throw	throw, throw away (vt-2 [1: hɔks- 2: hɔ:-])	hɔ:ma	h ɔ: m a	Tolsma1999	0	1687	Nepali: phālnu, phyāṃknu. (Tolsma1999)
+#
+207	Kulung	to vomit	vomit (vi-3 [1: pas- 2: pa-])	pama	p a m a	Tolsma1999	0	1535	Nepali: bāntā garnu. (Tolsma1999)
+#
+208	Kulung	to walk	walk (vi-1 [1: lam dum-])	lam dumma	l a m _ d u m m a	Tolsma1999	0	1815	Nepali: hiṃḍnu. (Tolsma1999)
+#
+209	Kulung	to wipe	wipe, wipe up (vt-5 [1: khui- 2: khuiy- 3: khui- 4: khun- 5: khu:-])	khuima	kʰ u i m a	Tolsma1999	0	1163	Nepali: puchnu. (Tolsma1999)
+#
+210	Kulung	today	today (adv.)	ese	e s e	Tolsma1999	0	738	Nepali: āja. (Tolsma1999)
+#
+211	Kulung	tomorrow	tomorrow (adv.)	desa	d e s a	Tolsma1999	0	742	Nepali: bholi. (Tolsma1999)
+#
+212	Kulung	twenty	score, e.g. ik-khal twenty. (num.)	khal	kʰ a l	Tolsma1999	0	816	
+#
+213	Kulung	two	two (num.)	nitci	n i t ts i	Tolsma1999	0	798	Nepali: duī. (Tolsma1999)
+#
+214	Kulung	we [first person plural inclusive]	we (pron.)	kas	k a s	Tolsma1999	0	930	Nepali: hāmī duī-janā. (Tolsma1999)
+215	Kulung	we [first person plural inclusive]	we (pron.)	kaska	k a s k a	Tolsma1999	0	930	Nepali: hāmī duī-janā. (Tolsma1999)
+#
+216	Kulung	wet	be wet (vi-3 [1: ci:- 2: ci-])	cima	ts i m a	Tolsma1999	0	1029	Nepali: bhijnu. (Tolsma1999)
+#
+217	Kulung	what	with what?, what? (erg) (pron.)	u-sa-i	u s a i	Tolsma1999	0	954	Nepali: ke-le. (Tolsma1999)
+#
+218	Kulung	where	where? (pron.)	ha:pi	h a: p i	Tolsma1999	0	955	Nepali: kahāṃ. (Tolsma1999)
+#
+219	Kulung	white	white (adj.)	ɔmlɔ:pa	ɔ m l ɔ: p a	Tolsma1999	0	1006	Nepali: seto. (Tolsma1999)
+#
+220	Kulung	who	who (pron.)	as-kǝ-y	a s k ǝ j	Tolsma1999	0	953	Nepali: ko-cāhiṃ. (Tolsma1999)
+#
+221	Kulung	yellow	yellow (adj.)	besarwa	b e s a r w a	Tolsma1999	0	1008	Nepali: paheṃlo. (Tolsma1999)
+#
+222	Kulung	yesterday	yesterday (adv.)	espa	e s p a	Tolsma1999	0	739	Nepali: hijo. (Tolsma1999)
+#
+223	Kulung	you [second person plural]	hear (vt-2 [1: yen- 2: ye:-])	ye:ma	j e: m a	Tolsma1999	0	933	Nepali: sunnu. (Tolsma1999)
+#
+224	Kulung	young	blue, green, young (of firewood), unripe, uncooked (adj.)	gigippa	g i g i p p a	Tolsma1999	0	1059	Nepali: hariyo, nilo, kāco. (Tolsma1999)
