@@ -1,0 +1,333 @@
+ID	DOCULECT	CONCEPT	RGEN	CONCEPTICON_ID	TBL_ID	GLOSS_IN_SOURCE	IPA	TOKENS
+1	Hayu	I [first person singular]	120105	1209	928	my, me (pron po)	aŋ	a ŋ
+2	Hayu	I [first person singular]	120407	1209	928	I, me, we, us (pron (1)	gu	g u
+3	Hayu	above	120114	1741	731	up, above (adv loc)	ani	a n i
+4	Hayu	above	120115	1741	731	above (pp)	ani	a n i
+5	Hayu	above	121456	1741	731	up, up there, above (adv)	wani	w a n i
+6	Hayu	below, under	121591	1485	732	down, below (adv loc)	hute	h u t e
+7	Hayu	below, under	121592	1485	732	down, below (adv)	hutoŋ	h u t o ŋ
+8	Hayu	below, under	121287	1485	732	below, down (adv)	yʊ̃ːkha	y ʊ̃ː kh a
+9	Hayu	below, under	120144	1485	732	below (pp)	uti	u t i
+10	Hayu	big	121645	1202	964	be big, become big; win (vi, vr)	xʊn	x ʊ n
+11	Hayu	big	120161	1202	964	big, huge (adj)	ʊlawo	ʊ l a w o
+12	Hayu	black	120304	163	1005	black (adj)	khaktshiŋmi	kh a k tsh i ŋ m i
+13	Hayu	cold (of temperature)	120635	1287	1063	cold (temperature) (n)	dzũːsa	d z ũː s a
+14	Hayu	dark	121295	706	1013	night, at night (n, adv)	yeksa	y e ks a
+15	Hayu	dark	120217	706	1013	dark, darkness (adj)	kuŋkuŋ	k u ŋ k u ŋ
+16	Hayu	dirty	121129	1230	1086	be stained, soiled (vtt (im)	bɩ(t)	b ɩ
+17	Hayu	dirty	120542	1230	1086	dirt / filth (n)	tseksiŋ-waxsiŋ	ts e ks i ŋ w a xs i ŋ
+18	Hayu	dry	121432	1398	1028	dry (meat) (vtt)	lop	l o p
+19	Hayu	dry	121178	1398	1028	dry (vt, vtt)	bo(t)	b o
+20	Hayu	dry	121560	1398	1028	dry (of earth) (adj)	soːso	s oː s o
+21	Hayu	early	120877	672	1018	soon, early (adv)	naːna	n aː n a
+22	Hayu	far	121643	1406	974	far (adv)	xuʔlam	x u ʔ l a m
+23	Hayu	four	121183	1500	800	four (not human) (num+cl)	bliuŋ	b l i u ŋ
+24	Hayu	four	121181	1500	800	four (num)	bli	b l i
+25	Hayu	full	120603	1429	984	satisfied (be v.)	tsho	tsh o
+26	Hayu	good	121120	1035	1052	good-looking, beautiful (of a woman) (adj)	biŋtsomi	b i ŋ ts o m i
+27	Hayu	good	120904	1035	1052	good (adj)	nuk-ha	n u k h a
+28	Hayu	good	121119	1035	1052	good, good loooking (adj)	biŋtso(-mʊ)	b i ŋ ts o
+29	Hayu	good	121051	1035	1052	be able (to do sth.), be well; cure (vr, vtt)	phat	ph a t
+30	Hayu	green	120401	1425	1009	green, unripe	giruŋ	g i r u ŋ
+31	Hayu	hard	120492	1884	1034	hard (be v.)	tsam	ts a m
+32	Hayu	he or she [third person singular]	120102	262	934	his, its, him, it (pron po)	a	a
+33	Hayu	he or she [third person singular]	120267	262	934	he, him (pron (3)	komi	k o m i
+34	Hayu	he or she [third person singular]	121204	262	934	that, he (pron de)	mi	m i
+35	Hayu	he or she [third person singular]	120117	262	934	this, he, etc. (dem)	i	i
+36	Hayu	heavy	121386	1210	1014	heavy (vr)	lit	l i t
+37	Hayu	high / tall	120646	1265	968	tall, high (be v.)	dzoŋ	d z o ŋ
+38	Hayu	horizontal	121539	2376	1001	horizontal (adj)	xeŋdaŋ	x e ŋ d a ŋ
+39	Hayu	hot	120639	1286	1062	hot (be v.)	dze	d z e
+40	Hayu	hot	121550	1286	1062	warm, hot (adj)	seːse	s eː s e
+41	Hayu	hot	120107	1286	1062	heat, scald (esp. milk) (vt)	aŋ	a ŋ
+42	Hayu	hot	121528	1286	1062	heat (esp. in fire), roast (vt)	sʊn	s ʊ n
+43	Hayu	inside	121604	1606	715	in, on, at; while (pp)	-he	h e
+44	Hayu	inside	121161	1606	715	in, on, at (pp)	-be	b e
+45	Hayu	late	121583	477	1019	later (in the same day), in the evening (adv)	hɩta	h ɩ t a
+46	Hayu	late	120388	477	1019	be late, delay (be v.)	ga(t)	g a
+47	Hayu	late	120155	477	1019	later, in a minute (adv)	umum-he	u m u m h e
+48	Hayu	left	120429	244	710	hand (n)	got	g o t
+49	Hayu	light (of weight)	120171	1052	1052	light (in weight) (adj)	oksaŋ(-mʊ)	o ks a ŋ
+50	Hayu	long	121066	1203	972	long, lengthen, stretch (vi, vr, vtt)	phin	ph i n
+51	Hayu	many	121557	1198	987	much, a lot (adv)	sophop	s o ph o p
+52	Hayu	many	120349	1198	987	much (adv)	khuyaŋ	kh u y a ŋ
+53	Hayu	middle	121203	1093	708	between, in the middle	maʔdum-he	m a ʔ d u m h e
+54	Hayu	narrow	120747	1267	977	close, shut in; stop (vtt)	thik	th i k
+55	Hayu	near	120118	1942	975	nearby, here (adj)	i	i
+56	Hayu	near	120747	1942	975	close, shut in; stop (vtt)	thik	th i k
+57	Hayu	near	120354	1942	975	near (adv loc)	kheʔa	kh e ʔ a
+58	Hayu	near	120360	1942	975	near (adv)	kheʔwa	kh e ʔ w a
+59	Hayu	new	120916	1231	1050	new (adj)	neːsi	n eː s i
+60	Hayu	one	120271	1493	797	one (num)	kolu	k o l u
+61	Hayu	one	120257	1493	797	one (person) (num)	koŋpu	k o ŋ p u
+62	Hayu	outside	120727	762	714	outside (adv)	toŋma	t o ŋ m a
+63	Hayu	red	121265	156	1007	red (adj)	yitshiŋ	y i tsh i ŋ
+64	Hayu	right	121615	1019	711	proper, right (of an action) (be v.)	hok	h o k
+65	Hayu	round	120719	1395	990	round, disk-shaped, rounded of (adj)	teltel	t e l t e l
+66	Hayu	round	121003	1395	990	circular, round (adj)	pemperemʊ	p e m p e r e m ʊ
+67	Hayu	round	120231	1395	990	round, spherical (adj)	kulkul(-mʊ)	k u l k u l
+68	Hayu	salty	120510	1091	1076	salt (n)	tsiya	ts i y a
+69	Hayu	salty	121547	1091	1076	salty (be v.)	sen	s e n
+70	Hayu	sharp	121299	1396	1020	sharp (of a blade) (vi)	yep	y e p
+71	Hayu	small	120833	1246	965	small (adj)	dũːti	d ũː t i
+72	Hayu	smooth	120889	1234	1037	soft, smooth (adj)	naxpɩ-mʊ	n a x p ɩ m ʊ
+73	Hayu	soft	120177	1856	1035	soft, tender (adj)	oxpi	o x p i
+74	Hayu	soft	120883	1856	1035	soft (n df.)	naʔmʊ	n a ʔ m ʊ
+75	Hayu	soft	120887	1856	1035	soft (adj)	naltsike-mʊ	n a l ts i k e m ʊ
+76	Hayu	straight	120150	1404	1003	ahead, in front, before (adv)	uboŋ	u b o ŋ
+77	Hayu	straight	120713	1404	1003	flat (esp. of land), straight (adj)	teŋteŋ	t e ŋ t e ŋ
+78	Hayu	straight	121436	1404	1003	straight (adv)	loxkota	l o x k o t a
+79	Hayu	straight	120543	1404	1003	straight (adj)	tseŋtseŋ(-mʊ)	ts e ŋ ts e ŋ
+80	Hayu	the ant	120499	587	365	ant (n)	tsikibʊʔla	ts i k i b ʊ ʔ l a
+81	Hayu	the bamboo	121096	1927	389	bamboo (n)	pholo	ph o l o
+82	Hayu	the bamboo	120455	1927	389	bamboo (n)	cayi	c a y i
+83	Hayu	the belly	121553	1251	96	belly (n)	soːgali	s oː g a l i
+84	Hayu	the belly	121231	1251	96	stomach (n)	mʊːli	m ʊː l i
+85	Hayu	the bird	120240	937	326	bird, the bulbul (n df.)	kʊʔla	k ʊ ʔ l a
+86	Hayu	the bird	121169	937	326	bird, a kind of bulbul (n df.)	betsiŋ kʊʔla	betsiŋ kʊʔla
+87	Hayu	the bird	120436	937	326	bird, a kind of bulbul (n df.)	goring kuʔla	goring kuʔla
+88	Hayu	the bird	120848	937	326	bird, a kind of bulbul (n df.)	detsiŋ-kuʔla	d e ts i ŋ k u ʔ l a
+89	Hayu	the bird	121566	937	326	bird (n df.)	haːkʊ paːkʊ	haːkʊ paːkʊ
+90	Hayu	the bird	120512	937	326	bird (general, excluding the largest species) (n)	tsixtsi	ts i x ts i
+91	Hayu	the bird	120406	937	326	a bird (n df.)	gɩ̃ːlik	g ɩ̃ː l i k
+92	Hayu	the bird	120504	937	326	pigeon, bird (n)	tsɩ̃ːtsi	ts ɩ̃ː ts i
+93	Hayu	the blood	121257	946	129	blood (n)	yi	y i
+94	Hayu	the blood	120927	946	129	blood or mucus in the stool (n)	nocaŋki	n o c a ŋ k i
+95	Hayu	the body hair (hair or fur)	121555	189	266	hair, fur (n)	som	s o m
+96	Hayu	the body hair (hair or fur)	121558	189	266	hair (n)	som	s o m
+97	Hayu	the body hair (hair or fur)	120213	189	266	body hair (n)	kukusom	k u k u s o m
+98	Hayu	the bone	121340	1394	133	bone (n)	ru	r u
+99	Hayu	the branch	120390	1531	374	branch, sprout, grow (vi)	gat	g a t
+100	Hayu	the breast (female)	120590	1402	94	breast, nipple (n)	tshux◦tsu	tsh u x ◦ ts u
+101	Hayu	the cloud	120272	1489	7	cloud (n)	kowal	k o w a l
+102	Hayu	the daughter	120672	1357	222	daughter (n)	taːmi	t aː m i
+103	Hayu	the dog	120159	2009	289	dog (n)	ʊː◦ri	ʊː ◦ r i
+104	Hayu	the dust	120203	2	45	dust, dirt (n)	kiːlaŋ	k iː l a ŋ
+105	Hayu	the dust	120978	2	45	dust, dirt (n)	puːlaŋ	p uː l a ŋ
+106	Hayu	the ear	120920	1247	81	ear (n)	nok◦tshuŋ	n o k ◦ tsh u ŋ
+107	Hayu	the earth (soil)	120732	1228	40	land, alight (vi)	ton	t o n
+108	Hayu	the earth (soil)	120542	1228	40	dirt / filth (n)	tseksiŋ-waxsiŋ	ts e ks i ŋ w a xs i ŋ
+109	Hayu	the earth (soil)	120247	1228	40	earth, soil (n)	ko	k o
+110	Hayu	the earth (soil)	120203	1228	40	dust, dirt (n)	kiːlaŋ	k iː l a ŋ
+111	Hayu	the earth (soil)	120978	1228	40	dust, dirt (n)	puːlaŋ	p uː l a ŋ
+112	Hayu	the egg	120219	744	450	egg (n)	kuŋ◦luŋ	k u ŋ ◦ l u ŋ
+113	Hayu	the egg	120493	744	450	egg, eggshell, testicle (n)	tsaʔluŋ	ts a ʔ l u ŋ
+114	Hayu	the eye	121235	1248	79	eye / face (n)	mek	m e k
+115	Hayu	the eye	120818	1248	79	eye, get sthg in one's (vtt (im)	diŋ	d i ŋ
+116	Hayu	the father	120149	1217	218	father (n)	uxpʊ	u x p ʊ
+117	Hayu	the feather	121196	1201	299	feather (n)	blop	b l o p
+118	Hayu	the fire	121232	221	18	fire (n)	me	m e
+119	Hayu	the fish	121611	227	351	fish (of the Kosi River) (n)	ho	h o
+120	Hayu	the flea	121332	232	355	flea; ghost (n)	riʔmitshiŋ	r i ʔ m i tsh i ŋ
+121	Hayu	the flower	121153	239	377	bloom (vi)	bʊt	b ʊ t
+122	Hayu	the flower	120972	239	377	flower (n)	puŋmi	p u ŋ m i
+123	Hayu	the flower	120693	239	377	pick (leaves, flowers), comb (vt)	tʊ	t ʊ
+124	Hayu	the foot	121412	1301	103	foot, leg (n)	le	l e
+125	Hayu	the foot	121010	1301	103	calf, lower leg (n)	poktolo	p o k t o l o
+126	Hayu	the forest	121277	420	50	burn (e.g. house, forest) (vtt)	yɩm	y ɩ m
+127	Hayu	the fox	121460	1312	325	fox (n)	waːhup (?)	w aː h u p
+128	Hayu	the frog	120679	503	349	frog sp. (n df.)	tiktiktoktok	t i k t i k t o k t o k
+129	Hayu	the frog	121082	503	349	an inedible frog (n)	phektsho	ph e k tsh o
+130	Hayu	the front (front side)	120150	2194	712	ahead, in front, before (adv)	uboŋ	u b o ŋ
+131	Hayu	the fruit	120696	1507	378	fruit, Phyllanthus emblica (n df.)	tuksi	t u ks i
+132	Hayu	the fruit	121482	1507	378	fruit (suff n)	-si	s i
+133	Hayu	the goat	120545	1502	276	goat (n)	tseːli	ts eː l i
+134	Hayu	the grass	121242	606	436	grass, weed (n)	moksa	m o ks a
+135	Hayu	the grass	120396	606	436	a grass (n df.)	gigidzum	g i g i d z u m
+136	Hayu	the hail	121317	609	13	call, summon, hail (vtt)	raŋ	r a ŋ
+137	Hayu	the hail	121522	609	13	call out to, hail (vtt)	sup	s u p
+138	Hayu	the hail	121160	609	13	hail (n)	bʊxkʊm	b ʊ x k ʊ m
+139	Hayu	the hair (of the head)	121558	1040	75	hair (n)	som	s o m
+140	Hayu	the hand	120429	1277	107	hand (n)	got	g o t
+141	Hayu	the head	120974	1256	74	head (n)	putshi	p u tsh i
+142	Hayu	the heart	120762	1223	144	heart (n)	thum	th u m
+143	Hayu	the horn (keratinized skin)	121353	1393	263	horn (of an animal) (n)	rʊŋ	r ʊ ŋ
+144	Hayu	the house	120245	1252	494	house, home (n)	kem	k e m
+145	Hayu	the house	121529	1252	494	roof (a storey or a house) (vtt)	sʊp	s ʊ p
+146	Hayu	the knee	120408	1371	101	bend (vt, vtt)	guk	g u k
+147	Hayu	the knee	120363	1371	101	knee (n)	khokali	kh o k a l i
+148	Hayu	the knee	120220	1371	101	bend / bow while bending (adv ?)	kuŋsit	k u ŋs i t
+149	Hayu	the leaf	121381	628	376	leaf or fiber of the vine Bauhinia valhii (n)	laptsho	l a p tsh o
+150	Hayu	the leaf	121423	628	376	leaf (n)	lo	l o
+151	Hayu	the lip (the lips)	120225	478	85	lip (n)	kumtsiŋ	k u m ts i ŋ
+152	Hayu	the liver	120815	1224	145	liver (n)	diŋ	d i ŋ
+153	Hayu	the louse	121536	1392	356	louse (n)	sek	s e k
+154	Hayu	the lung	120648	688	143	lung (n)	dzot	d z o t
+155	Hayu	the lung	120819	688	143	lung (n)	diŋ◦dzyot	d i ŋ ◦ d z y o t
+156	Hayu	the man (male human)	121498	2106	173	man, person (n)	siŋtoŋ	s i ŋ t o ŋ
+157	Hayu	the man (male human)	121405	2106	173	man, male (n)	lʊ̃ːtso	l ʊ̃ː ts o
+158	Hayu	the meat	120238	634	443	meat (n)	kʊn	k ʊ n
+159	Hayu	the moon	120556	1313	4	moon (n)	tsoːlo	ts oː l o
+160	Hayu	the mosquito	120192	1509	360	biting fly, mosquito (n)	kananaŋ	k a n a n a ŋ
+161	Hayu	the mother	120152	1216	219	mother (n)	umu	u m u
+162	Hayu	the mountain	120561	639	23	hill, mountain (n)	tshaːdzʊ	tsh aː d z ʊ
+163	Hayu	the mouse or rat	121509	2139	320	rodent (?shrew) (n df.)	sɩktaŋ	s ɩ k t a ŋ
+164	Hayu	the mouse or rat	120525	2139	320	mouse (n)	tsuʔyu	ts u ʔ y u
+165	Hayu	the mouth	121223	674	84	mouth, face (n)	muktshu	m u k tsh u
+166	Hayu	the nail (fingernail or claw)	120825	2128	113	nail, claw (n)	dɩːmɩn	d ɩː m ɩ n
+167	Hayu	the nail (fingernail or claw)	121521	2128	113	claw, pinch (vt, ?vt)	su(t)	s u
+168	Hayu	the name	121214	1405	687	name (n)	miŋ	m i ŋ
+169	Hayu	the neck	120373	1333	89	neck (n)	kho◦bori	kh o ◦ b o r i
+170	Hayu	the neck	120577	1333	89	neck (n)	tshiː◦ri	tsh iː ◦ r i
+171	Hayu	the needle (for sewing)	120531	1382	578	needle (n)	tsuxtsum	ts u x ts u m
+172	Hayu	the nose	120551	1221	80	nose (n)	tsoʔ◦no	ts o ʔ ◦ n o
+173	Hayu	the pig	120982	1337	284	pig (n)	pʊk	p ʊ k
+174	Hayu	the rain	120879	658	10	rain (n)	naʔnum	n a ʔ n u m
+175	Hayu	the river	120386	666	30	river (n)	gaŋ	g a ŋ
+176	Hayu	the road	121433	667	38	road (n)	lom	l o m
+177	Hayu	the root	121366	670	375	root (n)	rotshiŋ	r o tsh i ŋ
+178	Hayu	the rope	120894	1218	619	thread, string (vt, vtt)	niŋ	n i ŋ
+179	Hayu	the salt	120510	1274	61	salt (n)	tsiya	ts i y a
+180	Hayu	the sand	120957	671	44	sand (n)	piː̃ku	p iː̃ k u
+181	Hayu	the seed	120219	714	405	egg (n)	kuŋ◦luŋ	k u ŋ ◦ l u ŋ
+182	Hayu	the seed	120493	714	405	egg, eggshell, testicle (n)	tsaʔluŋ	ts a ʔ l u ŋ
+183	Hayu	the shit	120871	676	151	defecate, urinate (unexpectedly); abort (n + vr)	naŋ	n a ŋ
+184	Hayu	the shit	120166	676	151	excrement (n)	ex◦pi	e x ◦ p i
+185	Hayu	the shoulder	120926	1482	90	back / to the rear (adv)	noŋlim	n o ŋ l i m
+186	Hayu	the shoulder	121008	1482	90	back (n)	pexti	p e x t i
+187	Hayu	the shoulder	121513	1482	90	back / backbone (n)	sɩ̃ːtɩ	s ɩ̃ː t ɩ
+188	Hayu	the shoulder	121061	1482	90	shoulder (n)	phaxka	ph a x k a
+189	Hayu	the skin	120202	763	120	hide (vr)	kin	k i n
+190	Hayu	the skin	120662	763	120	skin (vt, vtt)	tak	t a k
+191	Hayu	the skin	120214	763	120	skin, bark, husk, peel (n)	kuk◦tsho	k u k ◦ tsh o
+192	Hayu	the sky	121473	1732	1	make a sound, thunder (vtt)	sak	s a k
+193	Hayu	the sky	121059	1732	1	lightning, thunder (n)	phaːra	ph aː r a
+194	Hayu	the smoke	120228	778	19	smoke (n)	kulu	k u l u
+195	Hayu	the smoke	120962	778	19	suck, nurse, smoke (tobacco) (vt, vr)	pip	p i p
+196	Hayu	the snake	121631	730	347	snake (n)	hoːbu	h oː b u
+197	Hayu	the son	120674	1620	220	son (n)	taːwo	t aː w o
+198	Hayu	the spider	121334	843	361	spider (n)	rimdeŋ	r i m d e ŋ
+199	Hayu	the spider	120193	843	361	spider (n)	kaʔmara	k a ʔ m a r a
+200	Hayu	the star	121668	1430	5	star (n)	xwaːmen	x w aː m e n
+201	Hayu	the stick	121493	1295	586	wood (n)	siŋ	s i ŋ
+202	Hayu	the stone (a piece of)	121410	857	379	rock, stone (n)	lʊ̃ːphʊ	l ʊ̃ː ph ʊ
+203	Hayu	the sun	121427	1343	2	sun (n)	loːgaŋ	l oː g a ŋ
+204	Hayu	the sun	120935	1343	2	sun (n)	no◦mo	n o ◦ m o
+205	Hayu	the tail	121227	1220	267	tail (n)	mun	m u n
+206	Hayu	the thigh	121083	800	100	thigh (n)	phekteŋ	ph e k t e ŋ
+207	Hayu	the thunder	121473	1150	8	make a sound, thunder (vtt)	sak	s a k
+208	Hayu	the thunder	121059	1150	8	lightning, thunder (n)	phaːra	ph aː r a
+209	Hayu	the tiger	121126	846	304	wild cat, tiger (n)	bilu	b i l u
+210	Hayu	the tongue	121384	1205	139	tongue (n)	lĩːga	l ĩː g a
+211	Hayu	the tooth (front)	120374	1380	137	tooth (molar, jaw) (n)	khoːbʊm	kh oː b ʊ m
+212	Hayu	the tooth (front)	120537	1380	137	tooth (incisor) (n)	tseʊ-tseʊ lu	tseʊ-tseʊ lu
+213	Hayu	the tooth (front)	121395	1380	137	tooth (n)	lu	l u
+214	Hayu	the tree	121075	906	372	tree, foot of a tree beginning (n)	phum	ph u m
+215	Hayu	the tree	121448	906	372	tree (n df.)	lheːsaŋ	lh eː s a ŋ
+216	Hayu	the tree	121499	906	372	tree (n)	siŋphum	s i ŋ ph u m
+217	Hayu	the tree	121538	906	372	tree (n df.)	sekduk	s e k d u k
+218	Hayu	the tree	121669	906	372	tree (n df.)	xwamsɩ	x w a ms ɩ
+219	Hayu	the tree	120224	906	372	tree (n df.)	kuder	k u d e r
+220	Hayu	the tree	120321	906	372	tree (n df.)	khaʔlaŋ	kh a ʔ l a ŋ
+221	Hayu	the tree	120324	906	372	tree (n df.)	khaʔluŋ	kh a ʔ l u ŋ
+222	Hayu	the tree	120479	906	372	tree (n df.)	dzyamari	d z y a m a r i
+223	Hayu	the tree	120566	906	372	tree (n df.)	tshaniŋ-kʊʔli	tsh a n i ŋ k ʊ ʔ l i
+224	Hayu	the tree	120400	906	372	tree, Ligustrum sp. (n df.)	giʔyoŋ	g i ʔ y o ŋ
+225	Hayu	the tree	120625	906	372	tree; the flowers are eaten (n df.)	dzibi	d z i b i
+226	Hayu	the tree	120832	906	372	tree (Duabanga sonneratioides) (vt df.)	duŋsiŋ	d u ŋs i ŋ
+227	Hayu	the tree	120613	906	372	tree, Boehmeria rugulosa (n df.)	dzaŋsiŋ	d z a ŋs i ŋ
+228	Hayu	the tree	121241	906	372	a tree, Nep. həlləuɖe (n df.)	mokolo	m o k o l o
+229	Hayu	the water	120676	948	47	water (n)	ti	t i
+230	Hayu	the water	120678	948	47	water (n)	ti	t i
+231	Hayu	the wind	121599	960	9	wind (n)	hʊːdzʊŋ	h ʊː d z ʊ ŋ
+232	Hayu	the wind	120226	960	9	wind (n)	kumdzʊŋ	k u m d z ʊ ŋ
+233	Hayu	the woman	121222	962	174	woman (n)	mɩxtso	m ɩ x ts o
+234	Hayu	the year	120783	1226	777	year (in time ordinals) (suffix)	thoŋ	th o ŋ
+235	Hayu	thick	120297	1244	980	thick (of liquid) (adj)	klõːtʊ-klõːta	k l õː t ʊ k l õː t a
+236	Hayu	thick	121041	1244	980	thick (of liquid) (adv)	plõːtom	p l õː t o m
+237	Hayu	thick	120731	1244	980	thick (be v.)	ton	t o n
+238	Hayu	thin (object)	120608	2307	981	thin (of liquid), watery (adv)	tshoːrum	tsh oː r u m
+239	Hayu	thin (object)	120875	2307	981	thin, watery, fine (of cloth) (adj)	nadzanadza-mʊ	n a d z a n a d z a m ʊ
+240	Hayu	thou [second person singular]	120139	1215	931	your , you (pron po)	uŋ	u ŋ
+241	Hayu	thou [second person singular]	120431	1215	931	you (pron (2)	gon	g o n
+242	Hayu	thou [second person singular]	120147	1215	931	your , you (PL) (pron po)	uni	u n i
+243	Hayu	three	120584	492	799	three (humans) (num (hu)	tshukpu	tsh u k p u
+244	Hayu	three	120581	492	799	three (non-humans) (num (no)	tshuʔuŋ	tsh u ʔ u ŋ
+245	Hayu	to be alive	120655	1422	1087	live (vi)	dzol	d z o l
+246	Hayu	to bite	120496	1403	1753	bite (vt, vr)	tsik	ts i k
+247	Hayu	to blow (of wind)	121621	175	1738	blow, cure by blowing (vtt)	hot	h o t
+248	Hayu	to burn [intransitive]	121590	1428	1269	burn (e.g. the hand) (? vtt,)	hut	h u t
+249	Hayu	to burn [intransitive]	120532	1428	1269	roast, cremate, burn (vt, vtt)	tsʊ	ts ʊ
+250	Hayu	to burn [intransitive]	120327	1428	1269	burn (food, in cooking) (vt, vr,)	khik	kh i k
+251	Hayu	to burn [intransitive]	121277	1428	1269	burn (e.g. house, forest) (vtt)	yɩm	y ɩ m
+252	Hayu	to burn [intransitive]	120865	1428	1269	light, burn (of a flame) (vt, vtt)	na	n a
+253	Hayu	to burn [intransitive]	120535	1428	1269	burn (of grain which sticks to pot) (vtt, v)	tsʊm	ts ʊ m
+254	Hayu	to burn [intransitive]	120524	1428	1269	burn, light (by contact with fire) (vtt)	tsut	ts u t
+255	Hayu	to buy	121262	1869	1516	buy (vt, vtt)	yiŋ	y i ŋ
+256	Hayu	to chew	120917	321	1424	chew (vt, vr)	nok	n o k
+257	Hayu	to chew	121663	321	1424	bite into, chew (vt, vr)	xwap	x w a p
+258	Hayu	to come	120858	1446	1491	arrive (vi)	doŋ	d o ŋ
+259	Hayu	to come	120475	1446	1491	undone, come; get untied (v + la)	dzyat	d z y a t
+260	Hayu	to come	120849	1446	1491	undone, come / released (be v.)	det	d e t
+261	Hayu	to come	121063	1446	1491	come (on the same level) (vi)	phi(t)	ph i
+262	Hayu	to count	121578	1420	1640	count, think (vtt)	hi	h i
+263	Hayu	to cry (weep)	120169	1839	1485	crow, cry (of animal) (vi)	ok	o k
+264	Hayu	to die	121286	1494	1651	chop, kill (vtt)	yʊk	y ʊ k
+265	Hayu	to die	121238	1494	1651	die (vi)	met	m e t
+266	Hayu	to die	121512	1494	1651	kill (vtt)	sɩt	s ɩ t
+267	Hayu	to dig	120843	1418	1698	dig (with a digging-stick), dig up (vt, vtt)	dʊ	d ʊ
+268	Hayu	to drink	120699	1401	1370	drink (except water) (vr, vt)	tun	t u n
+269	Hayu	to eat	120610	1336	1198	eat (vt, vr)	dza	d z a
+270	Hayu	to fight	120948	1423	1234	fight (vi, vr)	pat	p a t
+271	Hayu	to fly (move through air)	121180	1441	1318	fly (vi, vr)	bon	b o n
+272	Hayu	to fly (move through air)	120615	1441	1318	fly (n df.)	dzama	d z a m a
+273	Hayu	to forget	121201	1523	1704	forget (vtt (?))	maŋ	m a ŋ
+274	Hayu	to hear	120741	1408	1682	hear, perceive, liste (vt, vtt)	tha(t)	th a
+275	Hayu	to hide (conceal)	120202	602	1169	hide (vr)	kin	k i n
+276	Hayu	to hold	120593	1448	1709	catch, hold (vt, vtt)	tshʊ(t)	tsh ʊ
+277	Hayu	to hunt	120694	1435	1230	strike on the end, drive (vtt)	tuk	t u k
+278	Hayu	to hunt	121408	1435	1230	chase, cause to run (vtt)	lʊn	l ʊ n
+279	Hayu	to hunt	120729	1435	1230	chase, pursue, drive (vtt)	to(t)	t o
+280	Hayu	to kill	121286	1417	1602	chop, kill (vtt)	yʊk	y ʊ k
+281	Hayu	to kill	121512	1417	1602	kill (vtt)	sɩt	s ɩ t
+282	Hayu	to knead	120458	274	1594	knead (vt, vtt)	ca(t)	c a
+283	Hayu	to know (something)	121511	1410	1398	know (vt)	sɩ(t)	s ɩ
+284	Hayu	to know (something)	120636	1410	1398	know, know how, understand (vi)	dzʊk	d z ʊ k
+285	Hayu	to laugh	121271	1355	1735	laugh (vr)	yɩt	y ɩ t
+286	Hayu	to learn	121385	504	1742	teach, learn (refl.) (vtt, vr)	lit	l i t
+287	Hayu	to lick	121025	319	1674	lick (vt)	pop	p o p
+288	Hayu	to lick	121042	319	1674	lick (adv)	plop	p l o p
+289	Hayu	to lie down	121139	215	1661	lie, joke (n)	budena	b u d e n a
+290	Hayu	to plant (vegetals, rice)	121406	1486	1774	plant, transplant (vtt)	lʊt	l ʊ t
+291	Hayu	to play	120733	1413	1703	hit, strike; play (an instrument) (vt)	top	t o p
+292	Hayu	to play	121572	1413	1703	play, amuse, cause to play, swim (vtt)	han	h a n
+293	Hayu	to pull	120331	1455	1568	pull, stretch, lead (vtt, vr)	khin	kh i n
+294	Hayu	to push	120753	1452	1689	push (vt)	thɩ(t)	th ɩ
+295	Hayu	to push	120913	1452	1689	push (vt, vr)	nok	n o k
+296	Hayu	to run	121409	1519	1544	run (vr)	lʊn	l ʊ n
+297	Hayu	to scratch	121326	1436	1530	scrape, whittle, peel (vt, vtt)	rik	r i k
+298	Hayu	to scratch	120206	1436	1530	scratch; scrape (e.g. the inside of a pot) (vt, vtt)	kɩ	k ɩ
+299	Hayu	to scratch	121090	1436	1530	scratch (vt, vr)	phok	ph o k
+300	Hayu	to see	121296	1409	1471	see (vt)	yeŋ	y e ŋ
+301	Hayu	to shoot (an arrow)	120175	1172	1611	shoot, shoot or throw at sth. (vt)	op	o p
+302	Hayu	to sleep	120130	1585	1646	sleep (vi, vr)	ɩm	ɩ m
+303	Hayu	to sleep	120132	1585	1646	sleep (n)	ɩ̃ː◦pi	ɩ̃ː ◦ p i
+304	Hayu	to smell (perceive odor) [transitive]	120882	1586	1707	smell (n df.)	nam◦saŋ	n a m ◦ s a ŋ
+305	Hayu	to smell (perceive odor) [transitive]	120881	1586	1707	smell, sniff; stink (vtt (im)	nam	n a m
+306	Hayu	to sow (broadcast, scatter seeds)	120592	748	1597	sow (vt, vtt)	tshʊk	tsh ʊ k
+307	Hayu	to spit	120720	1440	1688	swallow, spit (vtt, vr)	tok	t o k
+308	Hayu	to stand	121276	1442	1784	stand; build, stand sth. up (vr, vt, vtt)	yɩp	y ɩ p
+309	Hayu	to think (reflect)	121578	1415	1726	count, think (vtt)	hi	h i
+310	Hayu	to throw	120488	1456	1687	throw sth. at sth. (obj.)	tsat	ts a t
+311	Hayu	to throw	120632	1456	1687	throw out (vtt)	dzup	d z u p
+312	Hayu	to throw	120789	1456	1687	throw so. down; bump against sth. (vt, vtt)	thop	th o p
+313	Hayu	to vomit	121055	1278	1535	vomit (n)	phaphari	ph a ph a r i
+314	Hayu	to vomit	121393	1278	1535	return,  talk back, spit out, vomit (vtt, vr)	lɩp	l ɩ p
+315	Hayu	to walk	121379	1443	1815	go; [passive or detrimental auxiliary] (vi, vr)	la(t)	l a
+316	Hayu	to walk	120362	1443	1815	walk, leave, depart (vr)	khok	kh o k
+317	Hayu	to walk	121267	1443	1815	turn, spin, wander (vr, vtt)	yin	y i n
+318	Hayu	to wipe	121281	1454	1163	wipe (vt, vtt)	yu	y u
+319	Hayu	to wipe	120586	1454	1163	wipe (the mouth, after eating) (vt, vtt)	tshup	tsh u p
+320	Hayu	today	120910	1283	738	day, by day (n, adv)	nuʔma	n u ʔ m a
+321	Hayu	today	120689	1283	738	today (adv)	tɩrɩ	t ɩ r ɩ
+322	Hayu	tomorrow	120905	1329	742	tomorrow, the next day (adv)	nukun	n u k u n
+323	Hayu	two	120868	1498	798	two (non-human) (num)	naʔʊŋ	n a ʔ ʊ ŋ
+324	Hayu	two	120869	1498	798	two (human) (num)	nakpu	n a k p u
+325	Hayu	two	120870	1498	798	two (human) (vr)	naŋ	n a ŋ
+326	Hayu	wet	120876	1726	1029	wet, be soaked (esp. by rain) (vtt (im)	nat	n a t
+327	Hayu	white	120811	1335	1006	white (n (?))	dawaŋ	d a w a ŋ
+328	Hayu	white	120812	1335	1006	white (adj)	dawaŋ◦mi	d a w a ŋ ◦ m i
+329	Hayu	who	121519	1235	953	who? (pron in)	su	s u
+330	Hayu	yellow	121610	1424	1008	yellow (adj)	helduŋmi	h e l d u ŋ m i
+331	Hayu	yesterday	120686	1174	739	yesterday (adv)	tɩ̃ːdzoŋ	t ɩ̃ː d z o ŋ
+332	Hayu	young	120554	1207	1059	young (of an animal), shoot (of a plant) (n)	tsoʔla	ts o ʔ l a

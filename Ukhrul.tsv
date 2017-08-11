@@ -1,0 +1,356 @@
+ID	DOCULECT	CONCEPT	RGEN	CONCEPTICON_ID	TBL_ID	GLOSS_IN_SOURCE	IPA	TOKENS
+1	Ukhrul	I [first person singular]	526744	1209	928	1sg, I, me	ʔi	ʔ i
+2	Ukhrul	above	525899	1741	731	over ?	kə-kan	k ə k a n
+3	Ukhrul	big	526105	1202	964	large	kə-hak	k ə h a k
+4	Ukhrul	big	526112	1202	964	big	kə-haka	k ə h a k a
+5	Ukhrul	big	526851	1202	964	big	kə-hɐk-ɐ	k ə h ɐ k ɐ
+6	Ukhrul	big	527954	1202	964	big (be v.)	kə-hɐk	k ə h ɐ k
+7	Ukhrul	big	528157	1202	964	hit against the frame of the door (as one's head); to be big	kə-tsok	k ə ts o k
+8	Ukhrul	black	525757	163	1005	black (be v.)	kə-tsik	k ə ts i k
+9	Ukhrul	black	527926	163	1005	black (be v.)	kʰə-mə-haŋ	kʰ ə m ə h a ŋ
+10	Ukhrul	cold (of temperature)	526925	1287	1063	cold	kʰə-mə-ku	kʰ ə m ə k u
+11	Ukhrul	cold (of temperature)	528726	1287	1063	cold, cool; make cool (be v.)	kʰə-mə-kuj	kʰ ə m ə k u j
+12	Ukhrul	cold (of temperature)	525758	1287	1063	cold, cool (of weather) (be v.)	kə-sik	k ə s i k
+13	Ukhrul	dark	528360	706	1013	dark (due to cloud) (be v.)	kʰə-ŋə-mi	kʰ ə ŋ ə m i
+14	Ukhrul	dirty	528747	1230	1086	dirty	kʰə-mə-kʰow	kʰ ə m ə kʰ o w
+15	Ukhrul	dry	527235	1398	1028	dry (meat, vegetable, etc.)	kʰə-mə-kaw	kʰ ə m ə k a w
+16	Ukhrul	dry	527236	1398	1028	dry, to make thin (v.t.)	kə-ci-kaw	k ə c i k a w
+17	Ukhrul	dry	526022	1398	1028	dry (v.i.)	kə-tʰeŋ	k ə tʰ e ŋ
+18	Ukhrul	dry	527411	1398	1028	dry	kʰə-mə-tʰen	kʰ ə m ə tʰ e n
+19	Ukhrul	early	527433	672	1018	early (be v.)	kə-tʰor	k ə tʰ o r
+20	Ukhrul	eight	525876	1705	804	eight	ci-ʃat	c i ʃ a t
+21	Ukhrul	far	528772	1406	974	far	kla	k l a
+22	Ukhrul	far	525158	1406	974	far	kə-tu	k ə t u
+23	Ukhrul	far	525678	1406	974	far	kə-ke	k ə k e
+24	Ukhrul	far	621026	1406	974	far	kə-ɬi	k ə ɬ i
+25	Ukhrul	far	621187	1406	974	far	kə-ɬi	k ə ɬ i
+26	Ukhrul	far	526104	1406	974	far off (be v.)	kə-ta	k ə t a
+27	Ukhrul	five	526131	493	801	five	pʰə-ŋa	pʰ ə ŋ a
+28	Ukhrul	four	525874	1500	800	four	mə-tii	m ə t ii
+29	Ukhrul	four	526634	1500	800	four	mə-ti	m ə t i
+30	Ukhrul	full	527594	1429	984	satisfied (be v.)	kə-pen	k ə p e n
+31	Ukhrul	full	528597	1429	984	full (as a place full of mosquitos) (be v.)	kə-tum	k ə t u m
+32	Ukhrul	full	526688	1429	984	full	kə-pem	k ə p e m
+33	Ukhrul	full	526689	1429	984	full	kə-pej	k ə p e j
+34	Ukhrul	full	526790	1429	984	full (be v.)	kə-puj	k ə p u j
+35	Ukhrul	full	528066	1429	984	full (of grain; not blighted) (be v.)	kʰə-mə-sek	kʰ ə m ə s e k
+36	Ukhrul	good	528628	1035	1052	beautiful (be v.)	kʰə-mə-tʰa	kʰ ə m ə tʰ a
+37	Ukhrul	good	525989	1035	1052	good	pʰa	pʰ a
+38	Ukhrul	good	527641	1035	1052	good (be v.)	kə-pʰa	k ə pʰ a
+39	Ukhrul	green	528744	1425	1009	green (be v.)	kʰə-mə-tek	kʰ ə m ə t e k
+40	Ukhrul	hard	527843	1884	1034	hard (as the edge of a dao) (be v.)	kʰə-reŋ	kʰ ə r e ŋ
+41	Ukhrul	hard	528151	1884	1034	strong, firm (be v.)	kʰə-ŋə-tsip	kʰ ə ŋ ə ts i p
+42	Ukhrul	hard	527687	1884	1034	hard (be v.)	kʰə-mə-rɐr	kʰ ə m ə r ɐ r
+43	Ukhrul	hard	527450	1884	1034	hard (water) (be v.)	kʰə-ŋə-nɐj	kʰ ə ŋ ə n ɐ j
+44	Ukhrul	he or she [third person singular]	526904	262	934	he / she	ʔa	ʔ a
+45	Ukhrul	heavy	525761	1210	1014	heavy (be v.)	kʰə-rit	kʰ ə r i t
+46	Ukhrul	high / tall	526743	1265	968	high, tall; loud (be v.)	kə-cuj	k ə c u j
+47	Ukhrul	hot	527049	1286	1062	scorch, get scorched (food); hot	kə-ʃit	k ə ʃ i t
+48	Ukhrul	hot	528715	1286	1062	hot / spicy / pungent	kə-sa	k ə s a
+49	Ukhrul	hundred	525811	1634	824	hundred	ʃa-kʰa	ʃ a kʰ a
+50	Ukhrul	hundred	526712	1634	824	hundred	ʃa-kʰɐ	ʃ a kʰ ɐ
+51	Ukhrul	inside	526152	1606	715	inside	ʔa-luŋ	ʔ a l u ŋ
+52	Ukhrul	left	526649	244	710	left side	juj-vak	j u j v a k
+53	Ukhrul	light (of weight)	526631	1052	1052	lightweight	kʰə-ŋə-veŋ	kʰ ə ŋ ə v e ŋ
+54	Ukhrul	long	526764	1203	972	long	kə-saŋ	k ə s a ŋ
+55	Ukhrul	many	525754	1198	987	many, a lot of	kə-cuŋ-kʰa	k ə c u ŋ kʰ a
+56	Ukhrul	morning	526173	1339	749	morning	ŋə-tor	ŋ ə t o r
+57	Ukhrul	narrow	527095	1267	977	narrow (be v.)	kə-mə-ʃɯ	k ə m ə ʃ ɯ
+58	Ukhrul	near	526774	1942	975	near (be v.)	kʰə-ŋə-naj	kʰ ə ŋ ə n a j
+59	Ukhrul	near	527473	1942	975	near (be v.)	kʰə-naj	kʰ ə n a j
+60	Ukhrul	near	527854	1942	975	near (be v.)	kʰə-ŋə-rem	kʰ ə ŋ ə r e m
+61	Ukhrul	near	525776	1942	975	close to each other, be near (be v.)	kʰə-ŋə-naj	kʰ ə ŋ ə n a j
+62	Ukhrul	new	526635	1231	1050	new	kə-tʰɐr	k ə tʰ ɐ r
+63	Ukhrul	new	528553	1231	1050	new (be v.)	kə-tʰar	k ə tʰ a r
+64	Ukhrul	nine	526713	1483	805	nine	ci-ko	c i k o
+65	Ukhrul	noon	527075	12	750	be midday	kə-ŋə-ʃun	k ə ŋ ə ʃ u n
+66	Ukhrul	old (of person)	525762	2112	1058	old	kə-sar	k ə s a r
+67	Ukhrul	old (of person)	526034	2112	1058	old, used	kə-cam	k ə c a m
+68	Ukhrul	old (of person)	527688	2112	1058	old; be mature (be v.)	kʰə-rɐr	kʰ ə r ɐ r
+69	Ukhrul	one	525873	1493	797	one	ʔa-kʰa	ʔ a kʰ a
+70	Ukhrul	one	528719	1493	797	one	ʔa-kʰɐ	ʔ a kʰ ɐ
+71	Ukhrul	one	528720	1493	797	one	kʰɐt-kʰɐ	kʰ ɐ t kʰ ɐ
+72	Ukhrul	outside	525999	762	714	outside	ʔa-jar	ʔ a j a r
+73	Ukhrul	red	528046	156	1007	red (be v.)	kə-huŋ	k ə h u ŋ
+74	Ukhrul	right	526703	1019	711	right side	ja-vak	j a v a k
+75	Ukhrul	round	526661	1395	990	round (be v.)	kʰə-ŋum	kʰ ə ŋ u m
+76	Ukhrul	seven	525875	1704	803	seven	ʃə-ni	ʃ ə n i
+77	Ukhrul	seven	526795	1704	803	seven	ʃi-ni	ʃ i n i
+78	Ukhrul	sharp	525747	1396	1020	sharp	kə-tsan	k ə ts a n
+79	Ukhrul	sharp	526716	1396	1020	sharp	kə-tsɐn	k ə ts ɐ n
+80	Ukhrul	sharp	528131	1396	1020	sharp (be v.)	kə-tsɐŋ	k ə ts ɐ ŋ
+81	Ukhrul	short	527094	1645	973	short (be v.)	kə-ʃu	k ə ʃ u
+82	Ukhrul	short	527522	1645	973	short (be v.)	kʰə-ŋə-pɐt	kʰ ə ŋ ə p ɐ t
+83	Ukhrul	six	525841	1703	802	six	tʰa-ruk	tʰ a r u k
+84	Ukhrul	six	526808	1703	802	six	tʰə-ruk	tʰ ə r u k
+85	Ukhrul	small	528523	1246	965	small (be v.)	kə-tɐ	k ə t ɐ
+86	Ukhrul	small	528551	1246	965	small, low (be v.)	kə-tew	k ə t e w
+87	Ukhrul	small	525755	1246	965	little	kə-tew-kʰa	k ə t e w kʰ a
+88	Ukhrul	smooth	526119	1234	1037	smooth (be v.)	kʰə-nan	kʰ ə n a n
+89	Ukhrul	soft	525786	1856	1035	soft (to touch) (be v.)	kʰə-ŋə-pet	kʰ ə ŋ ə p e t
+90	Ukhrul	straight	525993	1404	1003	straight	kʰə-ŋə-tar	kʰ ə ŋ ə t a r
+91	Ukhrul	straight	527693	1404	1003	straight (be v.)	kʰə-mə-ra	kʰ ə m ə r a
+92	Ukhrul	ten	525877	1515	806	ten	tʰə-ra	tʰ ə r a
+93	Ukhrul	the ant	525813	587	365	ant	ca-liŋ	c a l i ŋ
+94	Ukhrul	the armpit	526908	1886	92	armpit	rik-kʰa	r i k kʰ a
+95	Ukhrul	the bamboo	526106	1927	389	bamboo	kə-ha-tʰiŋ	k ə h a tʰ i ŋ
+96	Ukhrul	the belly	526796	1251	96	abdomen	moŋ-kuj	m o ŋ k u j
+97	Ukhrul	the belly	525828	1251	96	belly	a-vuk	a v u k
+98	Ukhrul	the belly	528736	1251	96	belly	wuk	w u k
+99	Ukhrul	the belly	528737	1251	96	belly	ʔa-pʰen	ʔ a pʰ e n
+100	Ukhrul	the belly	526732	1251	96	belly (exterior)	ʔa-wuk	ʔ a w u k
+101	Ukhrul	the bird	525829	937	326	bird	va-naw	v a n a w
+102	Ukhrul	the blood	525852	946	129	blood	ʔa-ʃi	ʔ a ʃ i
+103	Ukhrul	the blood	526747	946	129	blood	ʔa-si	ʔ a s i
+104	Ukhrul	the body hair (hair or fur)	525853	189	266	hair (on body)	ʔa-ha	ʔ a h a
+105	Ukhrul	the body hair (hair or fur)	525815	189	266	hair (on head)	kuj-sam	k u j s a m
+106	Ukhrul	the bone	526702	1394	133	bone	ʔa-ru-kuj	ʔ a r u k u j
+107	Ukhrul	the branch	525836	1531	374	branch	ʔa-pʰaŋ	ʔ a pʰ a ŋ
+108	Ukhrul	the branch	526667	1531	374	branch	ʔa-sa	ʔ a s a
+109	Ukhrul	the breast (female)	526107	1402	94	breast	ʔa-nu	ʔ a n u
+110	Ukhrul	the breast (female)	526869	1402	94	breast	a-nu	a n u
+111	Ukhrul	the cloud	525830	1489	7	cloud	muja	m u j a
+112	Ukhrul	the cloud	526926	1489	7	cloud	muj-a	m u j a
+113	Ukhrul	the daughter	526906	1357	222	daughter	ŋə-la-naw	ŋ ə l a n a w
+114	Ukhrul	the dog	526677	2009	289	dog	fu	f u
+115	Ukhrul	the dream	526723	2374	699	dream	mɐŋ	m ɐ ŋ
+116	Ukhrul	the dream	526829	2374	699	dream	mɐŋ-soŋ	m ɐ ŋ s o ŋ
+117	Ukhrul	the dream	528284	2374	699	dream	kə-ʃi-mɐn	k ə ʃ i m ɐ n
+118	Ukhrul	the dust	525961	2	45	dust	ci-fu	c i f u
+119	Ukhrul	the ear	525831	1247	81	ear	kʰə-na	kʰ ə n a
+120	Ukhrul	the earth (soil)	526741	1228	40	earth, dirt	ŋə-lej	ŋ ə l e j
+121	Ukhrul	the egg	525820	744	450	egg (hàr 'chicken' + -ru 'water')	ha-ru	h a r u
+122	Ukhrul	the egg	526632	744	450	egg	hɐr-ru	h ɐ rr u
+123	Ukhrul	the eye	525832	1248	79	eye	ʔa-mik	ʔ a m i k
+124	Ukhrul	the father	525837	1217	218	father	ʔa-va	ʔ a v a
+125	Ukhrul	the father	526706	1217	218	father	a-va	a v a
+126	Ukhrul	the feather	525853	1201	299	hair (on body)	ʔa-ha	ʔ a h a
+127	Ukhrul	the feather	525815	1201	299	hair (on head)	kuj-sam	k u j s a m
+128	Ukhrul	the fire	526683	221	18	fire	mej	m e j
+129	Ukhrul	the fish	526763	227	351	fish	kʰaj	kʰ a j
+130	Ukhrul	the flower	525822	239	377	flower	ʔa-wan	ʔ a w a n
+131	Ukhrul	the flower	526686	239	377	flower	ʔa-won	ʔ a w o n
+132	Ukhrul	the foot	526890	1301	103	foot, leg	ʔa-pʰej	ʔ a pʰ e j
+133	Ukhrul	the forest	526768	420	50	mountain, forest	kə-pʰuŋ	k ə pʰ u ŋ
+134	Ukhrul	the frog	526658	503	349	frog	kʰaj-fu	kʰ a j f u
+135	Ukhrul	the fruit	526896	1507	378	fruit; peas	ʔa-tʰej	ʔ a tʰ e j
+136	Ukhrul	the fruit	525805	1507	378	fruit	tʰej	tʰ e j
+137	Ukhrul	the goat	528755	1502	276	goat	me	m e
+138	Ukhrul	the grass	525814	606	436	grass	kʰuwa	kʰ u w a
+139	Ukhrul	the grass	526638	606	436	grass	kʰu-wɐ	kʰ u w ɐ
+140	Ukhrul	the hair (of the head)	525853	1040	75	hair (on body)	ʔa-ha	ʔ a h a
+141	Ukhrul	the hair (of the head)	525808	1040	75	hair	sam	s a m
+142	Ukhrul	the hair (of the head)	525815	1040	75	hair (on head)	kuj-sam	k u j s a m
+143	Ukhrul	the hand	526865	1277	107	hand / arm	ʔa-paŋ	ʔ a p a ŋ
+144	Ukhrul	the head	525823	1256	74	head	(a)-kuj	k u j
+145	Ukhrul	the head	526771	1256	74	head	ʔa-kuj	ʔ a k u j
+146	Ukhrul	the heart	526800	1223	144	heart	mə-|luŋ	m ə |l u ŋ
+147	Ukhrul	the horn (keratinized skin)	525850	1393	263	horn	a-ŋə-ci	a ŋ ə c i
+148	Ukhrul	the horn (keratinized skin)	526778	1393	263	horn	ʔa-ŋə-ci	ʔ a ŋ ə c i
+149	Ukhrul	the house	526877	1252	494	house	ʃim	ʃ i m
+150	Ukhrul	the house	526027	1252	494	burn down (jungle, house)	kə-tʰot	k ə tʰ o t
+151	Ukhrul	the knee	526895	1371	101	knee	ʔa-kʰuk	ʔ a kʰ u k
+152	Ukhrul	the leaf	525860	628	376	leaf	a-na	a n a
+153	Ukhrul	the leaf	526671	628	376	leaf	ʔa-na	ʔ a n a
+154	Ukhrul	the lip (the lips)	526816	478	85	lip	mor-caj	m o r c a j
+155	Ukhrul	the liver	526653	1224	145	lung; liver	ʔa-pʰar	ʔ a pʰ a r
+156	Ukhrul	the liver	526742	1224	145	liver	ʔa-mə-tʰin	ʔ a m ə tʰ i n
+157	Ukhrul	the louse	525801	1392	356	louse	rik	r i k
+158	Ukhrul	the lung	526653	688	143	lung; liver	ʔa-pʰar	ʔ a pʰ a r
+159	Ukhrul	the man (male human)	525896	2106	173	man, son	mə-jar-naw	m ə j a r n a w
+160	Ukhrul	the meat	525886	634	443	skin (human); meat	ʔa-sa	ʔ a s a
+161	Ukhrul	the meat	525800	634	443	meat; animal; skin	sa	s a
+162	Ukhrul	the moon	526897	1313	4	moon	kə-caŋ	k ə c a ŋ
+163	Ukhrul	the mother	526863	1216	219	mother	ʔa-vu	ʔ a v u
+164	Ukhrul	the mountain	526768	639	23	mountain, forest	kə-pʰuŋ	k ə pʰ u ŋ
+165	Ukhrul	the mouse or rat	525848	2139	320	rat, rodent	ʃi-ok	ʃ i o k
+166	Ukhrul	the mouth	525861	674	84	mouth	kʰə-mor	kʰ ə m o r
+167	Ukhrul	the mud	528643	640	46	walk in water or mud	kʰə-ŋə-com	kʰ ə ŋ ə c o m
+168	Ukhrul	the nail (fingernail or claw)	526734	2128	113	(finger) nail	leŋ-kor	l e ŋ k o r
+169	Ukhrul	the name	526660	1405	687	name	ʔa-miŋ	ʔ a m i ŋ
+170	Ukhrul	the neck	526735	1333	89	neck	ʔa-kʰoŋ	ʔ a kʰ o ŋ
+171	Ukhrul	the needle (for sewing)	526766	1382	578	needle	kə-pim	k ə p i m
+172	Ukhrul	the nose	525812	1221	80	nose	na-taŋ	n a t a ŋ
+173	Ukhrul	the otter	526819	15	317	otter	si-rɐm	s i r ɐ m
+174	Ukhrul	the pig	525898	1337	284	pig	hok	h o k
+175	Ukhrul	the rain	526687	658	10	sky; rain	kə-tsiŋ	k ə ts i ŋ
+176	Ukhrul	the rain	527873	658	10	rain	kʰə-ro	kʰ ə r o
+177	Ukhrul	the rain	528202	658	10	rain / hit heavily / too hard	kʰə-mɐr	kʰ ə m ɐ r
+178	Ukhrul	the river	525804	666	30	river	koŋ	k o ŋ
+179	Ukhrul	the river	526775	666	30	river	koŋ	k o ŋ
+180	Ukhrul	the road	525864	667	38	road	ʃoŋ-fu	ʃ o ŋ f u
+181	Ukhrul	the road	526831	667	38	road	soŋ-fu	s o ŋ f u
+182	Ukhrul	the root	525851	670	375	root	a-ŋə-juŋ	a ŋ ə j u ŋ
+183	Ukhrul	the root	526693	670	375	root	ʔa-ŋə-juŋ	ʔ a ŋ ə j u ŋ
+184	Ukhrul	the rope	527667	1218	619	tie things together w/rope	kə-kʰə-rɐp	k ə kʰ ə r ɐ p
+185	Ukhrul	the salt	526670	1274	61	salt	mə-ci	m ə c i
+186	Ukhrul	the sand	526165	671	44	sand	si-tuj	s i t u j
+187	Ukhrul	the seed	525820	714	405	egg (hàr 'chicken' + -ru 'water')	ha-ru	h a r u
+188	Ukhrul	the seed	526133	714	405	seed	ʔa-tʰa	ʔ a tʰ a
+189	Ukhrul	the shit	526876	676	151	defecate	kə-paj	k ə p a j
+190	Ukhrul	the skin	528399	763	120	hide; to take shelter	kʰə-ŋə-jin	kʰ ə ŋ ə j i n
+191	Ukhrul	the skin	525886	763	120	skin (human); meat	ʔa-sa	ʔ a s a
+192	Ukhrul	the skin	525800	763	120	meat; animal; skin	sa	s a
+193	Ukhrul	the sky	526687	1732	1	sky; rain	kə-tsiŋ	k ə ts i ŋ
+194	Ukhrul	the smoke	525865	778	19	smoke	mej-kʰut	m e j kʰ u t
+195	Ukhrul	the snake	525849	730	347	snake	pʰa-|ru	pʰ a |r u
+196	Ukhrul	the snake	526765	730	347	snake	pʰə-|ru	pʰ ə |r u
+197	Ukhrul	the son	525896	1620	220	man, son	mə-jar-naw	m ə j a r n a w
+198	Ukhrul	the star	525871	1430	5	star	si◦ra	s i ◦ r a
+199	Ukhrul	the star	526690	1430	5	star	si-ra	s i r a
+200	Ukhrul	the stick	526037	1295	586	stick, sticky	kʰə-nap	kʰ ə n a p
+201	Ukhrul	the stick	525803	1295	586	stick	tʰiŋ	tʰ i ŋ
+202	Ukhrul	the stick	527455	1295	586	stick	kʰə-ŋə-nɐr	kʰ ə ŋ ə n ɐ r
+203	Ukhrul	the stick	528331	1295	586	get soaked (as tree, wood, etc.)	kə-pʰə-jip	k ə pʰ ə j i p
+204	Ukhrul	the stick	526770	1295	586	tree / wood / stick	tʰiŋ	tʰ i ŋ
+205	Ukhrul	the stick	528225	1295	586	extract (as fat, wood, oil, etc.)	kʰə-rɐŋ	kʰ ə r ɐ ŋ
+206	Ukhrul	the stone (a piece of)	526161	857	379	stone	ŋə-luŋ-kuj	ŋ ə l u ŋ k u j
+207	Ukhrul	the stone (a piece of)	526691	857	379	stone	ŋə-luŋ	ŋ ə l u ŋ
+208	Ukhrul	the sun	525872	1343	2	sun	tsimik	ts i m i k
+209	Ukhrul	the sun	526692	1343	2	sun / day	tsi-mik	ts i m i k
+210	Ukhrul	the tail	526740	1220	267	tail	kʰə-mej	kʰ ə m e j
+211	Ukhrul	the thunder	526080	1150	8	thunder	kʰə-ŋə-ʃum	kʰ ə ŋ ə ʃ u m
+212	Ukhrul	the tiger	528754	846	304	tiger	ʃaŋ-ku	ʃ a ŋ k u
+213	Ukhrul	the tongue	525889	1205	139	tongue	mə-le	m ə l e
+214	Ukhrul	the tongue	526899	1205	139	tongue	mə-lej	m ə l e j
+215	Ukhrul	the tooth (front)	526733	1380	137	tooth	ʔa-ha	ʔ a h a
+216	Ukhrul	the tree	526101	906	372	tree	tʰiŋ◦roŋ	tʰ i ŋ ◦ r o ŋ
+217	Ukhrul	the tree	528743	906	372	tree	tʰiŋ-roŋ	tʰ i ŋ r o ŋ
+218	Ukhrul	the tree	526770	906	372	tree / wood / stick	tʰiŋ	tʰ i ŋ
+219	Ukhrul	the water	525870	948	47	water	ta-ru	t a r u
+220	Ukhrul	the water	526695	948	47	water	tɐ-ru	t ɐ r u
+221	Ukhrul	the wind	525824	960	9	wind	mə-ʃi	m ə ʃ i
+222	Ukhrul	the wind	525949	960	9	wind	kʰə-nej	kʰ ə n e j
+223	Ukhrul	the wind	526684	960	9	wind	mə-si	m ə s i
+224	Ukhrul	the wind	527330	960	9	wind	kə-kʰuj	k ə kʰ u j
+225	Ukhrul	the wind	527448	960	9	wind	kʰə-nɐj	kʰ ə n ɐ j
+226	Ukhrul	the wing	525890	1257	298	wing	a-ŋə-caŋ	a ŋ ə c a ŋ
+227	Ukhrul	the wing	526918	1257	298	wing	ʔa-ŋə-caŋ	ʔ a ŋ ə c a ŋ
+228	Ukhrul	the woman	526751	962	174	child; woman	ʃi-naw	ʃ i n a w
+229	Ukhrul	the year	525863	1226	777	year	tsiŋkum	ts i ŋ k u m
+230	Ukhrul	the year	526836	1226	777	year	tsiŋ-kum	ts i ŋ k u m
+231	Ukhrul	thick	525750	1244	980	thick	kə-ʃa	k ə ʃ a
+232	Ukhrul	thick	526779	1244	980	thick	kə-sa	k ə s a
+233	Ukhrul	thin (object)	526950	2307	981	thin or lean (be v.)	kʰə-ŋə-wa	kʰ ə ŋ ə w a
+234	Ukhrul	thin (object)	526075	2307	981	thin (objects)	kə-ŋə-va	k ə ŋ ə v a
+235	Ukhrul	thin (object)	526711	2307	981	dry up; be thin	kə-kaw	k ə k a w
+236	Ukhrul	thou [second person singular]	526720	1215	931	thou	nɐ	n ɐ
+237	Ukhrul	three	526798	492	799	three	kə-tʰum	k ə tʰ u m
+238	Ukhrul	to be alive	527377	1422	1087	over (work, living, etc.) (be v.)	kʰə-ŋə-cɐŋ	kʰ ə ŋ ə c ɐ ŋ
+239	Ukhrul	to be alive	526654	1422	1087	alive (be v.)	kʰə-riŋ	kʰ ə r i ŋ
+240	Ukhrul	to bite	526655	1403	1753	bite	kʰə-mə-kej	kʰ ə m ə k e j
+241	Ukhrul	to bite	527193	1403	1753	bite	kʰə-mə-kɐj	kʰ ə m ə k ɐ j
+242	Ukhrul	to bite	527390	1403	1753	bite (crab)	kə-ci-cɐp	k ə c i c ɐ p
+243	Ukhrul	to blow (of wind)	525772	175	1738	blow, extinguish	kʰə-mit	kʰ ə m i t
+244	Ukhrul	to blow (of wind)	526920	175	1738	blow	kʰə-mə-ri	kʰ ə m ə r i
+245	Ukhrul	to blow (of wind)	526153	175	1738	blow (wind)	kə-pʰan	k ə pʰ a n
+246	Ukhrul	to blow (of wind)	526905	175	1738	blow (wind)	kə-pʰɐn	k ə pʰ ɐ n
+247	Ukhrul	to burn [intransitive]	527362	1428	1269	burn (brick etc.)	kʰə-ŋan	kʰ ə ŋ a n
+248	Ukhrul	to burn [intransitive]	526864	1428	1269	burn (firewood)	kʰə-rik	kʰ ə r i k
+249	Ukhrul	to burn [intransitive]	526753	1428	1269	burn, ignite; burning fire	kə-cuj	k ə c u j
+250	Ukhrul	to buy	526756	1869	1516	buy	kʰə-lo	kʰ ə l o
+251	Ukhrul	to buy	527872	1869	1516	buy	kʰə-ro	kʰ ə r o
+252	Ukhrul	to chew	527007	321	1424	chew	kə-ʃɐj	k ə ʃ ɐ j
+253	Ukhrul	to come	525948	1446	1491	come	kʰə-ra	kʰ ə r a
+254	Ukhrul	to count	527401	1420	1640	count	kə-cak	k ə c a k
+255	Ukhrul	to count	528644	1420	1640	calculate; divide into shares	kʰə-ŋə-cuk	kʰ ə ŋ ə c u k
+256	Ukhrul	to cry (weep)	527404	1839	1485	cry	kə-kə-cak	k ə k ə c a k
+257	Ukhrul	to cry (weep)	525768	1839	1485	weep, cry	kə-cap	k ə c a p
+258	Ukhrul	to cry (weep)	527385	1839	1485	weep, cry	kə-cɐp	k ə c ɐ p
+259	Ukhrul	to die	526757	1494	1651	die	kə-tʰi	k ə tʰ i
+260	Ukhrul	to dig	526652	1418	1698	dig	kə-cuj	k ə c u j
+261	Ukhrul	to drink	525756	1401	1370	drink	kʰə-maŋ	kʰ ə m a ŋ
+262	Ukhrul	to drink	526845	1401	1370	drink	kʰə-mɐŋ	kʰ ə m ɐ ŋ
+263	Ukhrul	to eat	525760	1336	1198	eat (e.g. rice), dine	kə-tsa	k ə ts a
+264	Ukhrul	to eat	526813	1336	1198	eat (fruit)	kə-ʃaj	k ə ʃ a j
+265	Ukhrul	to eat	526792	1336	1198	eat (rice)	pʰɐ-kə-tsa	pʰ ɐ k ə ts a
+266	Ukhrul	to eat	525983	1336	1198	eat	ʃaj	ʃ a j
+267	Ukhrul	to fight	527935	1423	1234	fight (as wild bear)	kʰə-ŋə-hat	kʰ ə ŋ ə h a t
+268	Ukhrul	to fight	526077	1423	1234	fight (with one another)	kʰə-ŋə-mu	kʰ ə ŋ ə m u
+269	Ukhrul	to float	527279	1574	1553	float (v.i.)	kə-kʰɐj	k ə kʰ ɐ j
+270	Ukhrul	to float	527280	1574	1553	float (v.t.)	kə-ci-kʰɐj	k ə c i kʰ ɐ j
+271	Ukhrul	to flow	527892	2003	1502	flow (water)	kʰə-roŋ	kʰ ə r o ŋ
+272	Ukhrul	to fly (move through air)	528257	1441	1318	fly	kʰə-joŋ	kʰ ə j o ŋ
+273	Ukhrul	to fly (move through air)	526700	1441	1318	fly, jump	kə-paj	k ə p a j
+274	Ukhrul	to fly (move through air)	528248	1441	1318	search out food (bees, fly, etc.)	kʰə-ji	kʰ ə j i
+275	Ukhrul	to forget	525753	1523	1704	forget	mə-|laj-kə-taj	m ə |l a j k ə t a j
+276	Ukhrul	to forget	526705	1523	1704	forget	kʰə-mə-|laj	kʰ ə m ə |l a j
+277	Ukhrul	to forget	527730	1523	1704	forget	kʰə-mə-raj	kʰ ə m ə r a j
+278	Ukhrul	to give	526640	1447	1345	give	kʰə-mi	kʰ ə m i
+279	Ukhrul	to hear	526056	1408	1682	hear	kə-ʃa	k ə ʃ a
+280	Ukhrul	to hear	526659	1408	1682	hear; listen, be obedient	kʰə-ŋə-na	kʰ ə ŋ ə n a
+281	Ukhrul	to hide (conceal)	528399	602	1169	hide; to take shelter	kʰə-ŋə-jin	kʰ ə ŋ ə j i n
+282	Ukhrul	to hide (conceal)	526644	602	1169	hide	kʰə-ŋə-tʰum	kʰ ə ŋ ə tʰ u m
+283	Ukhrul	to hold	526167	1448	1709	hold	kə-siŋ	k ə s i ŋ
+284	Ukhrul	to hold	527607	1448	1709	hold	kə-pok	k ə p o k
+285	Ukhrul	to hold	527083	1448	1709	hold (a small thing)	kʰə-ŋə-ʃum	kʰ ə ŋ ə ʃ u m
+286	Ukhrul	to hunt	527844	1435	1230	hunt	kʰə-reŋ	kʰ ə r e ŋ
+287	Ukhrul	to hunt	528163	1435	1230	hunt	kə-kə-tsuŋ	k ə k ə ts u ŋ
+288	Ukhrul	to kill	525744	1417	1602	kill	sa-kə-tʰat	s a k ə tʰ a t
+289	Ukhrul	to kill	526636	1417	1602	kill	sa-kə-tʰɐt	s a k ə tʰ ɐ t
+290	Ukhrul	to kill	528559	1417	1602	kill	kə-tʰɐt	k ə tʰ ɐ t
+291	Ukhrul	to knead	526121	274	1594	knead	kʰə-naj	kʰ ə n a j
+292	Ukhrul	to knead	526789	274	1594	knead	kʰə-ŋə-naj	kʰ ə ŋ ə n a j
+293	Ukhrul	to know (something)	526730	1410	1398	know; see	kə-tʰej	k ə tʰ e j
+294	Ukhrul	to laugh	527609	1355	1735	scream	kə-poŋ	k ə p o ŋ
+295	Ukhrul	to laugh	526777	1355	1735	laugh	kʰə-mə-nu	kʰ ə m ə n u
+296	Ukhrul	to laugh	527496	1355	1735	laugh, mock at	kʰə-mə-nɯ	kʰ ə m ə n ɯ
+297	Ukhrul	to learn	525984	504	1742	read, study	kə-pa	k ə p a
+298	Ukhrul	to learn	528529	504	1742	learn	kə-tɐm	k ə t ɐ m
+299	Ukhrul	to lick	525787	319	1674	lick	kʰə-mə-|lek	kʰ ə m ə |l e k
+300	Ukhrul	to lick	527836	319	1674	lick	kʰə-mə-rɐk	kʰ ə m ə r ɐ k
+301	Ukhrul	to lie down	528395	215	1661	lie down	kʰə-ŋə-jaj	kʰ ə ŋ ə j a j
+302	Ukhrul	to lie down	526803	215	1661	sleep; lie down	kə-pi	k ə p i
+303	Ukhrul	to marry (a man marries a woman)	526029	2164	1578	marry (speaking of the man or woman)	ʃak kə-tsa	ʃak kə-tsa
+304	Ukhrul	to plant (vegetals, rice)	526924	1486	1774	awaken, wake up; leave, depart; sprout (plant), grow	kə-tʰuj	k ə tʰ u j
+305	Ukhrul	to plant (vegetals, rice)	527119	1486	1774	plant; put stones for hearth	kə-ʃom	k ə ʃ o m
+306	Ukhrul	to play	527858	1413	1703	play	kʰə-ŋə-rew	kʰ ə ŋ ə r e w
+307	Ukhrul	to play	528390	1413	1703	play (football, etc.)	kʰə-ŋə-jɐp	kʰ ə ŋ ə j ɐ p
+308	Ukhrul	to play	528639	1413	1703	play (football)	kʰə-ŋə-caj	kʰ ə ŋ ə c a j
+309	Ukhrul	to pull	527312	1455	1568	drag, pull (v.)	kʰə-ŋə-kʰun	kʰ ə ŋ ə kʰ u n
+310	Ukhrul	to pull	527005	1455	1568	pull, smoke	kə-ʃɐj	k ə ʃ ɐ j
+311	Ukhrul	to push	527443	1452	1689	press, push, seal	kʰə-nɐm	kʰ ə n ɐ m
+312	Ukhrul	to push	526040	1452	1689	press, stuff, push	kʰə-nam	kʰ ə n a m
+313	Ukhrul	to reside (live)	526066	1099	1452	sit, reside; do continuously (postp.)	kə-pam	k ə p a m
+314	Ukhrul	to run	526784	1519	1544	run, flee	kʰə-ŋə-sɐm	kʰ ə ŋ ə s ɐ m
+315	Ukhrul	to run	525765	1519	1544	run	kə-joŋ	k ə j o ŋ
+316	Ukhrul	to run	526079	1519	1544	run	kʰə-ŋə-sam	kʰ ə ŋ ə s a m
+317	Ukhrul	to run	526894	1519	1544	run	kʰə-joŋ	kʰ ə j o ŋ
+318	Ukhrul	to scratch	525799	1436	1530	scratch / scrape	kə-kʰot	k ə kʰ o t
+319	Ukhrul	to scratch	528210	1436	1530	scrape, rub	kʰə-mit	kʰ ə m i t
+320	Ukhrul	to see	525974	1409	1471	look at, watch, see; as postp. experience, try	kʰə-jaŋ	kʰ ə j a ŋ
+321	Ukhrul	to see	528560	1409	1471	see	kə-tʰɐj	k ə tʰ ɐ j
+322	Ukhrul	to see	526730	1409	1471	know; see	kə-tʰej	k ə tʰ e j
+323	Ukhrul	to shoot (an arrow)	526656	1172	1611	shoot	kə-kap	k ə k a p
+324	Ukhrul	to sleep	526803	1585	1646	sleep; lie down	kə-pi	k ə p i
+325	Ukhrul	to smell (perceive odor) [transitive]	528078	1586	1707	sniff (of dogs)	kə-kə-sim	k ə k ə s i m
+326	Ukhrul	to smell (perceive odor) [transitive]	526651	1586	1707	smell	kʰə-ŋə-nɐm	kʰ ə ŋ ə n ɐ m
+327	Ukhrul	to spit	528610	1440	1688	make wet, spit	kʰə-mə-cor	kʰ ə m ə c o r
+328	Ukhrul	to spit	526074	1440	1688	spit	kʰə-mə-co	kʰ ə m ə c o
+329	Ukhrul	to spit	526794	1440	1688	spit	mə-cor-ru	m ə c o rr u
+330	Ukhrul	to spit	527107	1440	1688	spit	kʰə-mə-ʃo	kʰ ə m ə ʃ o
+331	Ukhrul	to stand	526122	1442	1784	keep erect, standing	kə-kʰə-niŋ	k ə kʰ ə n i ŋ
+332	Ukhrul	to stand	526643	1442	1784	stand; be proud	kʰə-ŋə-niŋ	kʰ ə ŋ ə n i ŋ
+333	Ukhrul	to steal	526648	713	1686	steal	kʰə-li	kʰ ə l i
+334	Ukhrul	to steal	527747	713	1686	steal	kʰə-ri	kʰ ə r i
+335	Ukhrul	to think (reflect)	526662	1415	1726	think	kə-pʰə-niŋ	k ə pʰ ə n i ŋ
+336	Ukhrul	to throw	527991	1456	1687	throw (small things)	kə-her	k ə h e r
+337	Ukhrul	to throw	525950	1456	1687	throw	kə-tʰam	k ə tʰ a m
+338	Ukhrul	to throw	528556	1456	1687	throw	kə-tɐɐm	k ə t ɐɐ m
+339	Ukhrul	to throw	527947	1456	1687	throw (a stick or a log of wood)	kə-kə-haj	k ə k ə h a j
+340	Ukhrul	to vomit	526907	1278	1535	vomit	kʰə-mə-law	kʰ ə m ə l a w
+341	Ukhrul	to vomit	527877	1278	1535	vomit	kʰə-mə-lo	kʰ ə m ə l o
+342	Ukhrul	to walk	528142	1443	1815	make to walk or go	kə-ci-tsɐt	k ə c i ts ɐ t
+343	Ukhrul	to walk	525766	1443	1815	walk	kə-tsat	k ə ts a t
+344	Ukhrul	to walk	528143	1443	1815	walk, go	kə-tsɐt	k ə ts ɐ t
+345	Ukhrul	today	528557	1283	738	dawn; day	kə-tʰɐŋ	k ə tʰ ɐ ŋ
+346	Ukhrul	today	526692	1283	738	sun / day	tsi-mik	ts i m i k
+347	Ukhrul	tomorrow	525982	1329	742	tomorrow	ʔa-kʰama	ʔ a kʰ a m a
+348	Ukhrul	two	526773	1498	798	two	kʰə-ni	kʰ ə n i
+349	Ukhrul	wet	526170	1726	1029	wet	kʰə-ju	kʰ ə j u
+350	Ukhrul	wet	528262	1726	1029	wet (be v.)	kʰə-jɯ	kʰ ə j ɯ
+351	Ukhrul	wet	526828	1726	1029	damp; gentle, mild mannered, humble (be v.)	kʰə-nim	kʰ ə n i m
+352	Ukhrul	white	525748	1335	1006	white	kə-car	k ə c a r
+353	Ukhrul	white	526717	1335	1006	white (be v.)	kə-cɐr	k ə c ɐ r
+354	Ukhrul	who	525963	1235	953	who	kʰi-pa	kʰ i p a
+355	Ukhrul	yesterday	525952	1174	739	yesterday	ʔa-ja	ʔ a j a
