@@ -1,0 +1,318 @@
+ID	DOCULECT	CONCEPT	RGEN	CONCEPTICON_ID	TBL_ID	GLOSS_IN_SOURCE	IPA	TOKENS
+1	Bahing	I [first person singular]	122277	1209	928	firefly (an, i)	dɔlɔtsiŋma	d ɔ l ɔ ts i ŋ m a
+2	Bahing	I [first person singular]	121975	1209	928	I (pron)	gu	g u
+3	Bahing	above	122881	1741	731	above, up (adv)	hati, haty	hati, haty
+4	Bahing	below, under	122879	1485	732	below (adv)	hajy	h a j y
+5	Bahing	below, under	122278	1485	732	under, below (n, pp)	dojy	d o j y
+6	Bahing	big	122043	1202	964	big (adj)	a-ŋolo	a ŋ o l o
+7	Bahing	black	121786	163	1005	black (adj)	kɛkɛ	k ɛ k ɛ
+8	Bahing	cold (of temperature)	122157	1287	1063	cold (n)	dzuːmi	d z uː m i
+9	Bahing	dark	122222	706	1013	at night (adv)	tyŋatsi	t y ŋ a ts i
+10	Bahing	dirty	122077	1230	1086	infested, dirty (be v.)	tsa-	ts a
+11	Bahing	dry	122280	1398	1028	dry (vi)	doŋ- (/døt-)	d o ŋ
+12	Bahing	dry	122840	1398	1028	dry (vi)	sø-	s ø
+13	Bahing	dry	122887	1398	1028	dry, spread to dry (vt)	ham-	h a m
+14	Bahing	eight	121723	1705	804	eight (num)	ja	j a
+15	Bahing	far	121948	1406	974	uphill, upstairs, far (adv)	getta	g e tt a
+16	Bahing	five	122041	493	801	five (num)	ŋə	ŋ ə
+17	Bahing	four	122703	1500	800	four (num)	le	l e
+18	Bahing	good	122641	1035	1052	good-looking, good (be v.)	rim-	r i m
+19	Bahing	good	122642	1035	1052	well, thoroughly (adv)	rimøkhø	r i m ø kh ø
+20	Bahing	green	121945	1425	1009	green (adj)	gigi (mœba)	g i g i
+21	Bahing	he or she [third person singular]	121703	262	934	he [ERGATIVE] (pron)	amtsam	a m ts a m
+22	Bahing	he or she [third person singular]	121687	262	934	this, he, she (demon)	ɛm	ɛ m
+23	Bahing	he or she [third person singular]	121700	262	934	he, she (pron v.)	am	a m
+24	Bahing	hot	122116	1286	1062	warm, cosy (adj)	tsøtsø	ts ø ts ø
+25	Bahing	hot	122141	1286	1062	hot, warm (feeling) (be v.)	dze-	d z e
+26	Bahing	hot	122484	1286	1062	heat (n)	bapmi	b a p m i
+27	Bahing	inside	122015	1606	715	inside (n)	ghɔ	gh ɔ
+28	Bahing	late	121695	477	1019	later (in the day) (adv)	anama	a n a m a
+29	Bahing	left	121985	244	710	hand (n)	gy	g y
+30	Bahing	long	122173	1203	972	long (be v.)	dz(h)ø-	d z ø
+31	Bahing	middle	122736	1093	708	middle, between (n loc)	lø	l ø
+32	Bahing	middle	122750	1093	708	midst, middle (n loc)	lymby	l y m b y
+33	Bahing	narrow	121922	1267	977	close, lock up (vt)	khrɛpt-	kh r ɛ p t
+34	Bahing	narrow	122103	1267	977	close (vt)	tsok-	ts o k
+35	Bahing	narrow	122762	1267	977	lock / close (door or window) (v)	sild-	s i l d
+36	Bahing	near	121922	1942	975	close, lock up (vt)	khrɛpt-	kh r ɛ p t
+37	Bahing	near	122103	1942	975	close (vt)	tsok-	ts o k
+38	Bahing	near	122410	1942	975	next to, near (n, pp)	pym	p y m
+39	Bahing	near	122762	1942	975	lock / close (door or window) (v)	sild-	s i l d
+40	Bahing	new	122314	1231	1050	new (adj)	ninta	n i n t a
+41	Bahing	nine	122017	1483	805	nine (num)	ghø	gh ø
+42	Bahing	old (of person)	122030	2112	1058	elder (e.g. a-ŋaːtsa hopo 'my elder/eldest brother' (n)	ŋaːtsa	ŋ aː ts a
+43	Bahing	old (of person)	121748	2112	1058	brother, elder; elder sibling (n)	wa	w a
+44	Bahing	old (of person)	122582	2112	1058	old, old age (adj)	maisam	m a i s a m
+45	Bahing	one	121810	1493	797	one (num)	koŋ	k o ŋ
+46	Bahing	outside	121766	762	714	outside (adv)	wareŋ	w a r e ŋ
+47	Bahing	outside	122213	762	714	outside (n, pp)	tola	t o l a
+48	Bahing	red	122722	156	1007	red (adj)	lala	l a l a
+49	Bahing	right	121985	1019	711	hand (n)	gy	g y
+50	Bahing	right	122159	1019	711	right (side) (adj)	dzumro	d z u m r o
+51	Bahing	salty	121737	1091	1076	salt (n)	juksi	j u ks i
+52	Bahing	seven	122082	1704	803	seven (num)	tsande	ts a n d e
+53	Bahing	sharp	122867	1396	1020	sharp (of a blade) (be v.)	he-	h e
+54	Bahing	six	122680	1703	802	six (num)	ruka	r u k a
+55	Bahing	small	121690	1246	965	little (adv df.)	akatsi	a k a ts i
+56	Bahing	small	121692	1246	965	small (adj)	aːtsa	aː ts a
+57	Bahing	soft	122909	1856	1035	boiled, cooked, soft (be v.)	hyms-	h y ms
+58	Bahing	soft	122729	1856	1035	soft, tender (adv)	lɔʔbɔ	l ɔ ʔ b ɔ
+59	Bahing	ten	122313	1515	806	ten (num)	nidhym	n i dh y m
+60	Bahing	the ant	121962	587	365	ant (n)	gatsiŋma, gaːtsiŋma	gatsiŋma, gaːtsiŋma
+61	Bahing	the bamboo	121876	1927	389	bamboo (n df.)	khimpa	kh i m p a
+62	Bahing	the bamboo	122208	1927	389	bamboo (n df.)	tobu	t o b u
+63	Bahing	the bamboo	122387	1927	389	bamboo (n)	palam	p a l a m
+64	Bahing	the bamboo	122634	1927	389	bamboo (n df.)	riktso	r i k ts o
+65	Bahing	the bamboo	122813	1927	389	bamboo (n df.)	sɔkpa	s ɔ k p a
+66	Bahing	the bamboo	122055	1927	389	small bamboo (n df.)	tsinda	ts i n d a
+67	Bahing	the belly	121833	1251	96	stomach (n)	koːdza	k oː d z a
+68	Bahing	the bird	121864	937	326	bird (n df.)	kram	k r a m
+69	Bahing	the bird	121912	937	326	bird (n df.)	khywa	kh y w a
+70	Bahing	the bird	122002	937	326	bird (n df.)	grywa	g r y w a
+71	Bahing	the bird	122049	937	326	bird (n)	tsikʔba	ts i k ʔ b a
+72	Bahing	the bird	122763	937	326	a bird (n df.)	sisiphyi	s i s i ph y i
+73	Bahing	the bird	122119	937	326	bird or flying insect ? (n df.)	tsuktsuʔba	ts u k ts u ʔ b a
+74	Bahing	the blood	122903	946	129	blood (n)	hysi	h y s i
+75	Bahing	the body hair (hair or fur)	122621	189	266	wash (the head or hair) (vt)	myr-	m y r
+76	Bahing	the body hair (hair or fur)	122086	189	266	hair (of the head) (n)	tsam	ts a m
+77	Bahing	the body hair (hair or fur)	122416	189	266	undo (e.g. a knot, the hair) (vt)	prɔk-	p r ɔ k
+78	Bahing	the body hair (hair or fur)	122849	189	266	body hair, down (n)	suŋ	s u ŋ
+79	Bahing	the bone	122690	1394	133	bone (n)	ryse	r y s e
+80	Bahing	the cloud	121840	1489	7	cloud (n)	kuksɛl	k u ks ɛ l
+81	Bahing	the daughter	122194	1357	222	daughter (n)	tami	t a m i
+82	Bahing	the daughter	122593	1357	222	eldest female of a sib, eldest sister or daughter (n)	mɔːdi	m ɔː d i
+83	Bahing	the dog	121929	2009	289	dog (n)	khlitsa	kh l i ts a
+84	Bahing	the dream	122035	2374	699	dream (n)	ŋamo	ŋ a m o
+85	Bahing	the dust	122012	2	45	dust (n)	glypdzi	g l y p d z i
+86	Bahing	the dust	122457	2	45	dust, sweepings (n)	phyrky	ph y r k y
+87	Bahing	the ear	122344	1247	81	ear (n)	nœgatsi	n œ g a ts i
+88	Bahing	the ear	122803	1247	81	ear (n)	samanœ	s a m a n œ
+89	Bahing	the ear	122779	1247	81	noise, disturbance (n)	sɛnda	s ɛ n d a
+90	Bahing	the earth (soil)	122174	1228	40	jump down, land, alight (v)	dz(h)ukt-	d z u k t
+91	Bahing	the earth (soil)	121889	1228	40	earth, soil (n)	khapi	kh a p i
+92	Bahing	the earth (soil)	121887	1228	40	the earth (n)	khadi	kh a d i
+93	Bahing	the earth (soil)	121772	1228	40	fields, land (n)	waleko	w a l e k o
+94	Bahing	the earthworm	121743	2350	363	earthworm (n)	jyndi	j y n d i
+95	Bahing	the egg	122549	744	450	egg (n)	ʔbadi	ʔ b a d i
+96	Bahing	the eye	122568	1248	79	eye (n)	mitsi	m i ts i
+97	Bahing	the father	122384	1217	218	father (n)	papa	p a p a
+98	Bahing	the father	122398	1217	218	father, male (n)	pø	p ø
+99	Bahing	the feather	122465	1201	299	feather (n)	phlem	ph l e m
+100	Bahing	the feather	122621	1201	299	wash (the head or hair) (vt)	myr-	m y r
+101	Bahing	the feather	122086	1201	299	hair (of the head) (n)	tsam	ts a m
+102	Bahing	the fire	122565	221	18	fire (n)	mi	m i
+103	Bahing	the fire	122484	221	18	heat (n)	bapmi	b a p m i
+104	Bahing	the fish	122026	227	351	fish (n)	ŋa	ŋ a
+105	Bahing	the flower	122451	239	377	flower (n)	phuŋ	ph u ŋ
+106	Bahing	the foot	121917	1301	103	foot (n)	khyli	kh y l i
+107	Bahing	the forest	122796	420	50	forest (n)	saʔbala	s a ʔ b a l a
+108	Bahing	the frog	121866	503	349	frog (n)	krukru	k r u k r u
+109	Bahing	the front (front side)	122032	2194	712	front (khim a-ŋanla 'in front of the house') (n)	ŋan	ŋ a n
+110	Bahing	the frost	122459	2034	14	frost (n)	phyrsa	ph y rs a
+111	Bahing	the fruit	122463	1507	378	fruit, Nep. kāphal (n df.)	phretsi	ph r e ts i
+112	Bahing	the fruit	122359	1507	378	fruit (n df.)	piŋgutsi	p i ŋ g u ts i
+113	Bahing	the fruit	122601	1507	378	fruit (n df.)	mokoloŋma	m o k o l o ŋ m a
+114	Bahing	the fruit	122756	1507	378	fruit (n)	siːtsi	s iː ts i
+115	Bahing	the fruit	122510	1507	378	fruit, Phyllanthus emblica (n df.)	brewatsi	b r e w a ts i
+116	Bahing	the fruit	122772	1507	378	break (e.g. rope, thread), pick (flower or fruit) (vt)	sɛk-	s ɛ k
+117	Bahing	the goat	122815	1502	276	goat (n)	sɔŋgara	s ɔ ŋ g a r a
+118	Bahing	the grass	122055	606	436	tall grass (n)	tsinda	ts i n d a
+119	Bahing	the grass	121735	606	436	thatch-grass (n)	joːri	j oː r i
+120	Bahing	the hail	122512	609	13	call, hail (vt)	brett-	b r e tt
+121	Bahing	the hail	122605	609	13	hail (n)	mosi, musi	mosi, musi
+122	Bahing	the hair (of the head)	122621	1040	75	wash (the head or hair) (vt)	myr-	m y r
+123	Bahing	the hair (of the head)	122086	1040	75	hair (of the head) (n)	tsam	ts a m
+124	Bahing	the hair (of the head)	122416	1040	75	undo (e.g. a knot, the hair) (vt)	prɔk-	p r ɔ k
+125	Bahing	the hand	121985	1277	107	hand (n)	gy	g y
+126	Bahing	the head	122356	1256	74	head (n)	pija	p i j a
+127	Bahing	the head	122036	1256	74	head, top, upper (e.g. of a valley, storey) (n)	ŋari, ŋaːri	ŋari, ŋaːri
+128	Bahing	the heart	122251	1223	144	heart (n)	thymsitsi	th y ms i ts i
+129	Bahing	the heart	122250	1223	144	heart, feelings (n)	thym, thymbɔp	thym, thymbɔp
+130	Bahing	the hoof	121951	152	264	hoof (n)	gɛksyly	g ɛ ks y l y
+131	Bahing	the horn (keratinized skin)	121997	1393	263	horn (n)	gro	g r o
+132	Bahing	the house	121875	1252	494	house (n)	khim	kh i m
+133	Bahing	the knee	122395	1371	101	knee (n)	poktsi	p o k ts i
+134	Bahing	the knee	121838	1371	101	bend (vt)	kuk-	k u k
+135	Bahing	the leaf	122817	628	376	leaf (n)	sɔphɔ	s ɔ ph ɔ
+136	Bahing	the liver	122256	1224	145	liver (n)	diŋ	d i ŋ
+137	Bahing	the louse	122636	1392	356	louse (n)	riŋ	r i ŋ
+138	Bahing	the lung	122825	688	143	lung (n)	sœpeorœ	s œ p e o r œ
+139	Bahing	the man (male human)	122623	2106	173	man (n)	myry	m y r y
+140	Bahing	the man (male human)	121751	2106	173	man, male (n)	wai ̃sa	wai ̃sa
+141	Bahing	the man (male human)	122398	2106	173	father, male (n)	pø	p ø
+142	Bahing	the meat	122771	634	443	meat, jerky (n)	seːla	s eː l a
+143	Bahing	the mosquito	122854	1509	360	biting fly, mosquito (n df.)	sypɛl	s y p ɛ l
+144	Bahing	the mother	122589	1216	219	mother (n)	mama	m a m a
+145	Bahing	the mother	122607	1216	219	female, mother (n)	mø	m ø
+146	Bahing	the mountain	121830	639	23	hill	koŋko	k o ŋ k o
+147	Bahing	the mouse or rat	121740	2139	320	mouse (n)	jy	j y
+148	Bahing	the mouth	122822	674	84	mouth (n)	sœ	s œ
+149	Bahing	the nail (fingernail or claw)	121952	2128	113	nail, claw (n)	gɛŋ	g ɛ ŋ
+150	Bahing	the nail (fingernail or claw)	122516	2128	113	claw, scratch (vt)	bramt-	b r a m t
+151	Bahing	the name	122308	1405	687	name (n)	niŋ	n i ŋ
+152	Bahing	the neck	122710	1333	89	neck (n)	lɛpsy	l ɛ ps y
+153	Bahing	the neck	122844	1333	89	neck (n)	sørø, syry	sørø, syry
+154	Bahing	the needle (for sewing)	122749	1382	578	needle (n)	lymdze	l y m d z e
+155	Bahing	the nose	122343	1221	80	nose (n)	nœ	n œ
+156	Bahing	the pig	122393	1337	284	pig (n)	po	p o
+157	Bahing	the rain	122649	658	10	rain (n)	rɛwa	r ɛ w a
+158	Bahing	the rainbow	122053	1733	11	rainbow (n)	tsitsirwa	ts i ts i r w a
+159	Bahing	the river	121984	666	30	river (n)	gulo	g u l o
+160	Bahing	the road	122720	667	38	road (n)	lam	l a m
+161	Bahing	the root	122776	670	375	root (n)	sɛŋgiri	s ɛ ŋ g i r i
+162	Bahing	the rope	121992	1218	619	rope (n)	gra	g r a
+163	Bahing	the salt	121737	1274	61	salt (n)	juksi	j u ks i
+164	Bahing	the seed	122549	714	405	egg (n)	ʔbadi	ʔ b a d i
+165	Bahing	the seed	121755	714	405	seed (n)	waːtser	w aː ts e r
+166	Bahing	the sheep	121896	1331	275	sheep (n)	khɔkpa	kh ɔ k p a
+167	Bahing	the shit	121773	676	151	defecate (v)	was-	w a s
+168	Bahing	the shit	121927	676	151	excrement (n)	khli	kh l i
+169	Bahing	the shoulder	122205	1482	90	shoulder (n)	tokto	t o k t o
+170	Bahing	the shoulder	122051	1482	90	back (n)	tsiŋ	ts i ŋ
+171	Bahing	the skin	121825	763	120	skin, bark (n)	kokte	k o k t e
+172	Bahing	the skin	121941	763	120	hide (oneself) (vr)	khlys-	kh l y s
+173	Bahing	the skin	121712	763	120	peel (with the hands), shell, skin (vt)	øk-	ø k
+174	Bahing	the skin	121940	763	120	hide (vt)	khlytt-	kh l y tt
+175	Bahing	the sky	122414	1732	1	thunder, lightning strike (n)	preŋ	p r e ŋ
+176	Bahing	the smoke	121850	778	19	smoke (n)	kyni	k y n i
+177	Bahing	the snake	122508	730	347	snake or worm ?? (n)	bysa	b y s a
+178	Bahing	the snow	122456	784	12	snow (n)	phym	ph y m
+179	Bahing	the son	122188	1620	220	son (n)	ta, tawa	ta, tawa
+180	Bahing	the spider	122548	843	361	spider (n)	ʔbadzoriŋma	ʔ b a d z o r i ŋ m a
+181	Bahing	the star	122836	1430	5	star (n)	sor	s o r
+182	Bahing	the stick	122560	1295	586	stick (sth. on sth.), patch (vt)	ʔbɔkt-	ʔ b ɔ k t
+183	Bahing	the stick	122070	1295	586	rot (of stone or wood) (v)	tsɛm-	ts ɛ m
+184	Bahing	the stick	122755	1295	586	wood (n)	siŋ	s i ŋ
+185	Bahing	the stick	121921	1295	586	stick, stick together, (v)	khrim-	kh r i m
+186	Bahing	the stick	121823	1295	586	stick (n)	koktso	k o k ts o
+187	Bahing	the stone (a piece of)	122741	857	379	stone (n)	luŋ	l u ŋ
+188	Bahing	the sun	122334	1343	2	sunshine (n)	nam	n a m
+189	Bahing	the tail	122579	1220	267	tail (n)	meːri	m eː r i
+190	Bahing	the thunder	122414	1150	8	thunder, lightning strike (n)	preŋ	p r e ŋ
+191	Bahing	the tiger	122581	846	304	tiger (n)	mɛːma	m ɛː m a
+192	Bahing	the tongue	122711	1205	139	tongue (n)	lɛm	l ɛ m
+193	Bahing	the tooth (front)	121938	1380	137	tooth (n)	khly	kh l y
+194	Bahing	the tree	122724	906	372	tree, Alstonia sp. (n df.)	wai-lasiŋ	w a i l a s i ŋ
+195	Bahing	the tree	122809	906	372	tree, Lyonia ovalifolia (n df.)	sasima	s a s i m a
+196	Bahing	the tree	122592	906	372	tree, Bœhmeria platyphylla (n df.)	mɔksɔrɔŋma	m ɔ ks ɔ r ɔ ŋ m a
+197	Bahing	the tree	122114	906	372	tree, Schima wallichii (n df.)	tsoːsiŋ	ts oː s i ŋ
+198	Bahing	the tree	122065	906	372	tree, Eurya acuminata (n df.)	tsɛksiŋ	ts ɛ ks i ŋ
+199	Bahing	the tree	122137	906	372	tree, Nep. sahaj (n df.)	dzindam	d z i n d a m
+200	Bahing	the tree	121918	906	372	tree (n df.)	khysiŋ	kh y s i ŋ
+201	Bahing	the tree	122264	906	372	tree (n)	dɛksi	d ɛ ks i
+202	Bahing	the tree	122295	906	372	tree (n)	dhɛksi	dh ɛ ks i
+203	Bahing	the tree	122364	906	372	tree (n df.)	piːpi	p iː p i
+204	Bahing	the tree	122569	906	372	tree (n df.)	midzhim	m i d zh i m
+205	Bahing	the tree	122816	906	372	tree (n df.)	sɔːnam	s ɔː n a m
+206	Bahing	the tree	122808	906	372	tree, Shorea robusta (n df.)	salam	s a l a m
+207	Bahing	the tree	122814	906	372	tree, Nep. Harrā (n df.)	sɔksi	s ɔ ks i
+208	Bahing	the tree	122584	906	372	tree, Callicarpa arborea (n df.)	makysi	m a k y s i
+209	Bahing	the tree	122140	906	372	tree, Bauhinia variegata (n)	dzisi, dzhisi	dzisi, dzhisi
+210	Bahing	the tree	122523	906	372	tree (?= broŋk Berchemia floribunda) (n df.)	brymsi	b r y ms i
+211	Bahing	the tree	122562	906	372	tree, Nep mowa (n df.)	ʔbokto	ʔ b o k t o
+212	Bahing	the tree	122865	906	372	tree, Nep. paḍ, bark (?) used to make tumplines (n df.)	hipsi	h i ps i
+213	Bahing	the tree	122390	906	372	tree, Bauhinia purpurea (n df.)	pɔkɔksi	p ɔ k ɔ ks i
+214	Bahing	the tree	122105	906	372	tree, Nep. kābro (n df.)	tsoktsi	ts o k ts i
+215	Bahing	the tree	122172	906	372	tree, Bokehmeria rugulosa (n df.)	dzhɔːsiŋ	d zh ɔː s i ŋ
+216	Bahing	the tree	122107	906	372	tree, Engelhardtia spicata (n df.)	tsokʔbale	ts o k ʔ b a l e
+217	Bahing	the water	121797	948	47	water (baby talk) (n)	kaku, kaːku	kaku, kaːku
+218	Bahing	the water	122559	948	47	water (n)	ʔbɔːky	ʔ b ɔː k y
+219	Bahing	the wind	122156	960	9	wind (n)	dzu	d z u
+220	Bahing	the woman	122571	962	174	woman (n)	mintsa	m i n ts a
+221	Bahing	the year	122241	1226	777	year (bound m)	-tho	th o
+222	Bahing	thick	122192	1244	980	thick (v)	tan-	t a n
+223	Bahing	thin (object)	122671	2307	981	thin (v)	rœm-	r œ m
+224	Bahing	thou [second person singular]	121972	1215	931	you (du.); we (di) (pron)	gøsi	g ø s i
+225	Bahing	thou [second person singular]	121973	1215	931	you (pl.) (pron)	gøni	g ø n i
+226	Bahing	thou [second person singular]	121970	1215	931	you (sg.) (pron)	gø	g ø
+227	Bahing	thou [second person singular]	121828	1215	931	you (pron)	koŋ	k o ŋ
+228	Bahing	three	122799	492	799	three (num)	sam	s a m
+229	Bahing	to be alive	122769	1422	1087	alive (with pronoun prefix) (adj)	seli	s e l i
+230	Bahing	to be alive	122528	1422	1087	live (v)	blœn-	b l œ n
+231	Bahing	to bite	121862	1403	1753	bite (v)	krat-	k r a t
+232	Bahing	to blow (of wind)	121873	175	1738	blow (of wind) (v)	khitt-	kh i tt
+233	Bahing	to blow (of wind)	122616	175	1738	blow (vt)	mytt-	m y tt
+234	Bahing	to burn [intransitive]	121777	1428	1269	burn (of food) (vi)	kik-	k i k
+235	Bahing	to burn [intransitive]	122289	1428	1269	burn (v)	dyp-	d y p
+236	Bahing	to burn [intransitive]	122901	1428	1269	burn (vi)	hø-	h ø
+237	Bahing	to buy	122147	1869	1516	buy (vt)	dzap-	d z a p
+238	Bahing	to chew	122339	321	1424	chew (vt)	nɔk-	n ɔ k
+239	Bahing	to come	122009	1446	1491	exit, come or go out, cross a river (vi)	gluŋ-	g l u ŋ
+240	Bahing	to come	122355	1446	1491	come (on the same level) (vi)	pi-	p i
+241	Bahing	to come	122662	1446	1491	come, ? come back (vi)	ra-	r a
+242	Bahing	to come	122171	1446	1491	arrive (vi)	dz(h)ɔk-	d z ɔ k
+243	Bahing	to count	122861	1420	1640	count (vt)	hik-	h i k
+244	Bahing	to cry (weep)	122042	1839	1485	weep (vi)	ŋɔk-	ŋ ɔ k
+245	Bahing	to cry (weep)	122511	1839	1485	shout, cry (also of an animal) (v.)	bret-	b r e t
+246	Bahing	to die	122789	1494	1651	kill (vt)	sat-	s a t
+247	Bahing	to die	122475	1494	1651	die (v)	bɛk-	b ɛ k
+248	Bahing	to die	122870	1494	1651	die (v)	hett-	h e tt
+249	Bahing	to dig	122454	1418	1698	dig (? what) (v)	phynt-	ph y n t
+250	Bahing	to drink	121797	1401	1370	water (baby talk) (n)	kaku, kaːku	kaku, kaːku
+251	Bahing	to drink	122559	1401	1370	water (n)	ʔbɔːky	ʔ b ɔː k y
+252	Bahing	to eat	122546	1336	1198	eat (except for cooked grain or soup) (vt)	ʔba-	ʔ b a
+253	Bahing	to eat	122145	1336	1198	eat (vi)	dza-	d z a
+254	Bahing	to eat	122895	1336	1198	eat (soup, etc.) (vt)	hœpt-	h œ p t
+255	Bahing	to eat	121891	1336	1198	eat (curries, not grain) (vt)	khamd-	kh a m d
+256	Bahing	to fight	122608	1423	1234	fight (v)	mø-	m ø
+257	Bahing	to fly (move through air)	122479	1441	1318	fly (v)	bɛr-	b ɛ r
+258	Bahing	to fly (move through air)	122842	1441	1318	fly (n df.)	søima	s ø i m a
+259	Bahing	to forget	122424	1523	1704	forget (vt)	plɛnd-	p l ɛ n d
+260	Bahing	to give	121776	1447	1345	birth, give (vt)	kik-	k i k
+261	Bahing	to give	121943	1447	1345	give, permit (vt)	gi-	g i
+262	Bahing	to hear	122023	1408	1682	hear, listen (v)	ŋin-	ŋ i n
+263	Bahing	to hide (conceal)	121941	602	1169	hide (oneself) (vr)	khlys-	kh l y s
+264	Bahing	to hide (conceal)	121940	602	1169	hide (vt)	khlytt-	kh l y tt
+265	Bahing	to hold	122169	1448	1709	catch, hold (vt)	dzhatt-	d zh a tt
+266	Bahing	to hunt	122124	1435	1230	chase (vt)	tsytt-	ts y tt
+267	Bahing	to hunt	121916	1435	1230	drive (cattle) (vt)	khyl-	kh y l
+268	Bahing	to kill	122789	1417	1602	kill (vt)	sat-	s a t
+269	Bahing	to knead	122345	274	1594	knead, trample mud or (vt)	nok-	n o k
+270	Bahing	to know (something)	122777	1410	1398	know, recognize (vt)	sɛnt-	s ɛ n t
+271	Bahing	to know (something)	122154	1410	1398	know (v)	dzok-	d z o k
+272	Bahing	to know (something)	122217	1410	1398	know (vt)	tutt-	t u tt
+273	Bahing	to laugh	122645	1355	1735	laugh (vr)	ris-	r i s
+274	Bahing	to learn	122067	504	1742	learn (vr)	tsɛs-, tsɛis-, tsɛĩs-	tsɛs-, tsɛis-, tsɛĩs-
+275	Bahing	to lick	122214	319	1674	lick (v)	tuk-	t u k
+276	Bahing	to lie down	122004	215	1661	lie down, recline (vi)	gles-	g l e s
+277	Bahing	to plant (vegetals, rice)	121926	1486	1774	plant or drive a stake (vt)	khruk-	kh r u k
+278	Bahing	to plant (vegetals, rice)	122183	1486	1774	plant (vt)	tɛmt-	t ɛ m t
+279	Bahing	to play	122088	1413	1703	play (vr)	tsams-	ts a ms
+280	Bahing	to play	122450	1413	1703	play (cymbals) (vt)	phokt-	ph o k t
+281	Bahing	to pull	122827	1455	1568	pull, drag (esp. by the nape) (v)	sœl-	s œ l
+282	Bahing	to push	122324	1452	1689	push (v)	nɛpt-	n ɛ p t
+283	Bahing	to reside (live)	122528	1099	1452	live	blœn-	b l œ n
+284	Bahing	to run	121707	1519	1544	run (v)	œn-	œ n
+285	Bahing	to scratch	122552	1436	1530	scratch (oneself) (vr)	ʔbams-	ʔ b a ms
+286	Bahing	to scratch	122864	1436	1530	scrape, whittle, peel off strips of bamboo (vt)	hip-	h i p
+287	Bahing	to scratch	122551	1436	1530	scratch (vt)	ʔbapt-	ʔ b a p t
+288	Bahing	to scratch	121902	1436	1530	scrape, shave, shear, cultivate (vt)	khœr-	kh œ r
+289	Bahing	to scratch	122516	1436	1530	claw, scratch (vt)	bramt-	b r a m t
+290	Bahing	to shoot (an arrow)	121698	1172	1611	shoot, throw a projectile (vt)	ap-	a p
+291	Bahing	to shoot (an arrow)	122436	1172	1611	shoot (vt)	phɛktso	ph ɛ k ts o
+292	Bahing	to shoot (an arrow)	122701	1172	1611	sprout (n)	lim	l i m
+293	Bahing	to sleep	121682	1585	1646	sleep (v)	ip-	i p
+294	Bahing	to sleep	122004	1585	1646	lie down, recline (vi)	gles-	g l e s
+295	Bahing	to sow (broadcast, scatter seeds)	121755	748	1597	seed (n)	waːtser	w aː ts e r
+296	Bahing	to spit	121930	1440	1688	spit, saliva (n)	khlɔkti	kh l ɔ k t i
+297	Bahing	to spit	122206	1440	1688	saliva, spit (n)	toksi	t o ks i
+298	Bahing	to spit	122178	1440	1688	spit, empty the mouth of spit (v)	te-	t e
+299	Bahing	to stand	122664	1442	1784	stand (vr)	rap-	r a p
+300	Bahing	to stand	122665	1442	1784	stand (vr)	raps-	r a ps
+301	Bahing	to steal	121845	713	1686	steal (v)	ky-	k y
+302	Bahing	to throw	122466	1456	1687	throw (esp. stones at so.) (vt)	phlɛmt-	ph l ɛ m t
+303	Bahing	to vomit	122573	1278	1535	vomit (v)	me-	m e
+304	Bahing	to vomit	122574	1278	1535	vomit (n)	metɔŋ khli	metɔŋ khli
+305	Bahing	to walk	122254	1443	1815	go (vi)	di-	d i
+306	Bahing	to walk	121967	1443	1815	walk (vi)	gɔk-	g ɔ k
+307	Bahing	to wipe	122429	1454	1163	sweep, wipe (vt)	phik-	ph i k
+308	Bahing	today	121694	1283	738	today (adv)	ana	a n a
+309	Bahing	tomorrow	122260	1329	742	tomorrow (adv)	dilla	d i ll a
+310	Bahing	two	122307	1498	798	two (num)	niksi	n i ks i
+311	Bahing	wet	122611	1726	1029	get wet, soaked (v)	møt-	m ø t
+312	Bahing	wet	122166	1726	1029	get wet (vr)	dz(h)is-	d z i s
+313	Bahing	white	122497	1335	1006	white (adj)	bubu(m)	b u b u
+314	Bahing	who	122850	1235	953	who? (interr)	sy	s y
+315	Bahing	yellow	121706	1424	1008	yellow (n)	ɔm-ɔm	ɔ m ɔ m
+316	Bahing	yellow	121708	1424	1008	yellow (of plants) (v)	om-	o m
+317	Bahing	yesterday	122788	1174	739	yesterday (adv)	sãːti	s ãː t i
