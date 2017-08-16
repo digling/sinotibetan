@@ -1,4 +1,34 @@
 {
+  "Bunan": {
+    "entries": 0,
+    "number_of_entries_in_source": 242,
+    "coverage": 0,
+    "taxon_id_in_source": "",
+    "concepts": 0,
+    "iso": "",
+    "taxon_name_in_source": "",
+    "taxon_name": "",
+    "classification": "???",
+    "source": "Widmer2014",
+    "url": "",
+    "subgroup": "",
+    "taxon_short_name": ""
+  },
+  "Hakha_Chin": 
+    "entries": 0,
+    "number_of_entries_in_source": 905,
+    "coverage": 72,
+    "taxon_id_in_source": "",
+    "concepts": 180,
+    "iso": "",
+    "taxon_name_in_source": "",
+    "taxon_name": "",
+    "classification": "Kuki-Chin",
+    "source": "VanBik2014",
+    "url": "",
+    "subgroup": "Kuki-Chin",
+    "taxon_short_name": ""
+  },
   "Wenzhou": {
     "entries": 195,
     "number_of_entries_in_source": 905,

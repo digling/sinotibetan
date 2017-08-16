@@ -31,14 +31,14 @@ mcon = stdb_concepts()
 
 txt1 = ''
 concepts = sorted(set([db[k,'concept'] for k in db]))
-preselected_taxa="""Bai_Jianchuan|Bokar|Daofu|Darang_Taraon|Dulong|Japhug|Jingpho|Khaling|Limbu|Lisu|Motuo_Menba|Naxi|Old_Burmese|Old_Chinese|Pumi_Lanping|Qiang_Mawo|rGyalrong_Maerkang|Tibetan_Written|Tujia|Yidu|Xumi|Lyuzu|Zhaba_Daofu_County""".split('|')
+preselected_taxa="""Bahing|Lushai|Bantawa|Byangsi|Rongpo|Bunan|Bokar|Daofu|Darang_Taraon|Dulong|Japhug|Jingpho|Khaling|Limbu|Lisu|Motuo_Menba|Old_Burmese|Old_Chinese|rGyalrong_Maerkang|Old_Tibetan|Yidu|Zhaba_Daofu_County|Wobzi_Khroskyabs|Chepang|Garo|Thulung|Tibetan_Alike|Tibetan_Batang|Tibetan_Lhasa|Tibetan_Xiahe|Hakha_Chin|Kulung|Achang_Longchuan|Atsi|Bola|Lashi|Maru|Rangoon|Xiandao""".split('|')
 visited = []
 for c in concepts:
     visited += [c]
     # determine coverage
     cov = len([db[k,'concept'] for k in db if db[k,'concept'] == c])
     print('Analysed concept {0}'.format(c))
-    if c in mcon:
+    if c in mcon and int(mcon[c]['rank']) < 227:
         txt1 += '<option value="'+c+'" selected>'+c+' ('+str(cov)+' entries)</option>'
     else:
         txt1 += '<option value="'+c+'">'+c+' ('+str(cov)+' entries)</option>'
@@ -62,8 +62,8 @@ for k in langs:
 
 txt3 = ''
 
-header = ['doculect', 'borrowing', 'chinese', 'cogid', 'concept', 'ipa',
-        'tokens', 'note', 'hanzi']
+header = ['doculect', 'borrowing', 'chinese', 'cogid', 'cogids', 'concept', 'ipa',
+        'tokens', 'note', 'hanzi', 'gloss_in_source', 'morpheme_structure']
 for col in sorted(db.header, key=lambda x: db.header[x]):
     if col in header:
         txt3 += '<option value="'+col.upper()+'" selected>'+col.upper()+'</option>'
